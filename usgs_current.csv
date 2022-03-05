@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-05T23:23:14.340Z,38.8264999,-122.8551636,2.59,1.57,md,30,62,0.001695,0.02,nc,nc73701826,2022-03-05T23:24:51.144Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.4,0.06,7,automatic,nc,nc
+2022-03-05T23:35:35.460Z,38.8260002,-122.8563309,2.6,1.19,md,20,64,0.0016,0.01,nc,nc73701836,2022-03-05T23:37:11.235Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.5,0.15,5,automatic,nc,nc
+2022-03-05T23:32:25.320Z,38.8421669,-122.8759995,2.33,0.39,md,9,86,0.006156,0.01,nc,nc73701831,2022-03-05T23:34:01.136Z,"13km NW of The Geysers, CA",earthquake,0.39,0.71,0.23,3,automatic,nc,nc
+2022-03-05T23:23:14.340Z,38.8264999,-122.8551636,2.59,1.57,md,30,62,0.001695,0.02,nc,nc73701826,2022-03-05T23:31:10.781Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.4,0.06,7,automatic,nc,nc
 2022-03-05T23:23:07.480Z,19.1548328399658,-155.476669311523,33.3600006103516,1.85000002,md,36,139,,0.170000002,hv,hv72939332,2022-03-05T23:26:23.520Z,"5 km S of Pāhala, Hawaii",earthquake,0.65,0.870000005,1.13999999,8,automatic,hv,hv
-2022-03-05T23:19:03.680Z,38.8268318,-122.8554993,2.58,1.82,md,33,79,0.001288,0.03,nc,nc73701821,2022-03-05T23:22:00.186Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.4,0.07,10,automatic,nc,nc
+2022-03-05T23:19:03.680Z,38.8268318,-122.8554993,2.58,1.82,md,33,79,0.001288,0.03,nc,nc73701821,2022-03-05T23:27:10.758Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.4,0.07,10,automatic,nc,nc
+2022-03-05T23:14:00.590Z,17.9456666666667,-66.8975,11.01,2.12,md,4,214,,0.18,pr,pr71339168,2022-03-05T23:32:09.110Z,"3 km SSE of Guánica, Puerto Rico",earthquake,3.56,1.08,0.136427168051906,3,reviewed,pr,pr
 2022-03-05T23:11:45.994Z,63.2665,-149.4711,83.4,2,ml,,,,0.64,ak,ak0222y85mur,2022-03-05T23:25:14.184Z,"29 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-05T22:56:22.190Z,38.8071671,-122.7926636,3.38,0.66,md,20,61,0.002212,0.02,nc,nc73701811,2022-03-05T23:17:24.699Z,"5km NW of The Geysers, CA",earthquake,0.25,0.61,0.43,3,automatic,nc,nc
 2022-03-05T22:52:16.470Z,34.0211678,-117.6938324,14.66,1.86,ml,16,105,0.1782,0.26,ci,ci40200400,2022-03-05T22:56:01.972Z,"1km NNW of Chino, CA",earthquake,0.75,1.6,0.506,4,automatic,ci,ci
