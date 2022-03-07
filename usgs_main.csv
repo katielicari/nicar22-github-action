@@ -718,3 +718,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T23:35:48.420Z,35.6466667,-117.6038333,7.8,0.84,ml,12.0,116.0,0.1278,0.12,ci,ci40201016,2022-03-06T23:39:19.999Z,"7km ENE of Ridgecrest, CA",earthquake,0.39,1.49,0.173,11.0,automatic,ci,ci
 2022-03-06T23:34:52.179Z,62.0002,-151.5238,76.2,1.4,ml,,,,0.53,ak,ak0222zvtxdl,2022-03-06T23:40:56.884Z,"6 km W of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-06T23:10:58.759Z,31.6702,-104.331,5.0,2.7,ml,,68.0,0.144,1.0,us,us6000h2m9,2022-03-06T23:39:25.040Z,"56 km S of Whites City, New Mexico",earthquake,0.8,1.9,0.044,68.0,reviewed,us,us
+2022-03-07T00:17:39.580Z,34.0023346,-117.2113342,14.55,1.66,ml,49.0,87.0,0.06349,0.18,ci,ci40201032,2022-03-07T00:19:50.595Z,"6km SSW of Redlands, CA",earthquake,0.27,0.54,0.41,5.0,automatic,ci,ci
+2022-03-07T00:11:05.063Z,65.3405,-148.0416,5.7,1.2,ml,,,,0.77,ak,ak022315j9u0,2022-03-07T00:17:30.943Z,"31 km SE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-06T23:56:18.033Z,51.2856,100.2288,10.0,4.4,mb,,42.0,2.171,0.65,us,us6000h2md,2022-03-07T00:14:15.040Z,"38 km SW of Turt, Mongolia",earthquake,6.9,1.4,0.08,45.0,reviewed,us,us
+2022-03-06T22:53:26.470Z,38.7958333,-122.7623333,1.25,0.56,md,12.0,116.0,0.005205,0.02,nc,nc73702231,2022-03-07T00:17:23.088Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.34,0.191,3.0,reviewed,nc,nc
