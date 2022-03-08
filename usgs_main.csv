@@ -1214,3 +1214,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T19:09:04.950Z,38.7981682,-122.7498322,1.65,1.23,md,23.0,133.0,0.0081,0.05,nc,nc73702951,2022-03-08T19:19:10.996Z,"2km NNE of The Geysers, CA",earthquake,0.3,0.39,0.07,6.0,automatic,nc,nc
 2022-03-08T18:44:43.576Z,52.2232,-170.0498,27.4,3.4,ml,,,,0.62,ak,ak022333zpje,2022-03-08T19:11:52.305Z,"113 km SW of Nikolski, Alaska",earthquake,,2.1,,,reviewed,ak,ak
 2022-03-08T07:54:58.560Z,48.7775,-121.83133333333332,29.39,0.73,md,6.0,230.0,0.04684,0.09,uw,uw61820746,2022-03-08T19:21:14.270Z,"15 km SE of Glacier, Washington",earthquake,0.79,1.02,0.1808609409956396,7.0,reviewed,uw,uw
+2022-03-08T19:10:29.480Z,17.9426666666667,-66.9548333333333,8.31,1.95,md,4.0,223.0,,0.07,pr,pr71339543,2022-03-08T19:33:17.640Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.61,1.28,0.0853635773294439,3.0,reviewed,pr,pr
+2022-03-08T19:08:05.601Z,-30.4823,-177.1561,10.0,5.0,mb,,69.0,1.385,0.7,us,us6000h34m,2022-03-08T19:34:17.040Z,"Kermadec Islands, New Zealand",earthquake,8.8,1.8,0.071,68.0,reviewed,us,us
