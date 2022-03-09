@@ -1468,3 +1468,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T22:49:51.530Z,44.6945,-110.0155,13.99,0.74,md,6.0,97.0,0.07643,0.06,uu,uu60484887,2022-03-09T16:28:52.010Z,"34 km S of Silver Gate, Montana",earthquake,0.5,1.14,0.307,5.0,reviewed,uu,uu
 2022-03-08T22:21:05.560Z,33.0591667,-114.9946667,-0.2,1.25,ml,9.0,84.0,0.08782,0.23,ci,ci40202624,2022-03-09T16:14:24.091Z,"45km NE of Holtville, CA",quarry blast,0.76,31.61,0.146,5.0,reviewed,ci,ci
 2022-03-08T21:24:29.120Z,39.4161667,-110.3063333,-2.35,1.54,md,6.0,198.0,0.01656,0.11,uu,uu60484877,2022-03-09T16:22:40.140Z,"16 km SSE of Sunnyside, Utah",earthquake,1.03,2.41,0.21,6.0,reviewed,uu,uu
+2022-03-09T16:58:33.836Z,64.4215,-147.4278,16.1,0.9,ml,,,,0.42,ak,ak02234qf1fo,2022-03-09T17:01:45.055Z,"27 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-09T16:53:49.260Z,34.1453333,-117.4271667,5.4,1.0,ml,17.0,91.0,0.1163,0.19,ci,ci40203384,2022-03-09T16:57:22.498Z,"6km NNE of Fontana, CA",earthquake,0.55,1.96,0.192,19.0,automatic,ci,ci
+2022-03-09T16:43:52.533Z,64.7441,-147.7543,27.1,0.6,ml,,,,0.96,ak,ak02234qbv3p,2022-03-09T16:59:08.537Z,"7 km SSE of South Van Horn, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-09T16:32:22.006Z,56.615,-152.1622,0.0,3.5,ml,,,,0.75,ak,ak02234q9fy0,2022-03-09T16:44:01.925Z,"95 km SE of Old Harbor, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-09T16:30:14.969Z,-60.6957,-25.965,10.0,5.5,mb,,78.0,8.561,0.71,us,us6000h3b9,2022-03-09T16:53:52.188Z,South Sandwich Islands region,earthquake,10.0,1.9,0.055,113.0,reviewed,us,us
+2022-03-09T13:33:28.030Z,35.19,-118.699,7.75,1.09,ml,33.0,48.0,0.04182,0.16,ci,ci40203280,2022-03-09T16:54:37.485Z,"12km E of Arvin, CA",earthquake,0.16,0.37,0.135,14.0,reviewed,ci,ci
+2022-03-09T07:21:06.760Z,36.0095,-117.8095,1.49,0.72,ml,17.0,73.0,0.02696,0.12,ci,ci40203128,2022-03-09T16:39:39.244Z,"12km NE of Little Lake, CA",earthquake,0.16,0.2,0.305,8.0,reviewed,ci,ci
+2022-03-09T05:43:35.180Z,39.4221667,-110.3116667,-1.85,1.63,ml,8.0,195.0,0.01058,0.13,uu,uu60484927,2022-03-09T16:36:08.140Z,"15 km SSE of Sunnyside, Utah",earthquake,1.17,0.92,0.089,3.0,reviewed,uu,uu
