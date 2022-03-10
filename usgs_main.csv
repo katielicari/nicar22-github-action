@@ -1756,3 +1756,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T15:25:10.420Z,39.416,-110.2908333,-3.41,1.69,md,7.0,202.0,0.02775,0.15,uu,uu60485087,2022-03-10T16:17:52.700Z,"17 km SSE of Sunnyside, Utah",earthquake,1.55,3.45,0.238,6.0,reviewed,uu,uu
 2022-03-10T12:09:30.650Z,47.4241667,-113.0953333,13.6,0.91,ml,11.0,110.0,0.327,0.2,mb,mb80540079,2022-03-10T16:39:26.020Z,"40 km NE of Seeley Lake, Montana",earthquake,0.57,1.13,0.131,3.0,reviewed,mb,mb
 2022-03-10T08:30:47.230Z,41.0741667,-111.5661667,5.7,1.01,md,6.0,215.0,0.2111,0.16,uu,uu60485077,2022-03-10T16:16:17.790Z,"8 km NW of Henefer, Utah",earthquake,1.52,9.95,0.287,4.0,reviewed,uu,uu
+2022-03-10T17:04:07.470Z,34.0333333,-117.1255,6.68,1.22,ml,34.0,113.0,0.01108,0.26,ci,ci40204352,2022-03-10T17:07:43.181Z,"4km SSE of Mentone, CA",earthquake,0.38,0.79,0.21,27.0,automatic,ci,ci
+2022-03-10T16:50:23.049Z,63.06,-151.483,0.0,1.4,ml,,,,0.88,ak,ak02236dwnc0,2022-03-10T16:53:00.662Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-10T09:46:49.510Z,34.03,-117.156,11.57,0.37,ml,10.0,159.0,0.1801,0.09,ci,ci37490213,2022-03-10T17:03:30.055Z,"4km SE of Redlands, CA",earthquake,0.42,1.93,0.144,4.0,reviewed,ci,ci
