@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-12T11:37:53.990Z,34.2158333,-117.4785,11.5,0.9,ml,19,55,0.1509,0.16,ci,ci40205816,2022-03-12T11:41:32.450Z,"5km SSE of Lytle Creek, CA",earthquake,0.3,1.19,0.206,16,automatic,ci,ci
 2022-03-12T10:59:26.100Z,19.2391662597656,-155.399993896484,32.310001373291,1.92,ml,38,141,,0.129999995,hv,hv72947727,2022-03-12T11:04:56.430Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.720000029,4.18,3,automatic,hv,hv
 2022-03-12T10:51:23.370Z,35.8715,-117.6768333,5.28,0.83,ml,11,87,0.07921,0.16,ci,ci40205800,2022-03-12T10:54:54.178Z,"22km ESE of Little Lake, CA",earthquake,0.45,1.78,0.073,10,automatic,ci,ci
 2022-03-12T10:36:23.550Z,38.7781677,-122.7681656,0.75,0.46,md,10,122,0.007672,0.03,nc,nc73704651,2022-03-12T10:53:18.220Z,"1km W of The Geysers, CA",earthquake,0.41,0.63,0.4,2,automatic,nc,nc
@@ -227,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T11:45:56.470Z,46.905,-112.6331667,13.57,2.3,ml,11,107,0.021,0.15,mb,mb80540229,2022-03-11T17:10:37.640Z,"6 km SSE of Lincoln, Montana",earthquake,0.7,0.81,0.359,7,reviewed,mb,mb
 2022-03-11T11:45:54.970Z,46.8888333,-112.6543333,12.55,1.94,ml,11,111,0.023,0.12,mb,mb80540224,2022-03-11T17:10:26.540Z,"7 km SSE of Lincoln, Montana",earthquake,0.64,0.64,0.173,5,reviewed,mb,mb
 2022-03-11T11:44:59.460Z,46.8901,-112.6481,13.94,2.8,ml,,70,0.065,0.24,us,us6000h3uh,2022-03-12T06:34:08.040Z,"7 km SSE of Lincoln, Montana",earthquake,1.4,2.3,0.105,12,reviewed,us,us
-2022-03-11T11:43:51.433Z,46.8997,-112.6781,11.23,3.2,ml,,56,0.157,0.59,us,us6000h3rx,2022-03-11T21:54:58.700Z,"6 km S of Lincoln, Montana",earthquake,2.2,8.5,0.042,73,reviewed,us,us
