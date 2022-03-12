@@ -2311,3 +2311,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T19:33:00.438Z,62.9243,-150.8667,32.6,1.6,ml,,,,1.21,ak,ak02239qny7v,2022-03-12T19:35:18.996Z,"47 km N of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-12T19:32:49.610Z,36.107,-117.9246667,2.54,0.88,ml,10.0,214.0,0.0575,0.1,ci,ci40206120,2022-03-12T19:36:23.334Z,"7km NNE of Coso Junction, CA",earthquake,0.55,0.27,0.178,7.0,automatic,ci,ci
 2022-03-12T19:25:24.560Z,19.4536666870117,-155.496337890625,3.04999995231628,1.7,ml,32.0,83.0,,0.280000001,hv,hv72948052,2022-03-12T19:30:54.710Z,"27 km W of Volcano, Hawaii",earthquake,0.55,1.00999999,3.8,5.0,automatic,hv,hv
+2022-03-12T19:46:06.124Z,59.7392,-150.4554,31.9,1.8,ml,,,,0.59,ak,ak02239qqqys,2022-03-12T19:48:19.724Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
