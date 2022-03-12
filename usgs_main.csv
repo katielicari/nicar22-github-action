@@ -2272,3 +2272,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T13:50:28.198Z,38.1587,-118.0309,1.5,1.6,ml,14.0,118.53,0.054,0.1953,nn,nn00835258,2022-03-12T13:54:17.181Z,"26 km SSE of Mina, Nevada",earthquake,,0.8,0.34,11.0,automatic,nn,nn
 2022-03-12T14:13:58.300Z,19.2078342437744,-155.444671630859,33.5299987792969,1.85000002,md,36.0,148.0,,0.150000006,hv,hv72947867,2022-03-12T14:17:06.340Z,"Hawaii region, Hawaii",earthquake,0.57,0.720000029,1.63,6.0,automatic,hv,hv
 2022-03-12T14:05:58.711Z,38.263,-118.3595,9.7,1.5,ml,17.0,111.4,0.115,0.1593,nn,nn00835261,2022-03-12T14:09:46.459Z,"26 km WSW of Mina, Nevada",earthquake,,0.5,0.19,11.0,automatic,nn,nn
+2022-03-12T14:28:34.440Z,60.9115,-151.0458,11.2,1.7,ml,,,,0.71,ak,ak02239nns94,2022-03-12T14:31:23.100Z,"18 km SSE of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
