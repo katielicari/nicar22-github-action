@@ -2200,3 +2200,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T03:02:47.880Z,38.8168333,-122.7608333,2.18,0.21,md,16.0,117.0,0.01535,0.03,nc,nc73704506,2022-03-12T05:28:11.107Z,"3km W of Cobb, CA",earthquake,0.24,0.48,0.258,4.0,reviewed,nc,nc
 2022-03-12T02:51:46.650Z,37.4906667,-118.8471667,4.29,0.57,md,9.0,126.0,0.1002,0.02,nc,nc73704501,2022-03-12T05:24:10.087Z,"17km WSW of Toms Place, CA",earthquake,0.79,1.96,0.276,9.0,reviewed,nc,nc
 2022-03-11T17:58:18.644Z,-39.8787,177.0968,2.88,3.4,ml,,109.0,1.031,0.81,us,us6000h3yp,2022-03-12T05:29:42.797Z,"34 km SE of Hastings, New Zealand",earthquake,4.2,10.6,0.085,18.0,reviewed,us,us
+2022-03-11T23:33:57.660Z,38.8263333,-122.7991667,3.4,0.42,md,21.0,43.0,0.009011,0.03,nc,nc73704436,2022-03-12T05:42:15.192Z,"7km NW of The Geysers, CA",earthquake,0.26,0.55,0.15,3.0,reviewed,nc,nc
