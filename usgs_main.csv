@@ -2420,3 +2420,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T08:13:23.920Z,46.6088333129883,-119.84033203125,5.92000007629395,2.32999992,md,19.0,106.0,,0.0700000003,uw,uw61822226,2022-03-13T08:16:26.440Z,"9 km SE of Desert Aire, Washington",earthquake,0.64,0.25,0.0299999993,4.0,automatic,uw,uw
 2022-03-13T03:39:26.060Z,18.8268,-64.7276,49.0,3.88,md,14.0,329.0,0.76,0.43,pr,pr2022072000,2022-03-13T08:23:05.421Z,Virgin Islands,earthquake,5.06,8.74,0.08,11.0,reviewed,pr,pr
 2022-03-13T08:48:48.418Z,64.6309,-150.3617,4.9,1.2,ml,,,,1.16,ak,ak0223b7qui5,2022-03-13T08:59:17.276Z,"43 km SSE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-13T09:08:05.149Z,46.8647,-112.6486,9.13,2.8,ml,,57.0,0.131,0.61,us,us6000h45m,2022-03-13T09:18:59.040Z,"10 km SSE of Lincoln, Montana",earthquake,3.3,7.8,0.05,53.0,reviewed,us,us
+2022-03-13T09:05:22.030Z,38.8361664,-122.8030014,2.26,0.85,md,9.0,112.0,0.01014,0.02,nc,nc73704981,2022-03-13T09:22:12.995Z,"7km WNW of Cobb, CA",earthquake,0.41,1.26,,1.0,automatic,nc,nc
+2022-03-13T09:00:40.697Z,61.0785,-151.814,79.8,1.0,ml,,,,0.25,ak,ak0223b81z51,2022-03-13T09:10:05.958Z,"36 km W of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
