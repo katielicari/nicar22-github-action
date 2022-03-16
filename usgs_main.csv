@@ -3237,3 +3237,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T07:47:53.403Z,38.1076,-118.7343,0.0,1.3,ml,10.0,214.02,0.231,0.145,nn,nn00835412,2022-03-16T07:51:57.867Z,"36 km ENE of Mono City, California",earthquake,,43.9,0.16,5.0,automatic,nn,nn
 2022-03-16T07:45:17.850Z,38.8218346,-122.8125,3.1,0.84,md,13.0,88.0,0.002453,0.02,nc,nc73706321,2022-03-16T07:46:54.708Z,"7km NW of The Geysers, CA",earthquake,0.37,0.96,,1.0,automatic,nc,nc
 2022-03-16T07:41:07.135Z,61.3648,-150.0747,36.2,1.7,ml,,,,0.65,ak,ak0223g5pv5d,2022-03-16T07:52:26.846Z,"5 km W of Point MacKenzie, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2022-03-16T08:14:43.906Z,63.1377,-150.1773,81.7,1.5,ml,,,,0.32,ak,ak0223g65lae,2022-03-16T08:19:24.274Z,"67 km WSW of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-03-16T07:52:27.286Z,63.365,-150.3816,125.7,1.4,ml,,,,0.32,ak,ak0223g5s9m0,2022-03-16T07:56:32.896Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2022-03-16T07:01:45.110Z,18.0191666666667,-66.6893333333333,11.72,2.07,md,8.0,184.0,,0.16,pr,pr71340388,2022-03-16T08:12:39.100Z,"3 km SSE of Tallaboa Alta, Puerto Rico",earthquake,0.45,0.6,0.228038238570803,6.0,reviewed,pr,pr
