@@ -3979,3 +3979,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T04:09:08.544Z,38.1852,-117.7826,10.5,1.7,ml,15.0,119.87,0.123,0.1686,nn,nn00835549,2022-03-18T21:05:55.757Z,"36 km SE of Mina, Nevada",earthquake,,1.6,0.21,7.0,reviewed,nn,nn
 2022-03-17T23:44:25.260Z,60.032,-153.096166666667,-1.17,0.79,ml,5.0,162.0,,0.04,av,av91515416,2022-03-18T20:56:39.870Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.28,0.78,0.323555041632246,6.0,reviewed,av,av
 2022-03-17T21:38:20.110Z,59.9985,-153.0865,0.76,-1.09,ml,4.0,129.0,,0.04,av,av91515366,2022-03-18T20:50:33.840Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.3,1.4,0.19971233398539,4.0,reviewed,av,av
+2022-03-18T21:13:35.930Z,38.8136673,-122.8258362,2.24,0.38,md,14.0,62.0,0.005457,0.02,nc,nc73707396,2022-03-18T21:15:12.599Z,"7km NW of The Geysers, CA",earthquake,0.29,0.64,0.32,2.0,automatic,nc,nc
+2022-03-18T21:11:07.190Z,33.6255,-116.775,16.12,0.68,ml,26.0,57.0,0.03301,0.18,ci,ci39971623,2022-03-18T21:14:37.263Z,"12km NW of Anza, CA",earthquake,0.44,0.54,0.096,17.0,automatic,ci,ci
+2022-03-18T20:52:50.211Z,61.5931,-151.7525,28.6,1.4,ml,,,,0.81,ak,ak0223joln8d,2022-03-18T21:12:34.854Z,"48 km SSW of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-18T11:47:33.400Z,48.2978333,-113.8791667,4.01,1.29,ml,13.0,246.0,0.444,0.21,mb,mb80540889,2022-03-18T21:14:44.250Z,"15 km SE of Martin City, Montana",earthquake,3.18,2.52,0.285,2.0,reviewed,mb,mb
