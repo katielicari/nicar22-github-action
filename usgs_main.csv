@@ -3801,3 +3801,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T09:38:41.480Z,59.3835,-151.2217,20.0,1.6,ml,,,,0.81,ak,ak0223jhyuvo,2022-03-18T09:40:47.198Z,"23 km S of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-18T09:27:15.960Z,36.0976667,-117.8945,5.48,2.22,ml,27.0,62.0,0.03775,0.17,ci,ci39970959,2022-03-18T09:38:24.880Z,"8km NE of Coso Junction, CA",earthquake,0.25,0.72,0.162,25.0,automatic,ci,ci
 2022-03-18T09:25:44.927Z,38.526,-119.5381,1.2,1.2,ml,9.0,178.33,0.062,0.1811,nn,nn00835589,2022-03-18T09:29:10.428Z,"5 km SSW of Coleville, California",earthquake,,0.7,0.17,7.0,automatic,nn,nn
+2022-03-18T09:47:46.140Z,35.734,-117.56,10.84,1.07,ml,14.0,152.0,0.08708,0.12,ci,ci39970967,2022-03-18T09:51:26.155Z,"15km WSW of Searles Valley, CA",earthquake,0.36,0.59,0.094,11.0,automatic,ci,ci
+2022-03-18T09:44:43.270Z,19.1984996795654,-155.401992797852,31.3099994659424,3.04,ml,52.0,159.0,,0.140000001,hv,hv72954502,2022-03-18T09:50:31.940Z,"8 km E of Pāhala, Hawaii",earthquake,0.46,0.689999998,3.67,33.0,automatic,hv,hv
+2022-03-18T09:40:53.850Z,17.916,-66.96,12.12,1.95,md,5.0,237.0,,0.06,pr,pr71340683,2022-03-18T09:48:55.130Z,"8 km SW of Guánica, Puerto Rico",earthquake,1.54,0.48,0.126218550981149,4.0,reviewed,pr,pr
