@@ -3766,3 +3766,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T06:51:25.850Z,34.3673333,-117.659,10.26,1.33,ml,15.0,178.0,0.02163,0.21,ci,ci39970863,2022-03-18T06:55:04.055Z,"2km WNW of Wrightwood, CA",earthquake,0.59,0.79,0.367,30.0,automatic,ci,ci
 2022-03-18T07:14:37.060Z,33.5505,-116.6758333,6.89,0.66,ml,27.0,48.0,0.0411,0.13,ci,ci39970887,2022-03-18T07:18:15.082Z,"0km SSW of Anza, CA",earthquake,0.17,0.36,0.123,18.0,automatic,ci,ci
 2022-03-18T06:31:32.004Z,13.1602,144.5752,66.5,4.7,mb,,61.0,0.513,0.8,us,us6000h5mp,2022-03-18T07:26:06.579Z,"15 km SW of Merizo Village, Guam",earthquake,10.9,7.5,0.111,25.0,reviewed,us,us
+2022-03-18T07:26:12.920Z,33.4896667,-116.547,8.83,0.53,ml,15.0,81.0,0.06896,0.2,ci,ci39970895,2022-03-18T07:29:40.248Z,"14km ESE of Anza, CA",earthquake,0.45,0.91,0.248,12.0,automatic,ci,ci
+2022-03-18T07:14:05.723Z,19.3037,-65.0115,34.84,4.0,mb,,156.0,1.023,0.58,us,us6000h5mn,2022-03-18T07:30:55.040Z,"106 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,7.1,9.6,0.156,11.0,reviewed,us,us
+2022-03-18T07:04:06.640Z,37.3328333,-121.6915,7.51,1.07,md,18.0,81.0,0.03998,0.05,nc,nc73707111,2022-03-18T07:40:51.210Z,"13km ESE of Alum Rock, CA",earthquake,0.25,0.36,0.197,18.0,reviewed,nc,nc
