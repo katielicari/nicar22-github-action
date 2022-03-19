@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-19T07:33:49.180Z,64.7705,-147.4207,23.7,1,ml,,,,0.75,ak,ak0223l4aa6e,2022-03-19T07:37:49.962Z,"4 km WNW of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-19T07:23:45.270Z,33.199,-116.6021667,17.33,0.54,ml,20,113,0.03782,0.18,ci,ci39972007,2022-03-19T07:27:09.315Z,"10km SSE of Warner Springs, CA",earthquake,0.42,0.61,0.184,10,automatic,ci,ci
 2022-03-19T07:21:28.020Z,33.1985016,-116.6108322,16.79,1.19,ml,46,42,0.03056,0.2,ci,ci39971999,2022-03-19T07:24:54.306Z,"10km SSE of Warner Springs, CA",earthquake,0.3,0.65,0.242,8,automatic,ci,ci
 2022-03-19T06:56:15.340Z,34.7008333,-118.0058333,6.68,0.79,ml,17,46,0.0317,0.14,ci,ci39971991,2022-03-19T06:59:47.144Z,"14km E of Lancaster, CA",earthquake,0.27,0.69,0.128,18,automatic,ci,ci
 2022-03-19T06:53:54.150Z,36.0115013,-120.5709991,2.57,0.9,md,11,112,0.02796,0.04,nc,nc73707591,2022-03-19T07:21:13.640Z,"18km NW of Parkfield, CA",earthquake,0.34,0.72,0.15,3,automatic,nc,nc
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T06:22:21.797Z,37.5957,72.3196,192.84,4.2,mb,,112,1.466,0.58,us,us6000h5z3,2022-03-19T06:51:42.040Z,"68 km E of Khorugh, Tajikistan",earthquake,8.4,8.1,0.124,18,reviewed,us,us
 2022-03-19T06:17:42.430Z,57.8009,-156.1218,110.6,2.2,ml,,,,0.13,ak,ak0223l3lelf,2022-03-19T06:21:09.884Z,"82 km ENE of Ugashik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-19T06:11:35.866Z,38.197,-117.8797,3.3,1.9,ml,16,108.64,0.32,0.298,nn,nn00835642,2022-03-19T06:15:28.657Z,"Nevada",earthquake,,1,0.18,9,automatic,nn,nn
-2022-03-19T06:01:29.960Z,36.9676666,-121.6303329,4.23,2.63,md,68,38,0.0406,0.18,nc,nc73707556,2022-03-19T07:20:49.206Z,"7km SW of Gilroy, CA",earthquake,0.21,0.44,0.16,78,automatic,nc,nc
+2022-03-19T06:01:29.960Z,36.9676666,-121.6303329,4.23,2.63,md,68,38,0.0406,0.18,nc,nc73707556,2022-03-19T07:34:55.634Z,"7km SW of Gilroy, CA",earthquake,0.21,0.44,0.16,78,automatic,nc,nc
 2022-03-19T06:00:58.480Z,36.9695015,-121.6324997,4.44,2.23,md,44,39,0.04283,0.18,nc,nc73707551,2022-03-19T06:25:14.326Z,"7km SW of Gilroy, CA",earthquake,0.26,0.51,0.17,40,automatic,nc,nc
 2022-03-19T05:58:50.040Z,37.4731674,-118.9980011,4.13,1.77,md,13,167,0.1406,0.02,nc,nc73707546,2022-03-19T06:25:13.326Z,"18km S of Mammoth Lakes, CA",earthquake,0.61,2.04,0.12,12,automatic,nc,nc
 2022-03-19T05:58:02.430Z,17.9366666666667,-67.0213333333333,9.71,2.17,md,3,236,,0.02,pr,pr71340828,2022-03-19T06:15:44.940Z,"5 km SSE of La Parguera, Puerto Rico",earthquake,2.61,0.9,0.114856619740067,3,reviewed,pr,pr
@@ -72,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T00:02:48.990Z,38.5181667,-119.5446667,-0.21,2.6,md,21,55,0.05101,0.09,nc,nc73707451,2022-03-19T06:45:14.439Z,"6km W of Walker, CA",earthquake,0.17,0.79,0.234,54,reviewed,nc,nc
 2022-03-18T23:55:26.840Z,33.3166667,-116.7945,8.53,0.9,ml,30,54,0.06792,0.14,ci,ci39971791,2022-03-19T00:22:30.930Z,"8km SE of Palomar Observatory, CA",earthquake,0.18,0.59,0.139,22,reviewed,ci,ci
 2022-03-18T23:41:59.369Z,31.6341,-103.9602,5,2.5,ml,,53,0.274,1.01,us,us6000h5wq,2022-03-19T00:37:26.040Z,"35 km WSW of Mentone, Texas",earthquake,1.8,1.9,0.045,66,reviewed,us,us
-2022-03-18T23:37:45.820Z,39.339,-123.247,5.77,1.82,md,25,57,0.05142,0.08,nc,nc73707446,2022-03-19T06:46:11.443Z,"9km NNW of Redwood Valley, CA",earthquake,0.17,0.43,0.118,21,reviewed,nc,nc
+2022-03-18T23:37:45.820Z,39.339,-123.247,5.77,1.82,md,25,57,0.05142,0.08,nc,nc73707446,2022-03-19T07:28:12.683Z,"9km NNW of Redwood Valley, CA",earthquake,0.17,0.43,0.118,21,reviewed,nc,nc
 2022-03-18T23:32:14.450Z,33.3395,-115.7931667,2.66,1.38,ml,41,73,0.05183,0.12,ci,ci39971767,2022-03-19T00:09:19.050Z,"6km WSW of Bombay Beach, CA",earthquake,0.19,0.41,0.145,22,reviewed,ci,ci
 2022-03-18T23:19:39.467Z,31.61114087,-103.9577823,7.005639647999999,3.1,ml,13,64,0.1112841629,0.2,tx,tx2022fkqk,2022-03-19T00:13:15.040Z,"35 km WSW of Mentone, Texas",earthquake,1.119421612,1.50815079,0.2,9,reviewed,tx,tx
 2022-03-18T23:17:29.390Z,36.564167,-121.0958328,6,1.78,md,11,121,0.0475,0.12,nc,nc73707436,2022-03-19T00:34:13.091Z,"6km NE of Pinnacles, CA",earthquake,0.48,1.12,0.13,11,automatic,nc,nc
