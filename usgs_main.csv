@@ -4213,3 +4213,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T17:28:03.440Z,38.824501,-122.7655029,2.12,0.93,md,14.0,122.0,0.006885,0.02,nc,nc73707836,2022-03-19T17:29:40.376Z,"4km W of Cobb, CA",earthquake,0.34,0.56,0.3,2.0,automatic,nc,nc
 2022-03-19T17:24:21.854Z,57.9376,-155.0106,82.7,2.3,ml,,,,0.3,ak,ak0223la6mob,2022-03-19T17:37:00.579Z,Alaska Peninsula,earthquake,,0.4,,,automatic,ak,ak
 2022-03-19T16:32:26.186Z,-6.5101,131.8206,10.0,4.7,mb,,90.0,1.551,0.92,us,us6000h61w,2022-03-19T17:31:38.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,6.1,1.8,0.138,18.0,reviewed,us,us
+2022-03-19T17:42:06.627Z,60.0496,-153.1328,121.0,2.3,ml,,,,0.63,ak,ak0223laagj3,2022-03-19T17:44:55.817Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
