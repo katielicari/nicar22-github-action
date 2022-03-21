@@ -4620,3 +4620,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T07:26:49.750Z,33.1636667,-115.6303333,5.46,1.24,ml,22.0,70.0,0.01848,0.16,ci,ci39973311,2022-03-21T16:45:17.713Z,"12km WNW of Calipatria, CA",earthquake,0.2,0.26,0.103,6.0,reviewed,ci,ci
 2022-03-21T04:33:48.020Z,33.6795,-116.7093333,16.0,0.69,ml,23.0,99.0,0.03146,0.08,ci,ci39973255,2022-03-21T16:40:48.625Z,"7km S of Idyllwild, CA",earthquake,0.18,0.27,0.087,9.0,reviewed,ci,ci
 2022-03-21T00:30:14.500Z,35.7095,-117.5695,9.28,0.99,ml,17.0,146.0,0.0964,0.15,ci,ci39973207,2022-03-21T16:36:03.067Z,"14km NE of Ridgecrest, CA",earthquake,0.29,0.54,0.14,7.0,reviewed,ci,ci
+2022-03-21T17:19:28.641Z,63.3762,-151.3255,1.1,1.4,ml,,,,0.6,ak,ak0223ol89ls,2022-03-21T17:21:34.513Z,"27 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-21T17:02:54.452Z,60.7743,-151.7245,75.8,2.2,ml,,,,0.57,ak,ak0223ol4oft,2022-03-21T17:11:25.641Z,"25 km WNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-03-21T16:54:04.936Z,63.4853,-150.8985,0.0,1.2,ml,,,,0.9,ak,ak0223okua7r,2022-03-21T17:06:58.707Z,"41 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-21T16:29:40.090Z,17.9846666666667,-66.9056666666667,10.37,2.42,md,3.0,193.0,,0.06,pr,pr71341093,2022-03-21T16:57:27.100Z,"1 km ESE of Fuig, Puerto Rico",earthquake,5.21,1.18,0.0715350110704085,3.0,reviewed,pr,pr
+2022-03-21T13:13:26.110Z,45.8666667,-113.5656667,6.24,1.22,ml,10.0,149.0,0.577,0.09,mb,mb80541114,2022-03-21T16:56:19.090Z,"29 km NNW of Wisdom, Montana",earthquake,0.7,3.15,0.109,3.0,reviewed,mb,mb
+2022-03-21T11:57:01.280Z,35.8093333,-117.6328333,6.48,0.96,ml,16.0,73.0,0.02941,0.14,ci,ci39973359,2022-03-21T16:57:37.219Z,"21km WNW of Searles Valley, CA",earthquake,0.19,0.39,0.197,7.0,reviewed,ci,ci
+2022-03-21T06:16:38.400Z,46.37683333333333,-119.40333333333334,3.05,0.73,ml,8.0,150.0,0.02361,0.1,uw,uw61814932,2022-03-21T17:19:20.790Z,"8 km NNW of West Richland, Washington",earthquake,0.34,0.69,0.1805325540062778,6.0,reviewed,uw,uw
+2022-03-21T00:28:40.170Z,45.327333333333335,-121.684,4.68,0.52,ml,7.0,143.0,0.02387,0.06,uw,uw61814907,2022-03-21T17:08:37.970Z,"6 km ENE of Government Camp, Oregon",earthquake,0.33,0.59,0.0133729216710052,3.0,reviewed,uw,uw
