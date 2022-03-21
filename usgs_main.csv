@@ -4707,3 +4707,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T22:14:58.797Z,62.9611,-150.8457,34.1,1.2,ml,,,,1.48,ak,ak0223oo6fdf,2022-03-21T22:18:53.661Z,"51 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-21T22:08:47.030Z,19.1853332519531,-155.468826293945,35.6599998474121,1.87,md,35.0,101.0,,0.100000001,hv,hv72958362,2022-03-21T22:11:52.720Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.49,0.660000026,1.60000002,10.0,automatic,hv,hv
 2022-03-21T17:56:25.770Z,18.0008333333333,-66.996,9.35,1.8,md,5.0,134.0,,0.11,pr,pr71341138,2022-03-21T22:27:29.090Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,0.68,1.23,0.120703930812816,5.0,reviewed,pr,pr
+2022-03-21T22:35:18.359Z,59.2472,-152.199,65.0,1.7,ml,,,,0.31,ak,ak0223ooauaj,2022-03-21T22:37:14.417Z,"19 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
