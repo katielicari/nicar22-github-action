@@ -4798,3 +4798,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T05:17:27.120Z,17.9551666666667,-67.192,5.89,2.89,md,19.0,243.0,,0.16,pr,pr71341248,2022-03-22T06:04:30.750Z,"2 km SSW of Pole Ojea, Puerto Rico",earthquake,0.56,0.36,0.222860042749381,16.0,reviewed,pr,pr
 2022-03-22T06:27:13.844Z,0.4255,97.0736,10.0,4.8,mb,,160.0,1.006,0.57,us,us6000h6l1,2022-03-22T06:42:53.040Z,"220 km SSW of Singkil, Indonesia",earthquake,5.7,1.3,0.086,42.0,reviewed,us,us
 2022-03-22T06:58:45.210Z,19.4783325195312,-155.473007202148,3.47000002861023,2.25,md,34.0,75.0,,0.239999995,hv,hv72958797,2022-03-22T07:01:45.550Z,"25 km W of Volcano, Hawaii",earthquake,0.55,2.00999999,0.610000014,20.0,automatic,hv,hv
+2022-03-22T07:22:07.430Z,37.376667,-118.6900024,11.6,1.76,md,21.0,71.0,0.1037,0.05,nc,nc73708666,2022-03-22T07:23:41.395Z,"9km WSW of Round Valley, CA",earthquake,0.3,1.25,0.13,13.0,automatic,nc,nc
+2022-03-22T07:20:49.619Z,64.8626,-148.7124,11.6,1.6,ml,,,,0.66,ak,ak0223q2tjdt,2022-03-22T07:23:01.134Z,"33 km W of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-22T07:12:50.550Z,34.3165,-116.4531667,7.73,0.98,ml,13.0,173.0,0.06355,0.21,ci,ci39974055,2022-03-22T07:16:33.374Z,"23km N of Yucca Valley, CA",earthquake,0.55,1.14,0.197,16.0,automatic,ci,ci
