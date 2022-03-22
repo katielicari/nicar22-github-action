@@ -4898,3 +4898,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T08:58:28.660Z,37.391,-118.7048333,0.46,1.16,md,14.0,160.0,0.1189,0.14,nc,nc73708696,2022-03-22T15:25:11.388Z,"10km WSW of Round Valley, CA",earthquake,0.6,31.61,0.076,14.0,reviewed,nc,nc
 2022-03-22T08:46:08.190Z,37.386,-118.7131667,0.51,1.18,md,16.0,164.0,0.1238,0.07,nc,nc73708691,2022-03-22T15:26:15.395Z,"11km WSW of Round Valley, CA",earthquake,0.43,31.61,0.178,17.0,reviewed,nc,nc
 2022-03-22T02:49:51.720Z,33.5288333,-116.5143333,13.31,0.42,ml,15.0,112.0,0.0318,0.12,ci,ci39974007,2022-03-22T15:05:59.783Z,"15km E of Anza, CA",earthquake,0.35,0.47,0.209,7.0,reviewed,ci,ci
+2022-03-22T15:08:33.812Z,54.1225,159.67,134.68,4.0,mb,,123.0,1.258,0.26,us,us6000h6mx,2022-03-22T15:35:02.040Z,"93 km SE of Mil’kovo, Russia",earthquake,8.3,11.9,0.1,28.0,reviewed,us,us
+2022-03-22T11:12:13.300Z,37.5306667,-118.8278333,9.01,0.87,md,17.0,113.0,0.05927,0.02,nc,nc73708736,2022-03-22T15:30:30.167Z,"14km WSW of Toms Place, CA",earthquake,0.36,1.0,0.089,15.0,reviewed,nc,nc
