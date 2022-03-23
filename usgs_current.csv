@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T04:04:30.750Z,33.7101669,-116.7170029,17.5,1.01,ml,28,88,0.002566,0.15,ci,ci39975007,2022-03-23T04:08:09.246Z,"3km S of Idyllwild, CA",earthquake,0.45,0.46,0.177,3,automatic,ci,ci
 2022-03-23T03:37:26.290Z,17.8988333333333,-66.9555,7.77,1.75,md,3,264,,0.03,pr,pr71341548,2022-03-23T04:36:27.140Z,"9 km SSW of Guánica, Puerto Rico",earthquake,1.16,0.34,0.0391879509269004,3,reviewed,pr,pr
 2022-03-23T03:30:42.700Z,64.5109,-147.4026,12.2,0.8,ml,,,,0.56,ak,ak0223ro1a32,2022-03-23T03:43:41.797Z,"23 km SW of Eielson Air Force Base, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-23T03:30:09.378Z,-20.1885,-69.2495,90.68,4.1,mb,,120,0.101,0.55,us,us6000h6v8,2022-03-23T04:09:24.747Z,"94 km E of Iquique, Chile",earthquake,6.7,5.5,0.184,8,reviewed,us,us
+2022-03-23T03:30:09.378Z,-20.1885,-69.2495,90.68,4.1,mb,,120,0.101,0.55,us,us6000h6v8,2022-03-23T11:23:28.497Z,"94 km E of Iquique, Chile",earthquake,6.7,5.5,0.184,8,reviewed,us,us
 2022-03-23T03:29:32.550Z,38.7931671,-122.7131653,-0.73,0.86,md,10,108,0.02091,0.02,nc,nc73709101,2022-03-23T04:17:24.305Z,"3km NW of Anderson Springs, CA",earthquake,0.56,3.85,0.01,2,automatic,nc,nc
 2022-03-23T03:21:37.700Z,17.9281666666667,-66.9565,12.11,1.93,md,5,226,,0.05,pr,pr71341543,2022-03-23T04:11:31.180Z,"7 km SW of Guánica, Puerto Rico",earthquake,1.71,0.72,0.0430262424648455,5,reviewed,pr,pr
 2022-03-23T03:14:17.740Z,17.9618333333333,-66.955,10.77,2.23,md,21,197,,0.16,pr,pr71341533,2022-03-23T05:12:13.340Z,"5 km SW of Fuig, Puerto Rico",earthquake,0.47,0.47,0.460895576294153,7,reviewed,pr,pr
@@ -276,4 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T11:37:41.750Z,18.0026666666667,-67.02,9.83,2.16,md,7,114,,0.11,pr,pr71341313,2022-03-22T12:27:01.520Z,"4 km NE of La Parguera, Puerto Rico",earthquake,0.45,0.86,0.0724222313606209,3,reviewed,pr,pr
 2022-03-22T11:37:12.511Z,-17.8026,-178.624,538.37,4.2,mb,,116,3.167,0.48,us,us6000h6lz,2022-03-22T13:33:46.040Z,"220 km E of Levuka, Fiji",earthquake,13.1,9.9,0.063,69,reviewed,us,us
 2022-03-22T11:33:10.410Z,32.9133333,-118.4675,9.83,2.36,ml,22,239,0.09419,0.45,ci,ci39974167,2022-03-22T17:22:28.412Z,"15km NW of San Clemente Is. (SE tip), CA",earthquake,1.22,31.61,0.215,7,reviewed,ci,ci
-2022-03-22T11:26:45.360Z,18.039,-66.888,7.34,2.06,md,6,150,,0.44,pr,pr71341368,2022-03-22T12:54:57.840Z,"1 km E of Lluveras, Puerto Rico",earthquake,1.35,0.73,0.00884773122712401,3,reviewed,pr,pr
