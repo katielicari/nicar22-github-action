@@ -5857,3 +5857,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T09:04:09.820Z,45.3255,-121.68433333333331,5.89,0.98,ml,8.0,148.0,0.02101,0.11,uw,uw61816107,2022-03-25T17:30:57.960Z,"6 km ENE of Government Camp, Oregon",earthquake,0.51,0.58,0.1574759299491519,5.0,reviewed,uw,uw
 2022-03-25T04:39:57.820Z,43.723,-121.24483333333332,0.27,1.22,ml,9.0,87.0,0.01694,0.08,uw,uw61816092,2022-03-25T17:36:34.390Z,"21 km ESE of Three Rivers, Oregon",earthquake,0.37,0.87,0.0994336808125069,7.0,reviewed,uw,uw
 2022-03-25T03:57:54.720Z,43.72366666666667,-121.2465,-0.45,1.65,ml,13.0,84.0,0.01593,0.15,uw,uw61816057,2022-03-25T17:42:45.920Z,"20 km ESE of Three Rivers, Oregon",earthquake,0.39,0.73,0.3463023567602886,10.0,reviewed,uw,uw
+2022-03-25T14:53:05.610Z,37.0446,-117.9082,3.0,1.9,ml,9.0,135.67,0.257,0.184,nn,nn00836026,2022-03-25T17:54:04.453Z,"36 km ESE of Big Pine, California",earthquake,,4.3,0.97,5.0,reviewed,nn,nn
