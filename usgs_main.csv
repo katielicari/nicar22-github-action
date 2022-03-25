@@ -5804,3 +5804,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T13:20:14.257Z,-3.7875,122.785,10.0,4.7,mb,,53.0,2.727,0.9,us,us7000gx7f,2022-03-25T13:40:00.040Z,"36 km NE of Kendari, Indonesia",earthquake,6.2,1.2,0.098,32.0,reviewed,us,us
 2022-03-25T13:03:39.318Z,61.9729,-148.9149,29.2,1.9,ml,,,,0.62,ak,ak0223v4wiiz,2022-03-25T13:06:17.054Z,"23 km NNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-25T13:01:28.874Z,59.4915,-151.9593,42.9,2.4,ml,,,,0.51,ak,ak0223v4w29z,2022-03-25T13:15:21.040Z,"15 km N of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-25T13:48:50.070Z,33.6545,-116.7291667,15.81,0.98,ml,31.0,67.0,0.05789,0.21,ci,ci39977791,2022-03-25T13:52:28.404Z,"10km S of Idyllwild, CA",earthquake,0.32,0.5,0.238,29.0,automatic,ci,ci
+2022-03-24T23:38:25.260Z,36.10916667,-97.21933333,8.92,0.75,ml,36.0,68.0,0.1511703352,0.26,ok,ok2022fvqb,2022-03-25T14:00:28.849Z,"14 km W of Stillwater, Oklahoma",earthquake,,3.2,0.25,11.0,reviewed,ok,ok
