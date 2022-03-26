@@ -6066,3 +6066,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T10:13:58.170Z,37.0613333,-117.9356667,0.05,2.8,ml,8.0,111.0,0.2356,0.11,ci,ci39978903,2022-03-26T10:21:10.748Z,"33km ESE of Big Pine, CA",earthquake,0.4,2.74,0.158,23.0,automatic,ci,ci
 2022-03-26T10:02:37.090Z,17.9616,-66.9456,7.0,3.02,md,22.0,189.0,0.0678,0.13,pr,pr2022085000,2022-03-26T10:55:05.915Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.41,0.23,0.16,18.0,reviewed,pr,pr
 2022-03-26T11:05:04.610Z,38.8170013,-122.760498,1.73,0.21,md,7.0,156.0,0.01533,0.01,nc,nc73710536,2022-03-26T11:06:38.682Z,"3km W of Cobb, CA",earthquake,0.49,1.1,0.16,2.0,automatic,nc,nc
+2022-03-26T11:25:09.658Z,63.9514,-148.8984,107.5,0.9,ml,,,,0.37,ak,ak0223wrdn5s,2022-03-26T11:27:41.545Z,"11 km NNE of Healy, Alaska",earthquake,,1.2,,,automatic,ak,ak
