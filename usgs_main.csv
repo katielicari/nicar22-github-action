@@ -6104,3 +6104,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T15:14:18.670Z,37.7509995,-122.5633316,8.63,1.53,md,8.0,189.0,0.08281,0.02,nc,nc73710631,2022-03-26T15:25:10.507Z,"6km WNW of San Francisco Zoo, CA",earthquake,0.73,1.2,0.04,7.0,automatic,nc,nc
 2022-03-26T15:12:34.873Z,60.3253,-152.0566,90.4,1.5,ml,,,,0.79,ak,ak0223wtond9,2022-03-26T15:16:59.265Z,"37 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-26T15:11:34.460Z,38.8421669,-122.8740005,2.29,1.04,md,18.0,114.0,0.004727,0.02,nc,nc73710626,2022-03-26T15:29:17.538Z,"12km NW of The Geysers, CA",earthquake,0.39,0.6,0.15,3.0,automatic,nc,nc
+2022-03-26T15:40:59.210Z,38.8195,-122.8268356,2.7,0.36,md,7.0,129.0,0.01077,0.02,nc,nc73710636,2022-03-26T15:42:34.379Z,"8km NW of The Geysers, CA",earthquake,0.5,1.31,,1.0,automatic,nc,nc
