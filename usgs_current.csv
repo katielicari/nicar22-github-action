@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T10:14:12.500Z,61.666,-149.8671,25.8,1.6,ml,,,,1,ak,ak0223ye97ia,2022-03-27T10:25:39.281Z,"4 km NNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-27T09:56:34.270Z,38.8386667,-122.7608333,1.33,0.47,md,19,155,0.002013,0.04,nc,nc73711116,2022-03-27T19:55:14.799Z,"4km WNW of Cobb, CA",earthquake,0.2,0.22,0.206,5,reviewed,nc,nc
 2022-03-27T09:52:13.300Z,38.8013344,-122.7728348,0.28,0.35,md,11,89,0.01028,0.02,nc,nc73711111,2022-03-27T10:22:15.314Z,"3km NNW of The Geysers, CA",earthquake,0.28,0.63,,1,automatic,nc,nc
-2022-03-27T09:41:16.759Z,60.2477,-152.5158,101.6,1.9,ml,,,,0.78,ak,ak0223ydtkkc,2022-03-27T09:44:13.403Z,"51 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
