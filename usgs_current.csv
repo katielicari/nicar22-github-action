@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-28T08:35:41.290Z,39.3468323,-122.8840027,-0.53,2.75,md,28,75,0.191,0.2,nc,nc73711436,2022-03-28T08:42:10.333Z,"9km SE of Lake Pillsbury, CA",earthquake,0.47,4.88,0.19,29,automatic,nc,nc
+2022-03-28T08:53:03.560Z,38.8351669,-122.8000031,1.98,1.45,md,29,38,0.008209,0.03,nc,nc73711441,2022-03-28T08:55:49.070Z,"7km WNW of Cobb, CA",earthquake,0.18,0.32,0.06,7,automatic,nc,nc
+2022-03-28T08:46:02.241Z,64.8661,-148.9332,7.6,1.1,ml,,,,0.22,ak,ak022400siww,2022-03-28T08:48:23.553Z,"30 km NNE of Four Mile Road, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-03-28T08:35:41.290Z,39.3468323,-122.8840027,-0.53,2.75,md,28,75,0.191,0.2,nc,nc73711436,2022-03-28T08:57:11.412Z,"9km SE of Lake Pillsbury, CA",earthquake,0.47,4.88,0.19,29,automatic,nc,nc
 2022-03-28T08:20:18.770Z,33.459,-116.1541667,9.7,0.93,ml,6,157,0.291,0.24,ci,ci39980311,2022-03-28T08:23:54.356Z,"5km W of Oasis, CA",earthquake,1.8,31.61,0.11,3,automatic,ci,ci
 2022-03-28T08:16:14.900Z,33.1873333,-115.6058333,1.16,1.38,ml,15,53,0.01282,0.18,ci,ci39980303,2022-03-28T08:19:48.767Z,"10km SW of Niland, CA",earthquake,0.39,31.61,0.178,24,automatic,ci,ci
 2022-03-28T08:14:13.270Z,33.1045,-115.9205,1.12,1.33,ml,7,145,0.1885,0.29,ci,ci39980295,2022-03-28T08:17:45.788Z,"20km ESE of Ocotillo Wells, CA",earthquake,2.03,31.61,0.407,15,automatic,ci,ci
@@ -199,6 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T09:06:25.690Z,38.8235016,-122.7648315,1.93,0.7,md,12,123,0.008012,0.02,nc,nc73711106,2022-03-27T10:12:15.253Z,"4km W of Cobb, CA",earthquake,0.35,0.65,0.15,2,automatic,nc,nc
 2022-03-27T09:02:22.150Z,38.8103333,-122.81633,2.57,0.84,md,8,100,0.01014,0.01,nc,nc73711101,2022-03-27T10:01:13.179Z,"6km NW of The Geysers, CA",earthquake,0.46,1.52,,1,automatic,nc,nc
 2022-03-27T08:58:44.127Z,11.9477,-88.2734,10,4.7,mb,,170,1.432,1.05,us,us7000gxn0,2022-03-27T09:16:28.040Z,"125 km SW of Jiquilillo, Nicaragua",earthquake,6.4,1.9,0.042,172,reviewed,us,us
-2022-03-27T08:53:26.040Z,38.8294983,-122.7979965,1.24,0.91,md,18,60,0.01072,0.04,nc,nc73711096,2022-03-27T09:51:15.117Z,"6km W of Cobb, CA",earthquake,0.21,0.48,0.3,2,automatic,nc,nc
-2022-03-27T08:53:24.082Z,57.6043,-155.9493,3.7,1.9,ml,,,,0.53,ak,ak0223ydaq48,2022-03-27T08:55:50.817Z,"87 km E of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-27T08:53:19.430Z,38.8338318,-122.8063354,3.01,0.85,md,8,101,0.01082,0.02,nc,nc73711091,2022-03-27T09:40:15.041Z,"7km W of Cobb, CA",earthquake,0.59,2.22,,1,automatic,nc,nc
