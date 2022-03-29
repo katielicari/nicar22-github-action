@@ -7034,3 +7034,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T07:07:21.620Z,44.7531667,-110.925,7.66,0.51,md,13.0,98.0,0.05815,0.22,uu,uu60487612,2022-03-29T19:35:02.480Z,"17 km NE of West Yellowstone, Montana",earthquake,0.45,0.71,0.299,7.0,reviewed,uu,uu
 2022-03-29T07:06:38.750Z,44.7505,-110.9181667,2.26,-0.45,md,7.0,132.0,0.06127,0.19,uu,uu60030284,2022-03-29T19:32:53.980Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.44,31.61,0.11,5.0,reviewed,uu,uu
 2022-03-29T07:06:12.520Z,44.7503333,-110.9196667,6.33,0.16,md,8.0,133.0,0.06222,0.16,uu,uu60487617,2022-03-29T19:30:17.450Z,"17 km NE of West Yellowstone, Montana",earthquake,0.53,1.46,0.306,6.0,reviewed,uu,uu
+2022-03-29T19:47:45.810Z,35.8593333,-117.6748333,3.24,2.13,ml,27.0,47.0,0.07642,0.23,ci,ci39981407,2022-03-29T19:51:17.740Z,"23km ESE of Little Lake, CA",earthquake,0.33,1.16,0.171,25.0,automatic,ci,ci
+2022-03-29T19:42:49.833Z,62.1592,-145.6635,20.0,1.4,ml,,,,1.18,ak,ak02241uuvvb,2022-03-29T19:45:15.351Z,"8 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-29T07:28:10.490Z,44.7431667,-110.9126667,2.33,-0.69,md,4.0,120.0,0.06325,0.1,uu,uu60030294,2022-03-29T19:53:20.780Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.38,31.61,0.378,3.0,reviewed,uu,uu
+2022-03-29T07:27:56.060Z,44.7516667,-110.919,7.48,0.53,md,7.0,135.0,0.06103,0.21,uu,uu60487662,2022-03-29T19:51:45.680Z,"17 km NE of West Yellowstone, Montana",earthquake,0.75,1.67,0.545,5.0,reviewed,uu,uu
+2022-03-29T07:23:04.740Z,44.7543333,-110.9161667,7.04,0.63,md,8.0,139.0,0.05782,0.18,uu,uu60487652,2022-03-29T19:50:10.720Z,"18 km NE of West Yellowstone, Montana",earthquake,0.59,1.63,0.097,5.0,reviewed,uu,uu
+2022-03-29T07:19:38.830Z,44.7546667,-110.9156667,7.24,0.3,md,8.0,139.0,0.05734,0.25,uu,uu60487647,2022-03-29T19:48:04.930Z,"18 km NE of West Yellowstone, Montana",earthquake,0.78,1.71,0.161,5.0,reviewed,uu,uu
+2022-03-29T07:18:40.480Z,44.7606667,-110.923,8.75,0.66,md,13.0,100.0,0.05858,0.2,uu,uu60487642,2022-03-29T19:46:30.010Z,"18 km NE of West Yellowstone, Montana",earthquake,0.48,0.91,0.249,7.0,reviewed,uu,uu
+2022-03-29T07:16:31.410Z,44.7571667,-110.9268333,6.54,-0.16,md,6.0,147.0,0.05656,0.08,uu,uu60030289,2022-03-29T19:43:22.690Z,"17 km NE of West Yellowstone, Montana",earthquake,0.71,1.59,0.276,3.0,reviewed,uu,uu
