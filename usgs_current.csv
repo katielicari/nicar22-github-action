@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-29T23:29:08.210Z,38.8326683,-122.8141632,1.39,0.85,md,6,122,0.009795,0.01,nc,nc73712101,2022-03-29T23:30:41.610Z,"8km NW of The Geysers, CA",earthquake,0.59,1.77,,1,automatic,nc,nc
+2022-03-29T23:18:54.350Z,38.8115005,-122.7421646,2.93,0.79,md,10,134,0.01749,0.02,nc,nc73712091,2022-03-29T23:20:30.808Z,"2km SW of Cobb, CA",earthquake,0.38,1.13,0.11,3,automatic,nc,nc
+2022-03-29T23:17:57.810Z,38.8284988,-122.8144989,1.73,0.77,md,18,44,0.006158,0.01,nc,nc73712086,2022-03-29T23:19:31.032Z,"8km NW of The Geysers, CA",earthquake,0.19,0.58,0.4,3,automatic,nc,nc
 2022-03-29T23:03:32.673Z,64.9836,-147.3136,0,1.5,ml,,,,0.63,ak,ak02241x081w,2022-03-29T23:11:42.241Z,"14 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-29T23:03:18.345Z,37.1436,-116.2069,0,1.4,ml,9,163.86,0.09,0.5354,nn,nn00836269,2022-03-29T23:06:39.380Z,"55 km ENE of Beatty, Nevada",earthquake,,8.3,0.86,7,automatic,nn,nn
 2022-03-29T22:59:59.890Z,35.7773333,-117.5763333,7.08,1.21,ml,13,146,0.04201,0.19,ci,ci39981543,2022-03-29T23:03:35.923Z,"16km W of Searles Valley, CA",earthquake,0.57,0.69,0.169,11,automatic,ci,ci
@@ -309,7 +312,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T04:26:05.280Z,38.8474998,-122.8186646,1.48,0.37,md,7,74,0.008031,0.05,nc,nc73711746,2022-03-29T04:43:13.738Z,"9km WNW of Cobb, CA",earthquake,0.43,1.03,,1,automatic,nc,nc
 2022-03-29T04:21:57.470Z,19.2556667327881,-155.408340454102,28.5599994659424,2.15,ml,41,125,,0.180000007,hv,hv72965622,2022-03-29T04:27:27.730Z,"9 km NE of Pāhala, Hawaii",earthquake,0.63,0.980000019,4.54,4,automatic,hv,hv
 2022-03-29T04:20:54.010Z,36.1745,-118.0053333,2.87,1.62,ml,27,52,0.07592,0.12,ci,ci39980959,2022-03-29T14:36:33.608Z,"12km S of Olancha, CA",earthquake,0.17,0.59,0.204,18,reviewed,ci,ci
-2022-03-29T04:10:16.191Z,59.0758,-152.3265,49.3,2.9,ml,,,,0.59,ak,ak02241lqg7n,2022-03-29T04:21:39.621Z,"38 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-29T04:10:16.191Z,59.0758,-152.3265,49.3,2.9,ml,,,,0.59,ak,ak02241lqg7n,2022-03-29T23:21:06.040Z,"38 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-29T04:08:46.890Z,33.4145,-116.6128333,7.45,0.34,ml,19,98,0.07603,0.11,ci,ci39980951,2022-03-29T14:31:08.878Z,"15km N of Warner Springs, CA",earthquake,0.25,0.51,0.082,11,reviewed,ci,ci
 2022-03-29T04:04:51.860Z,38.7528343,-122.6898346,0.13,1.12,md,10,137,0.01701,0.05,nc,nc73711741,2022-03-29T07:07:14.469Z,"2km S of Anderson Springs, CA",earthquake,0.27,0.56,0.03,5,automatic,nc,nc
 2022-03-29T04:03:57.510Z,40.601,-112.6511667,5.97,1.04,md,8,121,0.3042,0.21,uu,uu60487437,2022-03-29T15:17:41.520Z,"Utah",earthquake,0.83,11.96,0.203,4,reviewed,uu,uu
@@ -365,4 +368,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T23:47:27.970Z,33.995,-116.9941667,17.35,1.28,ml,35,96,0.07005,0.13,ci,ci39980895,2022-03-29T00:41:59.255Z,"6km E of Calimesa, CA",earthquake,0.2,0.6,0.183,24,reviewed,ci,ci
 2022-03-28T23:42:01.741Z,31.6603,-104.333,5,2.6,ml,,114,0.143,0.84,us,us7000gxz6,2022-03-28T23:52:45.040Z,"57 km S of Whites City, New Mexico",earthquake,1.2,1.9,0.047,60,reviewed,us,us
 2022-03-28T23:41:55.000Z,61.3115,-152.263833333333,-2.73,-0.38,ml,4,270,,0.03,av,av91053058,2022-03-29T18:22:46.090Z,"66 km WNW of Beluga, Alaska",earthquake,1.02,2.57,0.224931149072729,4,reviewed,av,av
-2022-03-28T23:31:34.210Z,19.4501667022705,-155.315002441406,2.46000003814697,1.83000004,md,8,314,,0.140000001,hv,hv72965377,2022-03-28T23:34:29.930Z,"8 km W of Volcano, Hawaii",earthquake,2.9,1.26999998,1.45000005,6,automatic,hv,hv
