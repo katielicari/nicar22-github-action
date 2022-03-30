@@ -7132,3 +7132,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T17:47:10.210Z,36.9592,-116.1098,6.9,0.5,ml,9.0,90.29,0.051,0.125,nn,nn00836274,2022-03-30T00:12:20.834Z,"58 km E of Beatty, Nevada",earthquake,,2.0,0.23,8.0,reviewed,nn,nn
 2022-03-29T16:39:53.418Z,36.6637,-116.2608,4.0,-0.2,ml,3.0,321.47,0.071,0.0168,nn,nn00836273,2022-03-30T00:06:08.300Z,"52 km ESE of Beatty, Nevada",earthquake,,8.3,0.0,1.0,reviewed,nn,nn
 2022-03-29T11:26:29.152Z,36.7393,-116.2744,2.7,-0.2,ml,6.0,232.16,0.051,0.1424,nn,nn00836272,2022-03-30T00:03:01.991Z,California-Nevada border region,earthquake,,5.0,0.09,3.0,reviewed,nn,nn
+2022-03-30T02:45:41.532Z,63.339,-145.39,24.2,1.1,ml,,,,0.92,ak,ak022438ahl4,2022-03-30T02:52:40.946Z,"29 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-30T02:28:03.790Z,38.822834,-122.7659988,1.99,0.67,md,15.0,118.0,0.008216,0.03,nc,nc73712151,2022-03-30T02:46:15.364Z,"4km W of Cobb, CA",earthquake,0.31,0.53,0.14,2.0,automatic,nc,nc
+2022-03-30T02:08:10.800Z,64.1763,-145.8054,0.0,1.5,ml,,,,0.8,ak,ak0224382hps,2022-03-30T02:24:51.462Z,"3 km NE of Big Delta, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-30T02:04:49.485Z,31.6663,-104.3938,11.38,2.8,ml,,61.0,0.091,0.42,us,us7000gy9u,2022-03-30T02:18:10.040Z,"56 km S of Whites City, New Mexico",earthquake,1.7,1.2,0.055,68.0,reviewed,us,us
+2022-03-30T01:58:37.117Z,61.3467,-150.3531,50.0,1.5,ml,,,,0.43,ak,ak022437rty7,2022-03-30T02:12:04.079Z,"20 km W of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-30T01:30:38.290Z,18.6778333333333,-66.6616666666667,70.21,3.06,md,14.0,221.0,,0.32,pr,pr71342648,2022-03-30T01:56:15.970Z,"23 km NNE of Arecibo, Puerto Rico",earthquake,2.17,2.17,0.0600646097651922,13.0,reviewed,pr,pr
+2022-03-29T23:42:28.620Z,31.62579524,-104.5311309,7.648339844,2.7,ml,8.0,90.0,0.05008856861,0.2,tx,tx2022gets,2022-03-30T01:58:39.285Z,"62 km SSW of Whites City, New Mexico",earthquake,2.806619041,1.431587139,0.2,6.0,reviewed,tx,tx
+2022-03-29T05:18:42.700Z,52.3458333333333,-174.135333333333,11.26,0.88,ml,4.0,230.0,,0.19,av,av91053088,2022-03-30T02:36:06.980Z,"17 km NNE of Atka, Alaska",earthquake,1.64,1.21,0.0646534356997777,3.0,reviewed,av,av
