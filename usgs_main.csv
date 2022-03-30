@@ -7292,3 +7292,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T09:29:06.366Z,52.3902,-175.1392,247.0,2.6,ml,,,,0.17,ak,ak02243cd218,2022-03-30T16:03:44.763Z,"67 km WNW of Atka, Alaska",earthquake,,1.0,,,reviewed,ak,ak
 2022-03-30T06:34:19.800Z,47.5823333,-113.7075,15.06,-0.18,md,6.0,192.0,0.21,0.07,mb,mb80541804,2022-03-30T15:53:42.350Z,"6 km N of Condon, Montana",earthquake,0.51,1.69,0.01,3.0,reviewed,mb,mb
 2022-03-30T06:25:41.490Z,48.0726667,-114.2525,13.65,-0.48,md,7.0,263.0,0.265,0.13,mb,mb80541799,2022-03-30T15:50:08.730Z,"2 km WSW of Somers, Montana",earthquake,1.79,1.03,,1.0,reviewed,mb,mb
+2022-03-30T16:32:44.940Z,39.4175,-110.3038333,-2.67,1.43,ml,6.0,198.0,0.01774,0.07,uu,uu60487967,2022-03-30T16:47:50.260Z,"16 km SSE of Sunnyside, Utah",earthquake,1.19,2.54,0.075,2.0,reviewed,uu,uu
+2022-03-29T22:11:56.565Z,50.2266,179.9925,33.2,3.3,ml,,,,0.91,ak,ak02241wgjwl,2022-03-30T16:37:24.531Z,"299 km SW of Adak, Alaska",earthquake,,1.0,,,reviewed,ak,ak
