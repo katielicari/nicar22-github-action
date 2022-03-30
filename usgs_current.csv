@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T09:44:54.430Z,56.9701,-155.7304,10.4,2.6,ml,,,,0.92,ak,ak02243cgc3n,2022-03-30T09:47:54.372Z,"94 km W of Akhiok, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-30T09:23:01.390Z,19.2534999847412,-155.406173706055,31.25,1.99000001,md,42,141,,0.119999997,hv,hv72967367,2022-03-30T09:26:12.850Z,"9 km NE of Pāhala, Hawaii",earthquake,0.61,0.75999999,0.879999995,24,automatic,hv,hv
 2022-03-30T09:19:24.598Z,63.0283,-149.8645,85.6,1.1,ml,,,,0.35,ak,ak02243caww9,2022-03-30T09:24:07.680Z,"61 km SW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-30T09:15:13.260Z,38.8269997,-122.7990036,2,0.84,md,10,85,0.009366,0.02,nc,nc73712251,2022-03-30T09:33:15.822Z,"7km W of Cobb, CA",earthquake,0.41,1.03,,1,automatic,nc,nc
