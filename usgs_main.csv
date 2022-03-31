@@ -7652,3 +7652,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T21:12:20.880Z,37.4153328,-118.6016693,8.59,1.42,md,13.0,148.0,0.06919,0.06,nc,nc73712786,2022-03-31T21:21:10.720Z,"0km WNW of Round Valley, CA",earthquake,1.45,3.8,0.11,8.0,automatic,nc,nc
 2022-03-31T20:55:28.240Z,37.4086667,-118.6275,5.96,0.78,md,8.0,165.0,0.07542,0.01,nc,nc73712776,2022-03-31T21:22:57.178Z,"3km WSW of Round Valley, CA",earthquake,0.91,2.03,0.196,9.0,reviewed,nc,nc
 2022-03-31T21:30:09.524Z,64.8145,-149.3951,35.1,1.2,ml,,,,1.21,ak,ak0224571scv,2022-03-31T21:35:29.041Z,"26 km NNW of Four Mile Road, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-03-31T22:17:56.910Z,38.8326683,-122.8026657,1.82,1.39,md,24.0,40.0,0.01092,0.02,nc,nc73712806,2022-03-31T22:19:32.791Z,"7km W of Cobb, CA",earthquake,0.18,0.38,0.05,6.0,automatic,nc,nc
+2022-03-31T22:16:36.710Z,34.3706665,-118.4598312,13.12,1.36,ml,25.0,75.0,0.08701,0.2,ci,ci39983111,2022-03-31T22:18:43.015Z,"7km SE of Santa Clarita, CA",earthquake,0.55,1.2,0.135,10.0,automatic,ci,ci
+2022-03-31T22:15:01.127Z,61.99,-148.8273,21.2,1.7,ml,,,,0.75,ak,ak022457jzmt,2022-03-31T22:17:34.411Z,"23 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-31T22:10:52.553Z,59.8211,-153.2814,126.0,2.5,ml,,,,1.01,ak,ak022457j0zb,2022-03-31T22:19:52.119Z,"46 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-31T21:59:44.678Z,-22.6706,170.65,10.0,5.1,mb,,50.0,2.96,1.11,us,us7000gyts,2022-03-31T22:15:41.040Z,southeast of the Loyalty Islands,earthquake,7.5,1.9,0.073,62.0,reviewed,us,us
+2022-03-31T21:55:06.680Z,34.1043333,-116.8103333,2.42,0.93,ml,9.0,262.0,0.2309,0.32,ci,ci39983103,2022-03-31T21:58:41.442Z,"18km S of Big Bear City, CA",earthquake,4.31,31.61,0.08,10.0,automatic,ci,ci
+2022-03-31T21:54:15.230Z,33.485,-116.9073333,13.45,0.61,ml,19.0,64.0,0.09347,0.25,ci,ci39983095,2022-03-31T21:57:49.141Z,"6km NW of Aguanga, CA",earthquake,0.47,1.37,0.126,14.0,automatic,ci,ci
+2022-03-31T13:42:39.156Z,36.705,-116.3176,6.7,0.1,ml,11.0,147.26,0.062,0.1073,nn,nn00836443,2022-03-31T22:17:11.491Z,"45 km ESE of Beatty, Nevada",earthquake,,1.7,0.8,3.0,reviewed,nn,nn
