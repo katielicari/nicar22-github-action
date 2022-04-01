@@ -7927,3 +7927,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T18:19:47.500Z,43.6061667,-111.024,3.24,0.84,ml,9.0,144.0,0.032,0.18,mb,mb80541944,2022-04-01T20:30:53.620Z,"7 km E of Victor, Idaho",earthquake,0.62,1.04,0.154,7.0,reviewed,mb,mb
 2022-04-01T00:54:05.520Z,54.5876666666667,-163.311666666667,11.35,0.65,ml,6.0,223.0,,0.32,av,av91053463,2022-04-01T20:28:30.810Z,"30 km SSE of False Pass, Alaska",earthquake,1.78,1.6,0.170738164047776,6.0,reviewed,av,av
 2022-04-01T05:10:49.420Z,54.501,-164.649166666667,1.37,0.19,ml,4.0,237.0,,0.17,av,av91053468,2022-04-01T20:46:51.540Z,"84 km ENE of Akutan, Alaska",earthquake,1.87,0.68,0.161299081087124,4.0,reviewed,av,av
+2022-04-01T04:54:15.863Z,-7.2799,105.8944,10.0,4.8,mww,,128.0,1.75,0.94,us,us7000gyvl,2022-04-01T21:06:04.040Z,"79 km WSW of Pelabuhanratu, Indonesia",earthquake,5.4,1.9,0.098,10.0,reviewed,us,us
