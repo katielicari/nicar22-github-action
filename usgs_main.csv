@@ -7740,3 +7740,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T03:20:00.665Z,61.0886,-147.6835,17.7,1.6,ml,,,,0.37,ak,ak02246jt66s,2022-04-01T03:36:30.158Z,"59 km WNW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-01T03:09:00.450Z,38.7755013,-122.7454987,1.8,0.63,md,14.0,65.0,0.01033,0.03,nc,nc73712931,2022-04-01T03:27:14.893Z,"1km ESE of The Geysers, CA",earthquake,0.25,0.48,0.14,4.0,automatic,nc,nc
 2022-04-01T02:02:37.750Z,17.9911666666667,-66.8418333333333,14.82,1.55,md,9.0,169.0,,0.15,pr,pr71342893,2022-04-01T03:08:50.290Z,"2 km W of Indios, Puerto Rico",earthquake,0.99,0.58,0.106582072276704,8.0,reviewed,pr,pr
+2022-04-01T03:49:39.850Z,35.3226667,-117.7833333,4.7,1.09,ml,15.0,67.0,0.07517,0.21,ci,ci39983311,2022-04-01T03:53:15.026Z,"15km WSW of Johannesburg, CA",earthquake,0.53,0.78,0.104,18.0,automatic,ci,ci
