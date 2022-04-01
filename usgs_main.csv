@@ -7734,3 +7734,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T01:35:53.549Z,9.724,126.8077,10.0,5.0,mb,,111.0,2.903,1.08,us,us7000gyus,2022-04-01T02:33:20.782Z,"76 km E of Union, Philippines",earthquake,9.4,1.8,0.118,25.0,reviewed,us,us
 2022-04-01T01:32:42.105Z,30.7041,141.7956,30.57,5.1,mb,,40.0,2.935,0.99,us,us7000gyup,2022-04-01T02:04:16.040Z,"Izu Islands, Japan region",earthquake,9.5,4.9,0.042,188.0,reviewed,us,us
 2022-03-31T19:49:16.130Z,38.8011667,-122.778,2.05,-0.29,md,3.0,225.0,0.01513,0.04,nc,nc73712756,2022-04-01T02:36:23.260Z,"3km NW of The Geysers, CA",earthquake,1.57,31.61,,1.0,reviewed,nc,nc
+2022-04-01T03:44:32.845Z,63.3931,-151.3375,0.8,1.8,ml,,,,0.87,ak,ak02246jyds7,2022-04-01T03:49:37.996Z,"25 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-01T03:39:39.299Z,60.6029,-150.6525,21.0,2.1,ml,,,,0.65,ak,ak02246jxbq8,2022-04-01T03:49:40.592Z,"9 km NE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-01T03:27:47.980Z,35.9655,-117.6771667,2.37,0.79,ml,8.0,158.0,0.02794,0.07,ci,ci39983287,2022-04-01T03:31:18.936Z,"21km E of Little Lake, CA",earthquake,0.44,0.21,0.155,7.0,automatic,ci,ci
+2022-04-01T03:20:00.665Z,61.0886,-147.6835,17.7,1.6,ml,,,,0.37,ak,ak02246jt66s,2022-04-01T03:36:30.158Z,"59 km WNW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-01T03:09:00.450Z,38.7755013,-122.7454987,1.8,0.63,md,14.0,65.0,0.01033,0.03,nc,nc73712931,2022-04-01T03:27:14.893Z,"1km ESE of The Geysers, CA",earthquake,0.25,0.48,0.14,4.0,automatic,nc,nc
+2022-04-01T02:02:37.750Z,17.9911666666667,-66.8418333333333,14.82,1.55,md,9.0,169.0,,0.15,pr,pr71342893,2022-04-01T03:08:50.290Z,"2 km W of Indios, Puerto Rico",earthquake,0.99,0.58,0.106582072276704,8.0,reviewed,pr,pr
