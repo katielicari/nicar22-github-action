@@ -7781,3 +7781,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T08:34:55.475Z,61.2309,-152.1333,101.4,2.0,ml,,,,0.79,ak,ak02246mvge3,2022-04-01T08:37:53.967Z,"56 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-01T08:28:10.522Z,-60.6609,-25.1927,10.0,5.0,mb,,76.0,14.136,0.63,us,us7000gyxa,2022-04-01T08:45:26.040Z,South Sandwich Islands region,earthquake,11.5,1.9,0.087,42.0,reviewed,us,us
 2022-04-01T07:48:55.720Z,17.9486666666667,-66.7306666666667,16.64,2.17,md,14.0,213.0,,0.12,pr,pr71342908,2022-04-01T08:29:25.450Z,"5 km SSW of Tallaboa, Puerto Rico",earthquake,0.45,0.46,0.330444212211328,13.0,reviewed,pr,pr
+2022-04-01T08:54:21.180Z,32.7953333,-115.4566667,6.65,1.73,ml,17.0,47.0,0.01298,0.25,ci,ci39983463,2022-04-01T08:58:06.172Z,"7km WSW of Holtville, CA",earthquake,0.6,1.0,0.181,25.0,automatic,ci,ci
+2022-04-01T08:53:49.340Z,32.7885,-115.4548333,7.78,1.61,ml,16.0,113.0,0.01809,0.18,ci,ci39983455,2022-04-01T08:57:32.168Z,"7km WSW of Holtville, CA",earthquake,0.47,0.69,0.157,24.0,automatic,ci,ci
+2022-04-01T08:50:28.568Z,61.3079,-147.0163,15.2,2.5,ml,,,,0.91,ak,ak02246mytqo,2022-04-01T08:56:25.708Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
+2022-04-01T08:45:19.670Z,32.7996667,-115.4511667,7.85,1.69,ml,15.0,111.0,0.006736,0.18,ci,ci39983447,2022-04-01T08:49:09.114Z,"7km W of Holtville, CA",earthquake,0.52,0.64,0.113,10.0,automatic,ci,ci
