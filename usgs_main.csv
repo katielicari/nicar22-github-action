@@ -8257,3 +8257,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T23:48:24.730Z,17.877,-66.749,6.42,2.58,md,23.0,222.0,,0.24,pr,pr71343138,2022-04-03T00:16:26.790Z,"13 km SSW of Tallaboa, Puerto Rico",earthquake,0.65,0.38,0.167568048960273,14.0,reviewed,pr,pr
 2022-04-03T01:58:28.980Z,33.2315,-116.0618333,5.96,0.98,ml,30.0,96.0,0.0912,0.27,ci,ci39984943,2022-04-03T02:02:11.588Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.46,2.13,0.146,23.0,automatic,ci,ci
 2022-04-03T01:58:17.950Z,38.8226662,-122.7666702,2.27,0.96,md,16.0,114.0,0.008195,0.02,nc,nc73713591,2022-04-03T02:14:13.620Z,"4km W of Cobb, CA",earthquake,0.32,0.61,0.28,2.0,automatic,nc,nc
+2022-04-03T02:54:42.789Z,17.9563,-66.9655,10.0,2.5,ml,,194.0,0.076,0.27,us,us7000gzak,2022-04-03T03:05:44.040Z,Puerto Rico region,earthquake,1.9,1.5,0.059,38.0,reviewed,us,us
+2022-04-03T02:52:07.819Z,36.4353,-117.1046,4.2,0.5,ml,9.0,308.02,0.307,0.104,nn,nn00836607,2022-04-03T02:55:21.294Z,"22 km W of Furnace Creek, California",earthquake,,3.0,1.2,3.0,automatic,nn,nn
+2022-04-03T02:02:22.160Z,18.5973333333333,-66.7446666666667,13.59,2.9,md,12.0,224.0,,0.25,pr,pr71343148,2022-04-03T03:08:50.060Z,"13 km NNE of Carrizales, Puerto Rico",earthquake,0.75,0.65,0.102100947606584,10.0,reviewed,pr,pr
