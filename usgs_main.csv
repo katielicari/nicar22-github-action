@@ -8534,3 +8534,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T07:11:39.581Z,38.8982,-119.6504,0.0,1.4,ml,14.0,159.79,0.195,0.1656,nn,nn00836647,2022-04-04T07:14:59.779Z,"4 km NNW of Carter Springs, Nevada",earthquake,,10.3,0.33,7.0,automatic,nn,nn
 2022-04-04T06:48:13.618Z,-23.0319,170.5388,10.0,4.7,mb,,114.0,2.883,0.51,us,us7000gzi8,2022-04-04T07:11:35.040Z,southeast of the Loyalty Islands,earthquake,10.4,1.9,0.137,16.0,reviewed,us,us
 2022-04-04T07:33:41.000Z,19.1593341827393,-155.370498657227,27.8799991607666,1.74000001,md,37.0,216.0,,0.119999997,hv,hv72972892,2022-04-04T07:36:49.240Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.62,0.889999986,0.629999995,7.0,automatic,hv,hv
+2022-04-04T07:50:32.670Z,33.1968346,-116.336998,14.11,1.18,ml,19.0,86.0,0.06972,0.17,ci,ci39985663,2022-04-04T07:52:37.718Z,"8km SSE of Borrego Springs, CA",earthquake,0.42,0.99,0.37,9.0,automatic,ci,ci
+2022-04-04T07:40:15.460Z,38.8224983,-122.807663,3.06,0.84,md,8.0,79.0,0.002085,0.01,nc,nc73714051,2022-04-04T07:41:48.315Z,"7km NW of The Geysers, CA",earthquake,0.5,1.53,,1.0,automatic,nc,nc
