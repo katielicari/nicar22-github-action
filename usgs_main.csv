@@ -8722,3 +8722,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T21:21:14.210Z,33.4015,-116.8915,5.93,0.78,ml,24.0,46.0,0.05352,0.17,ci,ci39986399,2022-04-04T21:29:07.901Z,"5km SSW of Aguanga, CA",earthquake,0.23,0.81,0.116,19.0,reviewed,ci,ci
 2022-04-04T21:20:00.712Z,63.5601,-147.9482,0.0,1.8,ml,,,,0.77,ak,ak0224bt50h4,2022-04-04T21:27:59.649Z,"51 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-04T20:14:18.785Z,-21.6115,-176.7519,174.62,4.5,mb,,103.0,7.69,0.84,us,us7000gznu,2022-04-04T21:26:46.040Z,"167 km WSW of Haveluloto, Tonga",earthquake,11.1,5.6,0.079,47.0,reviewed,us,us
+2022-04-04T21:38:14.030Z,38.8273315,-122.7994995,1.97,0.89,md,27.0,33.0,0.009147,0.02,nc,nc73714296,2022-04-04T21:39:46.280Z,"7km W of Cobb, CA",earthquake,0.2,0.35,0.08,5.0,automatic,nc,nc
