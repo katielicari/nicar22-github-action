@@ -8902,3 +8902,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T00:09:10.040Z,38.8648333,-122.8356667,1.55,1.11,md,25.0,155.0,0.01399,0.06,nc,nc71127614,2022-04-05T17:22:11.491Z,"11km WNW of Cobb, CA",earthquake,0.27,0.31,0.451,3.0,reviewed,nc,nc
 2022-04-05T17:34:36.108Z,58.7303,-152.8412,111.6,1.7,ml,,,,1.17,ak,ak0224dedpbu,2022-04-05T17:37:00.210Z,"74 km N of Aleneva, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-04-05T09:47:12.130Z,38.7745,-122.7381667,1.14,0.06,md,15.0,76.0,0.008797,0.03,nc,nc73714621,2022-04-05T17:36:52.627Z,"2km E of The Geysers, CA",earthquake,0.22,0.37,0.012,4.0,reviewed,nc,nc
+2022-04-05T17:53:42.092Z,65.2207,-149.853,12.9,0.8,ml,,,,0.68,ak,ak0224dehse9,2022-04-05T17:55:42.123Z,"24 km WNW of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-05T17:49:11.234Z,62.4437,-150.4182,60.7,1.8,ml,,,,0.56,ak,ak0224degv5i,2022-04-05T17:55:00.546Z,"16 km W of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-05T17:42:32.878Z,61.1686,-150.5064,58.7,1.4,ml,,,,0.34,ak,ak0224defesm,2022-04-05T17:54:34.982Z,"29 km NNE of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-05T03:41:56.170Z,38.8181667,-122.7631667,1.65,0.51,md,31.0,79.0,0.01337,0.04,nc,nc73714511,2022-04-05T17:46:53.628Z,"4km W of Cobb, CA",earthquake,0.16,0.31,0.195,5.0,reviewed,nc,nc
