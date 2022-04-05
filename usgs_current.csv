@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T09:16:47.330Z,45.4561667,-110.785,15.99,0.76,ml,10,69,0.192,0.13,mb,mb80542119,2022-04-04T15:39:08.160Z,"10 km NNW of Emigrant, Montana",earthquake,0.33,1.01,0.117,4,reviewed,mb,mb
 2022-04-04T09:10:08.080Z,17.9683333333333,-66.851,12.68,2.06,md,7,217,,0.07,pr,pr71343323,2022-04-04T10:12:44.510Z,"4 km ESE of Maria Antonia, Puerto Rico",earthquake,0.54,0.37,0.0821579599003137,5,reviewed,pr,pr
 2022-04-04T09:08:11.617Z,61.9568,-150.3739,40.7,1.5,ml,,,,0.67,ak,ak0224blx9ho,2022-04-04T09:14:48.154Z,"29 km NW of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-04-04T08:51:30.996Z,37.986,-117.8966,4.9,1.4,ml,17,134.04,0.026,0.1175,nn,nn00836654,2022-04-05T02:40:13.876Z,"34 km NW of Silver Peak, Nevada",earthquake,,1.2,0.69,6,reviewed,nn,nn
