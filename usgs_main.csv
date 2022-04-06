@@ -9148,3 +9148,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T18:52:38.740Z,35.991333,-120.5528336,3.17,1.23,md,13.0,117.0,0.02233,0.06,nc,nc73715141,2022-04-06T18:54:12.842Z,"15km NW of Parkfield, CA",earthquake,0.46,1.09,0.34,4.0,automatic,nc,nc
 2022-04-06T18:47:30.013Z,63.3485,-145.4363,0.0,1.4,ml,,,,0.77,ak,ak0224f2l98k,2022-04-06T18:56:12.547Z,"30 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-06T18:43:52.610Z,38.2824,-118.5546,0.0,0.6,ml,8.0,279.52,0.05,0.4712,nn,nn00836777,2022-04-06T18:48:09.136Z,"27 km SSE of Hawthorne, Nevada",earthquake,,0.9,0.99,5.0,automatic,nn,nn
+2022-04-06T18:42:49.881Z,13.2868,-89.6756,59.09,4.6,mb,,167.0,0.426,1.35,us,us7000h07k,2022-04-06T19:01:42.763Z,"37 km SSE of Acajutla, El Salvador",earthquake,7.5,6.9,0.053,105.0,reviewed,us,us
+2022-04-06T18:35:06.250Z,38.4818333,-112.8416667,0.05,1.63,ml,12.0,110.0,0.01336,0.06,uu,uu60489192,2022-04-06T19:05:44.090Z,"17 km ENE of Milford, Utah",earthquake,0.28,3.9,0.119,2.0,reviewed,uu,uu
