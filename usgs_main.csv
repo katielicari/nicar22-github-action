@@ -9305,3 +9305,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T03:31:04.997Z,62.2714,-151.0147,74.4,1.4,ml,,,,0.35,ak,ak0224gh3mag,2022-04-07T03:42:48.753Z,"28 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-07T03:24:47.510Z,34.5288315,-118.0759964,20.18,1.04,ml,8.0,203.0,0.1276,0.14,ci,ci39987775,2022-04-07T03:28:20.406Z,"5km NE of Vincent, CA",earthquake,1.15,1.87,0.212,4.0,automatic,ci,ci
 2022-04-07T03:22:38.993Z,61.9197,-149.1658,20.9,1.2,ml,,,,0.28,ak,ak0224gh1rh7,2022-04-07T03:37:07.657Z,"19 km N of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-07T03:53:13.797Z,61.4005,-151.0708,69.4,1.2,ml,,,,0.57,ak,ak0224gh8cqf,2022-04-07T03:56:52.361Z,"28 km N of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-07T03:45:49.269Z,61.5114,-146.6563,31.8,1.6,ml,,,,0.69,ak,ak0224gh6pqp,2022-04-07T03:56:53.562Z,"45 km NNW of Valdez, Alaska",earthquake,,0.1,,,automatic,ak,ak
