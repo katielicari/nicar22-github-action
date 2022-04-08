@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-08T09:35:54.730Z,35.3128319,-118.5370026,2.29,3.22,ml,101,30,0.09745,0.2,ci,ci39988527,2022-04-08T09:38:22.579Z,"22km NNW of Tehachapi, CA",earthquake,0.18,0.47,0.279,21,automatic,ci,ci
+2022-04-08T09:41:36.690Z,35.3203333,-118.5396667,2.51,1.21,ml,19,82,0.1015,0.17,ci,ci39988535,2022-04-08T09:45:07.071Z,"22km NNW of Tehachapi, CA",earthquake,0.33,0.56,0.188,18,automatic,ci,ci
+2022-04-08T09:37:08.414Z,65.3045,-158.2532,4.3,3,ml,,,,0.66,ak,ak0224i88vy0,2022-04-08T09:45:04.084Z,"53 km NNW of Koyukuk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-08T09:35:54.730Z,35.3128319,-118.5370026,2.29,3.22,ml,101,30,0.09745,0.2,ci,ci39988527,2022-04-08T09:42:43.449Z,"22km NNW of Tehachapi, CA",earthquake,0.18,0.47,0.279,21,automatic,ci,ci
 2022-04-08T09:33:31.130Z,34.305,-116.8275,6.78,0.96,ml,14,93,0.04291,0.18,ci,ci39988519,2022-04-08T09:37:05.569Z,"5km NNE of Big Bear City, CA",earthquake,0.47,1.31,0.243,17,automatic,ci,ci
 2022-04-08T09:22:13.433Z,61.9252,-149.3981,19.7,1.4,ml,,,,0.66,ak,ak0224i85nmj,2022-04-08T09:24:32.026Z,"21 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-08T09:13:13.340Z,38.8321648,-122.8178329,1.71,0.85,md,9,70,0.01521,0.02,nc,nc73715896,2022-04-08T09:32:15.894Z,"8km NW of The Geysers, CA",earthquake,0.32,1.41,,1,automatic,nc,nc
@@ -266,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T09:52:55.292Z,6.2916,125.7609,159.03,4.5,mb,,119,0.793,0.66,us,us7000h0c3,2022-04-07T11:41:49.040Z,"10 km ENE of Talagutong, Philippines",earthquake,9.8,7.9,0.124,19,reviewed,us,us
 2022-04-07T09:49:57.320Z,44.9625,-114.4795,8.98,1.63,ml,16,89,0.466,0.24,mb,mb80542479,2022-04-07T14:18:51.120Z,"51 km WSW of Salmon, Idaho",earthquake,0.56,1.22,0.161,12,reviewed,mb,mb
 2022-04-07T09:48:22.319Z,38.2039,-117.7185,0.5,1.5,ml,14,161.92,0.127,0.1138,nn,nn00836828,2022-04-07T09:52:02.881Z,"39 km ESE of Mina, Nevada",earthquake,,5.9,0.14,8,automatic,nn,nn
-2022-04-07T09:44:38.670Z,38.8218346,-122.7636642,1.57,0.36,md,11,176,0.009909,0.03,nc,nc73715446,2022-04-07T10:23:23.262Z,"4km W of Cobb, CA",earthquake,0.51,1.15,,1,automatic,nc,nc

@@ -9708,3 +9708,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T09:22:13.433Z,61.9252,-149.3981,19.7,1.4,ml,,,,0.66,ak,ak0224i85nmj,2022-04-08T09:24:32.026Z,"21 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-08T09:03:42.018Z,-22.4831,-68.8121,126.9,4.0,mb,,59.0,0.736,0.9,us,us7000h0m5,2022-04-08T09:30:58.040Z,"11 km ESE of Calama, Chile",earthquake,3.5,7.6,0.156,11.0,reviewed,us,us
 2022-04-08T06:05:55.032Z,31.57850085,-104.0288972,7.288427734,2.0,ml,15.0,90.0,0.09336684053,0.2,tx,tx2022gvrw,2022-04-08T09:27:49.816Z,"36 km NW of Toyah, Texas",earthquake,1.246104968,1.6159979010000003,0.2,13.0,reviewed,tx,tx
+2022-04-08T09:41:36.690Z,35.3203333,-118.5396667,2.51,1.21,ml,19.0,82.0,0.1015,0.17,ci,ci39988535,2022-04-08T09:45:07.071Z,"22km NNW of Tehachapi, CA",earthquake,0.33,0.56,0.188,18.0,automatic,ci,ci
+2022-04-08T09:37:08.414Z,65.3045,-158.2532,4.3,3.0,ml,,,,0.66,ak,ak0224i88vy0,2022-04-08T09:45:04.084Z,"53 km NNW of Koyukuk, Alaska",earthquake,,0.6,,,automatic,ak,ak
