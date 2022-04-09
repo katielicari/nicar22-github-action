@@ -10109,3 +10109,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T22:33:13.333Z,64.881,-151.1052,1.9,1.5,ml,,,,1.27,ak,ak0224k3hzud,2022-04-09T22:36:13.244Z,"25 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-09T22:55:52.780Z,35.7739983,-117.5933304,12.01,1.16,ml,17.0,93.0,0.04179,0.15,ci,ci39989647,2022-04-09T22:58:04.297Z,"17km W of Searles Valley, CA",earthquake,0.39,1.0,0.101,7.0,automatic,ci,ci
 2022-04-09T22:55:27.322Z,60.1438,-151.525,55.5,1.5,ml,,,,0.43,ak,ak0224k3mqoq,2022-04-09T22:58:02.505Z,"12 km SW of Clam Gulch, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2022-04-09T23:06:59.742Z,64.9347,-147.291,0.7,1.2,ml,,,,1.01,ak,ak0224k3xqpi,2022-04-09T23:08:55.342Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-09T22:59:00.430Z,18.7798328399658,-155.241165161133,8.77000045776367,2.54999995,md,30.0,273.0,,0.159999996,hv,hv72979232,2022-04-09T23:02:21.170Z,"47 km SE of Naalehu, Hawaii",earthquake,1.29,1.36000001,2.20000005,10.0,automatic,hv,hv
+2022-04-09T22:33:16.494Z,31.6769,-40.839,10.0,5.0,mb,,45.0,13.977,0.73,us,us7000h0zh,2022-04-09T23:02:04.040Z,northern Mid-Atlantic Ridge,earthquake,9.4,1.9,0.035,258.0,reviewed,us,us
