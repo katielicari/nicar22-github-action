@@ -10363,3 +10363,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T17:53:56.090Z,37.2998333,-121.6703333,4.46,1.07,md,22.0,51.0,0.04084,0.07,nc,nc73716666,2022-04-11T05:21:00.878Z,"15km E of Seven Trees, CA",earthquake,0.21,0.31,0.127,18.0,reviewed,nc,nc
 2022-04-11T05:33:05.612Z,61.8115,-148.4588,17.3,0.9,ml,,,,0.55,ak,ak0224n4gayc,2022-04-11T05:35:22.056Z,"1 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-11T05:20:19.660Z,17.9851666666667,-66.8926666666667,10.72,1.83,md,5.0,137.0,,0.1,pr,pr71344173,2022-04-11T05:41:37.780Z,"0 km NNW of Maria Antonia, Puerto Rico",earthquake,0.75,0.61,0.250969887602529,4.0,reviewed,pr,pr
+2022-04-11T05:52:41.070Z,38.8171654,-122.8188324,2.46,0.75,md,15.0,60.0,0.009247,0.02,nc,nc73716826,2022-04-11T05:54:17.043Z,"7km NW of The Geysers, CA",earthquake,0.27,0.65,0.11,2.0,automatic,nc,nc
+2022-04-11T05:44:42.483Z,65.2624,-158.2788,4.9,2.2,ml,,,,0.62,ak,ak0224n4iqu7,2022-04-11T05:54:53.813Z,"50 km NNW of Koyukuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
