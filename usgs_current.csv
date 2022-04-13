@@ -248,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T10:09:06.106Z,62.789,-149.6712,68.4,1.4,ml,,,,0.57,ak,ak0224outoc2,2022-04-12T10:11:23.229Z,"43 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-12T10:03:18.390Z,35.8875,-117.7101667,8.32,0.93,ml,18,51,0.07738,0.09,ci,ci39990647,2022-04-12T14:30:10.850Z,"18km ESE of Little Lake, CA",earthquake,0.15,0.4,0.189,10,reviewed,ci,ci
 2022-04-12T10:00:49.560Z,61.1186,-151.0252,46.9,1.6,ml,,,,0.53,ak,ak0224ouru8x,2022-04-12T10:06:19.549Z,"3 km SE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-04-12T09:57:34.770Z,44.3165,-115.1856667,7.32,2.19,ml,11,99,0.826,0.26,mb,mb80542884,2022-04-12T15:09:35.860Z,"southern Idaho",earthquake,0.59,1.54,0.288,9,reviewed,mb,mb
-2022-04-12T09:57:03.532Z,-16.662,40.7905,10,4.3,mb,,54,6.564,0.34,us,us7000h1ga,2022-04-12T10:19:12.040Z,"105 km ESE of António Enes, Mozambique",earthquake,7.8,1.9,0.122,20,reviewed,us,us
