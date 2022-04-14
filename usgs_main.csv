@@ -11197,3 +11197,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T03:11:17.180Z,34.1736667,-117.4111667,7.63,0.71,ml,18.0,153.0,0.08084,0.16,ci,ci39991951,2022-04-14T03:14:51.598Z,"5km S of Devore, CA",earthquake,0.54,1.35,0.066,11.0,automatic,ci,ci
 2022-04-13T22:02:26.520Z,38.816,-122.8101667,1.58,0.93,md,7.0,123.0,0.007385,0.02,nc,nc73718021,2022-04-14T03:34:16.406Z,"6km NW of The Geysers, CA",earthquake,1.17,1.23,,1.0,reviewed,nc,nc
 2022-04-13T21:16:22.370Z,38.834,-122.8083333,2.56,0.47,md,22.0,48.0,0.01068,0.01,nc,nc73718006,2022-04-14T03:25:16.354Z,"8km W of Cobb, CA",earthquake,0.21,0.46,0.074,4.0,reviewed,nc,nc
+2022-04-14T03:33:48.607Z,56.584,112.1594,10.0,4.7,mb,,124.0,7.008,0.94,us,us7000h21x,2022-04-14T03:49:51.040Z,"55 km NNE of Novyy Uoyan, Russia",earthquake,11.0,1.9,0.067,68.0,reviewed,us,us
