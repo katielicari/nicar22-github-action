@@ -11317,3 +11317,15 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T15:02:17.180Z,38.8088341,-122.7799988,1.14,0.84,md,7.0,97.0,0.004451,0.01,nc,nc73718276,2022-04-14T15:03:55.518Z,"4km NNW of The Geysers, CA",earthquake,0.44,1.19,,1.0,automatic,nc,nc
 2022-04-14T14:50:01.891Z,63.2548,-151.3916,0.0,1.2,ml,,,,0.91,ak,ak0224s8ivrw,2022-04-14T14:55:47.157Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-14T05:13:34.810Z,44.0903333,-110.7535,8.66,0.72,md,15.0,74.0,0.03932,0.17,uu,uu60491447,2022-04-14T14:59:09.290Z,"43 km NNE of Alta, Wyoming",earthquake,0.5,1.09,0.176,7.0,reviewed,uu,uu
+2022-04-14T15:25:45.641Z,61.0301,-152.312,103.1,0.6,ml,,,,0.47,ak,ak0224s8z1ur,2022-04-14T15:30:58.413Z,"63 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-14T15:11:23.200Z,38.8064995,-122.8043365,1.26,0.34,md,6.0,102.0,0.007209,0.01,nc,nc73718286,2022-04-14T15:13:00.563Z,"5km NW of The Geysers, CA",earthquake,0.44,1.39,,1.0,automatic,nc,nc
+2022-04-14T15:09:55.126Z,61.3749,-150.0093,37.5,0.9,ml,,,,0.48,ak,ak0224s8vn4o,2022-04-14T15:13:28.656Z,"2 km NW of Point MacKenzie, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-04-14T15:07:46.590Z,36.85416667,-97.7825,7.84,2.18,ml,89.0,64.0,0.0,0.23,ok,ok2022hhit,2022-04-14T15:22:32.791Z,"6 km NW of Medford, Oklahoma",earthquake,,0.5,0.17,39.0,reviewed,ok,ok
+2022-04-14T15:02:45.590Z,36.852,-97.77866667,6.29,1.78,ml,86.0,64.0,0.06478728652,0.3,ok,ok2022hhip,2022-04-14T15:16:11.767Z,"6 km NW of Medford, Oklahoma",earthquake,,0.6,0.21,38.0,reviewed,ok,ok
+2022-04-14T14:08:56.820Z,44.0961667,-110.7591667,9.4,0.77,md,12.0,74.0,0.0447,0.15,uu,uu60491472,2022-04-14T15:06:25.370Z,"44 km NNE of Alta, Wyoming",earthquake,0.55,1.02,0.319,3.0,reviewed,uu,uu
+2022-04-14T13:28:39.307Z,-31.6727,-72.5855,10.0,4.1,mb,,181.0,1.562,1.03,us,us7000h26m,2022-04-14T15:30:49.040Z,"134 km W of Illapel, Chile",earthquake,6.9,1.7,0.302,3.0,reviewed,us,us
+2022-04-14T13:01:31.527Z,-31.6119,-72.0967,10.0,4.7,mb,,149.0,1.015,0.61,us,us7000h26d,2022-04-14T15:14:57.040Z,"87 km W of Illapel, Chile",earthquake,4.1,1.8,0.137,16.0,reviewed,us,us
+2022-04-14T11:30:17.510Z,35.8591667,-117.6673333,10.1,0.66,ml,12.0,93.0,0.07139,0.13,ci,ci37495549,2022-04-14T15:27:34.893Z,"23km ESE of Little Lake, CA",earthquake,0.32,0.43,0.149,5.0,reviewed,ci,ci
+2022-04-14T04:44:13.300Z,44.7231667,-111.0818333,8.31,0.07,md,8.0,228.0,0.06493,0.17,uu,uu60491442,2022-04-14T15:06:59.010Z,"7 km NNE of West Yellowstone, Montana",earthquake,0.85,1.45,0.216,6.0,reviewed,uu,uu
+2022-04-14T01:26:40.090Z,33.474,-116.4985,12.39,0.66,ml,28.0,67.0,0.07828,0.16,ci,ci39991895,2022-04-14T15:12:03.054Z,"19km ESE of Anza, CA",earthquake,0.24,0.44,0.111,9.0,reviewed,ci,ci
+2022-04-14T00:28:39.030Z,36.0065,-117.5735,2.27,0.74,ml,13.0,159.0,0.07426,0.1,ci,ci39991847,2022-04-14T15:08:29.357Z,"31km NNW of Searles Valley, CA",earthquake,0.21,0.19,0.137,4.0,reviewed,ci,ci
