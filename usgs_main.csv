@@ -11770,3 +11770,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T11:22:35.037Z,31.65386391,-104.2380985,8.830908202999998,2.3,ml,10.0,85.0,0.1031693988,0.2,tx,tx2022hiwv,2022-04-15T23:40:23.709Z,"56 km NW of Toyah, Texas",earthquake,1.437113088,1.6595900800000003,0.1,5.0,reviewed,tx,tx
 2022-04-15T05:08:50.623Z,39.9294,-120.0206,10.3,0.3,ml,3.0,187.68,0.151,0.0208,nn,nn00837283,2022-04-15T23:40:43.447Z,"13 km SSE of Doyle, California",earthquake,,8.5,0.14,2.0,reviewed,nn,nn
 2022-04-15T00:43:15.703Z,38.3394,-119.2667,14.1,0.6,ml,7.0,153.11,0.213,0.1389,nn,nn00837282,2022-04-15T23:37:36.193Z,"9 km NNW of Bridgeport, California",earthquake,,8.2,0.46,2.0,reviewed,nn,nn
+2022-04-15T23:56:00.470Z,32.6693344,-115.8235016,7.86,1.72,ml,28.0,87.0,0.08432,0.2,ci,ci40237840,2022-04-15T23:58:15.902Z,"18km ESE of Ocotillo, CA",earthquake,0.4,1.0,0.34,18.0,automatic,ci,ci
+2022-04-15T23:54:13.920Z,38.8356667,-122.7959976,2.16,1.27,md,24.0,60.0,0.005196,0.03,nc,nc73718070,2022-04-15T23:58:12.614Z,"6km WNW of Cobb, CA",earthquake,0.2,0.41,0.17,5.0,automatic,nc,nc
+2022-04-15T13:39:05.503Z,39.9923,-120.0361,7.8,0.6,ml,5.0,169.26,0.169,0.0851,nn,nn00837284,2022-04-15T23:53:09.887Z,"7 km SE of Doyle, California",earthquake,,4.9,0.17,4.0,reviewed,nn,nn
