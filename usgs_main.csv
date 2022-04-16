@@ -11879,3 +11879,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T08:23:33.900Z,33.5003333,-116.4805,11.37,0.63,ml,16.0,51.0,0.07092,0.2,ci,ci40238080,2022-04-16T08:27:10.309Z,"19km ESE of Anza, CA",earthquake,0.42,0.99,0.094,15.0,automatic,ci,ci
 2022-04-16T08:23:13.600Z,33.4965,-116.478,14.7,0.72,ml,21.0,44.0,0.1038,0.21,ci,ci40238072,2022-04-16T08:26:52.058Z,"19km ESE of Anza, CA",earthquake,0.44,0.74,0.188,20.0,automatic,ci,ci
 2022-04-16T08:14:35.453Z,-3.5468,145.1867,10.0,4.7,mb,,68.0,6.99,1.17,us,us7000h2ne,2022-04-16T08:36:54.040Z,"136 km ENE of Angoram, Papua New Guinea",earthquake,11.8,1.9,0.11,25.0,reviewed,us,us
+2022-04-16T08:46:57.750Z,38.8266678,-122.814003,1.79,0.85,md,8.0,115.0,0.004483,0.02,nc,nc73718250,2022-04-16T08:53:35.745Z,"7km NW of The Geysers, CA",earthquake,0.41,0.95,,1.0,automatic,nc,nc
+2022-04-16T08:38:02.200Z,19.2486667633057,-155.382507324219,31.3700008392334,2.31,ml,48.0,139.0,,0.140000001,hv,hv72986542,2022-04-16T08:43:35.010Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.51,0.660000026,3.5,22.0,automatic,hv,hv
