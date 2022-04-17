@@ -12204,3 +12204,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T17:48:55.274Z,60.7883,-150.8013,56.5,1.5,ml,,,,0.74,ak,ak0224x8wwrb,2022-04-17T17:50:46.671Z,"16 km SSW of Point Possession, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-17T17:38:24.195Z,63.31,-151.005,9.6,1.2,ml,,,,0.7,ak,ak0224x8up6z,2022-04-17T17:46:23.802Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-17T17:35:33.460Z,38.8361664,-122.8239975,1.17,0.86,md,7.0,136.0,0.01562,0.07,nc,nc73718970,2022-04-17T17:42:39.724Z,"9km NW of The Geysers, CA",earthquake,0.75,1.83,,1.0,automatic,nc,nc
+2022-04-17T17:55:43.629Z,60.2064,-141.6865,0.0,1.4,ml,,,,1.24,ak,ak0224x8ydse,2022-04-17T18:10:49.672Z,"132 km WNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-17T03:56:14.693Z,54.0156,-165.029,69.6,2.0,ml,,,,0.59,ak,ak0224x0mgvx,2022-04-17T18:03:43.139Z,"50 km ESE of Akutan, Alaska",earthquake,,1.1,,,reviewed,ak,ak
