@@ -12694,3 +12694,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T06:18:17.103Z,38.7106,-116.1325,7.0,2.5,ml,13.0,151.44,1.065,0.3385,nn,nn00837433,2022-04-19T06:22:17.044Z,"90 km S of Eureka, Nevada",earthquake,,1.5,0.25,10.0,automatic,nn,nn
 2022-04-19T06:08:43.066Z,7.2532,127.1675,10.0,5.0,mb,,95.0,1.586,0.82,us,us7000h39w,2022-04-19T06:26:54.040Z,"65 km E of Santiago, Philippines",earthquake,7.5,1.9,0.052,118.0,reviewed,us,us
 2022-04-19T05:54:34.200Z,17.9848333333333,-66.7243333333333,9.99,3.15,md,31.0,149.0,,0.12,pr,pr71345038,2022-04-19T06:15:57.250Z,"1 km SW of Tallaboa, Puerto Rico",earthquake,0.23,0.38,0.196224899768591,10.0,reviewed,pr,pr
+2022-04-19T06:50:29.450Z,34.2343333,-116.9933333,1.2,1.14,ml,39.0,72.0,0.06628,0.21,ci,ci40240856,2022-04-19T06:54:05.000Z,"8km W of Big Bear Lake, CA",earthquake,0.31,0.67,0.125,28.0,automatic,ci,ci
