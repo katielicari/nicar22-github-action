@@ -12685,3 +12685,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T21:23:03.250Z,59.3551666666667,-153.4425,-0.63,0.07,ml,4.0,166.0,,0.09,av,av91055248,2022-04-19T04:55:36.930Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.36,0.17,0.331945451830914,4.0,reviewed,av,av
 2022-04-19T05:47:21.041Z,63.2655,-145.5588,0.0,2.0,ml,,,,0.68,ak,ak02250cu43x,2022-04-19T05:50:16.087Z,"19 km N of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-19T05:41:48.674Z,62.8209,-149.0175,4.1,1.0,ml,,,,0.43,ak,ak02250csvyn,2022-04-19T05:43:56.505Z,"63 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-19T06:13:19.432Z,36.53355789,-98.9696579,5.702528,1.59,ml,12.0,137.6984558,0.04531988129,0.1257733411,ok,ok2022hpuq,2022-04-19T06:14:38.383Z,"9 km SW of Waynoka, Oklahoma",earthquake,5.21895489,5.598577738,,9.0,automatic,ok,ok
+2022-04-19T06:09:14.515Z,60.3227,-152.5983,96.5,1.6,ml,,,,1.18,ak,ak02250d7e34,2022-04-19T06:12:22.406Z,"59 km WNW of Ninilchik, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-04-19T05:55:32.600Z,36.1751667,-118.0073333,3.14,2.27,ml,27.0,52.0,0.1361,0.19,ci,ci40240840,2022-04-19T06:06:31.450Z,"12km S of Olancha, CA",earthquake,0.29,1.23,0.179,25.0,automatic,ci,ci
