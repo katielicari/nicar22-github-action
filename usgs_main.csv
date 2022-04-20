@@ -13095,3 +13095,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T16:07:57.810Z,32.9436667,-115.522,3.53,1.71,ml,13.0,98.0,0.0532,0.2,ci,ci40242288,2022-04-20T16:11:37.782Z,"4km S of Brawley, CA",earthquake,0.68,0.59,0.172,28.0,automatic,ci,ci
 2022-04-20T07:31:43.590Z,32.9161667,-115.5233333,3.83,1.82,ml,24.0,77.0,0.03469,0.22,ci,ci40241992,2022-04-20T16:07:41.023Z,"7km S of Brawley, CA",earthquake,0.35,0.31,0.221,7.0,reviewed,ci,ci
 2022-04-20T02:34:17.890Z,38.686,-119.57,12.5,1.4,ml,19.0,61.6,0.108,0.1134,nn,nn00837493,2022-04-20T16:43:32.763Z,"2 km WSW of Topaz Lake, Nevada",earthquake,,0.8,0.17,7.0,reviewed,nn,nn
+2022-04-20T17:04:16.267Z,62.8817,-150.3265,101.4,1.2,ml,,,,0.39,ak,ak0225279fq2,2022-04-20T17:05:45.195Z,"48 km NNE of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-04-20T16:58:37.041Z,63.8195,-149.3812,105.2,1.2,ml,,,,0.39,ak,ak022526zme0,2022-04-20T17:01:07.140Z,"20 km WSW of Healy, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2022-04-20T09:58:55.710Z,17.9545,-66.9488333333333,9.3,1.76,md,4.0,208.0,,0.07,pr,pr71345193,2022-04-20T17:09:25.620Z,"4 km WSW of Guánica, Puerto Rico",earthquake,1.11,1.03,0.0235781682818468,4.0,reviewed,pr,pr
