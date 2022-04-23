@@ -13950,3 +13950,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T16:44:56.121Z,36.3537,19.5819,10.0,4.7,mb,,67.0,2.053,0.79,us,us6000hfvc,2022-04-23T17:08:35.040Z,"187 km SW of Lithakiá, Greece",earthquake,5.7,1.4,0.102,29.0,reviewed,us,us
 2022-04-23T13:33:42.000Z,40.2026667,-111.1433333,6.29,1.74,md,10.0,88.0,0.2266,0.09,uu,uu60493972,2022-04-23T17:04:29.950Z,"14 km SE of Independence, Utah",earthquake,0.39,5.11,0.103,6.0,reviewed,uu,uu
 2022-04-23T11:01:34.900Z,40.193,-111.1363333,5.7,1.55,md,10.0,92.0,0.2375,0.1,uu,uu60493967,2022-04-23T16:58:48.830Z,"15 km SE of Independence, Utah",earthquake,0.53,4.81,0.144,7.0,reviewed,uu,uu
+2022-04-23T17:32:52.693Z,61.3022,-150.7884,52.7,1.6,ml,,,,0.55,ak,ak0225761k2a,2022-04-23T17:35:16.142Z,"23 km NE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-23T17:23:04.069Z,61.3111,-150.0639,33.6,1.7,ml,,,,0.46,ak,ak022575ziv7,2022-04-23T17:26:49.381Z,"7 km SW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-23T17:21:27.580Z,17.9421666666667,-66.8393333333333,12.32,2.88,md,31.0,178.0,,0.22,pr,pr71345608,2022-04-23T17:40:31.430Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.43,0.3,0.115799223721451,17.0,reviewed,pr,pr
