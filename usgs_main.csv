@@ -14472,3 +14472,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T17:58:07.830Z,36.43183333,-96.90516667,6.34,0.98,ml,32.0,70.0,0.03599293696,0.23,ok,ok2022ibqw,2022-04-25T18:09:23.036Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.6,0.25,6.0,reviewed,ok,ok
 2022-04-25T17:18:20.770Z,44.76,-110.9311667,7.57,0.44,md,7.0,153.0,0.05343,0.1,uu,uu60494217,2022-04-25T18:02:36.910Z,"17 km NE of West Yellowstone, Montana",earthquake,0.57,1.37,0.148,4.0,reviewed,uu,uu
 2022-04-25T16:49:29.754Z,64.6622,-147.7427,16.5,0.6,ml,,,,0.53,ak,ak0225agmev0,2022-04-25T18:03:29.915Z,"16 km S of South Van Horn, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2022-04-25T18:57:13.257Z,60.7247,-150.6575,20.8,1.3,ml,,,,0.75,ak,ak0225ahuyil,2022-04-25T18:59:46.230Z,"21 km NNE of Sterling, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-25T16:55:33.099Z,42.0402,23.0061,10.0,4.2,mb,,74.0,2.097,1.27,us,us6000hg9e,2022-04-25T18:43:34.040Z,"6 km SW of Kocherinovo, Bulgaria",earthquake,5.5,1.9,0.236,7.0,reviewed,us,us
+2022-04-25T16:31:47.699Z,41.9478,23.0187,8.22,4.0,mb,,52.0,2.052,0.56,us,us6000hg93,2022-04-25T18:45:37.040Z,"10 km SW of Blagoevgrad, Bulgaria",earthquake,5.4,6.5,0.211,7.0,reviewed,us,us
+2022-04-25T16:23:09.580Z,33.5268333,-116.4995,12.16,-0.14,ml,8.0,219.0,0.04034,0.08,ci,ci40245800,2022-04-25T18:43:46.623Z,"16km E of Anza, CA",earthquake,0.51,0.55,0.046,2.0,reviewed,ci,ci
