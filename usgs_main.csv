@@ -15174,3 +15174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T06:39:22.680Z,38.7490005,-122.6989975,0.7,0.84,md,7.0,138.0,0.01915,0.03,nc,nc73725451,2022-04-28T06:40:59.765Z,"3km SSW of Anderson Springs, CA",earthquake,0.46,0.83,0.06,3.0,automatic,nc,nc
 2022-04-28T06:37:45.220Z,38.7503319,-122.69767,0.75,1.24,md,9.0,137.0,0.01786,0.05,nc,nc73725446,2022-04-28T06:46:11.598Z,"3km S of Anderson Springs, CA",earthquake,0.34,0.62,0.15,5.0,automatic,nc,nc
 2022-04-28T06:31:33.820Z,17.9513333333333,-67.2411666666667,4.62,2.37,md,8.0,293.0,,0.33,pr,pr71346578,2022-04-28T06:43:48.220Z,"6 km WSW of Pole Ojea, Puerto Rico",earthquake,1.36,0.8,0.0688474620584503,6.0,reviewed,pr,pr
+2022-04-28T07:17:44.889Z,38.169,-117.8952,10.0,0.9,ml,9.0,170.2,0.059,0.1013,nn,nn00837993,2022-04-28T07:21:44.626Z,"30 km SE of Mina, Nevada",earthquake,,0.8,0.52,5.0,automatic,nn,nn
+2022-04-28T06:56:55.903Z,68.5535,-144.5628,4.7,2.8,ml,,,,0.84,ak,ak0225f9boa5,2022-04-28T07:01:01.799Z,"62 km NE of Arctic Village, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-04-28T06:46:51.253Z,-16.0568,-173.8581,173.77,4.7,mb,,111.0,2.929,0.64,us,us7000h5kk,2022-04-28T07:08:23.040Z,"13 km SSW of Hihifo, Tonga",earthquake,11.8,4.1,0.12,26.0,reviewed,us,us
+2022-04-27T13:26:02.060Z,36.4416667,-121.0113333,2.44,1.27,md,23.0,104.0,0.01807,0.2,nc,nc73725091,2022-04-28T07:13:11.653Z,"16km SE of Pinnacles, CA",earthquake,0.34,0.5,0.178,14.0,reviewed,nc,nc
