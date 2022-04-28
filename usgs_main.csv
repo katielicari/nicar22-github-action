@@ -15258,3 +15258,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T13:54:43.180Z,19.2273330688477,-155.404495239258,34.5400009155273,2.00999999,md,37.0,141.0,,0.140000001,hv,hv72997607,2022-04-28T13:58:01.380Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.56,0.74000001,0.839999974,16.0,automatic,hv,hv
 2022-04-28T00:07:30.310Z,44.3561667,-115.1886667,7.87,2.24,ml,13.0,82.0,0.825,0.21,mb,mb80544314,2022-04-28T14:03:51.230Z,"25 km NW of Stanley, Idaho",earthquake,0.48,0.99,0.117,13.0,reviewed,mb,mb
 2022-04-27T14:43:12.990Z,35.6798333,-90.4781667,5.91,1.24,md,5.0,186.0,0.08397,0.2,nm,nm60392041,2022-04-28T14:16:16.740Z,"2 km ENE of Trumann, Arkansas",earthquake,1.24,3.01,0.004,3.0,reviewed,nm,nm
+2022-04-28T14:25:14.143Z,62.3857,-149.4154,0.1,1.4,ml,,,,0.76,ak,ak0225fdweqd,2022-04-28T14:29:00.612Z,"33 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-28T06:21:07.630Z,43.4453333,-110.2871667,4.8,2.21,ml,17.0,132.0,0.284,0.19,mb,mb80544324,2022-04-28T14:38:32.760Z,"28 km NNE of Bondurant, Wyoming",earthquake,0.5,13.14,0.244,17.0,reviewed,mb,mb
