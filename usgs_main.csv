@@ -15253,3 +15253,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T13:42:16.970Z,36.0315,-117.8131667,1.46,2.22,ml,24.0,63.0,0.03934,0.17,ci,ci40247664,2022-04-28T13:53:19.630Z,"12km E of Coso Junction, CA",earthquake,0.26,0.31,0.148,26.0,automatic,ci,ci
 2022-04-28T07:31:16.600Z,43.4545,-110.2925,5.78,2.1,ml,15.0,131.0,0.276,0.18,mb,mb80544334,2022-04-28T13:54:29.190Z,"29 km NNE of Bondurant, Wyoming",earthquake,0.52,9.66,0.265,17.0,reviewed,mb,mb
 2022-04-28T02:30:44.120Z,33.4445,-116.6355,4.59,0.22,ml,20.0,100.0,0.05376,0.08,ci,ci40247328,2022-04-28T13:47:31.838Z,"13km SSE of Anza, CA",earthquake,0.15,0.19,0.071,3.0,reviewed,ci,ci
+2022-04-28T14:21:25.700Z,60.8175,-151.3923,55.2,1.3,ml,,,,0.51,ak,ak0225fdvkre,2022-04-28T14:23:51.025Z,"15 km NNW of Nikiski, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-04-28T14:15:02.402Z,65.5058,-148.1779,14.1,1.3,ml,,,,0.69,ak,ak0225fdu8o0,2022-04-28T14:16:45.110Z,"17 km E of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-28T13:54:43.180Z,19.2273330688477,-155.404495239258,34.5400009155273,2.00999999,md,37.0,141.0,,0.140000001,hv,hv72997607,2022-04-28T13:58:01.380Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.56,0.74000001,0.839999974,16.0,automatic,hv,hv
+2022-04-28T00:07:30.310Z,44.3561667,-115.1886667,7.87,2.24,ml,13.0,82.0,0.825,0.21,mb,mb80544314,2022-04-28T14:03:51.230Z,"25 km NW of Stanley, Idaho",earthquake,0.48,0.99,0.117,13.0,reviewed,mb,mb
+2022-04-27T14:43:12.990Z,35.6798333,-90.4781667,5.91,1.24,md,5.0,186.0,0.08397,0.2,nm,nm60392041,2022-04-28T14:16:16.740Z,"2 km ENE of Trumann, Arkansas",earthquake,1.24,3.01,0.004,3.0,reviewed,nm,nm
