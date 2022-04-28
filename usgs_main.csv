@@ -15160,3 +15160,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T04:10:58.054Z,31.6119902,-103.9798422,8.291040039,3.7,ml,9.0,91.0,0.0765978628,0.1,tx,tx2022igcd,2022-04-28T05:25:17.036Z,"37 km NNW of Toyah, Texas",earthquake,0.8981250272999999,1.131668771,0.2,7.0,reviewed,tx,tx
 2022-04-28T04:05:15.330Z,35.8015,-121.3063333,4.88,1.68,md,31.0,191.0,0.172,0.07,nc,nc73725391,2022-04-28T05:35:20.066Z,"20km NNW of San Simeon, CA",earthquake,0.28,0.85,0.269,24.0,reviewed,nc,nc
 2022-04-27T08:43:33.880Z,47.565,-123.65933333333334,2.18,0.94,md,10.0,109.0,0.116,0.22,uw,uw61834556,2022-04-28T05:05:07.830Z,"21 km ENE of Amanda Park, Washington",earthquake,0.88,1.82,0.129814115094478,6.0,reviewed,uw,uw
+2022-04-28T05:54:01.556Z,63.6042,-147.2776,0.0,1.3,ml,,,,0.89,ak,ak0225f8pp33,2022-04-28T06:00:23.943Z,"82 km E of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-28T05:43:12.104Z,63.8821,-148.5174,10.6,0.8,ml,,,,0.42,ak,ak0225f8nd0q,2022-04-28T05:45:18.283Z,"22 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
