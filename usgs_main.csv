@@ -15868,3 +15868,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T23:25:10.585Z,65.138,-149.0066,12.4,1.2,ml,,,,0.51,ak,ak0225iubzvp,2022-04-30T23:38:38.593Z,"16 km E of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-30T23:24:36.540Z,33.4558333,-116.5353333,11.7,0.66,ml,22.0,51.0,0.06802,0.16,ci,ci40249504,2022-04-30T23:28:05.159Z,"17km SE of Anza, CA",earthquake,0.29,0.6,0.112,15.0,automatic,ci,ci
 2022-04-30T23:23:27.770Z,38.8305016,-122.8033371,1.96,0.83,md,16.0,62.0,0.008834,0.02,nc,nc73726891,2022-04-30T23:32:20.928Z,"7km W of Cobb, CA",earthquake,0.33,0.63,0.45,2.0,automatic,nc,nc
+2022-04-30T23:42:20.010Z,33.7608333,-117.0906667,18.72,1.13,ml,11.0,99.0,0.1296,0.22,ci,ci40249520,2022-04-30T23:46:03.441Z,"3km NNW of Green Acres, CA",earthquake,0.88,1.69,0.477,21.0,automatic,ci,ci
