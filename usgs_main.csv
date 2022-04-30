@@ -15826,3 +15826,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T18:22:05.720Z,33.38,-116.8715,6.23,0.94,ml,36.0,27.0,0.02734,0.23,ci,ci40249288,2022-04-30T18:25:44.401Z,"3km NNW of Palomar Observatory, CA",earthquake,0.27,0.69,0.128,25.0,automatic,ci,ci
 2022-04-30T18:21:16.770Z,38.8138351,-122.8061676,3.6,0.35,md,10.0,88.0,0.01002,0.02,nc,nc73726636,2022-04-30T18:22:50.137Z,"6km NW of The Geysers, CA",earthquake,0.53,1.68,,1.0,automatic,nc,nc
 2022-04-30T17:34:04.645Z,13.2125,92.9874,30.98,4.6,mb,,47.0,1.565,0.79,us,us7000h63j,2022-04-30T18:36:21.040Z,"169 km N of Bamboo Flat, India",earthquake,7.5,5.1,0.083,50.0,reviewed,us,us
+2022-04-30T18:52:45.150Z,34.0561676,-116.4375,9.22,1.42,ml,45.0,51.0,0.04161,0.14,ci,ci40249328,2022-04-30T18:54:50.212Z,"6km S of Yucca Valley, CA",earthquake,0.22,0.54,0.17,10.0,automatic,ci,ci
+2022-04-30T18:47:44.670Z,35.9606667,-117.6518333,2.76,0.92,ml,13.0,124.0,0.01279,0.15,ci,ci40249320,2022-04-30T18:51:11.790Z,"23km E of Little Lake, CA",earthquake,0.57,0.29,0.12,10.0,automatic,ci,ci
+2022-04-29T23:27:15.410Z,37.3475,-118.4015,9.19,1.46,md,13.0,133.0,0.05956,0.08,nc,nc73726321,2022-04-30T18:48:52.861Z,"2km SSW of Bishop, CA",earthquake,0.36,0.96,0.482,15.0,reviewed,nc,nc
