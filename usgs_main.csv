@@ -15779,3 +15779,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T13:35:23.810Z,63.1751,-150.3315,98.8,1.5,ml,,,,0.3,ak,ak0225iofu0g,2022-04-30T13:45:44.207Z,"73 km WSW of Cantwell, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-04-30T13:35:16.840Z,38.8213348,-122.7878342,1.15,0.84,md,10.0,88.0,0.009809,0.01,nc,nc73726516,2022-04-30T13:41:25.351Z,"6km NNW of The Geysers, CA",earthquake,0.36,0.9,,1.0,automatic,nc,nc
 2022-04-30T13:49:20.700Z,33.6585,-118.6365,12.66,1.9,ml,8.0,244.0,0.2114,0.27,ci,ci40249136,2022-04-30T13:53:06.809Z,"25km WSW of Rancho Palos Verdes, CA",earthquake,3.1,31.61,0.23,23.0,automatic,ci,ci
+2022-04-30T14:01:44.959Z,63.3033,-151.9945,5.1,1.6,ml,,,,0.56,ak,ak0225iou0wt,2022-04-30T14:04:49.437Z,"29 km SSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-30T13:16:25.960Z,18.3206,-68.4721,74.0,3.84,md,29.0,162.0,0.2135,0.16,pr,pr2022120001,2022-04-30T14:03:45.675Z,"15 km ESE of Boca de Yuma, Dominican Republic",earthquake,0.91,1.01,0.2,24.0,reviewed,pr,pr
