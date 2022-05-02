@@ -16238,3 +16238,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T12:15:49.450Z,32.3895,-116.7706667,15.06,1.42,ml,13.0,168.0,0.2165,0.22,ci,ci40250304,2022-05-02T12:19:23.605Z,"23km NE of Primo Tapia, B.C., MX",earthquake,1.06,1.63,0.149,10.0,automatic,ci,ci
 2022-05-02T12:12:07.833Z,38.1857,-117.9457,5.8,1.2,ml,13.0,128.19,0.034,0.0885,nn,nn00838174,2022-05-02T12:16:14.068Z,"26 km SSE of Mina, Nevada",earthquake,,0.5,0.27,6.0,automatic,nn,nn
 2022-05-02T11:57:35.747Z,38.1553,-117.8514,4.1,0.5,ml,8.0,174.63,0.087,0.1211,nn,nn00838173,2022-05-02T12:02:12.090Z,"34 km SE of Mina, Nevada",earthquake,,45.4,0.36,4.0,automatic,nn,nn
+2022-05-02T13:21:30.450Z,19.1906661987305,-155.476837158203,32.25,2.38000011,md,45.0,141.0,,0.140000001,hv,hv73001362,2022-05-02T13:24:44.320Z,"1 km S of Pāhala, Hawaii",earthquake,0.57,0.75999999,1.60000002,22.0,automatic,hv,hv
+2022-05-02T13:04:22.881Z,59.488,-153.3347,92.1,2.0,ml,,,,0.79,ak,ak0225lzbvud,2022-05-02T13:13:35.451Z,"54 km SE of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-05-02T12:48:07.452Z,51.1105,177.8716,30.68,4.5,mb,,185.0,0.952,0.44,us,us7000h6cz,2022-05-02T13:09:52.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.8,6.2,0.044,151.0,reviewed,us,us
+2022-05-02T12:42:37.170Z,33.667,-116.7365,17.4,1.04,ml,43.0,43.0,0.04783,0.2,ci,ci40250320,2022-05-02T12:46:08.833Z,"8km SSW of Idyllwild, CA",earthquake,0.26,0.46,0.142,26.0,automatic,ci,ci
+2022-05-02T12:34:26.924Z,-30.0104,-178.6642,234.86,5.5,mww,,50.0,0.987,0.91,us,us7000h6cu,2022-05-02T13:09:58.080Z,"Kermadec Islands, New Zealand",earthquake,9.7,4.6,0.071,19.0,reviewed,us,us
