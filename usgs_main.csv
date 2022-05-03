@@ -16604,3 +16604,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T08:14:27.060Z,58.3305,-154.798666666667,2.92,0.33,ml,9.0,168.0,,0.12,av,av91549841,2022-05-03T20:23:27.050Z,"87 km NNW of Karluk, Alaska",earthquake,0.5,1.02,0.197821216333483,9.0,reviewed,av,av
 2022-05-03T20:34:53.540Z,36.8548317,-121.6106644,5.88,1.17,md,11.0,111.0,0.03315,0.14,nc,nc73728991,2022-05-03T20:45:10.928Z,"5km SE of Aromas, CA",earthquake,0.54,1.01,0.18,9.0,automatic,nc,nc
 2022-05-03T20:34:52.530Z,33.5173333,-116.7428333,2.14,0.63,ml,25.0,53.0,0.04816,0.16,ci,ci40251488,2022-05-03T20:38:28.836Z,"8km WSW of Anza, CA",earthquake,0.22,0.3,0.105,19.0,automatic,ci,ci
+2022-05-03T15:50:49.698Z,43.6518,11.2624,6.67,3.5,ml,,60.0,0.128,0.47,us,us7000h6tk,2022-05-03T20:57:43.063Z,"2 km WSW of Strada in Chianti, Italy",earthquake,2.1,7.8,0.063,33.0,reviewed,us,us
