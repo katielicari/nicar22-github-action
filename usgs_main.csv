@@ -16422,3 +16422,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T03:40:01.320Z,38.8235016,-122.8001633,2.96,0.84,md,9.0,72.0,0.01597,0.01,nc,nc73728566,2022-05-03T03:57:17.899Z,"6km NW of The Geysers, CA",earthquake,0.42,1.04,,1.0,automatic,nc,nc
 2022-05-03T04:32:28.182Z,60.9764,-150.5119,35.2,2.0,ml,,,,0.76,ak,ak0225nhoc90,2022-05-03T04:36:18.849Z,"11 km ENE of Point Possession, Alaska",earthquake,,4.0,,,automatic,ak,ak
 2022-05-03T04:19:04.853Z,61.4384,-146.6712,31.0,1.9,ml,,,,1.61,ak,ak0225nhli57,2022-05-03T04:23:32.632Z,"38 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-03T04:54:01.340Z,38.7890015,-122.7618332,1.6,1.05,md,19.0,64.0,0.01172,0.03,nc,nc73728581,2022-05-03T05:11:23.283Z,"1km NNW of The Geysers, CA",earthquake,0.23,0.43,0.15,4.0,automatic,nc,nc
+2022-05-03T04:48:38.680Z,17.9856666666667,-66.9935,13.76,2.42,md,25.0,150.0,,0.2,pr,pr71347193,2022-05-03T05:06:26.700Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,0.5,0.24,0.0256569623715088,8.0,reviewed,pr,pr
