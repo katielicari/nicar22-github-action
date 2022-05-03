@@ -16416,3 +16416,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T02:26:37.519Z,37.6784,56.7319,10.0,4.3,mb,,157.0,9.278,0.88,us,us7000h6qy,2022-05-03T02:41:22.040Z,"57 km WNW of Bojnūrd, Iran",earthquake,4.5,2.0,0.102,27.0,reviewed,us,us
 2022-05-03T01:44:11.230Z,18.5915,-65.6293,77.0,3.45,md,16.0,224.0,0.4482,0.22,pr,pr2022123000,2022-05-03T02:58:53.615Z,"25 km NNE of Luquillo, Puerto Rico",earthquake,1.74,1.23,0.09,13.0,reviewed,pr,pr
 2022-05-02T23:55:02.770Z,58.2908333333333,-154.983166666667,2.69,-0.46,ml,4.0,148.0,,0.14,av,av91057138,2022-05-03T02:12:18.890Z,"86 km NNW of Karluk, Alaska",earthquake,0.5,0.65,0.200057592178711,4.0,reviewed,av,av
+2022-05-03T04:06:17.640Z,38.8359985,-122.800499,2.0,0.85,md,8.0,106.0,0.008288,0.01,nc,nc73728576,2022-05-03T04:07:54.539Z,"7km WNW of Cobb, CA",earthquake,0.64,1.17,,1.0,automatic,nc,nc
+2022-05-03T03:52:59.194Z,63.1639,-149.6524,93.4,1.6,ml,,,,0.65,ak,ak0225nh79df,2022-05-03T04:03:57.598Z,Central Alaska,earthquake,,0.9,,,automatic,ak,ak
+2022-05-03T03:50:59.960Z,18.5323333333333,-66.7948333333333,12.78,3.17,md,11.0,204.0,,0.19,pr,pr71347178,2022-05-03T04:04:22.820Z,"5 km N of Carrizales, Puerto Rico",earthquake,0.64,0.42,0.164502728447042,5.0,reviewed,pr,pr
+2022-05-03T03:40:01.320Z,38.8235016,-122.8001633,2.96,0.84,md,9.0,72.0,0.01597,0.01,nc,nc73728566,2022-05-03T03:57:17.899Z,"6km NW of The Geysers, CA",earthquake,0.42,1.04,,1.0,automatic,nc,nc
