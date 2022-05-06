@@ -17266,3 +17266,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T06:57:17.982Z,61.0615,-152.3543,110.7,2.0,ml,,,,0.49,ak,ak0225shml04,2022-05-06T07:01:58.413Z,"65 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-06T07:22:47.160Z,38.8885002,-122.855835,2.22,0.37,md,8.0,227.0,0.0337,0.01,nc,nc73729956,2022-05-06T07:31:10.014Z,"10km S of Kelseyville, CA",earthquake,0.84,1.01,,1.0,automatic,nc,nc
 2022-05-06T07:21:05.690Z,19.232666015625,-155.420669555664,32.9099998474121,1.89999998,md,27.0,129.0,,0.119999997,hv,hv73004267,2022-05-06T07:24:11.750Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.6,0.910000026,0.25,5.0,automatic,hv,hv
+2022-05-06T07:57:18.587Z,64.4283,-146.7414,5.7,0.9,ml,,,,0.46,ak,ak0225si80pe,2022-05-06T08:00:18.554Z,"9 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
