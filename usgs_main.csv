@@ -17409,3 +17409,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T20:20:53.211Z,34.99235535,-95.98828125,5.005705833,2.59,ml,42.0,130.089119,0.3037680387,0.6231837398,ok,ok2022ivye,2022-05-06T20:23:32.611Z,"5 km NNW of Arpelar, Oklahoma",earthquake,2.597165553,2.1095848,,31.0,automatic,ok,ok
 2022-05-06T17:18:34.020Z,47.3606667,-114.5793333,-2.0,0.55,md,13.0,71.0,0.116,0.16,mb,mb80545124,2022-05-06T20:34:27.650Z,"17 km E of Paradise, Montana",quarry blast,0.38,31.61,0.215,7.0,reviewed,mb,mb
 2022-05-06T20:28:52.358Z,64.7215,-146.1014,14.3,0.9,ml,,,,0.24,ak,ak0225spsi3o,2022-05-06T20:40:58.932Z,"40 km ESE of Pleasant Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-06T21:01:44.470Z,33.7355,-116.7158333,18.46,0.83,ml,17.0,122.0,0.02159,0.22,ci,ci40253880,2022-05-06T21:05:17.415Z,"1km SSE of Idyllwild, CA",earthquake,0.51,0.56,0.116,17.0,automatic,ci,ci
+2022-05-06T20:59:19.111Z,61.8768,-152.0636,113.8,0.9,ml,,,,0.45,ak,ak0225spz3k5,2022-05-06T21:02:09.163Z,"37 km WSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
