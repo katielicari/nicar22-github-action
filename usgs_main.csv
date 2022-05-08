@@ -17694,3 +17694,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T08:30:15.840Z,38.8213348,-122.7634964,2.23,0.85,md,9.0,196.0,0.01041,0.01,nc,nc73730751,2022-05-08T08:39:11.165Z,"4km W of Cobb, CA",earthquake,0.62,1.12,,1.0,automatic,nc,nc
 2022-05-08T08:22:44.349Z,61.8833,-149.2703,17.7,0.9,ml,,,,0.38,ak,ak0225vtop88,2022-05-08T08:35:06.509Z,"15 km N of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-08T08:13:11.171Z,38.325,23.3802,10.65,4.3,mb,,68.0,1.624,0.52,us,us7000h7wi,2022-05-08T08:41:17.040Z,"5 km E of Thívai, Greece",earthquake,3.4,6.0,0.238,6.0,reviewed,us,us
+2022-05-08T08:50:38.814Z,58.3685,-155.5835,111.2,2.7,ml,,,,0.92,ak,ak0225vtuo99,2022-05-08T08:54:19.481Z,"72 km ESE of King Salmon, Alaska",earthquake,,0.7,,,automatic,ak,ak
