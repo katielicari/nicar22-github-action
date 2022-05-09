@@ -18035,3 +18035,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T21:37:21.170Z,33.0401667,-116.3526667,9.44,1.87,ml,53.0,63.0,0.09485,0.2,ci,ci40255128,2022-05-09T21:47:56.478Z,"24km WSW of Ocotillo Wells, CA",earthquake,0.25,0.93,0.139,26.0,automatic,ci,ci
 2022-05-09T21:35:33.590Z,33.0413322,-116.3571701,11.29,3.56,ml,95.0,30.0,0.07692,0.24,ci,ci40255120,2022-05-09T21:47:01.181Z,"23km E of Julian, CA",earthquake,0.23,0.57,0.257,15.0,reviewed,ci,ci
 2022-05-09T21:34:07.901Z,62.657,-153.3361,9.9,3.0,ml,,,,0.85,ak,ak0225xp16d4,2022-05-09T21:37:59.142Z,"66 km SE of Nikolai, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-09T21:57:11.760Z,33.0386658,-116.3535004,11.35,1.84,ml,72.0,35.0,0.08089,0.18,ci,ci40255208,2022-05-09T21:59:25.091Z,"24km E of Julian, CA",earthquake,0.22,0.46,0.25,27.0,automatic,ci,ci
+2022-05-09T21:46:51.370Z,38.7733345,-122.7356644,1.56,0.89,md,15.0,124.0,0.009923,0.04,nc,nc73731456,2022-05-09T21:55:10.886Z,"2km ESE of The Geysers, CA",earthquake,0.32,0.5,0.2,4.0,automatic,nc,nc
+2022-05-09T18:11:27.810Z,37.3745,-118.8053333,4.26,1.13,md,14.0,99.0,0.194,0.09,nc,nc73731361,2022-05-09T21:55:10.733Z,"19km WSW of Round Valley, CA",earthquake,0.38,31.61,0.232,9.0,reviewed,nc,nc
+2022-05-09T10:24:19.340Z,19.5085,-155.661833333333,3.99,1.52,md,11.0,123.0,,0.12,hv,hv72000393,2022-05-09T21:55:56.600Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.85,0.148696662263304,4.0,reviewed,hv,hv
+2022-05-09T09:12:13.668Z,39.2289,-120.0805,7.0,-0.5,ml,5.0,123.33,0.041,0.1485,nn,nn00838570,2022-05-09T21:51:18.988Z,"0 km NNE of Carnelian Bay, California",earthquake,,2.2,0.0,1.0,reviewed,nn,nn
