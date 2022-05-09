@@ -17834,3 +17834,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T23:50:10.969Z,70.4291,-14.9882,10.0,4.4,mb,,61.0,6.196,0.59,us,us7000h81a,2022-05-09T01:40:28.040Z,"237 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,8.7,1.8,0.095,32.0,reviewed,us,us
 2022-05-08T23:41:08.308Z,60.5476,-151.9857,79.9,1.4,ml,,,,0.38,ak,ak0225w2q7kf,2022-05-09T00:06:55.367Z,"37 km WSW of Salamatof, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-05-08T23:33:15.282Z,70.421,-15.2106,10.0,5.4,mww,,32.0,6.157,0.67,us,us7000h816,2022-05-09T01:36:37.018Z,"246 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,5.4,1.8,0.035,79.0,reviewed,us,us
+2022-05-09T03:24:38.486Z,62.3243,-147.8291,18.7,1.1,ml,,,,0.53,ak,ak0225xe99of,2022-05-09T03:32:06.150Z,"55 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-09T02:47:08.260Z,33.3588333,-116.3355,11.6,1.03,ml,21.0,123.0,0.02196,0.21,ci,ci40254656,2022-05-09T02:50:51.111Z,"12km NNE of Borrego Springs, CA",earthquake,0.45,0.78,0.204,20.0,automatic,ci,ci
+2022-05-09T02:30:22.740Z,38.7981682,-122.7553329,3.74,0.85,md,11.0,201.0,0.00421,0.03,nc,nc73731076,2022-05-09T03:31:13.000Z,"2km N of The Geysers, CA",earthquake,0.42,0.74,,2.0,automatic,nc,nc
+2022-05-09T02:20:41.789Z,58.8431,-153.6894,9.2,1.4,ml,,,,0.28,ak,ak0225xdn0h1,2022-05-09T02:23:43.997Z,"91 km SE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-09T02:08:49.940Z,19.2128333333333,-155.388666666667,31.93,3.35,ml,50.0,158.0,,0.11,hv,hv73006792,2022-05-09T03:07:50.340Z,"9 km E of Pāhala, Hawaii",earthquake,0.56,0.67,0.142933858600525,40.0,reviewed,hv,hv
+2022-05-09T01:50:26.170Z,17.9975,-66.9968333333333,12.03,2.62,md,6.0,138.0,,0.08,pr,pr71348003,2022-05-09T02:50:43.862Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,1.61,1.05,0.085340566209444,4.0,reviewed,pr,pr
+2022-05-08T11:44:47.630Z,47.461,-121.74266666666666,18.18,0.99,md,18.0,166.0,0.054,0.13,uw,uw61829457,2022-05-09T02:34:22.810Z,"0 km SE of Riverbend, Washington",earthquake,0.75,0.65,0.1187201323993487,6.0,reviewed,uw,uw
