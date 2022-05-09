@@ -17841,3 +17841,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T02:08:49.940Z,19.2128333333333,-155.388666666667,31.93,3.35,ml,50.0,158.0,,0.11,hv,hv73006792,2022-05-09T03:07:50.340Z,"9 km E of Pāhala, Hawaii",earthquake,0.56,0.67,0.142933858600525,40.0,reviewed,hv,hv
 2022-05-09T01:50:26.170Z,17.9975,-66.9968333333333,12.03,2.62,md,6.0,138.0,,0.08,pr,pr71348003,2022-05-09T02:50:43.862Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,1.61,1.05,0.085340566209444,4.0,reviewed,pr,pr
 2022-05-08T11:44:47.630Z,47.461,-121.74266666666666,18.18,0.99,md,18.0,166.0,0.054,0.13,uw,uw61829457,2022-05-09T02:34:22.810Z,"0 km SE of Riverbend, Washington",earthquake,0.75,0.65,0.1187201323993487,6.0,reviewed,uw,uw
+2022-05-09T03:52:57.525Z,64.171,-150.3673,3.6,1.2,ml,,,,0.57,ak,ak0225xefc6x,2022-05-09T04:05:09.024Z,"58 km W of Clear, Alaska, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-09T03:50:28.759Z,65.0838,-149.3791,11.8,1.0,ml,,,,0.53,ak,ak0225xeeujb,2022-05-09T04:01:32.488Z,"7 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-09T03:39:51.461Z,69.6496,-143.7365,15.5,2.4,ml,,,,0.81,ak,ak0225xecjey,2022-05-09T03:53:34.130Z,"53 km S of Kaktovik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-09T03:35:14.330Z,38.8248329,-122.8041687,2.36,0.44,md,15.0,64.0,0.004831,0.02,nc,nc73731086,2022-05-09T03:53:19.112Z,"7km NW of The Geysers, CA",earthquake,0.27,0.66,0.23,2.0,automatic,nc,nc
