@@ -18213,3 +18213,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T11:06:10.510Z,17.9343333333333,-66.8571666666667,16.87,2.06,md,4.0,269.0,,0.07,pr,pr71348248,2022-05-10T12:16:14.840Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,1.19,0.66,0.0470210275263763,3.0,reviewed,pr,pr
 2022-05-09T21:50:20.539Z,36.76516667,-97.83416667,6.0,2.22,ml,60.0,88.0,0.08818269555,0.4,ok,ok2022jbnr,2022-05-10T12:41:18.405Z,"6 km NW of Jefferson, Oklahoma",earthquake,,0.9,0.27,6.0,reviewed,ok,ok
 2022-05-09T20:28:54.549Z,35.0845,-95.51966667,7.43,2.08,ml,65.0,56.0,0.1241756325,0.32,ok,ok2022jbky,2022-05-10T12:54:36.259Z,"14 km WSW of Quinton, Oklahoma",earthquake,,0.8,0.14,12.0,reviewed,ok,ok
+2022-05-10T13:35:17.958Z,59.7701,-153.2983,110.2,1.6,ml,,,,0.3,ak,ak0225z7tagh,2022-05-10T13:41:40.925Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-10T13:24:00.860Z,37.1651649,-121.5541687,7.72,1.38,md,9.0,125.0,0.05777,0.06,nc,nc73731726,2022-05-10T13:40:12.369Z,"10km ENE of Morgan Hill, CA",earthquake,0.69,1.59,0.14,9.0,automatic,nc,nc
+2022-05-10T13:22:52.450Z,63.1059,-149.584,84.6,1.9,ml,,,,0.4,ak,ak0225z7qkup,2022-05-10T13:27:30.536Z,"45 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-10T13:18:10.929Z,-17.2148,167.6145,10.0,5.7,mww,,63.0,1.801,0.66,us,us7000h8bc,2022-05-10T13:49:20.632Z,"94 km NW of Port-Vila, Vanuatu",earthquake,4.0,1.8,0.098,10.0,reviewed,us,us
+2022-05-10T13:13:45.293Z,60.8007,-151.1641,64.0,1.2,ml,,,,0.04,ak,ak0225z7omv5,2022-05-10T13:16:29.716Z,"14 km NNE of Nikiski, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2022-05-10T13:07:29.420Z,17.9648333333333,-66.8325,11.27,2.57,md,16.0,168.0,,0.14,pr,pr71348258,2022-05-10T13:33:05.150Z,Puerto Rico region,earthquake,0.4,0.53,0.0533452713653892,8.0,reviewed,pr,pr
+2022-05-10T05:19:15.580Z,45.6711667,-111.3705,2.03,1.42,ml,16.0,154.0,0.196,0.09,mb,mb80545474,2022-05-10T13:53:46.830Z,"10 km SSW of Churchill, Montana",earthquake,0.31,0.69,0.151,8.0,reviewed,mb,mb
+2022-05-09T23:21:37.400Z,36.918,-118.0076667,1.49,3.15,ml,21.0,77.0,0.1956,0.22,ci,ci40255256,2022-05-10T13:32:39.992Z,"21km NE of Independence, CA",earthquake,0.27,1.26,0.224,41.0,reviewed,ci,ci
