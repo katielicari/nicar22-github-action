@@ -18097,3 +18097,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T21:38:49.850Z,33.0525,-116.3478333,13.93,1.85,ml,18.0,90.0,0.07981,0.15,ci,ci37416132,2022-05-10T00:55:27.313Z,"22km WSW of Ocotillo Wells, CA",earthquake,0.32,0.69,0.083,6.0,reviewed,ci,ci
 2022-05-09T06:34:03.370Z,53.9961666666667,-166.129166666667,17.02,0.12,ml,8.0,317.0,,0.13,av,av91057888,2022-05-10T01:46:53.480Z,"27 km WSW of Akutan, Alaska",earthquake,1.13,1.31,0.190324539739257,7.0,reviewed,av,av
 2022-05-09T03:25:31.790Z,53.8665,-166.855666666667,4.54,-0.4,ml,5.0,154.0,,0.05,av,av91057868,2022-05-10T00:56:09.210Z,"20 km W of Dutch Harbor, Alaska",earthquake,0.38,0.97,0.164503418733708,5.0,reviewed,av,av
+2022-05-10T02:49:06.368Z,-56.1272,-45.4268,10.0,5.2,mww,,74.0,5.442,0.7,us,us7000h88k,2022-05-10T03:01:52.040Z,Scotia Sea,earthquake,9.5,1.9,0.098,10.0,reviewed,us,us
+2022-05-10T02:48:29.489Z,65.6626,-151.9301,0.8,1.3,ml,,,,0.69,ak,ak0225z1cc20,2022-05-10T02:51:01.345Z,"55 km N of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-10T02:41:51.170Z,33.044,-116.3511667,10.24,1.09,ml,30.0,79.0,0.09778,0.22,ci,ci40255304,2022-05-10T02:45:34.261Z,"23km WSW of Ocotillo Wells, CA",earthquake,0.35,0.78,0.125,17.0,automatic,ci,ci
+2022-05-10T02:18:32.044Z,-17.6091,-70.3629,100.45,4.6,mb,,138.0,0.757,0.91,us,us7000h88f,2022-05-10T02:41:54.768Z,"19 km SW of Chipispaya, Peru",earthquake,6.0,5.3,0.049,122.0,reviewed,us,us
