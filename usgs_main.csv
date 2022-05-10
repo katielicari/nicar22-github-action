@@ -18330,3 +18330,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T09:17:13.595Z,40.1539,-119.6037,0.0,0.1,ml,2.0,299.62,0.1,0.0048,nn,nn00838645,2022-05-10T21:34:01.720Z,Nevada,earthquake,,0.0,0.06,2.0,reviewed,nn,nn
 2022-05-10T08:52:57.874Z,40.1591,-119.6214,5.3,0.3,ml,3.0,240.51,0.085,0.0075,nn,nn00838644,2022-05-10T21:27:44.740Z,"23 km N of Sutcliffe, Nevada",earthquake,,9.3,0.0,1.0,reviewed,nn,nn
 2022-05-10T08:29:04.827Z,38.2458,-118.3527,9.7,-0.1,ml,8.0,233.12,0.12,0.1411,nn,nn00838642,2022-05-10T21:24:37.215Z,"26 km SW of Mina, Nevada",earthquake,,6.8,0.0,1.0,reviewed,nn,nn
+2022-05-10T20:20:25.510Z,37.4538333,-118.7918333,5.15,0.97,md,8.0,139.0,0.1391,0.12,nc,nc73731846,2022-05-10T21:50:06.370Z,"16km SW of Toms Place, CA",earthquake,0.68,5.1,0.179,7.0,reviewed,nc,nc
+2022-05-10T12:26:39.940Z,39.6342,-119.8179,6.0,-0.3,ml,3.0,173.97,0.051,0.0802,nn,nn00838649,2022-05-10T21:49:42.610Z,"2 km E of Lemmon Valley, Nevada",earthquake,,10.4,0.43,2.0,reviewed,nn,nn
