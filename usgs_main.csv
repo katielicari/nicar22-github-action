@@ -19183,3 +19183,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T20:01:25.070Z,35.948,-117.6743333,5.83,0.37,ml,10.0,89.0,0.01944,0.04,ci,ci40017823,2022-05-13T20:52:41.704Z,"21km E of Little Lake, CA",earthquake,0.2,0.39,0.114,4.0,reviewed,ci,ci
 2022-05-13T08:24:26.142Z,31.69082282,-104.2873637,6.722851562,2.0,ml,9.0,65.0,0.0842759412,0.2,tx,tx2022jhvb,2022-05-13T20:53:55.922Z,"54 km S of Whites City, New Mexico",earthquake,1.622860787,2.16710326,0.1,7.0,reviewed,tx,tx
 2022-05-13T21:22:24.557Z,60.6269,-141.6925,25.7,0.6,ml,,,,0.17,ak,ak02264b4113,2022-05-13T21:27:04.337Z,"111 km SE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-13T21:39:36.485Z,56.2566,-156.4502,62.3,2.9,ml,,,,0.48,ak,ak02264b7p4j,2022-05-13T21:42:37.629Z,"121 km E of Chignik, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2022-05-13T21:34:38.410Z,36.063,-117.8478333,2.5,1.39,ml,18.0,74.0,0.05476,0.15,ci,ci40017911,2022-05-13T21:38:10.613Z,"9km ENE of Coso Junction, CA",earthquake,0.26,0.28,0.238,20.0,automatic,ci,ci
+2022-05-13T21:30:26.020Z,35.5958333,-117.3936667,7.81,0.72,ml,11.0,187.0,0.05663,0.23,ci,ci40017903,2022-05-13T21:34:03.017Z,"19km S of Trona, CA",earthquake,0.65,0.88,0.073,7.0,automatic,ci,ci
