@@ -19047,3 +19047,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T09:01:00.490Z,18.0058333333333,-67.1053333333333,5.34,1.97,md,7.0,157.0,,0.08,pr,pr71348673,2022-05-13T10:39:39.250Z,"4 km SW of Palmarejo, Puerto Rico",earthquake,0.32,0.51,0.112462857597476,5.0,reviewed,pr,pr
 2022-05-13T09:00:29.500Z,17.9513333333333,-66.9075,10.74,2.11,md,6.0,210.0,,0.06,pr,pr71348668,2022-05-13T10:33:07.870Z,"2 km S of Guánica, Puerto Rico",earthquake,0.71,0.43,0.187766289919637,4.0,reviewed,pr,pr
 2022-05-13T07:40:31.418Z,19.2316,-64.5099,10.0,2.9,ml,,313.0,1.5,0.5,us,us6000hksw,2022-05-13T10:49:18.040Z,"104 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,8.3,2.0,0.062,34.0,reviewed,us,us
+2022-05-13T11:02:02.806Z,65.704,-148.2525,12.7,1.0,ml,,,,0.95,ak,ak0226451czc,2022-05-13T11:03:52.191Z,"24 km NE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-13T10:55:49.850Z,33.7676667,-116.1133333,1.95,0.8,ml,23.0,143.0,0.09467,0.2,ci,ci40017455,2022-05-13T10:59:29.653Z,"11km ENE of Indio, CA",earthquake,0.38,0.54,0.115,17.0,automatic,ci,ci
