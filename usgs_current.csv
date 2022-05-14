@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-14T20:46:50.440Z,38.8396683,-122.8075027,2.08,0.36,md,8,122,0.01346,0,nc,nc73733741,2022-05-14T20:55:10.105Z,"8km WNW of Cobb, CA",earthquake,0.49,1.08,,1,automatic,nc,nc
 2022-05-14T20:45:44.867Z,63.6999,-149.2602,34,1,ml,,,,0.83,ak,ak02265y6wye,2022-05-14T20:47:48.065Z,"17 km WSW of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-14T20:35:20.460Z,38.7946663,-122.7493362,0.65,0.7,md,10,93,0.01006,0.01,nc,nc73733736,2022-05-14T20:45:10.049Z,"2km NNE of The Geysers, CA",earthquake,0.31,0.56,0.16,2,automatic,nc,nc
 2022-05-14T20:28:18.542Z,60.7883,-146.6426,16.1,1.6,ml,,,,0.61,ak,ak02265y37r7,2022-05-14T20:38:29.424Z,"8 km SSE of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -31,6 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T17:31:47.130Z,19.1938333333333,-66.6213333333333,23.62,3.1,md,13,258,,0.24,pr,pr71348813,2022-05-14T17:50:03.350Z,"80 km N of Arecibo, Puerto Rico",earthquake,1.02,16.46,0.135612165090774,8,reviewed,pr,pr
 2022-05-14T17:20:40.180Z,19.1973323822021,-155.382171630859,31.3099994659424,2.37,ml,38,163,,0.180000007,hv,hv73012267,2022-05-14T17:26:10.730Z,"10 km E of Pāhala, Hawaii",earthquake,0.63,0.839999974,4.16,5,automatic,hv,hv
 2022-05-14T17:19:53.570Z,19.1678333282471,-155.498672485352,33.060001373291,2.55,ml,40,103,,0.129999995,hv,hv73012262,2022-05-14T17:25:24.760Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.53,0.970000029,0.32,4,automatic,hv,hv
+2022-05-14T17:06:01.147Z,46.2143,152.7005,47.04,4.3,mb,,102,7.445,0.61,us,us6000hl5p,2022-05-14T20:57:52.040Z,"Kuril Islands",earthquake,10,8.5,0.077,51,reviewed,us,us
 2022-05-14T17:00:58.908Z,64.669,-149.6613,0,1.2,ml,,,,1.04,ak,ak02265w4zzt,2022-05-14T17:04:08.763Z,"26 km WNW of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-14T17:00:46.122Z,61.5395,-149.9594,40.7,1.3,ml,,,,0.51,ak,ak02265w4z0j,2022-05-14T17:06:27.408Z,"2 km N of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-14T16:59:44.940Z,34.0161667,-117.1845,14.93,0.88,ml,19,86,0.06289,0.19,ci,ci40018703,2022-05-14T17:03:25.498Z,"4km S of Redlands, CA",earthquake,0.38,0.91,0.291,21,automatic,ci,ci
