@@ -19340,3 +19340,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T14:22:42.234Z,60.762,-151.1842,56.6,3.8,ml,,,,0.75,ak,ak02265uhdnr,2022-05-14T14:28:23.458Z,"9 km NE of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-14T14:22:18.310Z,35.6706667,-117.4921667,1.82,1.0,ml,14.0,107.0,0.08746,0.18,ci,ci40018551,2022-05-14T14:25:53.651Z,"13km SW of Searles Valley, CA",earthquake,0.43,0.57,0.21,10.0,automatic,ci,ci
 2022-05-14T14:16:05.057Z,61.5759,-150.058,35.9,1.1,ml,,,,0.47,ak,ak02265ug0hr,2022-05-14T14:28:26.617Z,"8 km NW of Big Lake, Alaska",earthquake,,5.2,,,automatic,ak,ak
+2022-05-14T14:37:46.298Z,62.4389,-150.9181,15.2,1.2,ml,,,,0.64,ak,ak02265uklpl,2022-05-14T14:41:54.866Z,"10 km SW of Petersville, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2022-05-14T14:36:39.731Z,67.3973,-155.8079,12.9,1.5,ml,,,,0.77,ak,ak02265ukdhf,2022-05-14T14:41:53.698Z,"71 km NE of Kobuk, Alaska",earthquake,,0.7,,,automatic,ak,ak
