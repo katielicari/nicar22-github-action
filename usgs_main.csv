@@ -19726,3 +19726,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T10:41:52.700Z,33.6668333,-116.7286667,14.25,0.92,ml,37.0,45.0,0.04584,0.14,ci,ci40020079,2022-05-16T10:45:28.434Z,"8km S of Idyllwild, CA",earthquake,0.2,0.33,0.201,27.0,automatic,ci,ci
 2022-05-16T10:31:07.280Z,36.0018333,-117.9273333,1.82,2.01,ml,27.0,68.0,0.03052,0.14,ci,ci40020071,2022-05-16T10:42:00.430Z,"5km SSE of Coso Junction, CA",earthquake,0.24,0.34,0.234,26.0,automatic,ci,ci
 2022-05-16T10:28:59.996Z,65.7463,-155.0717,3.4,3.3,ml,,,,0.73,ak,ak0226937nu2,2022-05-16T10:33:53.852Z,"50 km SW of Hughes, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-05-16T10:58:17.108Z,62.2274,-148.7945,39.1,1.0,ml,,,,0.36,ak,ak022693e023,2022-05-16T11:02:33.586Z,"50 km N of Sutton-Alpine, Alaska",earthquake,,1.8,,,automatic,ak,ak
