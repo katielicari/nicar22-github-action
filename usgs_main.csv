@@ -19873,3 +19873,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T06:43:10.000Z,34.0103333,-116.4478333,7.65,0.49,ml,14.0,117.0,0.07598,0.11,ci,ci37499133,2022-05-16T21:37:53.373Z,"7km NE of Desert Hot Springs, CA",earthquake,0.19,0.56,0.238,5.0,reviewed,ci,ci
 2022-05-16T02:33:06.870Z,51.864,-177.8665,7.96,-0.15,ml,4.0,255.0,,0.06,av,av91058748,2022-05-16T21:26:31.880Z,"84 km W of Adak, Alaska",earthquake,0.62,1.15,0.238483763164813,4.0,reviewed,av,av
 2022-05-15T21:39:15.849Z,35.484,-97.90433333,6.1,1.29,ml,14.0,87.0,0.06478728652,0.21,ok,ok2022jmmh,2022-05-16T21:36:21.927Z,"7 km SE of El Reno, Oklahoma",earthquake,,1.5,0.3,4.0,reviewed,ok,ok
+2022-05-16T21:45:28.540Z,33.909,-117.5023333,6.54,1.91,ml,10.0,121.0,0.09662,0.25,ci,ci40020591,2022-05-16T21:49:17.644Z,"4km NNE of Home Gardens, CA",earthquake,0.82,3.06,0.264,24.0,automatic,ci,ci
