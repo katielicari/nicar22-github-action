@@ -21075,3 +21075,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T16:05:34.360Z,38.7731667,-122.7211667,1.46,0.05,md,10.0,127.0,0.01191,0.02,nc,nc73736016,2022-05-21T09:10:11.384Z,"2km W of Anderson Springs, CA",earthquake,0.42,0.75,,1.0,reviewed,nc,nc
 2022-05-21T09:33:26.140Z,33.9758339,-116.5818329,7.47,1.27,ml,41.0,74.0,0.08322,0.12,ci,ci40023575,2022-05-21T09:35:31.611Z,"8km WNW of Desert Hot Springs, CA",earthquake,0.23,1.02,0.169,8.0,automatic,ci,ci
 2022-05-21T09:19:28.110Z,35.7041667,-117.6511667,0.2,0.35,ml,7.0,106.0,0.08172,0.14,ci,ci40023567,2022-05-21T09:23:04.564Z,"10km NNE of Ridgecrest, CA",earthquake,0.62,31.61,0.125,4.0,automatic,ci,ci
+2022-05-21T09:39:43.591Z,63.4208,-151.511,1.0,1.0,ml,,,,0.55,ak,ak0226hcdadb,2022-05-21T09:48:37.409Z,"17 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
