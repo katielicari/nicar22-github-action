@@ -21039,3 +21039,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T05:50:25.684Z,65.0348,-147.4958,0.0,1.0,ml,,,,1.11,ak,ak0226ha1vfs,2022-05-21T06:00:40.601Z,"10 km NE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-21T05:48:38.651Z,60.0072,-152.8038,98.4,2.1,ml,,,,0.55,ak,ak0226ha1gyn,2022-05-21T06:00:39.778Z,"60 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-20T11:59:53.419Z,31.68739569,-104.2838373,6.902807617,2.3,ml,17.0,64.0,0.02260377997,0.2,tx,tx2022juwr,2022-05-21T05:52:05.448Z,"54 km S of Whites City, New Mexico",earthquake,0.8851331141999998,0.8123605355999999,0.2,24.0,reviewed,tx,tx
+2022-05-21T06:34:48.383Z,61.271,-146.4086,3.5,1.8,ml,,,,1.08,ak,ak0226hajxdu,2022-05-21T06:38:15.060Z,"15 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-21T06:15:06.540Z,33.512,-116.835,15.09,0.74,ml,16.0,122.0,0.09744,0.28,ci,ci40023519,2022-05-21T06:18:49.312Z,"8km NNE of Aguanga, CA",earthquake,0.9,1.8,0.189,9.0,automatic,ci,ci
+2022-05-20T07:09:35.042Z,31.68479033,-104.2975459,8.625244141,2.0,ml,9.0,97.0,0.03080593899,0.3,tx,tx2022jund,2022-05-21T06:34:39.812Z,"54 km S of Whites City, New Mexico",earthquake,1.3621339,1.229027643,0.1,12.0,reviewed,tx,tx
