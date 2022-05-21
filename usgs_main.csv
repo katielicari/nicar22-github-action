@@ -21076,3 +21076,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T09:33:26.140Z,33.9758339,-116.5818329,7.47,1.27,ml,41.0,74.0,0.08322,0.12,ci,ci40023575,2022-05-21T09:35:31.611Z,"8km WNW of Desert Hot Springs, CA",earthquake,0.23,1.02,0.169,8.0,automatic,ci,ci
 2022-05-21T09:19:28.110Z,35.7041667,-117.6511667,0.2,0.35,ml,7.0,106.0,0.08172,0.14,ci,ci40023567,2022-05-21T09:23:04.564Z,"10km NNE of Ridgecrest, CA",earthquake,0.62,31.61,0.125,4.0,automatic,ci,ci
 2022-05-21T09:39:43.591Z,63.4208,-151.511,1.0,1.0,ml,,,,0.55,ak,ak0226hcdadb,2022-05-21T09:48:37.409Z,"17 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-21T09:57:12.828Z,65.0133,-148.7709,7.8,1.0,ml,,,,0.38,ak,ak0226hch2vr,2022-05-21T10:01:19.153Z,"31 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-21T09:51:01.794Z,36.29756927,-98.17848206,3.125697613,2.12,ml,30.0,73.18418884,0.2598652244,0.4870070905,ok,ok2022jwny,2022-05-21T09:54:18.484Z,"5 km N of Ames, Oklahoma",earthquake,2.250867255,1.734783384,,24.0,automatic,ok,ok
+2022-05-21T09:47:34.899Z,59.7094,-152.8106,78.7,1.8,ml,,,,0.21,ak,ak0226hceya3,2022-05-21T10:01:18.347Z,"55 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
