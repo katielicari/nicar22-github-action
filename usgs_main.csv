@@ -21209,3 +21209,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T00:57:58.850Z,17.9805,-66.7486666666667,15.43,2.45,md,25.0,154.0,,0.21,pr,pr71349843,2022-05-22T01:28:52.630Z,"3 km WSW of Tallaboa, Puerto Rico",earthquake,0.39,0.5,0.355066216735208,15.0,reviewed,pr,pr
 2022-05-22T00:04:52.370Z,33.726,-117.0641667,17.66,1.47,ml,11.0,137.0,0.2733,0.33,ci,ci40023887,2022-05-22T00:08:41.067Z,"2km SE of Green Acres, CA",earthquake,1.57,4.16,0.293,20.0,automatic,ci,ci
 2022-05-22T00:01:41.860Z,18.6115,-65.143,77.03,3.42,md,23.0,253.0,,0.35,pr,pr71349818,2022-05-22T00:30:48.040Z,"37 km NW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.82,1.12,0.0733134043092087,12.0,reviewed,pr,pr
+2022-05-22T03:13:27.410Z,19.1464996337891,-155.469161987305,31.0699996948242,2.07999992,md,41.0,163.0,,0.140000001,hv,hv73019547,2022-05-22T03:16:35.580Z,"6 km S of Pāhala, Hawaii",earthquake,0.56,0.769999981,0.970000029,20.0,automatic,hv,hv
+2022-05-22T03:08:50.250Z,38.7859993,-122.7316666,0.84,0.87,md,5.0,191.0,0.004821,0.01,nc,nc73736471,2022-05-22T03:10:26.475Z,"2km ENE of The Geysers, CA",earthquake,1.02,0.83,,1.0,automatic,nc,nc
+2022-05-22T03:01:24.519Z,65.1519,-148.9698,13.0,1.2,ml,,,,0.51,ak,ak0226iw3ujn,2022-05-22T03:16:41.648Z,"17 km E of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-22T02:36:14.747Z,61.794,-149.5723,37.5,1.7,ml,,,,0.68,ak,ak0226ivpw8q,2022-05-22T02:54:18.378Z,"18 km WNW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-22T02:33:18.950Z,18.0235,-67.4028333333333,3.19,2.85,md,13.0,253.0,,0.2,pr,pr71349898,2022-05-22T02:51:00.010Z,Mona Passage,earthquake,0.94,0.61,0.0809368190554731,12.0,reviewed,pr,pr
+2022-05-22T02:27:00.113Z,-22.1857,-179.5167,584.8,4.7,mb,,92.0,4.974,0.93,us,us6000hn08,2022-05-22T02:47:52.308Z,south of the Fiji Islands,earthquake,6.5,8.4,0.031,306.0,reviewed,us,us
+2022-05-22T02:10:07.540Z,38.8121681,-122.8134995,2.79,0.84,md,11.0,93.0,0.01153,0.02,nc,nc73736466,2022-05-22T02:27:17.842Z,"6km NW of The Geysers, CA",earthquake,0.36,1.15,,1.0,automatic,nc,nc
+2022-05-22T02:06:50.901Z,61.5197,-149.8965,33.6,1.5,ml,,,,0.6,ak,ak0226ivjjk2,2022-05-22T02:31:50.436Z,"3 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
