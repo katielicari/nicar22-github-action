@@ -21217,3 +21217,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T02:27:00.113Z,-22.1857,-179.5167,584.8,4.7,mb,,92.0,4.974,0.93,us,us6000hn08,2022-05-22T02:47:52.308Z,south of the Fiji Islands,earthquake,6.5,8.4,0.031,306.0,reviewed,us,us
 2022-05-22T02:10:07.540Z,38.8121681,-122.8134995,2.79,0.84,md,11.0,93.0,0.01153,0.02,nc,nc73736466,2022-05-22T02:27:17.842Z,"6km NW of The Geysers, CA",earthquake,0.36,1.15,,1.0,automatic,nc,nc
 2022-05-22T02:06:50.901Z,61.5197,-149.8965,33.6,1.5,ml,,,,0.6,ak,ak0226ivjjk2,2022-05-22T02:31:50.436Z,"3 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-22T03:44:32.580Z,38.8180008,-122.7638321,1.85,1.38,md,25.0,113.0,0.01333,0.04,nc,nc73736486,2022-05-22T03:47:16.255Z,"4km W of Cobb, CA",earthquake,0.26,0.36,0.12,6.0,automatic,nc,nc
+2022-05-22T03:41:43.150Z,38.8170013,-122.8161697,2.81,0.84,md,11.0,107.0,0.007965,0.01,nc,nc73736481,2022-05-22T03:43:21.185Z,"7km NW of The Geysers, CA",earthquake,0.43,0.92,,1.0,automatic,nc,nc
+2022-05-22T03:33:59.720Z,33.8945,-117.2601667,11.5,0.93,ml,18.0,124.0,0.0562,0.3,ci,ci40023927,2022-05-22T03:37:41.617Z,"0km NE of March Air Reserve Base, CA",earthquake,0.85,1.32,0.23,25.0,automatic,ci,ci
+2022-05-22T03:27:08.450Z,62.2747,-153.2893,0.0,1.8,ml,,,,0.53,ak,ak0226iw9dwy,2022-05-22T03:47:08.263Z,"99 km SSE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-22T03:24:11.705Z,36.8333,141.4118,10.0,5.4,mww,,120.0,2.594,0.87,us,us6000hn0i,2022-05-22T03:48:16.958Z,"52 km ESE of Iwaki, Japan",earthquake,7.4,1.9,0.089,12.0,reviewed,us,us
+2022-05-22T03:15:35.210Z,19.1498336791992,-155.477172851562,30.8999996185303,1.99000001,md,38.0,159.0,,0.180000007,hv,hv73019552,2022-05-22T03:18:41.460Z,"5 km S of Pāhala, Hawaii",earthquake,0.67,0.99000001,1.41999996,10.0,automatic,hv,hv
+2022-05-21T23:30:54.907Z,61.248,-146.7918,14.6,1.4,ml,,,,0.86,ak,ak0226hknf4r,2022-05-22T03:42:07.105Z,"27 km WNW of Valdez, Alaska",earthquake,,0.7,,,reviewed,ak,ak
