@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-05T15:55:09.870Z,59.7806,-153.173,102.8,2,ml,,,,0.23,ak,ak0227693g97,2022-06-05T15:56:53.684Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-05T15:46:04.106Z,63.5762,-150.66,0,1.5,ml,,,,0.63,ak,ak0227691id6,2022-06-05T15:52:19.357Z,"53 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-06-05T15:34:16.666Z,-57.7448,148.0946,10,4.7,mb,,103,6.887,0.33,us,us7000hf63,2022-06-05T15:54:54.040Z,"west of Macquarie Island",earthquake,7.2,1.9,0.138,16,reviewed,us,us
 2022-06-05T15:31:06.609Z,61.1321,-149.7323,8.7,2.1,ml,,,,0.9,ak,ak022768yats,2022-06-05T15:33:58.086Z,"13 km SE of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-05T15:06:20.630Z,19.2591667175293,-155.390502929688,32.9799995422363,2.01,ml,41,131,,0.140000001,hv,hv73034712,2022-06-05T15:11:50.060Z,"11 km NE of Pāhala, Hawaii",earthquake,0.57,0.639999986,3.98,5,automatic,hv,hv
 2022-06-05T15:04:46.405Z,58.755,-153.0722,59.9,2.1,ml,,,,0.47,ak,ak022768sljg,2022-06-05T15:32:15.040Z,"77 km N of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -14,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-05T13:21:06.443Z,41.2752,19.4802,10,4.3,mb,,38,0.297,0.41,us,us7000hf5i,2022-06-05T13:49:51.040Z,"5 km SSE of Durrës, Albania",earthquake,4,1.9,0.218,10,reviewed,us,us
 2022-06-05T13:19:10.213Z,63.1627,-149.8342,79,1.6,ml,,,,0.97,ak,ak022767ovaz,2022-06-05T13:24:59.329Z,"51 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-05T13:08:04.100Z,19.2101669311523,-155.406326293945,34.5699996948242,2.2,ml,46,152,,0.109999999,hv,hv73034617,2022-06-05T13:19:02.040Z,"7 km E of Pāhala, Hawaii",earthquake,0.55,0.709999979,4.13,12,automatic,hv,hv
-2022-06-05T13:01:37.760Z,19.3320007324219,-154.95849609375,1.69000005722046,2.93,ml,38,230,,0.310000002,hv,hv73034612,2022-06-05T15:35:26.353Z,"15 km SSW of Leilani Estates, Hawaii",earthquake,1.24,0.800000012,3.18,29,automatic,hv,hv
+2022-06-05T13:01:37.760Z,19.3320007324219,-154.95849609375,1.69000005722046,2.93,ml,38,230,,0.310000002,hv,hv73034612,2022-06-05T15:53:38.363Z,"15 km SSW of Leilani Estates, Hawaii",earthquake,1.24,0.800000012,3.18,29,automatic,hv,hv
 2022-06-05T12:56:28.860Z,37.7993317,-122.1951675,9.52,0.7,md,9,142,0.0233,0.03,nc,nc73740821,2022-06-05T13:52:14.047Z,"3km E of Oakland, CA",earthquake,0.57,0.81,0.2,5,automatic,nc,nc
 2022-06-05T12:51:58.586Z,61.9062,-147.3904,33.4,1.8,ml,,,,0.59,ak,ak022767aec2,2022-06-05T12:53:42.732Z,"12 km WSW of Eureka Roadhouse, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-06-05T12:50:54.880Z,35.8258333,-117.6588333,8.5,0.58,ml,7,109,0.05085,0.03,ci,ci40034271,2022-06-05T12:54:35.963Z,"23km N of Ridgecrest, CA",earthquake,0.19,0.63,0.209,8,automatic,ci,ci
@@ -109,6 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T23:30:14.380Z,37.6428333,-118.8926667,-2.31,0.45,md,7,146,0.003657,0.04,nc,nc73740666,2022-06-05T07:27:15.668Z,"8km E of Mammoth Lakes, CA",earthquake,0.35,0.5,0.322,6,reviewed,nc,nc
 2022-06-04T23:26:04.010Z,33.4465,-116.641,4.58,0.68,ml,30,38,0.04987,0.2,ci,ci40034015,2022-06-04T23:29:40.145Z,"12km SSE of Anza, CA",earthquake,0.25,0.44,0.182,21,automatic,ci,ci
 2022-06-04T23:23:37.127Z,64.3539,-149.1067,8.1,1,ml,,,,0.52,ak,ak02274q4rsg,2022-06-04T23:28:01.483Z,"4 km ENE of Anderson, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-06-04T23:15:41.628Z,39.4423,-120.2902,9.6,0.9,ml,9,126.33,0.023,0.166,nn,nn00840355,2022-06-05T15:56:45.174Z,"Northern California",earthquake,,2.9,0.31,5,reviewed,nn,nn
 2022-06-04T23:04:49.501Z,59.7722,-151.9243,67.9,1.4,ml,,,,0.36,ak,ak02274q0q5t,2022-06-04T23:20:10.370Z,"5 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-04T23:04:19.175Z,64.9857,-147.4313,4.7,1,ml,,,,0.73,ak,ak02274q0nsa,2022-06-04T23:17:25.699Z,"9 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-04T22:46:01.550Z,19.1983337402344,-155.395660400391,30.2099990844727,1.97000003,md,42,163,,0.100000001,hv,hv73033922,2022-06-04T22:49:05.200Z,"8 km E of Pāhala, Hawaii",earthquake,0.57,1.00999999,0.140000001,13,automatic,hv,hv
