@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-11T07:02:51.150Z,38.7606659,-122.6135025,6.55,1.53,md,11,124,0.05055,0.04,nc,nc73743896,2022-06-11T07:04:28.094Z,"1km N of Middletown, CA",earthquake,0.67,0.9,0.05,6,automatic,nc,nc
+2022-06-11T07:00:38.390Z,38.7718315,-122.7378311,1.12,0.66,md,11,126,0.0144,0.03,nc,nc73743891,2022-06-11T07:09:11.100Z,"2km ESE of The Geysers, CA",earthquake,0.28,0.45,0.21,3,automatic,nc,nc
 2022-06-11T06:44:58.230Z,33.992,-117.1775,19.21,0.68,ml,13,148,0.1321,0.29,ci,ci40038255,2022-06-11T06:48:38.621Z,"7km S of Redlands, CA",earthquake,0.72,1.12,0.171,11,automatic,ci,ci
+2022-06-11T06:35:29.895Z,-7.9054,-13.6246,10,5.1,mww,,45,0.729,0.45,us,us7000hgp0,2022-06-11T06:57:22.040Z,"86 km E of Georgetown, Saint Helena",earthquake,7.5,1.9,0.098,10,reviewed,us,us
 2022-06-11T06:01:59.096Z,39.0345,-119.7081,10.5,1.2,ml,14,55.05,0.1,0.1313,nn,nn00840773,2022-06-11T06:05:15.705Z,"1 km SE of Johnson Lane, Nevada",earthquake,,0.6,0.39,11,automatic,nn,nn
+2022-06-11T05:32:27.750Z,18.0205,-66.682,12.88,2.05,md,4,277,,0.09,pr,pr71353468,2022-06-11T06:56:58.310Z,"3 km SSE of Tallaboa Alta, Puerto Rico",earthquake,1.33,0.62,0.0370428856008425,3,reviewed,pr,pr
 2022-06-11T05:32:17.910Z,37.5429993,-118.8779984,6.29,1.77,md,19,109,0.06094,0.02,nc,nc73743886,2022-06-11T06:07:12.691Z,"14km SE of Mammoth Lakes, CA",earthquake,0.31,0.97,0.15,20,automatic,nc,nc
 2022-06-11T05:30:23.150Z,19.1765003204346,-155.497161865234,34.5400009155273,2.02,ml,36,88,,0.119999997,hv,hv73040732,2022-06-11T05:35:53.700Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.790000021,5.16,5,automatic,hv,hv
 2022-06-11T05:02:59.202Z,62.8552,-143.2963,0,0.9,ml,,,,0.91,ak,ak0227g01y0t,2022-06-11T05:05:23.206Z,"25 km ESE of Mentasta Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -187,7 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T08:32:28.669Z,39.5387,-120.3696,7.9,0.4,ml,9,192.81,0.121,0.1456,nn,nn00840744,2022-06-11T02:38:03.334Z,"5 km S of Sierraville, California",earthquake,,2.6,0.23,4,reviewed,nn,nn
 2022-06-10T08:28:10.850Z,33.2455,-116.104,7.6,0.82,ml,31,65,0.1044,0.18,ci,ci40037791,2022-06-10T17:51:10.969Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.21,0.59,0.09,12,reviewed,ci,ci
 2022-06-10T08:26:30.959Z,38.5231,-119.5068,7.7,-0.1,ml,3,238.55,0.057,0.0832,nn,nn00840743,2022-06-11T02:38:01.278Z,"2 km WNW of Walker, California",earthquake,,3.8,0.16,2,reviewed,nn,nn
-2022-06-10T08:26:03.200Z,19.1913333333333,-155.492833333333,32.75,3.55,ml,56,79,,0.1,hv,hv73039827,2022-06-10T21:16:08.232Z,"1 km SW of Pāhala, Hawaii",earthquake,0.44,0.57,0.165490030133127,39,reviewed,hv,hv
+2022-06-10T08:26:03.200Z,19.1913333333333,-155.492833333333,32.75,3.55,ml,56,79,,0.1,hv,hv73039827,2022-06-11T07:08:33.106Z,"1 km SW of Pāhala, Hawaii",earthquake,0.44,0.57,0.165490030133127,39,reviewed,hv,hv
 2022-06-10T08:24:55.950Z,36.0803333,-117.8988333,1.6,1.01,ml,17,85,0.05148,0.14,ci,ci40037783,2022-06-10T17:24:21.783Z,"6km NE of Coso Junction, CA",earthquake,0.24,0.31,0.287,7,reviewed,ci,ci
 2022-06-10T08:22:02.440Z,37.553,-118.7691667,5.59,0.51,md,19,183,0.06029,0.04,nc,nc73743571,2022-06-10T09:33:15.540Z,"8km W of Toms Place, CA",earthquake,0.63,0.84,0.17,17,reviewed,nc,nc
 2022-06-10T08:20:53.299Z,44.4961,-115.2106,10,2.2,ml,,63,0.816,0.97,us,us7000hges,2022-06-11T04:34:52.040Z,"37 km NW of Stanley, Idaho",earthquake,1.6,2,0.077,22,reviewed,us,us
@@ -201,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T07:34:53.890Z,35.5106667,-118.3935,3.61,0.75,ml,14,101,0.1654,0.12,ci,ci40037767,2022-06-10T17:14:37.047Z,"12km SE of Bodfish, CA",earthquake,0.23,0.66,0.124,6,reviewed,ci,ci
 2022-06-10T07:18:30.190Z,38.7548332,-122.7283325,2.6,0.6,md,9,113,0.007275,0.04,nc,nc73743556,2022-06-10T07:27:11.893Z,"4km SE of The Geysers, CA",earthquake,0.54,0.41,0.28,2,automatic,nc,nc
 2022-06-10T07:12:13.852Z,37.4714,-116.36,16.5,-0.3,ml,5,279.47,0.309,0.0677,nn,nn00840742,2022-06-11T02:37:59.686Z,"57 km WSW of Rachel, Nevada",earthquake,,9.9,0.83,3,reviewed,nn,nn
-2022-06-10T06:52:45.590Z,17.9075,-67.0278333333333,13.53,2.43,md,6,258,,0.08,pr,pr71353333,2022-06-10T07:05:41.400Z,"7 km SSE of La Parguera, Puerto Rico",earthquake,0.88,0.7,0.0502248324905001,3,reviewed,pr,pr
