@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-18T16:06:30.435Z,35.0880127,-95.5202179,2.492516279,1.82,ml,15,111.3649292,0.1212614477,0.3681201951,ok,ok2022lwek,2022-06-18T16:08:08.724Z,"14 km WSW of Quinton, Oklahoma",earthquake,4.350444963,3.470465747,,7,automatic,ok,ok
-2022-06-18T15:36:47.360Z,36.0211678,-120.5784988,2.9,0.59,md,8,134,0.03593,0.04,nc,nc73747061,2022-06-18T15:53:23.328Z,"19km NW of Parkfield, CA",earthquake,0.46,1.41,0.01,3,automatic,nc,nc
+2022-06-18T16:37:58.570Z,34.2078333,-117.5226667,10.69,1.2,ml,23,48,0.08038,0.21,ci,ci40286824,2022-06-18T16:41:33.556Z,"6km SSW of Lytle Creek, CA",earthquake,0.38,0.68,0.272,33,automatic,ci,ci
+2022-06-18T16:27:57.720Z,33.2881667,-116.0788333,1.26,1.08,ml,25,65,0.1423,0.33,ci,ci40286816,2022-06-18T16:31:32.082Z,"12km W of Salton City, CA",earthquake,0.42,1.11,0.182,25,automatic,ci,ci
+2022-06-18T16:06:30.435Z,35.0880127,-95.5202179,2.492516279,2.04,ml,15,111.3649292,0.1212614477,0.3681201951,ok,ok2022lwek,2022-06-18T16:08:55.103Z,"14 km WSW of Quinton, Oklahoma",earthquake,4.350444963,3.470465747,,13,automatic,ok,ok
+2022-06-18T15:53:20.450Z,17.8936666666667,-66.8665,11.11,2.82,md,6,239,,0.12,pr,pr71354853,2022-06-18T16:36:28.190Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,1,0.69,0.0610413394423557,4,reviewed,pr,pr
+2022-06-18T15:48:58.940Z,18.9498333333333,-66.7778333333333,3.53,3.25,md,11,276,,0.67,pr,pr71354848,2022-06-18T16:32:47.450Z,"51 km N of Hatillo, Puerto Rico",earthquake,3.46,3.63,0.21989958216257,9,reviewed,pr,pr
+2022-06-18T15:36:47.360Z,36.0211678,-120.5784988,2.9,0.59,md,8,134,0.03593,0.04,nc,nc73747061,2022-06-18T16:10:15.412Z,"19km NW of Parkfield, CA",earthquake,0.46,1.41,0.01,3,automatic,nc,nc
 2022-06-18T15:31:15.155Z,62.1226,-147.4978,32.7,1.1,ml,,,,0.43,ak,ak0227rqxtwb,2022-06-18T15:33:04.771Z,"26 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-18T15:05:10.272Z,-32.4156,-177.2727,18.77,4.9,mb,,152,3.192,0.91,us,us7000hidx,2022-06-18T15:25:16.040Z,"south of the Kermadec Islands",earthquake,11.7,7.3,0.136,19,reviewed,us,us
 2022-06-18T14:58:18.430Z,61.6822,-147.1749,34.4,1.9,ml,,,,0.32,ak,ak0227rqi6vn,2022-06-18T14:59:25.653Z,"28 km S of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -186,7 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T16:50:36.810Z,38.7879982,-122.7501678,2.56,1.14,md,20,82,0.01153,0.03,nc,nc73746766,2022-06-17T19:26:10.874Z,"1km NNE of The Geysers, CA",earthquake,0.28,0.56,0.04,4,automatic,nc,nc
 2022-06-17T16:48:05.781Z,38.4067,-118.3711,6.6,0.2,ml,6,128,0.04,0.1049,nn,nn00841107,2022-06-18T02:40:09.177Z,"22 km W of Mina, Nevada",earthquake,,3.2,0,1,reviewed,nn,nn
 2022-06-17T16:45:01.880Z,-7.1598,129.3538,149.33,5.1,mb,,71,2.094,0.86,us,us7000hi6l,2022-06-17T17:02:44.040Z,"Kepulauan Babar, Indonesia",earthquake,8.2,8.3,0.079,52,reviewed,us,us
-2022-06-17T16:38:58.590Z,38.7970009,-122.7470016,1.94,0.37,md,8,176,0.01057,0.02,nc,nc73746761,2022-06-17T16:55:13.021Z,"2km NNE of The Geysers, CA",earthquake,0.61,0.77,,1,automatic,nc,nc
-2022-06-17T16:37:03.040Z,58.563,-154.634833333333,7.08,-0.21,ml,4,212,,0.03,av,av91063273,2022-06-18T07:05:20.170Z,"97 km S of Kokhanok, Alaska",earthquake,0.45,0.78,0.306830609142867,4,reviewed,av,av
-2022-06-17T16:29:21.800Z,31.9926667,-116.1778333,14.34,1.86,ml,20,158,0.1957,0.17,ci,ci40286176,2022-06-17T17:15:43.774Z,"44km ENE of Ensenada, B.C., MX",earthquake,0.36,0.61,0.33,6,reviewed,ci,ci
-2022-06-17T16:25:07.310Z,53.8938333333333,-166.892833333333,3.51,0.12,ml,5,186,,0.09,av,av91601481,2022-06-18T07:03:09.570Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.35,1.25,0.111946106895325,5,reviewed,av,av
