@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-19T23:32:23.740Z,34.1608333,-117.3568333,13.41,1.18,ml,28,106,0.04573,0.2,ci,ci40287464,2022-06-19T23:35:56.925Z,"1km WNW of Muscoy, CA",earthquake,0.45,0.75,0.247,29,automatic,ci,ci
 2022-06-19T23:07:00.786Z,65.0033,-147.4561,0,1.1,ml,,,,0.55,ak,ak0227tj3gxq,2022-06-19T23:08:05.615Z,"9 km ENE of Fox, Alaska",earthquake,,28.8,,,automatic,ak,ak
 2022-06-19T22:55:02.481Z,63.3307,-153.253,15.4,1.3,ml,,,,0.37,ak,ak0227tisbu0,2022-06-19T22:56:46.242Z,"66 km ENE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-19T22:54:02.890Z,38.8231667,-122.7636667,2.14,0.39,md,13,153,0.008775,0.01,nc,nc73747761,2022-06-19T23:19:10.773Z,"4km W of Cobb, CA",earthquake,0.49,0.46,0.172,2,reviewed,nc,nc
+2022-06-19T22:54:02.890Z,38.8231667,-122.7636667,2.14,0.39,md,13,153,0.008775,0.01,nc,nc73747761,2022-06-19T23:24:12.809Z,"4km W of Cobb, CA",earthquake,0.49,0.46,0.172,2,reviewed,nc,nc
 2022-06-19T22:47:08.317Z,57.1053,-155.3877,29.3,1.8,ml,,,,0.03,ak,ak0227tiqmjz,2022-06-19T22:48:58.532Z,"75 km WNW of Akhiok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-19T22:40:56.294Z,27.5201,103.7248,10,4.5,mb,,74,6.169,0.8,us,us7000hiln,2022-06-19T22:52:36.040Z,"22 km N of Zhaotong, China",earthquake,9.9,1.9,0.111,24,reviewed,us,us
 2022-06-19T22:36:54.170Z,19.7250003814697,-156.092330932617,14.6800003051758,2.72,ml,37,255,,0.280000001,hv,hv73049167,2022-06-19T23:19:57.659Z,"11 km W of Kalaoa, Hawaii",earthquake,3.15,24.7999992,3.39,7,automatic,hv,hv
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-19T21:21:17.080Z,19.2186660766602,-155.399337768555,31.3500003814697,2.43,ml,31,164,,0.119999997,hv,hv73049042,2022-06-19T21:41:06.313Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.55,0.800000012,0.23,3,automatic,hv,hv
 2022-06-19T21:17:22.560Z,19.1998333333333,-155.385666666667,32.71,3.78,ml,54,161,,0.11,hv,hv73049032,2022-06-19T23:19:29.852Z,"9 km E of Pāhala, Hawaii",earthquake,0.44,0.53,0.161975255768855,33,reviewed,hv,hv
 2022-06-19T21:15:18.230Z,19.241,-155.399166666667,33.07,3.89,ml,55,75,,0.12,hv,hv73049027,2022-06-19T23:22:01.677Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.4,0.49,0.173431487181753,34,reviewed,hv,hv
-2022-06-19T21:05:38.850Z,38.8388329,-122.8099976,1.98,1.56,md,30,36,0.01535,0.02,nc,nc73747746,2022-06-19T23:17:15.764Z,"8km WNW of Cobb, CA",earthquake,0.18,0.32,0.06,8,automatic,nc,nc
+2022-06-19T21:05:38.850Z,38.8388329,-122.8099976,1.98,1.56,md,30,36,0.01535,0.02,nc,nc73747746,2022-06-19T23:22:10.794Z,"8km WNW of Cobb, CA",earthquake,0.18,0.32,0.06,8,automatic,nc,nc
 2022-06-19T20:58:41.770Z,33.5531667,-116.672,6.09,0.39,ml,16,46,0.04937,0.2,ci,ci40287400,2022-06-19T21:02:15.828Z,"0km SE of Anza, CA",earthquake,0.36,0.86,0.148,11,automatic,ci,ci
 2022-06-19T20:45:41.322Z,57.8403,-153.6388,56.6,2.3,ml,,,,0.31,ak,ak0227thjegm,2022-06-19T20:59:41.040Z,"39 km NNE of Larsen Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-19T20:44:34.670Z,31.6579,-104.4736,7.94,2.7,ml,,66,0.025,0.29,us,us7000hil0,2022-06-19T20:56:38.040Z,"58 km S of Whites City, New Mexico",earthquake,1.2,6.1,0.059,64,reviewed,us,us
