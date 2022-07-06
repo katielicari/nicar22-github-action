@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T10:43:38.520Z,37.628,-118.8618333,5.37,-0.16,md,10,88,0.009036,0.03,nc,nc73755291,2022-07-06T11:19:53.618Z,"10km E of Mammoth Lakes, CA",earthquake,1.1,0.88,0.224,9,reviewed,nc,nc
 2022-07-06T10:32:19.417Z,60.0552,-148.675,35.4,1.8,ml,,,,0.61,ak,ak0228lfn3zp,2022-07-06T10:35:06.354Z,"36 km W of Chenega, Alaska",earthquake,,6.9,,,automatic,ak,ak
 2022-07-06T10:31:27.370Z,33.5365,-116.4485,6.29,0.57,ml,17,51,0.0231,0.13,ci,ci40297912,2022-07-06T10:35:00.560Z,"19km SW of La Quinta, CA",earthquake,0.22,0.6,0.163,11,automatic,ci,ci
-2022-07-06T10:27:12.340Z,39.3371667,-123.4078333,6.7,1.2,md,12,121,0.1425,0.07,nc,nc73755286,2022-07-06T11:22:11.168Z,"9km SSW of Willits, CA",earthquake,0.39,1.51,0.445,11,reviewed,nc,nc
+2022-07-06T10:27:12.340Z,39.3371667,-123.4078333,6.7,1.2,md,12,121,0.1425,0.07,nc,nc73755286,2022-07-06T11:40:16.274Z,"9km SSW of Willits, CA",earthquake,0.39,1.51,0.445,11,reviewed,nc,nc
 2022-07-06T10:20:16.490Z,38.8230019,-122.7963333,1.12,0.84,md,9,66,0.01074,0.02,nc,nc73755281,2022-07-06T11:25:15.186Z,"6km NW of The Geysers, CA",earthquake,0.32,1.05,,1,automatic,nc,nc
 2022-07-06T10:16:56.300Z,36.3834991,-120.7214966,15.12,1.73,md,9,151,0.07934,0.06,nc,nc73755276,2022-07-06T11:00:15.034Z,"6km SW of New Idria, CA",earthquake,0.58,1,0.22,8,automatic,nc,nc
 2022-07-06T10:11:38.360Z,38.7656667,-119.745,5.7,2.19,md,22,59,0.1356,0.14,nc,nc73755271,2022-07-06T11:36:10.249Z,"6km ESE of Mesa Vista, CA",earthquake,0.25,0.97,0.294,32,reviewed,nc,nc
@@ -224,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-05T11:49:44.930Z,19.1641674041748,-155.482666015625,31.25,1.74000001,md,24,165,,0.200000003,hv,hv73065717,2022-07-05T11:52:59.720Z,"4 km S of Pāhala, Hawaii",earthquake,0.87,1.62,0.860000014,3,automatic,hv,hv
 2022-07-05T11:49:33.970Z,33.876,-116.8308333,12.25,0.64,ml,18,87,0.05064,0.14,ci,ci40297072,2022-07-05T11:53:09.070Z,"6km SW of Cabazon, CA",earthquake,0.32,0.62,0.145,16,automatic,ci,ci
 2022-07-05T11:45:16.850Z,18.0263333333333,-66.8188333333333,11.48,1.91,md,6,151,,0.09,pr,pr71357493,2022-07-05T12:08:35.520Z,"2 km WNW of Guayanilla, Puerto Rico",earthquake,0.67,0.83,0.141368116901319,4,reviewed,pr,pr
-2022-07-05T11:44:12.460Z,19.2363338470459,-155.386001586914,33.0499992370605,2.54,ml,47,144,,0.140000001,hv,hv73065712,2022-07-05T13:13:16.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.52,0.660000026,3.5,22,automatic,hv,hv
-2022-07-05T11:41:35.242Z,38.149,-117.9031,8.9,0.7,ml,15,150.05,0.046,0.1363,nn,nn00842232,2022-07-05T22:08:39.638Z,"32 km SE of Mina, Nevada",earthquake,,1.2,0.29,4,reviewed,nn,nn
