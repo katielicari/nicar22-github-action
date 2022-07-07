@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-07T05:05:42.310Z,19.2343330383301,-155.383499145508,32.2900009155273,1.77999997,md,27,147,,0.129999995,hv,hv73067522,2022-07-07T05:08:56.390Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.81,0.99000001,0.0599999987,5,automatic,hv,hv
 2022-07-07T04:32:56.290Z,34.0391667,-117.2006667,15.97,1.12,ml,21,88,0.1083,0.18,ci,ci40298808,2022-07-07T04:36:35.359Z,"2km SW of Redlands, CA",earthquake,0.34,0.88,0.206,26,automatic,ci,ci
-2022-07-07T04:14:45.360Z,38.8208351,-122.833168,14.01,0.7,md,13,113,0.002702,0.13,nc,nc73755646,2022-07-07T05:20:10.927Z,"8km NW of The Geysers, CA",earthquake,2.13,0.78,0.05,3,automatic,nc,nc
+2022-07-07T04:14:45.360Z,38.8208351,-122.833168,14.01,0.7,md,13,113,0.002702,0.13,nc,nc73755646,2022-07-07T05:26:11.969Z,"8km NW of The Geysers, CA",earthquake,2.13,0.78,0.05,3,automatic,nc,nc
 2022-07-07T04:14:23.910Z,17.9966666666667,-67.0056666666667,10.47,2.11,md,16,130,,0.14,pr,pr71357898,2022-07-07T04:38:21.100Z,"4 km ENE of La Parguera, Puerto Rico",earthquake,0.38,0.67,0.0752649973112756,6,reviewed,pr,pr
 2022-07-07T04:11:00.640Z,17.9476666666667,-66.8471666666667,11.55,2.39,md,29,176,,0.17,pr,pr71357893,2022-07-07T04:28:14.210Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.35,0.33,0.156008912057902,19,reviewed,pr,pr
 2022-07-07T04:08:33.680Z,19.4848327636719,-155.434829711914,4.55000019073486,2.28,ml,38,51,,0.200000003,hv,hv73067487,2022-07-07T04:14:04.770Z,"21 km WNW of Volcano, Hawaii",earthquake,0.42,1.28999996,4.07,9,automatic,hv,hv
@@ -235,11 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T06:07:02.600Z,34.7988333,-119.526,20.34,2.25,ml,10,143,0.2696,0.29,ci,ci40297848,2022-07-06T06:13:55.614Z,"31km SSW of Maricopa, CA",earthquake,1.61,3.56,0.25,26,automatic,ci,ci
 2022-07-06T06:07:02.250Z,34.2933333,-119.676,0.72,2.25,ml,30,116,0.1505,0.27,ci,ci40297856,2022-07-06T06:17:47.780Z,"14km S of Santa Barbara, CA",earthquake,0.63,31.61,0.157,27,automatic,ci,ci
 2022-07-06T05:55:56.153Z,64.9203,-150.3999,17.7,1.5,ml,,,,0.59,ak,ak0228lcsz33,2022-07-06T05:57:53.689Z,"14 km SE of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-07-06T05:42:19.960Z,36.8468333,-113.9123333,4.41,1.33,ml,7,281,0.3027,0.12,uu,uu60504607,2022-07-07T02:40:23.557Z,"4 km SSE of Littlefield, Arizona",earthquake,2.84,7.74,0.122,3,reviewed,uu,uu
-2022-07-06T05:41:57.130Z,33.5925,-116.6085,15.24,0.69,ml,12,65,0.01187,0.25,ci,ci40297840,2022-07-06T05:45:28.413Z,"7km NE of Anza, CA",earthquake,0.65,1.16,0.453,8,automatic,ci,ci
-2022-07-06T05:41:13.620Z,17.9411666666667,-66.9145,13.62,2.22,md,6,246,,0.07,pr,pr71357668,2022-07-06T06:52:27.990Z,"3 km SSW of Guánica, Puerto Rico",earthquake,0.69,0.33,0.100994436050813,4,reviewed,pr,pr
-2022-07-06T05:38:26.180Z,17.9518333333333,-66.9111666666667,13.81,2.17,md,19,204,,0.24,pr,pr71357658,2022-07-06T06:54:48.660Z,"2 km S of Guánica, Puerto Rico",earthquake,0.74,0.38,0.0998299188268659,11,reviewed,pr,pr
-2022-07-06T05:34:33.271Z,37.099,-117.9259,6.3,1.1,ml,11,127.84,0.247,0.2041,nn,nn00842262,2022-07-07T02:39:37.259Z,"33 km ESE of Big Pine, California",earthquake,,2.3,0.8,9,reviewed,nn,nn
-2022-07-06T05:32:36.950Z,38.7956657,-122.7738342,3.56,1.08,md,24,74,0.01128,0.02,nc,nc73755221,2022-07-06T07:20:10.826Z,"2km NW of The Geysers, CA",earthquake,0.27,0.55,0.1,4,automatic,nc,nc
-2022-07-06T05:32:26.130Z,38.833168,-122.8143311,1.84,0.85,md,14,75,0.01031,0.01,nc,nc73755216,2022-07-06T06:55:20.689Z,"8km NW of The Geysers, CA",earthquake,0.28,0.71,,1,automatic,nc,nc
-2022-07-06T05:30:43.943Z,38.6158,-118.4618,8.2,0.8,ml,15,185.69,0.049,0.1187,nn,nn00842261,2022-07-07T02:39:33.292Z,"17 km NE of Hawthorne, Nevada",earthquake,,1.2,0.28,5,reviewed,nn,nn
