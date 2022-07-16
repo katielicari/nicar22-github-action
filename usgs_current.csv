@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-16T15:00:04.999Z,13.696,144.0205,194.37,5,mww,70,51,0.831,0.78,us,us6000i31v,2022-07-16T15:20:08.088Z,"76 km WNW of Agat Village, Guam",earthquake,8.5,4.3,0.098,10,reviewed,us,us
+2022-07-16T15:00:04.999Z,13.696,144.0205,194.37,5,mww,70,51,0.831,0.78,us,us6000i31v,2022-07-16T15:40:12.678Z,"76 km WNW of Agat Village, Guam",earthquake,8.5,4.3,0.098,10,reviewed,us,us
 2022-07-16T14:41:32.300Z,19.2019996643066,-155.418838500977,33.2400016784668,2.07999992,md,43,156,,0.129999995,hv,hv73076952,2022-07-16T14:44:50.280Z,"6 km E of Pāhala, Hawaii",earthquake,0.48,0.540000021,1.08000004,20,automatic,hv,hv
 2022-07-16T14:33:39.420Z,19.1480007171631,-155.473831176758,32.3699989318848,2.19000006,md,38,168,,0.159999996,hv,hv73076942,2022-07-16T14:37:02.190Z,"6 km S of Pāhala, Hawaii",earthquake,0.64,0.970000029,0.829999983,19,automatic,hv,hv
 2022-07-16T14:26:25.640Z,38.7555008,-122.722168,1.51,0.86,md,8,117,0.006437,0.01,nc,nc73759311,2022-07-16T15:22:13.239Z,"3km SW of Anderson Springs, CA",earthquake,0.52,0.43,0.03,2,automatic,nc,nc
@@ -137,6 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T02:42:06.340Z,18.0101666666667,-66.8541666666667,16.19,1.88,md,7,139,,0.15,pr,pr71359733,2022-07-16T02:54:33.020Z,"2 km E of Palomas, Puerto Rico",earthquake,0.58,0.84,0.127952457804602,5,reviewed,pr,pr
 2022-07-16T02:40:07.400Z,35.8741667,-117.731,6.31,1.59,ml,17,59,0.1029,0.11,ci,ci40064191,2022-07-16T02:43:42.716Z,"17km ESE of Little Lake, CA",earthquake,0.19,0.75,0.178,21,automatic,ci,ci
 2022-07-16T02:31:06.177Z,38.5778,-119.4449,7.8,1.3,ml,8,90.19,0.059,0.0736,nn,nn00843012,2022-07-16T02:38:43.373Z,"5 km ENE of Coleville, California",earthquake,,0.8,0.41,5,automatic,nn,nn
+2022-07-16T02:23:20.580Z,48.288833333333336,-121.864,3.48,1.53,ml,11,113,0.1027,0.14,uw,uw61862591,2022-07-16T15:33:44.830Z,"5 km ENE of Oso, Washington",earthquake,0.37,14.33,0.19301581338544205,7,reviewed,uw,uw
 2022-07-16T02:15:55.620Z,38.8351669,-122.8078308,2.02,0.83,md,22,51,0.01188,0.02,nc,nc73759111,2022-07-16T03:37:17.124Z,"8km W of Cobb, CA",earthquake,0.21,0.44,0.29,3,automatic,nc,nc
 2022-07-16T01:59:07.520Z,41.0041,78.0472,10,4.3,mb,31,73,1.291,1.2,us,us6000i2xu,2022-07-16T02:22:43.040Z,"145 km SSE of Kadzhi-Say, Kyrgyzstan",earthquake,5.2,1.8,0.148,13,reviewed,us,us
 2022-07-16T01:51:04.106Z,-28.8664,-175.914,10,5,mb,46,68,12.377,0.86,us,us6000i2xq,2022-07-16T02:06:47.040Z,"Kermadec Islands region",earthquake,11.9,1.9,0.12,22,reviewed,us,us
@@ -245,10 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T15:46:57.520Z,34.013,-117.0973333,12.49,1.42,ml,51,29,0.02567,0.21,ci,ci40063919,2022-07-15T15:57:57.280Z,"5km NW of Calimesa, CA",earthquake,0.27,0.69,0.19,26,automatic,ci,ci
 2022-07-15T15:44:29.280Z,38.7898331,-122.7624969,2.48,0.16,md,10,76,0.01925,0.04,nc,nc73758916,2022-07-15T16:18:17.173Z,"2km NNW of The Geysers, CA",earthquake,0.3,0.84,0.11,3,automatic,nc,nc
 2022-07-15T15:44:01.210Z,34.0141667,-116.6765,16.14,1.23,ml,28,85,0.03395,0.19,ci,ci40063911,2022-07-15T15:54:52.180Z,"10km WSW of Morongo Valley, CA",earthquake,0.28,0.62,0.15,7,automatic,ci,ci
-2022-07-15T15:42:36.770Z,38.793499,-122.7808304,3.52,0.92,md,24,78,0.005548,0.02,nc,nc73758911,2022-07-15T17:08:16.492Z,"3km NW of The Geysers, CA",earthquake,0.28,0.59,0.15,4,automatic,nc,nc
-2022-07-15T15:42:24.230Z,38.7929993,-122.7805023,3.42,0.97,md,30,78,0.005798,0.03,nc,nc73758906,2022-07-15T17:09:10.500Z,"3km NW of The Geysers, CA",earthquake,0.23,0.46,0.13,6,automatic,nc,nc
-2022-07-15T15:34:24.290Z,17.9705,-66.9203333333333,12.67,2.39,md,18,187,,0.2,pr,pr71359663,2022-07-15T16:18:41.230Z,"1 km W of Guánica, Puerto Rico",earthquake,0.66,0.35,0.0960185832095153,9,reviewed,pr,pr
-2022-07-15T15:32:00.600Z,34.0151667,-117.1008333,12.9,1.18,ml,37,53,0.0911,0.22,ci,ci40063895,2022-07-15T15:42:45.200Z,"5km NW of Calimesa, CA",earthquake,0.29,0.99,0.169,29,automatic,ci,ci
-2022-07-15T15:30:35.500Z,38.8240013,-122.7638321,1.9,0.8,md,19,125,0.008018,0.02,nc,nc73758901,2022-07-15T16:18:16.173Z,"4km W of Cobb, CA",earthquake,0.27,0.43,0.09,2,automatic,nc,nc
-2022-07-15T15:30:06.890Z,44.2895,-114.8191667,6.01,1.31,ml,5,133,0.784,0.24,mb,mb80551484,2022-07-15T22:00:50.950Z,"12 km NE of Stanley, Idaho",earthquake,0.75,13.98,0.158,6,reviewed,mb,mb
-2022-07-15T15:28:47.140Z,19.3148333333333,-155.251833333333,5.8,1.66,md,41,90,,0.12,hv,hv73076012,2022-07-16T03:12:34.020Z,"14 km S of Volcano, Hawaii",earthquake,0.26,0.53,0.252755337457047,17,reviewed,hv,hv
