@@ -1,11 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-16T04:00:20.885Z,63.3034,-151.7695,0,1.8,ml,,,,0.94,ak,ak02291v95bc,2022-07-16T04:06:04.588Z,"26 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-07-16T04:00:20.669Z,63.3506,-151.7963,0.8,1.8,ml,,,,0.72,ak,ak02291v95aq,2022-07-16T04:02:24.325Z,"21 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-07-16T03:40:03.537Z,61.5911,-151.6212,86.6,2.4,ml,,,,0.4,ak,ak02291uw90i,2022-07-16T03:58:17.040Z,"46 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-16T03:34:05.187Z,64.9131,-148.9939,16.5,0.7,ml,,,,0.17,ak,ak02291uuyue,2022-07-16T03:37:13.934Z,"31 km SSE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-16T03:32:27.730Z,18.9923,-65.2131,23,3.7,md,26,251,0.6864,0.45,pr,pr2022197002,2022-07-16T04:02:24.961Z,"76 km N of Culebra, Puerto Rico",earthquake,1.48,28.35,0.1,18,reviewed,pr,pr
 2022-07-16T03:30:36.790Z,38.8414993,-122.824501,1.59,0.86,md,14,96,0.009058,0.03,nc,nc73759151,2022-07-16T03:32:14.208Z,"9km WNW of Cobb, CA",earthquake,0.3,0.68,,1,automatic,nc,nc
-2022-07-16T03:28:29.070Z,38.8343315,-122.8095016,2.47,1.18,md,8,100,0.01093,0.02,nc,nc73759146,2022-07-16T03:30:04.267Z,"8km W of Cobb, CA",earthquake,0.46,1.7,,1,automatic,nc,nc
-2022-07-16T03:27:06.680Z,38.7815018,-122.7304993,0.01,0.9,md,8,80,0.005165,0.02,nc,nc73759131,2022-07-16T03:37:11.364Z,"2km ENE of The Geysers, CA",earthquake,0.29,0.74,0.39,2,automatic,nc,nc
-2022-07-16T03:26:49.300Z,38.7883339,-122.7083359,2.11,1.45,md,9,204,0.02134,0.01,nc,nc73759126,2022-07-16T03:28:24.041Z,"2km NW of Anderson Springs, CA",earthquake,0.74,1.8,,1,automatic,nc,nc
-2022-07-16T03:26:29.110Z,38.7854996,-122.7336655,2.08,2.56,md,58,47,0.00329,0.05,nc,nc73759136,2022-07-16T03:30:36.422Z,"2km ENE of The Geysers, CA",earthquake,0.14,0.22,0.11,48,automatic,nc,nc
-2022-07-16T03:16:07.370Z,61.7004,-152.0722,110.4,2,ml,,,,0.42,ak,ak02291ur428,2022-07-16T03:18:12.600Z,"48 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-07-16T03:28:29.070Z,38.8343315,-122.8095016,2.47,1.18,md,8,100,0.01093,0.02,nc,nc73759146,2022-07-16T03:50:10.211Z,"8km W of Cobb, CA",earthquake,0.46,1.7,,1,automatic,nc,nc
+2022-07-16T03:27:06.680Z,38.7815018,-122.7304993,0.01,0.9,md,8,80,0.005165,0.02,nc,nc73759131,2022-07-16T03:53:27.234Z,"2km ENE of The Geysers, CA",earthquake,0.29,0.74,0.39,2,automatic,nc,nc
+2022-07-16T03:26:49.300Z,38.7883339,-122.7083359,2.11,1.45,md,9,204,0.02134,0.01,nc,nc73759126,2022-07-16T03:43:15.165Z,"2km NW of Anderson Springs, CA",earthquake,0.74,1.8,,1,automatic,nc,nc
+2022-07-16T03:26:29.110Z,38.7854996,-122.7336655,2.08,2.56,md,58,47,0.00329,0.05,nc,nc73759136,2022-07-16T03:53:28.234Z,"2km ENE of The Geysers, CA",earthquake,0.14,0.22,0.11,48,automatic,nc,nc
+2022-07-16T03:25:48.813Z,-17.6344,-172.8497,10,5.3,mww,51,51,3.844,1.06,us,us6000i2y7,2022-07-16T03:44:58.040Z,"164 km NE of Neiafu, Tonga",earthquake,9.1,1.8,0.098,10,reviewed,us,us
+2022-07-16T03:23:23.600Z,17.9773333333333,-66.8341666666667,16.3,2.29,md,7,200,,0.14,pr,pr71359743,2022-07-16T03:39:13.640Z,"2 km SW of Indios, Puerto Rico",earthquake,0.58,0.75,0.0414646221625166,6,reviewed,pr,pr
+2022-07-16T03:16:07.370Z,61.7004,-152.0722,110.4,2,ml,,,,0.42,ak,ak02291ur428,2022-07-16T03:49:50.040Z,"48 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-16T03:03:14.720Z,17.9571666666667,-66.9316666666667,6.81,1.7,md,5,207,,0.13,pr,pr71359738,2022-07-16T03:12:33.270Z,"2 km WSW of Guánica, Puerto Rico",earthquake,0.65,1.23,0.032353798702504,5,reviewed,pr,pr
 2022-07-16T03:00:27.070Z,38.8371658,-122.7431641,0.33,0.71,md,8,189,0.02193,0.02,nc,nc73759121,2022-07-16T03:25:16.041Z,"2km NW of Cobb, CA",earthquake,0.5,0.89,0.17,2,automatic,nc,nc
 2022-07-16T02:58:34.860Z,38.8353348,-122.7425003,0.16,0.86,md,9,186,0.02195,0.01,nc,nc73759116,2022-07-16T03:15:16.981Z,"2km NW of Cobb, CA",earthquake,0.46,0.98,,2,automatic,nc,nc
@@ -65,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T21:40:43.520Z,-44.7654,-81.4546,10,4.8,mb,35,194,6.655,0.78,us,us6000i2w1,2022-07-15T21:57:30.040Z,"West Chile Rise",earthquake,9.8,1.7,0.102,30,reviewed,us,us
 2022-07-15T21:39:54.200Z,33.2305,-116.1031667,6.8,2.34,ml,66,37,0.09226,0.24,ci,ci40064103,2022-07-15T21:50:33.840Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.22,1.14,0.129,25,automatic,ci,ci
 2022-07-15T21:30:41.646Z,65.2512,-150.0869,0,1.1,ml,,,,0.63,ak,ak02290i0n6s,2022-07-15T21:33:15.441Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-07-15T21:27:25.810Z,-23.0259,-176.9796,135.7,5.1,mb,94,28,7.021,0.6,us,us6000i2vy,2022-07-15T21:48:29.040Z,"275 km SW of Vaini, Tonga",earthquake,5.4,5.8,0.03,370,reviewed,us,us
+2022-07-15T21:27:25.810Z,-23.0259,-176.9796,135.7,5.1,mb,94,28,7.021,0.6,us,us6000i2vy,2022-07-15T21:48:29.040Z,"south of the Fiji Islands",earthquake,5.4,5.8,0.03,370,reviewed,us,us
 2022-07-15T21:16:31.555Z,51.9322,-176.2013,118,1.7,ml,,,,0.23,ak,ak02290hxkx9,2022-07-15T21:43:06.306Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-07-15T21:06:27.810Z,37.6265,-118.9728333,2.16,0.26,md,11,143,0.03291,0.05,nc,nc73759011,2022-07-16T01:54:23.536Z,"1km SSE of Mammoth Lakes, CA",earthquake,0.47,1.42,0.218,10,reviewed,nc,nc
 2022-07-15T21:06:04.110Z,60.01,-153.066166666667,1.44,-0.46,ml,4,126,,0.04,av,av91633906,2022-07-16T02:04:39.030Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.3,0.28,0.307173001047088,4,reviewed,av,av
@@ -269,15 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T04:20:05.920Z,36.0915,-117.6936667,1.96,1.62,ml,13,140,0.1028,0.2,ci,ci40063559,2022-07-15T04:23:48.387Z,"24km ENE of Coso Junction, CA",earthquake,0.54,1.09,0.109,17,automatic,ci,ci
 2022-07-15T04:17:50.277Z,31.64838276,-104.2316006,7.802587891,2.2,ml,11,65,0.1094651881,0.3,tx,tx2022nspp,2022-07-15T19:18:17.393Z,"55 km NW of Toyah, Texas",earthquake,1.311857441,2.048036664,0.2,13,reviewed,tx,tx
 2022-07-15T04:13:57.113Z,53.1602,-166.866,17.6,1.6,ml,,,,0.22,ak,ak022907srwf,2022-07-15T17:46:04.524Z,"82 km SSW of Unalaska, Alaska",earthquake,,1.7,,,reviewed,ak,ak
-2022-07-15T04:12:43.759Z,31.6493298,-104.2262256,7.596923828000001,2.3,ml,10,67,0.1094511572,0.3,tx,tx2022nspl,2022-07-15T18:00:17.578Z,"55 km NW of Toyah, Texas",earthquake,1.36867422,1.921521643,0.2,11,reviewed,tx,tx
-2022-07-15T04:07:17.590Z,35.7068333,-117.4886667,1.12,1.01,ml,10,270,0.1402,0.13,ci,ci40063551,2022-07-15T04:11:00.769Z,"10km SW of Searles Valley, CA",earthquake,0.86,0.62,0.132,9,automatic,ci,ci
-2022-07-15T04:05:48.680Z,17.9435,-66.931,4.67,2.62,md,9,227,,0.09,pr,pr71359578,2022-07-15T05:53:16.630Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.5,0.35,0.189561830304999,5,reviewed,pr,pr
-2022-07-15T04:00:37.550Z,19.2119998931885,-155.427993774414,32.9700012207031,1.73000002,md,31,135,,0.140000001,hv,hv73075632,2022-07-15T04:03:51.840Z,"5 km E of Pāhala, Hawaii",earthquake,0.64,0.980000019,0.680000007,7,automatic,hv,hv
-2022-07-15T03:57:11.970Z,35.7155,-117.5601667,9.93,0.07,ml,7,156,0.1045,0.18,ci,ci37507261,2022-07-15T18:03:20.735Z,"15km NE of Ridgecrest, CA",earthquake,0.89,1.47,0.156,3,reviewed,ci,ci
-2022-07-15T03:56:49.220Z,35.7116667,-117.574,7.96,0.69,ml,17,142,0.1056,0.15,ci,ci40063543,2022-07-15T17:59:22.245Z,"14km NE of Ridgecrest, CA",earthquake,0.3,0.89,0.168,4,reviewed,ci,ci
-2022-07-15T03:56:29.620Z,35.714,-117.5698333,9.51,0.68,ml,12,144,0.104,0.15,ci,ci37507253,2022-07-15T17:54:49.195Z,"14km NE of Ridgecrest, CA",earthquake,0.33,0.85,0.035,2,reviewed,ci,ci
-2022-07-15T03:54:29.080Z,35.7203333,-117.5763333,7.89,1.56,ml,21,124,0.09675,0.18,ci,ci40063535,2022-07-15T04:04:59.190Z,"14km NE of Ridgecrest, CA",earthquake,0.35,1.17,0.162,22,automatic,ci,ci
-2022-07-15T03:45:54.980Z,37.6313324,-121.9250031,4.39,1.46,md,10,116,0.03914,0.09,nc,nc73758766,2022-07-15T05:10:10.219Z,"4km NW of Sunol, CA",earthquake,0.41,0.86,0.14,9,automatic,nc,nc
-2022-07-15T03:44:55.900Z,33.2421667,-116.1046667,5.28,0.88,ml,18,83,0.1012,0.19,ci,ci40063527,2022-07-15T03:48:33.099Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.37,0.93,0.105,18,automatic,ci,ci
-2022-07-15T03:42:25.446Z,62.6893,-152.6412,0,1.7,ml,,,,0.86,ak,ak022907ddn4,2022-07-15T03:45:00.539Z,"95 km ESE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-15T03:40:56.550Z,61.1591666666667,-152.303166666667,3.13,0.49,ml,6,263,,0.19,av,av91066098,2022-07-15T22:20:11.150Z,"63 km W of Tyonek, Alaska",earthquake,0.96,0.48,0.23600087927408,6,reviewed,av,av
