@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-17T21:15:42.890Z,38.8025017,-122.8378296,10.18,0.87,md,8,159,0.009279,0.12,nc,nc73760001,2022-07-17T21:17:21.785Z,"8km WNW of The Geysers, CA",earthquake,2.64,1.59,,1,automatic,nc,nc
+2022-07-17T21:30:53.106Z,62.0592,-151.5968,12.1,1.8,ml,,,,0.55,ak,ak02293t3d26,2022-07-17T21:33:23.440Z,"12 km NW of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-07-17T21:18:48.110Z,32.9326667,-115.818,7.51,1.23,ml,13,63,0.01963,0.23,ci,ci40065511,2022-07-17T21:22:27.840Z,"22km WSW of Westmorland, CA",earthquake,0.49,0.8,0.17,12,automatic,ci,ci
+2022-07-17T21:15:42.890Z,38.8025017,-122.8378296,10.18,0.87,md,8,159,0.009279,0.12,nc,nc73760001,2022-07-17T21:24:10.272Z,"8km WNW of The Geysers, CA",earthquake,2.64,1.59,,1,automatic,nc,nc
 2022-07-17T20:59:01.260Z,38.8328323,-122.7911682,1.58,0.33,md,11,68,0.005606,0.01,nc,nc73759996,2022-07-17T21:15:11.224Z,"6km WNW of Cobb, CA",earthquake,0.33,0.94,0.35,2,automatic,nc,nc
 2022-07-17T20:58:06.060Z,35.8766667,-117.6866667,2.06,1.2,ml,16,81,0.09071,0.16,ci,ci40065503,2022-07-17T21:01:45.661Z,"21km ESE of Little Lake, CA",earthquake,0.28,0.41,0.17,15,automatic,ci,ci
 2022-07-17T20:55:18.534Z,38.7184,-116.0993,0,1.8,ml,10,155.35,1.405,0.1605,nn,nn00843128,2022-07-17T21:00:59.126Z,"88 km S of Eureka, Nevada",earthquake,,6.1,0.21,5,automatic,nn,nn
@@ -8,13 +10,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T20:43:01.730Z,38.8168335,-122.8248367,2.47,0.5,md,13,54,0.008647,0.02,nc,nc73759981,2022-07-17T21:02:10.153Z,"7km NW of The Geysers, CA",earthquake,0.33,0.76,0.36,2,automatic,nc,nc
 2022-07-17T20:42:14.730Z,38.815834,-122.822998,2.22,0.85,md,23,49,0.008467,0.05,nc,nc73759976,2022-07-17T20:57:11.249Z,"7km NW of The Geysers, CA",earthquake,0.23,0.41,0.19,4,automatic,nc,nc
 2022-07-17T20:42:02.250Z,34.0973333,-117.313,15.85,1.66,ml,64,25,0.1158,0.21,ci,ci40065487,2022-07-17T20:59:46.550Z,"3km N of Colton, CA",earthquake,0.22,0.6,0.227,28,reviewed,ci,ci
-2022-07-17T20:41:00.990Z,38.8133316,-122.7798309,0.24,0.67,md,12,65,0.01322,0.03,nc,nc73759971,2022-07-17T20:54:11.108Z,"4km NNW of The Geysers, CA",earthquake,0.23,0.6,0.14,2,automatic,nc,nc
+2022-07-17T20:41:00.990Z,38.8133316,-122.7798309,0.24,0.67,md,12,65,0.01322,0.03,nc,nc73759971,2022-07-17T21:24:13.272Z,"4km NNW of The Geysers, CA",earthquake,0.23,0.6,0.14,2,automatic,nc,nc
 2022-07-17T20:40:13.130Z,38.8168335,-122.8235016,2.33,1.56,md,33,48,0.009107,0.04,nc,nc73759966,2022-07-17T21:13:13.213Z,"7km NW of The Geysers, CA",earthquake,0.2,0.32,0.09,10,automatic,nc,nc
 2022-07-17T20:24:21.550Z,38.8116684,-122.7795029,0.41,0.65,md,18,66,0.001837,0.04,nc,nc73759961,2022-07-17T21:01:12.148Z,"4km NNW of The Geysers, CA",earthquake,0.22,0.35,0.24,4,automatic,nc,nc
 2022-07-17T20:23:41.320Z,34.0451667,-116.841,9.32,1.22,ml,46,42,0.02934,0.21,ci,ci40065479,2022-07-17T20:34:45.570Z,"14km NNE of Banning, CA",earthquake,0.26,0.57,0.184,27,automatic,ci,ci
 2022-07-17T20:11:54.620Z,38.8121681,-122.7771683,0.39,0.88,md,17,71,0.002955,0.03,nc,nc73759951,2022-07-17T20:38:12.028Z,"4km NNW of The Geysers, CA",earthquake,0.22,0.39,0.13,4,automatic,nc,nc
 2022-07-17T20:11:00.370Z,38.1812,-117.8822,8.6,1.2,ml,9,167.7,0.074,0.095,nn,nn00843127,2022-07-17T20:15:27.745Z,"30 km SE of Mina, Nevada",earthquake,,1.2,0.46,4,automatic,nn,nn
-2022-07-17T20:09:18.660Z,38.810833,-122.7781677,0.24,1.83,md,30,69,0.01369,0.04,nc,nc73759946,2022-07-17T21:16:12.231Z,"4km NNW of The Geysers, CA",earthquake,0.16,0.34,0.08,10,automatic,nc,nc
+2022-07-17T20:09:18.660Z,38.810833,-122.7781677,0.24,1.83,md,30,69,0.01369,0.04,nc,nc73759946,2022-07-17T21:24:10.469Z,"4km NNW of The Geysers, CA",earthquake,0.16,0.34,0.08,10,automatic,nc,nc
 2022-07-17T19:43:22.528Z,40.1896,83.2769,10,4.9,mb,63,73,4.227,0.55,us,us6000i3ax,2022-07-17T20:08:13.040Z,"172 km S of Kuqa, China",earthquake,6.2,1.7,0.052,116,reviewed,us,us
 2022-07-17T19:39:34.270Z,33.1731667,-116.0086667,2.32,1.04,ml,27,59,0.02594,0.33,ci,ci40065455,2022-07-17T19:43:05.225Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.6,1.06,0.121,24,automatic,ci,ci
 2022-07-17T19:33:14.313Z,68.6752,-148.4491,0,1.6,ml,,,,1.3,ak,ak02293rx1xa,2022-07-17T19:36:08.388Z,"134 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
