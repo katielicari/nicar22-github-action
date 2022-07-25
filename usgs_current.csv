@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-25T09:31:46.822Z,-15.5743,-174.7152,268.59,4.4,mb,46,125,3.285,0.43,us,us7000htaa,2022-07-25T09:52:47.040Z,"107 km WNW of Hihifo, Tonga",earthquake,8.6,6.9,0.083,42,reviewed,us,us
 2022-07-25T09:13:18.383Z,43.9345,148.8841,10,4.6,mb,61,172,4.54,0.38,us,us7000hta6,2022-07-25T09:32:46.040Z,"164 km SSE of Kuril’sk, Russia",earthquake,6.4,1.9,0.078,49,reviewed,us,us
 2022-07-25T08:58:15.180Z,35.7273331,-121.0719986,4.46,2.5,md,37,99,0.08024,0.08,nc,nc73762566,2022-07-25T09:05:24.756Z,"14km NE of San Simeon, CA",earthquake,0.21,0.68,0.12,47,automatic,nc,nc
 2022-07-25T08:47:36.191Z,37.3352,-117.519,12.7,1,ml,13,200.1,0.208,0.187,nn,nn00843533,2022-07-25T08:51:22.423Z,"47 km SSE of Silver Peak, Nevada",earthquake,,0.9,0.74,5,automatic,nn,nn
