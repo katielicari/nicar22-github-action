@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T03:33:52.080Z,17.9953333333333,-65.6048333333333,15.75,2.88,md,12,201,,0.17,pr,pr71365743,2022-08-14T03:59:01.780Z,"18 km SW of Esperanza, Puerto Rico",earthquake,0.78,0.49,0.107956676486656,7,reviewed,pr,pr
 2022-08-14T03:27:46.602Z,-15.7991,166.9639,10,4.9,mb,16,129,0.419,0.46,us,us6000iap6,2022-08-14T03:47:12.040Z,"37 km SW of Luganville, Vanuatu",earthquake,7.67,1.932,0.116,25,reviewed,us,us
 2022-08-14T03:27:13.970Z,60.2666,-152.9125,102.4,1.9,ml,,,,0.28,ak,ak022adtejtx,2022-08-14T03:51:52.040Z,"73 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-14T03:24:22.996Z,37.9837,27.1478,12.179,5,mb,65,34,1.22,1.11,us,us6000ianw,2022-08-14T06:42:35.062Z,"3 km SSE of Özdere, Turkey",earthquake,5.13,4.546,0.05,132,reviewed,us,us
+2022-08-14T03:24:22.996Z,37.9837,27.1478,12.179,5,mb,65,34,1.22,1.11,us,us6000ianw,2022-08-14T06:52:58.622Z,"3 km SSE of Özdere, Turkey",earthquake,5.13,4.546,0.05,132,reviewed,us,us
 2022-08-14T03:11:50.874Z,-15.7976,167.0591,10,5.9,mww,76,49,0.375,0.92,us,us6000ianq,2022-08-14T05:15:10.493Z,"32 km SSW of Luganville, Vanuatu",earthquake,8.91,1.857,0.098,10,reviewed,us,us
 2022-08-14T03:08:49.520Z,33.4913333,-116.443,13.88,0.68,ml,24,74,0.0351,0.14,ci,ci40325128,2022-08-14T03:12:22.748Z,"22km ESE of Anza, CA",earthquake,0.25,0.58,0.111,15,automatic,ci,ci
 2022-08-14T02:58:29.187Z,-14.1455,-75.5612,58.346,4.4,mb,23,158,2.482,0.75,us,us6000iamx,2022-08-14T04:27:27.549Z,"14 km E of Pampa de Tate, Peru",earthquake,7.92,10.395,0.155,13,reviewed,us,us
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T02:47:49.450Z,33.1935,-115.5165,6.08,1.2,ml,11,160,0.08954,0.13,ci,ci40325104,2022-08-14T02:51:18.921Z,"5km S of Niland, CA",earthquake,0.55,1.42,0.124,17,automatic,ci,ci
 2022-08-14T02:47:46.768Z,1.8151,126.3654,30.459,5.7,mww,92,32,1.441,1.01,us,us6000iamw,2022-08-14T04:50:57.423Z,"158 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,5.79,4.233,0.093,11,reviewed,us,us
 2022-08-14T02:44:49.450Z,33.678,-116.7786667,11.03,0.48,ml,20,91,0.06314,0.11,ci,ci40325096,2022-08-14T02:48:20.511Z,"9km SW of Idyllwild, CA",earthquake,0.28,0.47,0.152,9,automatic,ci,ci
-2022-08-14T02:30:25.800Z,38.7858333,-119.7183333,4.34,2.49,md,23,60,0.1209,0.09,nc,nc73767850,2022-08-14T06:42:11.151Z,"8km E of Mesa Vista, CA",earthquake,0.19,0.99,0.208,42,reviewed,nc,nc
+2022-08-14T02:30:25.800Z,38.7858333,-119.7183333,4.34,2.49,md,23,60,0.1209,0.09,nc,nc73767850,2022-08-14T06:45:14.172Z,"8km E of Mesa Vista, CA",earthquake,0.19,0.99,0.208,42,reviewed,nc,nc
 2022-08-14T02:29:19.210Z,48.58833333333333,-123.039,9.72,0.74,ml,6,123,0.06263,0.13,uw,uw61863217,2022-08-14T05:02:56.310Z,"6 km NNW of Friday Harbor, Washington",earthquake,0.62,1.16,0.059157772975865996,4,reviewed,uw,uw
 2022-08-14T02:20:08.640Z,38.8284988,-122.8508301,1.68,0.37,md,7,89,0.004815,0.01,nc,nc73767845,2022-08-14T04:04:26.256Z,"10km NW of The Geysers, CA",earthquake,0.44,1.04,,1,automatic,nc,nc
 2022-08-14T02:11:44.651Z,60.871,-152.4308,104.7,1.1,ml,,,,0.26,ak,ak022adspr4x,2022-08-14T02:21:42.763Z,"65 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
