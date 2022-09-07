@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-07T15:02:49.030Z,32.8115,-116.0883333,8.01,0.9,ml,17,86,0.02097,0.2,ci,ci40097527,2022-09-07T15:06:24.018Z,"12km NW of Ocotillo, CA",earthquake,0.43,0.72,0.156,7,automatic,ci,ci
+2022-09-07T14:58:53.849Z,38.1563,-117.888,7.2,0.6,ml,8,166.7,0.059,0.1386,nn,nn00846559,2022-09-07T15:02:26.078Z,"32 km SE of Mina, Nevada",earthquake,,1,0.42,3,automatic,nn,nn
 2022-09-07T14:49:16.920Z,33.2491667,-116.7136667,10.27,0.61,ml,16,128,0.2492,0.41,ci,ci40097519,2022-09-07T14:52:48.423Z,"5km E of Lake Henshaw, CA",earthquake,1.44,4.36,0.093,5,automatic,ci,ci
 2022-09-07T14:48:26.560Z,33.4035,-116.497,6.65,0.47,ml,12,195,0.1336,0.34,ci,ci40097511,2022-09-07T14:51:55.734Z,"18km NE of Warner Springs, CA",earthquake,1.29,31.61,0.172,12,automatic,ci,ci
 2022-09-07T14:25:56.836Z,57.2387,-155.8716,60.9,1.4,ml,,,,0.12,ak,ak022bhoub7n,2022-09-07T14:28:30.263Z,"92 km WSW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -133,6 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-07T02:02:02.390Z,38.7623329,-122.7176666,1.18,1.58,md,12,70,0.005673,0.05,nc,nc73776225,2022-09-07T04:11:09.779Z,"3km WSW of Anderson Springs, CA",earthquake,0.24,0.28,0.03,6,automatic,nc,nc
 2022-09-07T02:02:01.100Z,38.4223328,-122.5093307,4.02,1.4,md,5,234,0.376,0.05,nc,nc73776220,2022-09-07T03:45:10.613Z,"3km ENE of Kenwood, CA",earthquake,5.55,9.25,,1,automatic,nc,nc
 2022-09-07T01:51:25.420Z,17.9948333333333,-66.7681666666667,14,2.3,md,14,188,,0.12,pr,pr71370298,2022-09-07T02:26:20.180Z,"2 km S of Magas Arriba, Puerto Rico",earthquake,0.68,0.46,0.207273309268732,12,reviewed,pr,pr
+2022-09-07T01:46:21.708Z,51.0337,-174.0506,10.6,2.2,ml,,,,0.65,ak,ak022bhh8567,2022-09-07T15:25:38.409Z,"129 km S of Atka, Alaska",earthquake,,3.7,,,reviewed,ak,ak
 2022-09-07T01:43:05.727Z,58.1847,-155.284,1.1,1.2,ml,,,,0.59,ak,ak022bhh7fak,2022-09-07T01:45:58.152Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-07T01:41:13.090Z,40.7063333,-122.2575,19.54,1.61,md,15,101,0.0841,0.08,nc,nc73776210,2022-09-07T12:12:10.570Z,"8km NNW of Bella Vista, CA",earthquake,0.32,0.62,0.173,19,reviewed,nc,nc
 2022-09-07T01:40:49.067Z,60.0686,-152.9244,103.8,0.7,ml,,,,0.46,ak,ak022bhh6vhm,2022-09-07T01:42:49.579Z,"67 km W of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -233,7 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-06T15:49:51.674Z,60.5681,-142.6966,18.8,1.3,ml,,,,0.77,ak,ak022bg21ivo,2022-09-06T15:53:53.424Z,"97 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-06T15:35:56.890Z,44.783,-111.1206667,10.18,-0.11,md,7,157,0.01659,0.1,uu,uu60513927,2022-09-06T21:53:33.070Z,"5 km ENE of Hebgen Lake Estates, Montana",earthquake,0.79,1.36,0.418,3,reviewed,uu,uu
 2022-09-06T15:30:43.135Z,59.7704,-153.0604,103.6,2,ml,,,,0.3,ak,ak022bg1xft8,2022-09-06T15:38:55.040Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-09-06T15:19:22.320Z,44.7791667,-111.1198333,13.09,0,md,7,146,0.01947,0.09,uu,uu60513922,2022-09-06T21:52:26.000Z,"Idaho-Montana border region",earthquake,1.27,1.49,0.138,4,reviewed,uu,uu
-2022-09-06T15:18:50.900Z,38.7901649,-122.7608337,1.68,0.87,md,15,75,0.01048,0.03,nc,nc73776075,2022-09-06T16:02:10.356Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.48,0.25,4,automatic,nc,nc
-2022-09-06T15:18:36.430Z,44.772,-111.1188333,11.75,1.11,ml,16,114,0.02571,0.12,uu,uu60513917,2022-09-06T21:50:50.870Z,"5 km E of Hebgen Lake Estates, Montana",earthquake,0.65,0.49,0.287,2,reviewed,uu,uu
-2022-09-06T14:58:03.390Z,39.4305,-110.3176667,-1.01,1.72,md,7,178,0.008602,0.08,uu,uu60513912,2022-09-06T22:22:05.170Z,"14 km SSE of Sunnyside, Utah",earthquake,1.43,0.36,0.116,7,reviewed,uu,uu
