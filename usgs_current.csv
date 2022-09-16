@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-16T14:38:21.170Z,38.8333321,-122.8011703,-0.04,1.47,md,22,45,0.009859,0.14,nc,nc73782411,2022-09-16T14:39:55.014Z,"7km W of Cobb, CA",earthquake,0.25,0.56,0.07,6,automatic,nc,nc
+2022-09-16T14:38:21.170Z,38.8333321,-122.8011703,-0.04,1.47,md,22,45,0.009859,0.14,nc,nc73782411,2022-09-16T14:54:11.192Z,"7km W of Cobb, CA",earthquake,0.25,0.56,0.07,6,automatic,nc,nc
 2022-09-16T14:37:35.560Z,35.9323349,-120.4718323,4.72,0.22,md,7,146,0.02106,0.03,nc,nc73782406,2022-09-16T14:39:09.963Z,"5km NW of Parkfield, CA",earthquake,0.76,1.38,,1,automatic,nc,nc
 2022-09-16T14:34:24.050Z,19.2059993743896,-155.374160766602,33.7099990844727,2.53,ml,45,160,,0.129999995,hv,hv73141517,2022-09-16T14:39:55.590Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.810000002,4.02,22,automatic,hv,hv
+2022-09-16T14:34:05.154Z,31.70783907,-104.0974005,6.671435547,2.9,ml,27,49,0.03454412507,0.2,tx,tx2022semq,2022-09-16T14:53:35.042Z,"47 km W of Mentone, Texas",earthquake,0.640017162,0.6007381902,0.2,12,reviewed,tx,tx
 2022-09-16T14:06:56.650Z,37.3721657,-121.7095032,5.57,1.75,md,24,108,0.0473,0.1,nc,nc73782401,2022-09-16T14:39:13.093Z,"10km E of Alum Rock, CA",earthquake,0.33,0.51,0.22,16,automatic,nc,nc
 2022-09-16T13:59:01.870Z,18.3888333333333,-64.7416666666667,22.37,2.81,md,4,305,,0.08,pr,pr71372023,2022-09-16T14:15:29.010Z,"8 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,3.41,0.82,0.114022231168643,4,reviewed,pr,pr
 2022-09-16T13:56:18.290Z,33.2426667,-116.3536667,9.52,0.88,ml,25,85,0.05898,0.23,ci,ci40101063,2022-09-16T13:59:55.709Z,"2km SE of Borrego Springs, CA",earthquake,0.35,0.72,0.105,20,automatic,ci,ci
@@ -48,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-16T08:31:12.520Z,35.7381667,-117.538,1,0.97,ml,12,93,0.09129,0.18,ci,ci40100927,2022-09-16T08:34:53.128Z,"12km WSW of Searles Valley, CA",earthquake,0.35,0.78,0.075,10,automatic,ci,ci
 2022-09-16T08:20:52.852Z,58.3837,-154.7228,1.1,2.3,ml,,,,0.45,ak,ak022bwh2r51,2022-09-16T08:51:08.040Z,"92 km N of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-16T08:20:30.430Z,36.425,-120.8241667,10.31,2.1,md,53,127,0.05204,0.13,nc,nc73782341,2022-09-16T09:07:13.240Z,"14km W of New Idria, CA",earthquake,0.22,0.23,0.239,44,reviewed,nc,nc
-2022-09-16T08:17:53.296Z,61.089,-147.415,31.3,1.2,ml,,,,0.88,ak,ak022bwh240x,2022-09-16T08:19:35.534Z,"47 km WNW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-09-16T08:17:53.296Z,61.089,-147.415,31.3,1.2,ml,,,,0.88,ak,ak022bwh240x,2022-09-16T08:19:35.534Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-16T08:17:02.498Z,-0.0155,124.4543,66.828,4.5,mb,38,42,1.967,1.04,us,us7000i8hm,2022-09-16T08:43:07.040Z,"152 km SSW of Tomohon, Indonesia",earthquake,7.71,5.49,0.111,24,reviewed,us,us
 2022-09-16T08:05:04.910Z,17.9556666666667,-66.8565,18.17,1.87,md,3,322,,0.02,pr,pr71371983,2022-09-16T08:18:58.180Z,"4 km SE of Maria Antonia, Puerto Rico",earthquake,3.52,0.71,0.1468333255395,3,reviewed,pr,pr
 2022-09-16T08:01:49.060Z,36.7005,-97.67083333,5.91,1.12,ml,49,60,0.218657092,0.32,ok,ok2022sdzq,2022-09-16T13:01:14.106Z,"10 km W of Lamont, Oklahoma",earthquake,,0.9,0.22,20,reviewed,ok,ok
@@ -147,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-15T20:07:05.390Z,36.9443333,-121.0358333,6.42,3.25,ml,85,48,0.0849,0.15,nc,nc73782086,2022-09-16T11:39:45.413Z,"21km SW of Los Banos, CA",earthquake,0.17,0.69,0.128,82,reviewed,nc,nc
 2022-09-15T19:57:55.550Z,60.2379,-150.804,69.9,1.5,ml,,,,0.27,ak,ak022bv0b403,2022-09-15T19:59:43.790Z,"28 km ESE of Kasilof, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-09-15T19:49:45.730Z,44.7776667,-110.8096667,5.76,0.97,md,14,92,0.03097,0.15,uu,uu60515157,2022-09-15T19:58:12.720Z,"Wyoming",earthquake,0.35,0.9,0.164,7,reviewed,uu,uu
-2022-09-15T19:43:31.570Z,43.73683333333334,-123.10183333333333,-0.34,1.02,ml,7,147,0.1833,0.27,uw,uw61880576,2022-09-15T20:16:11.810Z,"7 km SSW of Cottage Grove, Oregon",explosion,1.13,31.61,0.21792498002259553,3,reviewed,uw,uw
+2022-09-15T19:43:31.570Z,43.73683333333334,-123.10183333333333,-0.34,1.02,ml,7,147,0.1833,0.27,uw,uw61880576,2022-09-15T20:16:11.810Z,"Oregon",explosion,1.13,31.61,0.21792498002259553,3,reviewed,uw,uw
 2022-09-15T19:38:42.500Z,35.0621667,-118.341,-0.91,1.29,ml,22,45,0.2049,0.16,ci,ci40100711,2022-09-15T20:51:05.723Z,"12km SE of Tehachapi, CA",quarry blast,0.32,31.61,0.163,15,reviewed,ci,ci
 2022-09-15T19:36:37.050Z,36.9355,-121.039,-0.19,1.63,md,32,79,0.09168,0.08,nc,nc73782081,2022-09-16T04:51:14.720Z,"22km SW of Los Banos, CA",earthquake,0.17,0.43,0.196,27,reviewed,nc,nc
 2022-09-15T19:33:41.499Z,62.9646,-151.0021,80.6,1.2,ml,,,,0.64,ak,ak022bv05xqd,2022-09-15T19:36:07.634Z,"53 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -197,6 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-15T15:06:21.550Z,58.3083333333333,-154.988333333333,1.94,-0.33,ml,4,201,,0.1,av,av91071323,2022-09-16T01:13:47.240Z,"Alaska Peninsula",earthquake,1.79,0.83,0.25393807920517,4,reviewed,av,av
 2022-09-15T15:05:25.400Z,58.4668333333333,-154.471333333333,21.86,-0.09,ml,4,301,,0.19,av,av91071318,2022-09-16T01:10:56.070Z,"100 km N of Karluk, Alaska",earthquake,1.48,0.99,0.489215792274382,4,reviewed,av,av
 2022-09-15T15:03:37.689Z,38.156,-117.9828,4.7,0,ml,13,131.69,0.025,0.1181,nn,nn00847203,2022-09-15T19:39:23.076Z,"28 km SSE of Mina, Nevada",earthquake,,1.9,0.36,3,reviewed,nn,nn
-2022-09-15T14:49:25.880Z,38.8251648,-122.7945023,2.7,0.63,md,14,50,0.01229,0.01,nc,nc73781971,2022-09-15T14:51:02.521Z,"6km W of Cobb, CA",earthquake,0.27,0.6,0.11,2,automatic,nc,nc
-2022-09-15T14:49:18.350Z,43.73683333333334,-121.378,3.88,-0.22,ml,4,267,0.0504,0.02,uw,uw61880491,2022-09-15T20:06:02.300Z,"Oregon",earthquake,0.74,1.45,0.04035869481922738,2,reviewed,uw,uw
-2022-09-15T14:48:30.537Z,39.5395,23.5885,10,4.5,mb,26,43,1.017,0.96,us,us7000i89v,2022-09-15T15:23:48.040Z,"Aegean Sea",earthquake,5.62,1.919,0.221,6,reviewed,us,us
