@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-09T11:52:33.160Z,33.9691667,-116.953,4.21,0.61,ml,15,67,0.05288,0.17,ci,ci40358176,2022-10-09T11:55:56.190Z,"5km NNE of Beaumont, CA",earthquake,0.34,0.61,0.12,13,automatic,ci,ci
+2022-10-09T11:44:42.060Z,33.4883333,-116.4801667,12.36,1.06,ml,34,62,0.0574,0.19,ci,ci40358168,2022-10-09T11:48:07.603Z,"19km ESE of Anza, CA",earthquake,0.26,0.54,0.156,27,automatic,ci,ci
+2022-10-09T11:41:57.020Z,33.1703333,-116.4223333,10.2,1.06,ml,18,46,0.0977,0.21,ci,ci40358160,2022-10-09T11:45:29.627Z,"10km SSW of Borrego Springs, CA",earthquake,0.4,1.02,0.164,25,automatic,ci,ci
 2022-10-09T11:18:18.110Z,34.0238333,-117.2233333,11.75,1.33,ml,48,29,0.09285,0.18,ci,ci40358152,2022-10-09T11:21:48.456Z,"4km SE of Loma Linda, CA",earthquake,0.2,0.56,0.182,26,automatic,ci,ci
 2022-10-09T11:10:44.600Z,38.7869987,-122.7696686,1.97,0.21,md,12,104,0.01554,0.02,nc,nc73791346,2022-10-09T11:12:18.974Z,"2km NW of The Geysers, CA",earthquake,0.3,0.65,0.15,2,automatic,nc,nc
 2022-10-09T10:51:54.870Z,33.0491667,-116.4556667,10.6,0.89,ml,19,64,0.1233,0.2,ci,ci40358144,2022-10-09T10:55:24.300Z,"14km ESE of Julian, CA",earthquake,0.33,0.89,0.139,15,automatic,ci,ci
@@ -6,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-09T10:26:56.640Z,36.4695015,-121.0458298,7.54,2.27,md,31,71,0.01724,0.11,nc,nc73791341,2022-10-09T10:48:11.125Z,"11km SE of Pinnacles, CA",earthquake,0.28,0.69,0.19,31,automatic,nc,nc
 2022-10-09T10:21:55.670Z,34.0463333,-117.2346667,13.8,0.89,ml,37,68,0.08251,0.23,ci,ci40358136,2022-10-09T10:25:29.243Z,"2km E of Loma Linda, CA",earthquake,0.35,0.75,0.184,30,automatic,ci,ci
 2022-10-09T10:15:05.700Z,17.9805,-67.0065,10.52,1.9,md,11,161,,0.07,pr,pr71375713,2022-10-09T11:08:03.980Z,"Puerto Rico region",earthquake,0.3,0.47,0.0450511273412131,6,reviewed,pr,pr
-2022-10-09T10:02:43.925Z,-7.0502,106.0583,48.06,4.9,mb,62,42,1.631,0.71,us,us6000is90,2022-10-09T11:32:39.568Z,"54 km W of Pelabuhanratu, Indonesia",earthquake,4,5.916,0.083,46,reviewed,us,us
+2022-10-09T10:02:43.925Z,-7.0502,106.0583,48.06,4.9,mb,62,42,1.631,0.71,us,us6000is90,2022-10-09T11:53:48.232Z,"54 km W of Pelabuhanratu, Indonesia",earthquake,4,5.916,0.083,46,reviewed,us,us
 2022-10-09T09:55:50.795Z,3.7964,127.0381,41.414,4.8,mb,53,107,3.022,0.48,us,us6000is8z,2022-10-09T10:11:33.040Z,"Pulau-Pulau Talaud, Indonesia",earthquake,8.2,7.365,0.094,35,reviewed,us,us
 2022-10-09T09:35:27.145Z,-19.7108,-177.7497,429.39,4.5,mb,47,115,4.432,0.5,us,us6000is8y,2022-10-09T09:59:52.040Z,"Fiji region",earthquake,12.7,7.145,0.061,78,reviewed,us,us
 2022-10-09T09:31:54.500Z,38.7879982,-122.7681656,2.23,0.95,md,21,80,0.01423,0.03,nc,nc73791336,2022-10-09T09:33:29.140Z,"2km NW of The Geysers, CA",earthquake,0.27,0.46,0.09,4,automatic,nc,nc
@@ -173,5 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-08T12:17:22.710Z,18.0923333333333,-68.6351666666667,95.19,3.32,md,12,213,,0.29,pr,pr71375613,2022-10-08T13:23:40.830Z,"Mona Passage",earthquake,2.39,1.24,0.0266036035831374,3,reviewed,pr,pr
 2022-10-08T12:17:04.867Z,61.8067,-149.1529,39.8,1.2,ml,,,,0.35,ak,ak022cwx9dkm,2022-10-08T12:18:30.111Z,"8 km NNE of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-08T12:12:51.153Z,65.4823,-149.3536,0,1.2,ml,,,,0.48,ak,ak022cwx8ekb,2022-10-08T12:15:22.619Z,"37 km N of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-10-08T11:50:15.590Z,36.4625015,-121.0384979,6.96,1.89,md,21,72,0.01728,0.09,nc,nc73790916,2022-10-08T12:24:13.949Z,"12km SE of Pinnacles, CA",earthquake,0.29,0.59,0.11,18,automatic,nc,nc
-2022-10-08T11:48:04.405Z,62.1727,-149.2903,50.3,0.9,ml,,,,0.17,ak,ak022cwwugk4,2022-10-08T22:01:09.932Z,"29 km E of Susitna North, Alaska",earthquake,,1.1,,,reviewed,ak,ak
