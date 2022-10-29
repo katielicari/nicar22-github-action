@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-29T13:49:24.330Z,38.7836685,-122.7659988,-0.83,0.36,md,9,102,0.01293,0.03,nc,nc73800741,2022-10-29T13:50:58.637Z,"1km NW of The Geysers, CA",earthquake,0.19,1.83,,1,automatic,nc,nc
 2022-10-29T13:34:32.780Z,34.9113333,-119.6313333,9.99,1.03,ml,9,116,0.04696,0.23,ci,ci40126831,2022-10-29T13:38:09.196Z,"27km SW of Maricopa, CA",earthquake,0.77,1.02,0.12,9,automatic,ci,ci
 2022-10-29T13:32:13.788Z,61.6064,-146.4434,28,1.9,ml,,,,1.13,ak,ak022dvo8bz6,2022-10-29T13:34:18.532Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-10-29T13:30:38.760Z,40.9338341,-123.3700027,0.46,2.45,md,13,157,0.2811,0.31,nc,nc73800731,2022-10-29T13:38:41.177Z,"22km E of Willow Creek, CA",earthquake,1.39,3.95,0.17,11,automatic,nc,nc
-2022-10-29T13:26:14.710Z,38.7791672,-122.7241669,1.29,0.53,md,8,140,0.01062,0.01,nc,nc73800726,2022-10-29T13:27:47.129Z,"3km E of The Geysers, CA",earthquake,0.58,0.87,0.19,3,automatic,nc,nc
-2022-10-29T13:25:51.220Z,38.6030006,-122.8040009,4.91,1.78,md,24,88,0.1136,0.2,nc,nc73800721,2022-10-29T13:37:09.763Z,"6km E of Healdsburg, CA",earthquake,0.41,1.27,0.05,9,automatic,nc,nc
+2022-10-29T13:30:38.760Z,40.9338341,-123.3700027,0.46,2.45,md,13,157,0.2811,0.31,nc,nc73800731,2022-10-29T13:47:10.821Z,"22km E of Willow Creek, CA",earthquake,1.39,3.95,0.17,11,automatic,nc,nc
+2022-10-29T13:26:14.710Z,38.7791672,-122.7241669,1.29,0.53,md,8,140,0.01062,0.01,nc,nc73800726,2022-10-29T13:47:10.942Z,"3km E of The Geysers, CA",earthquake,0.58,0.87,0.19,3,automatic,nc,nc
+2022-10-29T13:25:51.220Z,38.6030006,-122.8040009,4.91,1.78,md,24,88,0.1136,0.2,nc,nc73800721,2022-10-29T13:56:11.874Z,"6km E of Healdsburg, CA",earthquake,0.41,1.27,0.05,9,automatic,nc,nc
 2022-10-29T13:02:01.810Z,38.8045006,-122.7785034,-0.03,0.84,md,8,110,0.00891,0.07,nc,nc73800706,2022-10-29T13:34:13.747Z,"4km NNW of The Geysers, CA",earthquake,0.39,1.08,,1,automatic,nc,nc
 2022-10-29T12:56:06.187Z,60.4347,-152.7481,17.4,1.7,ml,,,,0.24,ak,ak022dvns0yy,2022-10-29T12:57:32.210Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-10-29T12:42:58.040Z,37.9781685,-121.8600006,17.07,2.04,md,25,99,0.121,0.11,nc,nc73800691,2022-10-29T13:06:10.579Z,"6km WSW of Antioch, CA",earthquake,0.31,0.84,0.13,22,automatic,nc,nc
@@ -204,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T14:19:10.639Z,61.6523,-146.2044,31.3,1.8,ml,,,,0.79,ak,ak022du17mjb,2022-10-28T14:20:57.901Z,"47 km SSE of Mendeltna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-28T14:15:36.514Z,61.3945,-149.7334,34.2,1.4,ml,,,,0.49,ak,ak022du16to3,2022-10-28T14:16:51.542Z,"7 km S of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-28T14:09:07.200Z,38.7885017,-122.7251663,1.96,1.06,md,14,127,0.01045,0.02,nc,nc73800316,2022-10-28T14:29:13.532Z,"3km ENE of The Geysers, CA",earthquake,0.28,0.74,0.15,4,automatic,nc,nc
-2022-10-28T13:50:13.130Z,36.4613333,-117.6445,-1.19,1.61,ml,23,105,0.1941,0.13,ci,ci40126191,2022-10-28T19:41:55.519Z,"38km ENE of Olancha, CA",earthquake,0.23,0.45,0.147,16,reviewed,ci,ci
-2022-10-28T13:45:19.690Z,58.2205,-155.135,2.69,-0.26,ml,5,85,,0.17,av,av91704581,2022-10-29T00:24:10.090Z,"83 km NNW of Karluk, Alaska",earthquake,0.36,2.15,0.309899016801957,5,reviewed,av,av
