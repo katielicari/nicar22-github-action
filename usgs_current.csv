@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-03T13:32:47.470Z,19.0403327941895,-155.409332275391,33.939998626709,2.8499999,md,48,207,,0.140000001,hv,hv73255227,2022-12-03T13:36:13.240Z,"18 km E of Naalehu, Hawaii",earthquake,0.56,0.99000001,2.32999992,34,automatic,hv,hv
+2022-12-03T13:41:11.170Z,19.4811668395996,-155.586334228516,0.209999993443489,1.70000005,md,9,128,,0.159999996,hv,hv73255232,2022-12-03T13:44:16.160Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.66,0.74000001,0.50999999,5,automatic,hv,hv
+2022-12-03T13:32:47.470Z,19.0403327941895,-155.409332275391,33.939998626709,2.65,ml,48,207,,0.140000001,hv,hv73255227,2022-12-03T13:38:19.000Z,"18 km E of Naalehu, Hawaii",earthquake,0.56,0.99000001,2.89,19,automatic,hv,hv
 2022-12-03T13:28:17.954Z,59.8935,-149.9233,27,1.6,ml,,,,0.47,ak,ak022fhk0mpv,2022-12-03T13:30:41.103Z,"33 km SW of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-03T13:24:34.708Z,58.2297,-155.1222,0.3,0.9,ml,,,,0.23,ak,ak022fhjzt5a,2022-12-03T13:26:27.755Z,"83 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-03T13:08:35.630Z,19.4146671295166,-155.252838134766,1.74000000953674,1.81,ml,18,110,,0.119999997,hv,hv73255162,2022-12-03T13:14:07.020Z,"3 km SSW of Volcano, Hawaii",earthquake,0.23,0.25,3.41,5,automatic,hv,hv
@@ -228,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T14:06:23.040Z,38.7448333,-122.6963333,1.28,1.76,md,48,53,,0.05,nc,nc73813851,2022-12-02T20:49:14.898Z,"3km S of Anderson Springs, CA",earthquake,0.13,0.15,0.073,16,reviewed,nc,nc
 2022-12-02T14:03:23.750Z,19.4508333333333,-155.599666666667,-1.26,1.57,md,8,82,,0.1,hv,hv73252312,2022-12-02T19:53:55.710Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.37,0.37,0.207785128476921,6,reviewed,hv,hv
 2022-12-02T13:52:11.390Z,19.1631660461426,-155.47883605957,32.3800010681152,2.17,ml,44,109,,0.119999997,hv,hv73252297,2022-12-02T13:57:42.600Z,"4 km S of Pāhala, Hawaii",earthquake,0.52,0.839999974,4.46,4,automatic,hv,hv
-2022-12-02T13:46:45.830Z,60.4305,-152.767,12.11,-0.62,ml,6,174,,0.11,av,av91078393,2022-12-03T02:10:35.960Z,"74 km NW of Ninilchik, Alaska",earthquake,0.9,0.7,0.276266301630306,6,reviewed,av,av
-2022-12-02T13:40:07.767Z,-20.6139,-68.8618,112.893,4.6,mb,31,51,0.544,0.51,us,us6000j6aj,2022-12-03T01:02:48.953Z,"141 km ESE of Iquique, Chile",earthquake,4.81,5.424,0.141,15,reviewed,us,us
