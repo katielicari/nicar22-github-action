@@ -224,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T20:52:02.920Z,17.9488333333333,-66.9736666666667,9.45,3.28,md,32,210,0.06611,0.16,pr,pr71385193,2022-12-03T17:03:20.040Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.32,0.34,0.0875880521555974,17,reviewed,pr,pr
 2022-12-02T20:49:58.905Z,26.8256,55.1879,15.973,4.2,mb,56,43,2.084,0.5,us,us6000j6fe,2022-12-03T16:48:22.040Z,"42 km NE of Bandar-e Lengeh, Iran",earthquake,5.97,4.333,0.08,48,reviewed,us,us
 2022-12-02T20:43:32.076Z,17.5416,-60.9673,18.258,4.5,mwr,77,83,0.791,0.83,us,us6000j6f4,2022-12-02T23:07:04.040Z,"92 km E of Codrington, Antigua and Barbuda",earthquake,3.91,5.07,0.053,34,reviewed,us,us
-2022-12-02T20:40:57.360Z,61.3121666666667,-152.2485,2.03,-0.67,ml,6,231,,0.02,av,av91725376,2022-12-03T03:54:31.940Z,"65 km WNW of Beluga, Alaska",earthquake,0.41,0.87,0.137378321431423,7,reviewed,av,av
-2022-12-02T20:37:24.266Z,-7.9295,108.0843,93.167,4.5,mb,43,67,2.416,0.89,us,us6000j6f5,2022-12-03T16:24:03.040Z,"Java, Indonesia",earthquake,9.44,7.56,0.097,34,reviewed,us,us
