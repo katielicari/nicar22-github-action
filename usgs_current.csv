@@ -242,6 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T12:09:37.109Z,62.3757,-151.1377,71,2,ml,,,,0.7,ak,ak022fkuduz2,2022-12-05T12:13:06.603Z,"23 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-05T12:07:37.061Z,37.9825,72.4244,128.857,4.3,mb,37,59,1.571,0.46,us,us6000j70j,2022-12-05T12:31:25.040Z,"94 km NE of Khorugh, Tajikistan",earthquake,6.72,5.222,0.133,16,reviewed,us,us
 2022-12-05T12:03:24.510Z,35.2545,-98.01566667,5.91,1.32,ml,65,60,0.06118799283,0.51,ok,ok2022xulx,2022-12-05T14:22:58.975Z,"8 km NW of Pocasset, Oklahoma",earthquake,,0.9,0.23,24,reviewed,ok,ok
-2022-12-05T11:55:27.270Z,17.947,-65.441,17.36,2.26,md,5,275,0.1834,0.06,pr,pr71385633,2022-12-05T12:06:42.980Z,"16 km S of Esperanza, Puerto Rico",earthquake,0.77,1.27,0.222554970336877,3,reviewed,pr,pr
-2022-12-05T11:54:52.560Z,36.9903336,-121.6579971,4.66,1.54,md,11,78,0.04324,0.06,nc,nc73814751,2022-12-05T14:26:13.600Z,"8km ENE of Interlaken, CA",earthquake,0.34,0.69,0.13,12,automatic,nc,nc
-2022-12-05T11:50:10.100Z,33.3133333,-116.2836667,8.93,1.05,ml,34,53,0.1205,0.18,ci,ci40142279,2022-12-05T14:34:06.237Z,"11km NE of Borrego Springs, CA",earthquake,0.25,1.01,0.143,27,reviewed,ci,ci
