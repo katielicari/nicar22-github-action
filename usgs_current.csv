@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-09T19:48:37.179Z,38.2045,-117.8447,9.1,2,ml,13,135.75,0.11,0.2947,nn,nn00853081,2022-12-09T19:51:48.530Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.16,8,automatic,nn,nn
+2022-12-09T19:48:21.710Z,36.5625,-121.1048355,8.63,2.22,md,33,101,0.05491,0.09,nc,nc73816701,2022-12-09T19:55:10.888Z,"5km NE of Pinnacles, CA",earthquake,0.23,0.62,0.17,35,automatic,nc,nc
 2022-12-09T19:45:07.027Z,60.622,-147.6433,17,1.8,ml,,,,0.75,ak,ak022frkwxn2,2022-12-09T19:47:02.099Z,"59 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-09T19:25:10.880Z,36.3953323,-121.2201691,1.93,1.47,md,6,201,0.1279,0.01,nc,nc73816691,2022-12-09T19:35:11.900Z,"9km NNE of Greenfield, CA",earthquake,1.23,6.44,0.39,5,automatic,nc,nc
 2022-12-09T18:55:52.189Z,59.7713,-153.4295,107.1,1.5,ml,,,,0.14,ak,ak022frkdqoi,2022-12-09T18:57:13.612Z,"38 km E of Pedro Bay, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -212,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T20:06:11.750Z,54.0018333333333,-166.079833333333,19.48,0.45,ml,7,321,,0.08,av,av91079078,2022-12-09T03:53:33.300Z,"24 km SW of Akutan, Alaska",earthquake,1.14,1.13,0.291313336975407,7,reviewed,av,av
 2022-12-08T20:01:49.759Z,60.2639,-141.1675,13.2,1.9,ml,,,,0.55,ak,ak022fpxpojj,2022-12-08T20:03:41.879Z,"113 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-08T19:59:09.430Z,33.5533333,-116.443,15.15,0.67,ml,19,66,0.03317,0.17,ci,ci40143703,2022-12-09T14:32:08.433Z,"17km SW of La Quinta, CA",earthquake,0.4,0.62,0.145,18,reviewed,ci,ci
-2022-12-08T19:52:16.770Z,38.7941666,-122.7675018,2.17,1.2,md,18,74,0.008868,0.02,nc,nc73816271,2022-12-08T21:09:14.688Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.54,0.15,18,automatic,nc,nc
