@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-11T14:59:47.770Z,38.8213348,-122.7798309,1.26,0.86,md,8,127,0.008092,0.03,nc,nc73817296,2022-12-11T15:01:23.269Z,"5km W of Cobb, CA",earthquake,0.37,0.68,0.17,10,automatic,nc,nc
 2022-12-11T14:48:46.021Z,58.2452,-155.1036,0,0.8,ml,,,,0.2,ak,ak022fut16re,2022-12-11T14:50:30.274Z,"84 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2022-12-11T14:38:25.210Z,38.7663345,-122.7251663,2.63,1.17,md,6,136,0.004741,0.02,nc,nc73817286,2022-12-11T14:52:11.147Z,"3km ESE of The Geysers, CA",earthquake,4.45,4.58,0.36,6,automatic,nc,nc
-2022-12-11T14:31:29.595Z,17.1969,-100.4917,18.309,6,mww,100,119,1.874,0.79,us,us6000j8lp,2022-12-11T14:50:56.687Z,"4 km NW of Corral Falso, Mexico",earthquake,10,4.038,0.043,53,reviewed,us,us
-2022-12-11T14:29:14.265Z,37.2482,-97.9555,10.871,3.2,mb_lg,32,64,0.183,0.68,us,us6000j8ln,2022-12-11T14:45:32.593Z,"7 km SW of Danville, Kansas",earthquake,2.04,8.32,0.051,100,reviewed,us,us
+2022-12-11T14:38:25.210Z,38.7663345,-122.7251663,2.63,1.17,md,6,136,0.004741,0.02,nc,nc73817286,2022-12-11T14:56:12.175Z,"3km ESE of The Geysers, CA",earthquake,4.45,4.58,0.36,6,automatic,nc,nc
+2022-12-11T14:31:29.794Z,17.2233,-100.4747,19.806,6,mww,97,119,1.853,0.68,us,us6000j8lp,2022-12-11T15:05:22.979Z,"3 km WNW of El Ticui, Mexico",earthquake,9.99,3.932,0.043,53,reviewed,us,us
+2022-12-11T14:29:13.436Z,37.2318,-97.9554,10,3.2,mb_lg,31,64,0.175,0.77,us,us6000j8ln,2022-12-11T15:05:19.739Z,"8 km SW of Danville, Kansas",earthquake,1.33,1.996,0.051,102,reviewed,us,us
 2022-12-11T14:24:44.369Z,60.0896,-152.539,98.7,1.8,ml,,,,0.36,ak,ak022fusw1g4,2022-12-11T14:26:52.241Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-12-11T14:12:43.600Z,31.0219,141.8004,10,4.9,mb,50,122,2.683,0.68,us,us6000j8lk,2022-12-11T14:32:58.040Z,"Izu Islands, Japan region",earthquake,10.74,1.886,0.059,92,reviewed,us,us
 2022-12-11T13:59:52.980Z,38.7876663,-122.7468338,1.52,1.2,md,14,139,0.009054,0.02,nc,nc73817281,2022-12-11T14:35:19.042Z,"1km NE of The Geysers, CA",earthquake,0.29,0.47,0.15,13,automatic,nc,nc
@@ -180,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-10T15:20:30.145Z,58.2573,-155.1449,1.5,0.2,ml,,,,0.22,ak,ak022ft5x7il,2022-12-10T19:15:14.647Z,"86 km NNW of Karluk, Alaska",earthquake,,1,,,reviewed,ak,ak
 2022-12-10T15:19:41.289Z,64.8426,-147.7289,24.4,0.3,ml,,,,0.27,ak,ak022ft5x1qo,2022-12-10T15:20:48.783Z,"0 km NW of Fairbanks, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-10T15:10:27.780Z,33.8806667,-116.8551667,15.3,2.21,ml,79,25,0.06722,0.18,ci,ci40144383,2022-12-10T15:46:04.627Z,"5km SSE of Banning, CA",earthquake,0.16,0.39,0.189,25,automatic,ci,ci
-2022-12-10T14:59:24.783Z,64.4835,-152.588,10.6,2,ml,,,,0.92,ak,ak022ft5k5v2,2022-12-10T19:10:56.723Z,"68 km NNW of Lake Minchumina, Alaska",earthquake,,0.6,,,reviewed,ak,ak
