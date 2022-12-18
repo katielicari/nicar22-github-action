@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-18T13:29:54.690Z,35.8608333,-117.6748333,4.52,0.86,ml,11,116,0.07728,0.2,ci,ci40391760,2022-12-18T13:33:27.167Z,"22km ESE of Little Lake, CA",earthquake,0.44,0.84,0.234,8,automatic,ci,ci
 2022-12-18T13:12:12.350Z,59.9145,-153.2305,99,1.7,ml,,,,0.39,ak,ak022g6cze8j,2022-12-18T13:13:53.704Z,"51 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-18T12:55:36.520Z,38.8373337,-122.8366699,1.61,0.31,md,6,115,0.001557,0.01,nc,nc73820236,2022-12-18T13:10:14.749Z,"10km NW of The Geysers, CA",earthquake,0.42,1.25,0.16,7,automatic,nc,nc
 2022-12-18T12:55:22.320Z,19.1161670684814,-155.422836303711,31.7600002288818,2.02,ml,43,182,,0.109999999,hv,hv73275012,2022-12-18T13:00:52.780Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.5,0.939999998,0.35,6,automatic,hv,hv
@@ -196,6 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T13:42:18.430Z,38.8224983,-122.8115005,2.88,0.57,md,5,87,0.001429,0,nc,nc73819791,2022-12-17T14:24:11.519Z,"7km NW of The Geysers, CA",earthquake,0.9,2.4,0.3,8,automatic,nc,nc
 2022-12-17T13:41:18.150Z,38.8238335,-122.8073349,2.82,2.2,md,46,36,,0.05,nc,nc73819786,2022-12-17T15:20:10.853Z,"7km NW of The Geysers, CA",earthquake,0.17,0.25,0.17,46,automatic,nc,nc
 2022-12-17T13:39:01.740Z,38.8006668,-122.7685013,0.99,0.94,md,10,79,0.006868,0.01,nc,nc73819776,2022-12-17T14:36:11.716Z,"3km NNW of The Geysers, CA",earthquake,0.26,0.73,0.2,11,automatic,nc,nc
-2022-12-17T13:33:04.190Z,32.6725,-115.8225,5.78,1.81,ml,24,85,0.08431,0.26,ci,ci40391504,2022-12-17T13:44:07.050Z,"17km ESE of Ocotillo, CA",earthquake,0.53,1.91,0.243,28,automatic,ci,ci
-2022-12-17T13:31:57.500Z,35.9936667,-120.1971667,8.58,1.04,md,22,174,0.08159,0.05,nc,nc73819766,2022-12-17T22:31:12.485Z,"6km W of Avenal, CA",earthquake,0.32,0.42,0.154,12,reviewed,nc,nc
-2022-12-17T13:24:19.640Z,39.8931667,-120.4416667,1.7,2.17,md,16,89,0.0685,0.03,nc,nc73819761,2022-12-17T23:47:16.949Z,"4km NE of Lake Davis, CA",earthquake,0.18,0.59,0.205,35,reviewed,nc,nc
