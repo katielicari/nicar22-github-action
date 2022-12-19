@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-19T20:10:48.607Z,-22.3412,-68.6519,132.335,5,mww,37,42,0.749,0.32,us,us6000jae1,2022-12-19T20:30:25.040Z,"30 km ENE of Calama, Chile",earthquake,5.79,4.749,0.098,10,reviewed,us,us
 2022-12-19T20:10:43.077Z,61.5232,-149.8834,34.4,1.6,ml,,,,0.52,ak,ak022g84oewj,2022-12-19T20:12:47.085Z,"3 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-19T19:51:34.730Z,19.3548336029053,-155.295333862305,9.23999977111816,1.90999997,md,10,67,,0.0799999982,hv,hv73276517,2022-12-19T19:54:32.290Z,"11 km SSW of Volcano, Hawaii",earthquake,0.61,1.49000001,1.41999996,5,automatic,hv,hv
 2022-12-19T19:08:06.440Z,19.158332824707,-155.498992919922,34.189998626709,1.78999996,md,18,245,,0.170000002,hv,hv73276502,2022-12-19T19:11:23.850Z,"5 km SSW of Pāhala, Hawaii",earthquake,1.45,1.21000004,1.78999996,4,automatic,hv,hv
 2022-12-19T19:03:18.580Z,33.025,-115.6101667,6.18,1.18,ml,16,59,0.02717,0.19,ci,ci40392368,2022-12-19T19:06:54.567Z,"2km SE of Westmorland, CA",earthquake,0.41,1.27,0.196,18,automatic,ci,ci
 2022-12-19T18:55:10.223Z,58.2375,-155.079,2,1.5,ml,,,,0.7,ak,ak022g83r4dq,2022-12-19T18:56:37.307Z,"83 km NNW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-12-19T18:47:40.170Z,37.3013344,-121.6746674,6.31,1.45,md,8,111,0.04229,0.04,nc,nc73820811,2022-12-19T19:57:15.773Z,"15km E of Seven Trees, CA",earthquake,0.59,0.83,0.12,8,automatic,nc,nc
-2022-12-19T18:47:23.247Z,36.2285,-115.4435,15.9,1.6,ml,14,241.94,0.663,0.3113,nn,nn00853697,2022-12-19T18:51:26.482Z,"16 km NW of Summerlin South, Nevada",earthquake,,1,0.9,7,automatic,nn,nn
 2022-12-19T18:32:00.680Z,17.9566666666667,-66.9623333333333,10.56,1.76,md,6,204,0.07897,0.08,pr,pr71388073,2022-12-19T18:42:08.060Z,"5 km SW of Fuig, Puerto Rico",earthquake,0.58,1.06,0.0881041850997,4,reviewed,pr,pr
 2022-12-19T18:26:20.210Z,33.5395,-116.7795,9.01,0.63,ml,19,52,0.03218,0.16,ci,ci40392352,2022-12-19T18:29:46.466Z,"10km W of Anza, CA",earthquake,0.29,0.67,0.153,14,automatic,ci,ci
 2022-12-19T18:24:20.850Z,38.8328323,-122.8153305,1.36,1.06,md,24,45,0.01028,0.02,nc,nc73820806,2022-12-19T18:48:12.383Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.1,25,automatic,nc,nc
@@ -214,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T20:53:54.590Z,19.2256660461426,-155.395004272461,32.1800003051758,1.88999999,md,25,147,,0.129999995,hv,hv73275417,2022-12-18T20:57:11.550Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.72,1.14999998,0.939999998,3,automatic,hv,hv
 2022-12-18T20:51:26.606Z,55.8111,-158.3692,48.235,2.8,ml,18,160,0.994,0.57,us,us6000ja6v,2022-12-18T21:08:36.040Z,"49 km ESE of Perryville, Alaska",earthquake,4.69,28.73,0.066,30,reviewed,us,us
 2022-12-18T20:44:13.857Z,64.7502,-149.2652,18.5,1.2,ml,,,,0.48,ak,ak022g6hcai1,2022-12-18T20:46:14.644Z,"17 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-18T20:31:48.900Z,45.756166666666665,-121.84983333333334,7.98,1.32,ml,21,121,0.1194,0.24,uw,uw61899066,2022-12-18T21:19:32.930Z,"4 km NW of Carson, Washington",earthquake,0.6,0.76,0.2328607084795471,15,reviewed,uw,uw
-2022-12-18T20:30:03.570Z,38.8224983,-122.8081665,3.03,0.81,md,10,130,0.001738,0.01,nc,nc73820411,2022-12-18T21:15:23.785Z,"7km NW of The Geysers, CA",earthquake,0.67,1.24,0.11,10,automatic,nc,nc
