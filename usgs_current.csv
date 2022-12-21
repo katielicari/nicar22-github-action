@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-21T10:46:07.370Z,40.725666,-124.6303329,0.65,2.09,md,7,304,0.4819,0.2,nc,nc73822451,2022-12-21T10:54:12.048Z,"35km WNW of Ferndale, CA",earthquake,9.87,11.93,0.05,3,automatic,nc,nc
+2022-12-21T11:19:37.667Z,38.1855,-117.7878,8,2.9,ml,42,102.22,0.125,0.3129,nn,nn00853864,2022-12-21T11:24:51.343Z,"36 km SE of Mina, Nevada",earthquake,,0.5,0.82,23,automatic,nn,nn
+2022-12-21T10:46:07.370Z,40.725666,-124.6303329,0.65,2.09,md,7,304,0.4819,0.2,nc,nc73822451,2022-12-21T11:17:33.004Z,"35km WNW of Ferndale, CA",earthquake,9.87,11.93,0.05,3,automatic,nc,nc
 2022-12-21T10:35:18.205Z,62.2944,-150.1927,14.1,1.7,ml,,,,0.88,ak,ak022gb9y2to,2022-12-21T10:37:09.495Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-21T10:33:31.651Z,63.8326,-147.2415,0,1.7,ml,,,,1.17,ak,ak022gb9xodl,2022-12-21T10:44:19.987Z,"67 km SSW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-21T10:21:36.030Z,33.6583333,-116.6696667,16.04,1.06,ml,41,35,0.06337,0.17,ci,ci40392880,2022-12-21T10:25:05.082Z,"10km SSE of Idyllwild, CA",earthquake,0.22,0.38,0.223,26,automatic,ci,ci
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T09:43:57.789Z,-24.3544,-67.0394,160.919,4.6,mb,36,70,1.744,1.07,us,us6000jatu,2022-12-21T10:01:18.040Z,"74 km WSW of San Antonio de los Cobres, Argentina",earthquake,9.86,5.175,0.114,23,reviewed,us,us
 2022-12-21T09:19:53.210Z,61.1123,-150.3021,39,1.7,ml,,,,0.52,ak,ak022gb99agp,2022-12-21T09:21:51.835Z,"24 km WSW of Anchorage, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-21T09:13:55.680Z,40.5323334,-124.2358322,20,2.15,md,10,174,0.09604,0.1,nc,nc73822411,2022-12-21T09:20:12.471Z,"5km SSE of Ferndale, CA",earthquake,1.14,0.93,0.07,7,automatic,nc,nc
-2022-12-21T09:12:36.442Z,32.11029053,-102.2050067,7.752156576,3.2,ml,10,66,0.03768184043,0.1,tx,tx2022yxmi,2022-12-21T10:44:41.685Z,"17 km NW of Midland, Texas",earthquake,0.701952558,0.8698710537999998,0.3,13,reviewed,tx,tx
+2022-12-21T09:12:36.442Z,32.11029053,-102.2050067,7.752156576,3.2,ml,10,66,0.03768184043,0.1,tx,tx2022yxmi,2022-12-21T11:22:31.405Z,"17 km NW of Midland, Texas",earthquake,0.701952558,0.8698710537999998,0.3,13,reviewed,tx,tx
 2022-12-21T09:03:11.600Z,40.5301666,-124.3515015,14.84,3.03,ml,22,207,0.05558,0.18,nc,nc73822406,2022-12-21T10:08:11.040Z,"9km SW of Ferndale, CA",earthquake,1.39,0.5,0.271,5,automatic,nc,nc
 2022-12-21T09:02:55.670Z,40.5541649,-124.1656647,20.33,1.93,md,11,165,0.1527,0.09,nc,nc73822401,2022-12-21T09:20:11.606Z,"5km S of Fortuna, CA",earthquake,0.75,0.6,0.02,6,automatic,nc,nc
 2022-12-21T08:50:50.105Z,53.9378,-160.9522,12.068,4.9,mb,89,162,1.199,0.6,us,us6000jatf,2022-12-21T10:31:21.040Z,"153 km SE of King Cove, Alaska",earthquake,7.51,4.757,0.056,101,reviewed,us,us
@@ -95,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T01:35:50.880Z,38.8241653,-122.8046646,2.64,0.75,md,9,78,0.004295,0.01,nc,nc73822171,2022-12-21T02:00:14.831Z,"7km NW of The Geysers, CA",earthquake,0.35,0.95,0.3,9,automatic,nc,nc
 2022-12-21T01:22:02.783Z,44.0718,-128.0898,10,4.6,mb,114,191,2.103,1.09,us,us6000jaqz,2022-12-21T07:42:30.897Z,"off the coast of Oregon",earthquake,8.63,1.944,0.053,107,reviewed,us,us
 2022-12-21T01:14:21.760Z,40.5216675,-124.3706665,16.87,2.18,md,12,252,0.05254,0.04,nc,nc73822151,2022-12-21T01:21:14.596Z,"11km SW of Ferndale, CA",earthquake,1.05,0.55,0.05,7,automatic,nc,nc
-2022-12-21T01:07:33.710Z,40.5058333,-124.4661667,22.8,3.02,ml,23,231,0.1027,0.08,nc,nc73822146,2022-12-21T11:06:10.127Z,"19km WSW of Ferndale, CA",earthquake,0.61,0.34,0.218,18,reviewed,nc,nc
+2022-12-21T01:07:33.710Z,40.5058333,-124.4661667,22.8,3.02,ml,23,231,0.1027,0.08,nc,nc73822146,2022-12-21T11:24:12.230Z,"19km WSW of Ferndale, CA",earthquake,0.61,0.34,0.218,18,reviewed,nc,nc
 2022-12-21T00:50:01.250Z,38.8258324,-122.8051682,2.57,0.67,md,9,97,0.00454,0.02,nc,nc73822141,2022-12-21T00:51:35.011Z,"7km NW of The Geysers, CA",earthquake,0.34,0.98,0.28,10,automatic,nc,nc
 2022-12-21T00:46:14.450Z,33.7851667,-116.1545,5.74,2.54,ml,68,69,0.057,0.18,ci,ci40392824,2022-12-21T04:50:41.665Z,"9km NE of Indio, CA",earthquake,0.19,0.74,0.173,26,automatic,ci,ci
 2022-12-21T00:33:55.740Z,40.5396652,-124.3138351,15.37,2.2,md,8,216,0.06652,0.07,nc,nc73822131,2022-12-21T01:12:14.815Z,"6km SW of Ferndale, CA",earthquake,1.3,0.98,0.08,5,automatic,nc,nc
@@ -105,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T00:21:49.920Z,38.847168,-122.8153305,0.88,0.29,md,8,152,0.009755,0.01,nc,nc73822116,2022-12-21T00:23:25.582Z,"8km WNW of Cobb, CA",earthquake,0.44,0.86,0.18,8,automatic,nc,nc
 2022-12-21T00:16:40.010Z,17.9436666666667,-66.9518333333333,11.72,1.72,md,5,222,0.07581,0.06,pr,pr71388313,2022-12-21T00:56:55.390Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.64,1,0.0881010902296806,3,reviewed,pr,pr
 2022-12-21T00:15:31.470Z,40.5586667,-124.0691667,18.91,2.74,md,29,79,0.145,0.15,nc,nc73822111,2022-12-21T07:54:10.957Z,"3km ENE of Hydesville, CA",earthquake,0.32,0.36,0.203,34,reviewed,nc,nc
-2022-12-21T00:12:13.689Z,63.1145,-151.4841,0,2.3,ml,,,,1.03,ak,ak022gb3usyg,2022-12-21T00:14:18.508Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-21T00:12:13.689Z,63.1145,-151.4841,0,2.3,ml,,,,1.03,ak,ak022gb3usyg,2022-12-21T00:14:18.508Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-21T00:03:03.610Z,37.0184,-116.29,8.3,0.1,ml,14,74.84,0.088,0.1044,nn,nn00853844,2022-12-21T00:41:53.145Z,"Nevada",earthquake,,1.4,0.99,10,reviewed,nn,nn
 2022-12-21T00:02:09.191Z,64.9867,-147.3559,7.8,1.4,ml,,,,1.16,ak,ak022gb3sng7,2022-12-21T00:04:17.215Z,"12 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-20T23:55:35.960Z,32.8861667,-116.9321667,1.65,0.65,ml,6,258,0.3418,0.15,ci,ci40392792,2022-12-20T23:59:13.296Z,"3km NNW of Lakeside, CA",earthquake,1.67,4.06,0.065,3,automatic,ci,ci
@@ -287,7 +288,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T11:50:10.340Z,40.5753326,-124.1168365,19.69,2.34,md,14,169,0.1955,0.08,nc,nc73821251,2022-12-20T12:09:24.557Z,"4km NNW of Hydesville, CA",earthquake,0.56,0.55,0.06,8,automatic,nc,nc
 2022-12-20T11:48:34.080Z,40.5285,-124.3983333,18.15,2.75,md,21,226,0.07035,0.1,nc,nc73821241,2022-12-21T03:08:12.225Z,"12km WSW of Ferndale, CA",earthquake,0.64,0.29,0.157,31,reviewed,nc,nc
 2022-12-20T11:46:06.510Z,40.6738319,-124.07267,5.8,2.8,md,6,223,0.2831,0.05,nc,nc73821236,2022-12-20T18:05:13.072Z,"9km SE of Pine Hills, CA",earthquake,1.5,1.35,0.06,3,automatic,nc,nc
-2022-12-20T11:46:00.080Z,58.4191666666667,-154.904833333333,8.13,-0.29,ml,5,186,,0.17,av,av91081278,2022-12-21T06:18:43.790Z,"Alaska Peninsula",earthquake,1.68,1.74,0.103173428357918,5,reviewed,av,av
+2022-12-20T11:46:00.080Z,58.4191666666667,-154.904833333333,8.13,-0.29,ml,5,186,,0.17,av,av91081278,2022-12-21T06:18:43.790Z,"98 km NNW of Karluk, Alaska",earthquake,1.68,1.74,0.103173428357918,5,reviewed,av,av
 2022-12-20T11:44:58.860Z,40.52,-124.3421667,18.88,2.02,md,16,204,0.04362,0.11,nc,nc73821231,2022-12-21T01:12:16.834Z,"9km SW of Ferndale, CA",earthquake,0.73,0.32,0.077,8,reviewed,nc,nc
 2022-12-20T11:42:54.980Z,40.529,-124.3145,17.94,3.02,ml,25,180,0.03478,0.09,nc,nc73821226,2022-12-21T00:52:13.431Z,"7km SW of Ferndale, CA",earthquake,0.49,0.29,0.238,27,reviewed,nc,nc
 2022-12-20T11:42:08.450Z,18.8855,-64.6771666666667,16.32,3.1,md,4,313,0.5583,0.19,pr,pr71388218,2022-12-20T12:19:39.000Z,"62 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,6.64,13.1,0.104576446339111,3,reviewed,pr,pr
@@ -295,7 +296,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T11:35:23.490Z,38.8320007,-122.8151703,1.54,1.14,md,23,52,0.00947,0.02,nc,nc73821216,2022-12-20T12:09:21.666Z,"8km NW of The Geysers, CA",earthquake,0.19,0.36,0.18,24,automatic,nc,nc
 2022-12-20T11:31:55.900Z,40.6263351,-124.1945038,8.72,2.22,md,12,173,0.2982,0.22,nc,nc73821206,2022-12-20T11:46:16.172Z,"4km NW of Fortuna, CA",earthquake,1.22,2.26,0.13,6,automatic,nc,nc
 2022-12-20T11:30:29.240Z,40.5126667,-124.4091667,16.91,2.74,md,24,217,0.06604,0.12,nc,nc73821196,2022-12-21T08:11:36.761Z,"14km WSW of Ferndale, CA",earthquake,0.63,0.33,0.149,50,reviewed,nc,nc
-2022-12-20T11:23:54.900Z,51.8793333333333,-177.989,5.24,1.06,ml,5,115,,0.19,av,av91734046,2022-12-21T06:04:47.540Z,"93 km W of Adak, Alaska",earthquake,0.52,1.01,0.174897415036498,5,reviewed,av,av
-2022-12-20T11:23:43.860Z,40.5083351,-124.4189987,21.11,2.9,md,9,289,0.07026,0.07,nc,nc73821186,2022-12-20T22:27:03.465Z,"15km WSW of Ferndale, CA",earthquake,2.47,0.61,0.05,6,automatic,nc,nc
-2022-12-20T11:21:40.110Z,40.5871667,-124.2598333,20.96,2.71,md,25,166,0.01138,0.07,nc,nc73821181,2022-12-21T08:36:12.200Z,"1km NNE of Ferndale, CA",earthquake,0.43,0.23,0.122,33,reviewed,nc,nc
-2022-12-20T11:18:35.499Z,66.1442,-146.6205,5,2,ml,,,,1.33,ak,ak022g9mwk3h,2022-12-20T17:33:48.836Z,"38 km WSW of Birch Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
