@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-25T16:53:57.260Z,38.840332,-122.8371658,1.41,1.1,md,21,85,0.002179,0.03,nc,nc73824761,2022-12-25T16:55:33.674Z,"10km NW of The Geysers, CA",earthquake,0.21,0.36,0.16,23,automatic,nc,nc
-2022-12-25T16:26:34.070Z,38.8320007,-122.814003,1.71,1.83,md,30,44,,0.03,nc,nc73824756,2022-12-25T16:47:11.975Z,"8km NW of The Geysers, CA",earthquake,0.17,0.3,0.2,31,automatic,nc,nc
+2022-12-25T17:11:23.059Z,59.7821,-152.8503,55,2.5,ml,,,,0.85,ak,ak022gi04d81,2022-12-25T17:14:37.603Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
+2022-12-25T17:07:05.460Z,35.7033333,-117.5378333,9.57,0.85,ml,14,94,0.1222,0.18,ci,ci40149759,2022-12-25T17:10:38.649Z,"14km WSW of Searles Valley, CA",earthquake,0.44,1.25,0.089,8,automatic,ci,ci
+2022-12-25T16:53:57.260Z,38.840332,-122.8371658,1.41,1.1,md,21,85,0.002179,0.03,nc,nc73824761,2022-12-25T17:19:12.291Z,"10km NW of The Geysers, CA",earthquake,0.21,0.36,0.16,23,automatic,nc,nc
+2022-12-25T16:26:34.070Z,38.8320007,-122.814003,1.71,1.83,md,30,44,,0.03,nc,nc73824756,2022-12-25T17:20:10.173Z,"8km NW of The Geysers, CA",earthquake,0.17,0.3,0.2,31,automatic,nc,nc
 2022-12-25T16:23:20.300Z,38.7900009,-122.7316666,1.05,0.79,md,8,93,0.007826,0.09,nc,nc73824751,2022-12-25T16:58:14.045Z,"3km ENE of The Geysers, CA",earthquake,0.42,1.68,0.15,8,automatic,nc,nc
 2022-12-25T16:22:32.630Z,19.1221675872803,-155.427993774414,31.6100006103516,1.91999996,md,37,179,,0.119999997,hv,hv73282537,2022-12-25T16:32:42.010Z,"Island of Hawaii, Hawaii",earthquake,0.6,1.03999996,1,11,automatic,hv,hv
 2022-12-25T16:11:39.900Z,36.5898323,-121.0358353,5.36,1.01,md,6,133,0.01172,0.06,nc,nc73824741,2022-12-25T16:37:12.908Z,"12km NE of Pinnacles, CA",earthquake,0.79,0.59,0.11,6,automatic,nc,nc
@@ -191,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-24T17:35:27.000Z,38.7871666,-122.7328339,1.88,1.32,md,14,86,0.004964,0.02,nc,nc73824196,2022-12-24T18:22:12.717Z,"2km ENE of The Geysers, CA",earthquake,0.31,0.62,0.07,14,automatic,nc,nc
 2022-12-24T17:23:51.715Z,23.7462,-108.3535,10,4.5,mb,52,185,4.002,0.88,us,us6000jbgr,2022-12-25T01:12:42.222Z,"107 km SSW of Altata, Mexico",earthquake,8.43,1.935,0.054,101,reviewed,us,us
 2022-12-24T17:21:33.900Z,37.6576653,-122.0666656,4.29,1.78,md,18,84,0.07842,0.11,nc,nc73824191,2022-12-24T22:16:07.153Z,"2km NNE of Hayward, CA",earthquake,0.28,0.91,0.2,15,automatic,nc,nc
-2022-12-24T17:20:49.378Z,58.913,-154.4314,116.3,2,ml,,,,0.42,ak,ak022ggcn07d,2022-12-24T17:23:19.681Z,"61 km SSE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-24T17:17:40.690Z,33.0585,-116.5303333,12.7,0.74,ml,16,65,0.06073,0.21,ci,ci40149431,2022-12-24T17:21:09.677Z,"7km ESE of Julian, CA",earthquake,0.46,0.98,0.204,9,automatic,ci,ci
