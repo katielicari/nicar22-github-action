@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-26T06:54:01.222Z,38.1666,-117.8845,5,0.6,ml,9,161.47,0.065,0.1041,nn,nn00854185,2022-12-26T06:56:59.503Z,"31 km SE of Mina, Nevada",earthquake,,2.2,0.39,4,automatic,nn,nn
 2022-12-26T06:23:42.540Z,62.9964,-150.6089,91.7,1.9,ml,,,,0.56,ak,ak022gjh6k5q,2022-12-26T06:25:40.890Z,"56 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-26T06:19:54.000Z,38.8274994,-122.8040009,1.72,0.7,md,8,105,0.006269,0.01,nc,nc73825126,2022-12-26T06:48:11.766Z,"7km NW of The Geysers, CA",earthquake,0.6,1.03,0.16,10,automatic,nc,nc
 2022-12-26T06:15:52.300Z,38.8465004,-122.8766632,2.68,0.99,md,14,94,0.00982,0.02,nc,nc73825121,2022-12-26T06:37:13.697Z,"13km NW of The Geysers, CA",earthquake,0.34,0.7,0.22,17,automatic,nc,nc
@@ -227,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T07:26:48.890Z,19.1774997711182,-155.496994018555,33.1399993896484,2.01999998,md,35,148,,0.119999997,hv,hv73281987,2022-12-25T07:30:09.420Z,"3 km SW of Pāhala, Hawaii",earthquake,0.61,0.730000019,1.15999997,12,automatic,hv,hv
 2022-12-25T07:24:38.430Z,19.4116668701172,-155.326995849609,4.03999996185303,1.97,ml,27,63,,0.170000002,hv,hv73281982,2022-12-25T07:30:15.340Z,"10 km WSW of Volcano, Hawaii",earthquake,0.36,0.800000012,4.17,3,automatic,hv,hv
 2022-12-25T07:11:27.200Z,19.1523342132568,-155.378005981445,31.5200004577637,1.76999998,md,32,221,,0.129999995,hv,hv73281957,2022-12-25T07:14:31.600Z,"Island of Hawaii, Hawaii",earthquake,0.75,0.939999998,0.579999983,3,automatic,hv,hv
-2022-12-25T06:50:03.830Z,38.8325005,-122.8093338,2.22,1.03,md,21,45,0.009111,0.02,nc,nc73824501,2022-12-25T07:15:14.544Z,"8km W of Cobb, CA",earthquake,0.22,0.44,0.09,19,automatic,nc,nc
-2022-12-25T06:49:30.320Z,19.1853332519531,-155.489669799805,33.6300010681152,2.12,ml,43,147,,0.109999999,hv,hv73281927,2022-12-25T07:00:36.040Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.59,0.660000026,3.58,6,automatic,hv,hv
