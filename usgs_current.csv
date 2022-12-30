@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-30T02:51:25.600Z,33.9615,-116.8151667,11.32,1.73,ml,61,28,0.05418,0.17,ci,ci40151319,2022-12-30T03:01:55.900Z,"6km NNW of Cabazon, CA",earthquake,0.17,0.42,0.15,29,automatic,ci,ci
 2022-12-30T02:16:50.960Z,19.1388339996338,-155.362670898438,26.8600006103516,1.79999995,md,30,193,,0.109999999,hv,hv73287097,2022-12-30T02:19:58.110Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.78,1.02999997,0.289999992,5,automatic,hv,hv
 2022-12-30T02:07:40.530Z,19.2638339996338,-155.415664672852,33.8899993896484,1.88,md,31,119,,0.109999999,hv,hv73287092,2022-12-30T02:10:56.180Z,"9 km NE of Pāhala, Hawaii",earthquake,0.99,0.850000024,1.07000005,8,automatic,hv,hv
 2022-12-30T02:07:05.890Z,33.5443333,-118.2516667,11.63,1.84,ml,22,224,0.1715,0.37,ci,ci40151303,2022-12-30T02:10:40.290Z,"22km S of San Pedro, CA",earthquake,2.11,1.71,0.158,29,automatic,ci,ci
@@ -197,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-29T03:15:56.980Z,17.9388333333333,-66.9081666666667,11.51,2.33,md,5,247,0.04533,0.06,pr,pr71389503,2022-12-29T03:32:34.820Z,"Puerto Rico region",earthquake,0.56,0.74,0.0767176943934245,5,reviewed,pr,pr
 2022-12-29T03:10:09.190Z,34.9723333,-118.5925,15.21,1.17,ml,13,180,0.08686,0.23,ci,ci40150951,2022-12-29T03:13:40.653Z,"22km N of Neenach, CA",earthquake,1.03,1.31,0.098,11,automatic,ci,ci
 2022-12-29T03:07:49.650Z,36.5661659,-121.1563339,8.19,1.63,md,12,118,0.02404,0.08,nc,nc73826216,2022-12-29T04:12:15.536Z,"4km NNW of Pinnacles, CA",earthquake,0.41,0.75,0.13,12,automatic,nc,nc
-2022-12-29T03:03:40.978Z,64.9334,-148.9679,16.2,0.8,ml,,,,0.45,ak,ak022godw0dj,2022-12-29T03:13:54.120Z,"30 km SE of Minto, Alaska",earthquake,,0.7,,,automatic,ak,ak
