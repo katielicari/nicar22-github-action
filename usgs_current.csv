@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-31T11:44:09.900Z,60.7653,-151.9724,78.9,1.5,ml,,,,0.92,ak,ak022grtyw66,2022-12-31T11:46:11.449Z,"38 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-12-31T11:44:06.170Z,34.3556667,-116.9178333,4.97,1.13,ml,15,107,0.07516,0.22,ci,ci40151743,2022-12-31T11:47:37.579Z,"11km SSE of Lucerne Valley, CA",earthquake,0.47,1.72,0.183,13,automatic,ci,ci
+2022-12-31T11:42:50.370Z,34.3536667,-116.9223333,4.46,1.92,ml,35,93,0.0787,0.21,ci,ci40151735,2022-12-31T11:46:35.656Z,"11km SSE of Lucerne Valley, CA",earthquake,0.31,0.74,0.251,9,automatic,ci,ci
+2022-12-31T11:42:33.770Z,34.3526667,-116.9208333,4.88,1.81,ml,33,105,0.07739,0.19,ci,ci40151727,2022-12-31T11:48:20.149Z,"11km SSE of Lucerne Valley, CA",earthquake,0.33,1,0.07,7,automatic,ci,ci
+2022-12-31T11:41:09.490Z,34.355999,-116.9223328,4.95,3.47,mw,126,17,0.0789,0.15,ci,ci40151719,2022-12-31T11:46:56.870Z,"11km SSE of Lucerne Valley, CA",earthquake,0.17,0.77,,4,automatic,ci,ci
+2022-12-31T11:39:41.100Z,38.8148346,-122.8310013,1.52,0.56,md,9,65,0.006126,0.01,nc,nc73827151,2022-12-31T11:41:16.948Z,"8km WNW of The Geysers, CA",earthquake,0.33,0.78,0.25,10,automatic,nc,nc
 2022-12-31T11:28:10.705Z,63.2811,-151.2306,7.4,1.4,ml,,,,0.43,ak,ak022grtvgry,2022-12-31T11:30:27.234Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-31T11:19:11.617Z,61.044,-148.9147,0,1.5,ml,,,,0.52,ak,ak022grttjeh,2022-12-31T11:21:15.781Z,"17 km NE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-31T11:02:19.660Z,38.8339996,-122.8174973,1.38,0.94,md,12,86,0.01207,0.02,nc,nc73827146,2022-12-31T11:35:12.478Z,"8km NW of The Geysers, CA",earthquake,0.29,0.68,0.2,12,automatic,nc,nc
@@ -189,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T12:11:36.340Z,17.9451666666667,-66.962,12.23,1.81,md,8,218,0.0819,0.1,pr,pr71389733,2022-12-30T17:10:14.970Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.67,0.52,0.137538707137749,6,reviewed,pr,pr
 2022-12-30T12:10:45.063Z,-7.984,128.9291,35,5,mb,58,56,2.347,0.64,us,us7000j11x,2022-12-30T12:30:01.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,7.1,1.925,0.073,60,reviewed,us,us
 2022-12-30T11:57:27.920Z,53.885,-166.9245,4.09,0.23,ml,6,241,,0.12,av,av91740356,2022-12-31T02:56:49.360Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.79,1.43,0.227339107177893,7,reviewed,av,av
-2022-12-30T11:48:37.980Z,35.125,-118.2031667,8.52,1.24,ml,20,39,0.1554,0.21,ci,ci40151463,2022-12-30T11:52:25.087Z,"8km NNW of Mojave, CA",earthquake,0.35,1.59,0.192,22,automatic,ci,ci
