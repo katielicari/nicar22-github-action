@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-05T11:10:43.020Z,19.3915004730225,-155.281661987305,2.17000007629395,1.90999997,md,22,47,,0.189999998,hv,hv73295897,2023-01-05T11:16:14.940Z,"7 km SW of Volcano, Hawaii",earthquake,0.34,0.209999993,0.449999988,10,automatic,hv,hv
+2023-01-05T10:53:29.880Z,17.9633333333333,-67.0088333333333,8.66,1.45,md,4,248,0.03423,0.08,pr,pr71391103,2023-01-05T11:07:28.390Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.59,0.79,0.018925112595841,3,reviewed,pr,pr
 2023-01-05T10:36:37.470Z,19.4061660766602,-155.057998657227,-0.610000014305115,1.82000005,md,22,273,,0.209999993,hv,hv73295837,2023-01-05T10:39:52.010Z,"Hawaii region, Hawaii",earthquake,1.14,0.540000021,1.21000004,3,automatic,hv,hv
 2023-01-05T10:36:33.970Z,19.4018325805664,-154.863998413086,-0.239999994635582,1.78999996,md,16,288,,0.25999999,hv,hv73295842,2023-01-05T10:39:59.020Z,"9 km SE of Leilani Estates, Hawaii",earthquake,3,0.529999971,1.78999996,4,automatic,hv,hv
 2023-01-05T10:28:47.080Z,19.4038333892822,-155.294830322266,2.01999998092651,2.06999993,md,10,78,,0.180000007,hv,hv73295822,2023-01-05T10:31:44.810Z,"Hawaii region, Hawaii",earthquake,0.51,0.610000014,0.150000006,6,automatic,hv,hv
@@ -53,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-05T04:09:04.751Z,62.974,-150.9565,115.1,1.5,ml,,,,0.25,ak,ak0238c4epk,2023-01-05T04:11:47.476Z,"54 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-05T04:03:10.694Z,52.696,-35.0439,10,4.5,mb,34,92,18.83,0.55,us,us7000j27w,2023-01-05T04:44:26.040Z,"Reykjanes Ridge",earthquake,12.25,1.903,0.089,37,reviewed,us,us
 2023-01-05T03:48:49.890Z,36.1651649,-120.208168,24.07,2.16,md,8,140,0.1493,0.29,nc,nc73828921,2023-01-05T04:10:12.673Z,"10km WSW of Huron, CA",earthquake,3.54,1.95,0.05,4,automatic,nc,nc
-2023-01-05T03:38:16.619Z,-10.5982,-74.8769,113.258,4.9,mb,56,85,2.371,0.86,us,us7000j27d,2023-01-05T03:56:05.040Z,"35 km N of Santa Rosa, Peru",earthquake,7.52,7.91,0.047,142,reviewed,us,us
+2023-01-05T03:38:16.619Z,-10.5982,-74.8769,113.258,4.9,mb,56,85,2.371,0.86,us,us7000j27d,2023-01-05T03:56:05.040Z,"central Peru",earthquake,7.52,7.91,0.047,142,reviewed,us,us
 2023-01-05T03:37:11.840Z,17.9846666666667,-66.8871666666667,12.97,2.84,md,17,98,0.01217,0.09,pr,pr71391028,2023-01-05T04:07:11.630Z,"0 km NNE of Maria Antonia, Puerto Rico",earthquake,0.38,0.21,0.131126433331892,19,reviewed,pr,pr
 2023-01-05T03:32:18.040Z,17.942,-66.9216666666667,14.39,2.07,md,10,221,0.0325,0.06,pr,pr71391023,2023-01-05T03:51:39.640Z,"3 km SSW of Guánica, Puerto Rico",earthquake,0.36,0.41,0.0171984982504723,4,reviewed,pr,pr
 2023-01-05T03:15:43.153Z,62.2407,-153.4224,5.9,1.9,ml,,,,0.85,ak,ak0238bkccw,2023-01-05T03:26:33.129Z,"99 km SSE of Nikolai, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -77,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-05T00:18:53.740Z,19.203332901001,-155.428497314453,32.5299987792969,1.88,md,30,146,,0.129999995,hv,hv73295242,2023-01-05T00:22:08.580Z,"5 km E of Pāhala, Hawaii",earthquake,0.82,0.680000007,0.25999999,9,automatic,hv,hv
 2023-01-05T00:17:38.550Z,35.0368333,-117.6658333,0.29,1.71,ml,20,61,0.1052,0.18,ci,ci40153727,2023-01-05T00:21:09.758Z,"4km NNW of Boron, CA",quarry blast,0.46,31.61,0.119,27,automatic,ci,ci
 2023-01-05T00:13:43.319Z,64.9916,-147.3327,3.6,1.7,ml,,,,0.47,ak,ak02389rm4b,2023-01-05T00:15:37.502Z,"13 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-05T00:08:22.590Z,17.9245,-66.9588333333333,9.99,1.8,md,6,243,0.09092,0.15,pr,pr71391013,2023-01-05T00:21:11.980Z,"Puerto Rico region",earthquake,0.82,1.31,0.132137646192888,5,reviewed,pr,pr
+2023-01-05T00:08:22.590Z,17.9245,-66.9588333333333,9.99,1.8,md,6,243,0.09092,0.15,pr,pr71391013,2023-01-05T00:21:11.980Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.82,1.31,0.132137646192888,5,reviewed,pr,pr
 2023-01-05T00:07:41.911Z,62.1534,-149.1473,41.8,1.5,ml,,,,0.21,ak,ak02389qbpr,2023-01-05T00:09:00.964Z,"36 km E of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-04T23:46:50.627Z,60.0307,-147.4312,20.407,3,ml,46,75,0.036,0.77,us,us7000j265,2023-01-05T00:04:59.040Z,"32 km E of Chenega, Alaska",earthquake,2.77,2.242,0.034,116,reviewed,us,us
 2023-01-04T23:45:55.648Z,58.1586,-155.4014,1.4,0.4,ml,,,,0.21,ak,ak0237044ek,2023-01-04T23:46:55.647Z,"86 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
@@ -155,8 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T11:52:17.340Z,63.2399,-148.8108,0,3.2,ml,,,,1,ak,ak0236t0c6k,2023-01-05T05:12:39.040Z,"18 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-04T11:40:58.762Z,31.61029574,-103.970824,8.740930176000003,2.9,ml,16,56,0.001740209346,0.1,tx,tx2023agjr,2023-01-05T05:01:23.040Z,"36 km WSW of Mentone, Texas",earthquake,0.4342602897,0.4104288839,0.1,10,reviewed,tx,tx
 2023-01-04T11:28:52.763Z,62.6234,-149.6585,55.1,1.4,ml,,,,0.89,ak,ak0236sv9r0,2023-01-04T11:31:30.608Z,"29 km NE of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-01-04T11:20:52.113Z,63.0824,-151.5124,2.6,1.7,ml,,,,0.37,ak,ak0236stjyz,2023-01-04T11:22:40.011Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-04T11:19:33.980Z,35.679,-117.515,11.66,1.24,ml,15,167,0.1521,0.18,ci,ci40153607,2023-01-04T11:23:09.315Z,"14km SW of Searles Valley, CA",earthquake,0.49,1.24,0.113,14,automatic,ci,ci
-2023-01-04T11:15:03.470Z,33.494,-116.7436667,11.43,0.64,ml,19,82,0.07141,0.12,ci,ci40153599,2023-01-04T11:18:31.199Z,"9km SW of Anza, CA",earthquake,0.24,0.68,0.098,13,automatic,ci,ci
-2023-01-04T11:06:22.660Z,52.0291,174.8136,48.706,4.5,mb,66,169,0.827,0.89,us,us7000j21j,2023-01-04T18:06:33.141Z,"143 km SE of Attu Station, Alaska",earthquake,6.81,6.479,0.054,103,reviewed,us,us
-2023-01-04T11:03:22.600Z,36.0076675,-119.902832,4.86,1.65,md,6,180,0.33,0.24,nc,nc73828706,2023-01-04T11:36:11.848Z,"5km E of Kettleman City, CA",earthquake,3.77,19.8,,1,automatic,nc,nc
