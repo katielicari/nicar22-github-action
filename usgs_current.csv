@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-05T04:20:30.120Z,-59.3869,-23.8441,10,4.9,mb,34,181,8.607,0.63,us,us7000j27t,2023-01-05T04:38:04.040Z,"South Sandwich Islands region",earthquake,13.85,1.876,0.096,34,reviewed,us,us
+2023-01-05T04:12:56.230Z,19.1011666666667,-67.9346666666667,50.18,3.31,md,14,335,0.8334,0.25,pr,pr71391048,2023-01-05T04:35:33.820Z,"75 km NE of Punta Cana, Dominican Republic",earthquake,2.39,8.54,0.0835753601240572,10,reviewed,pr,pr
 2023-01-05T04:09:04.751Z,62.974,-150.9565,115.1,1.5,ml,,,,0.25,ak,ak0238c4epk,2023-01-05T04:11:47.476Z,"54 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-05T03:48:49.890Z,36.1651649,-120.208168,24.07,2.16,md,8,140,0.1493,0.29,nc,nc73828921,2023-01-05T04:10:12.673Z,"10km WSW of Huron, CA",earthquake,3.54,1.95,0.05,4,automatic,nc,nc
 2023-01-05T03:38:16.619Z,-10.5982,-74.8769,113.258,4.9,mb,56,85,2.371,0.86,us,us7000j27d,2023-01-05T03:56:05.040Z,"35 km N of Santa Rosa, Peru",earthquake,7.52,7.91,0.047,142,reviewed,us,us
@@ -170,5 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T04:58:33.690Z,19.1200008392334,-155.386505126953,31.5100002288818,1.74000001,md,37,187,,0.100000001,hv,hv73294407,2023-01-04T05:01:43.650Z,"13 km SE of Pāhala, Hawaii",earthquake,0.61,1.02999997,0.860000014,8,automatic,hv,hv
 2023-01-04T04:54:42.370Z,31.68932281,-104.485758,4.948999022999999,3,ml,12,75,0.02438604685,0.1,tx,tx2023afwf,2023-01-04T22:31:52.373Z,"54 km S of Whites City, New Mexico",earthquake,1.0739596,1.221349849,0.1,11,reviewed,tx,tx
 2023-01-04T04:53:40.490Z,34.358,-116.9221667,4.5,1.26,ml,24,64,0.07898,0.2,ci,ci40153463,2023-01-04T14:50:40.140Z,"10km SSE of Lucerne Valley, CA",earthquake,0.36,0.7,0.12,26,reviewed,ci,ci
-2023-01-04T04:31:30.779Z,37.2378,-116.0261,7.4,-0.1,ml,7,244.23,0.067,0.1177,nn,nn00854530,2023-01-05T02:44:34.260Z,"Nevada",earthquake,,2.7,0.22,4,reviewed,nn,nn
-2023-01-04T04:22:19.270Z,38.831501,-122.8190002,1.65,0.77,md,16,64,0.01068,0.03,nc,nc73828616,2023-01-04T04:40:14.348Z,"8km NW of The Geysers, CA",earthquake,0.25,0.66,0.15,17,automatic,nc,nc
