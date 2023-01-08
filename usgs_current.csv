@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-08T13:27:27.270Z,19.2430000305176,-155.411666870117,31.8099994659424,1.78999996,md,37,129,,0.140000001,hv,hv73299187,2023-01-08T13:30:39.550Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.62,1.03999996,0.600000024,3,automatic,hv,hv
 2023-01-08T13:07:11.960Z,38.8426666,-122.8388367,1.84,0.98,md,17,92,0.00484,0.02,nc,nc73829971,2023-01-08T13:24:12.370Z,"10km NW of The Geysers, CA",earthquake,0.26,0.43,0.15,19,automatic,nc,nc
 2023-01-08T12:56:46.776Z,59.8675,-151.3002,46.6,1.8,ml,,,,0.19,ak,ak023dfs2x1,2023-01-08T12:58:28.602Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-08T12:32:42.219Z,-14.9383,166.8778,27.719,7,mww,111,36,6.103,0.59,us,us7000j2yw,2023-01-08T13:27:54.122Z,"23 km WNW of Port-Olry, Vanuatu",earthquake,6.59,3.997,0.056,31,reviewed,us,us
