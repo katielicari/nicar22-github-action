@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-11T08:54:30.056Z,58.7827,-153.889,9.2,1.6,ml,,,,0.51,ak,ak023ibzx99,2023-01-11T08:56:36.934Z,"89 km SE of Kokhanok, Alaska",earthquake,,3.4,,,automatic,ak,ak
+2023-01-11T08:52:51.770Z,34.063,-117.2663333,14.98,1.26,ml,32,47,0.1141,0.22,ci,ci40401632,2023-01-11T08:56:21.246Z,"2km NNW of Loma Linda, CA",earthquake,0.33,0.69,0.15,29,automatic,ci,ci
+2023-01-11T08:39:53.573Z,-14.8554,166.7486,10,5.8,mww,60,26,0.734,1.11,us,us7000j3ky,2023-01-11T09:02:44.010Z,"40 km WNW of Port-Olry, Vanuatu",earthquake,6.52,1.86,0.098,10,reviewed,us,us
 2023-01-11T08:37:14.504Z,60.1223,-151.8739,62.3,1.7,ml,,,,0.58,ak,ak023ibw8vu,2023-01-11T08:40:03.718Z,"13 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-11T08:24:38.438Z,60.475,-141.539,5.4,1.6,ml,,,,0.43,ak,ak023ibtif7,2023-01-11T08:26:03.516Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-11T08:21:10.780Z,60.4771,-141.5985,0.9,1.5,ml,,,,0.6,ak,ak023ibst52,2023-01-11T08:22:49.951Z,"128 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -96,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-10T19:37:01.550Z,18.8263,-64.3388,22,3.76,md,18,219,0.7785,0.42,pr,pr2023010002,2023-01-11T02:29:11.657Z,"72 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.93,27.59,0.08,9,reviewed,pr,pr
 2023-01-10T19:14:17.730Z,38.8186684,-122.8156662,3.38,0.88,md,7,132,0.01576,0.02,nc,nc73830801,2023-01-10T19:37:14.590Z,"7km NW of The Geysers, CA",earthquake,0.63,1.78,0.12,8,automatic,nc,nc
 2023-01-10T19:05:19.780Z,17.9708333333333,-67.0123333333333,9.47,1.84,md,6,179,0.03039,0.04,pr,pr71392073,2023-01-10T19:34:47.290Z,"3 km E of La Parguera, Puerto Rico",earthquake,0.47,0.71,0.0806008328511536,4,reviewed,pr,pr
-2023-01-10T18:32:14.700Z,40.9488333,-124.0303333,22.2,3.61,mw,45,107,0.1389,0.14,nc,nc73830791,2023-01-11T08:19:59.443Z,"6km E of McKinleyville, CA",earthquake,0.29,0.38,,3,reviewed,nc,nc
+2023-01-10T18:32:14.700Z,40.9488333,-124.0303333,22.2,3.61,mw,45,107,0.1389,0.14,nc,nc73830791,2023-01-11T09:00:52.928Z,"6km E of McKinleyville, CA",earthquake,0.29,0.38,,3,reviewed,nc,nc
 2023-01-10T18:32:14.400Z,46.84583333333333,-121.75116666666666,1.65,0.4,ml,11,168,0.01612,0.08,uw,uw61901836,2023-01-10T19:16:51.320Z,"Washington",earthquake,0.3,0.45,0.2532846019416163,4,reviewed,uw,uw
 2023-01-10T18:30:50.760Z,38.7798347,-122.7638321,0.62,1.07,md,12,72,0.009223,0.02,nc,nc73830786,2023-01-10T18:48:14.266Z,"1km WNW of The Geysers, CA",earthquake,0.25,0.46,0.21,11,automatic,nc,nc
 2023-01-10T18:20:52.861Z,61.6484,-146.4891,27.3,1.6,ml,,,,1.23,ak,ak023gu7o86,2023-01-10T18:24:10.607Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
