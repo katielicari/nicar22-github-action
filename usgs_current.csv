@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-14T18:15:41.380Z,18.9818325042725,-155.412170410156,34.310001373291,1.83000004,md,40,228,,0.159999996,hv,hv73303687,2023-01-14T18:19:04.210Z,"20 km ESE of Naalehu, Hawaii",earthquake,0.76,1.20000005,1.92999995,4,automatic,hv,hv
+2023-01-14T17:45:27.770Z,47.74966666666667,-120.2065,3.55,0.8200000000000001,ml,12,62,0.0866,0.11,uw,uw61893582,2023-01-14T18:18:12.270Z,"8 km N of Entiat, Washington",earthquake,0.22,1.44,0.24705292522012634,12,reviewed,uw,uw
 2023-01-14T17:30:13.630Z,33.9355,-116.9993333,16.56,1.21,ml,32,54,0.1662,0.18,ci,ci40402584,2023-01-14T17:33:59.762Z,"2km WNW of Beaumont, CA",earthquake,0.26,0.83,0.206,27,automatic,ci,ci
 2023-01-14T17:27:58.770Z,35.506,-118.3861667,4.24,0.98,ml,13,100,0.1721,0.15,ci,ci40402576,2023-01-14T17:31:32.329Z,"13km SE of Bodfish, CA",earthquake,0.34,0.92,0.127,7,automatic,ci,ci
 2023-01-14T17:14:08.690Z,38.8339996,-122.7886658,1.28,0.64,md,7,89,0.004594,0.01,nc,nc73831911,2023-01-14T17:30:13.447Z,"6km WNW of Cobb, CA",earthquake,0.38,1.08,0.48,8,automatic,nc,nc
@@ -14,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-14T15:48:11.565Z,63.5099,-148.0822,16.4,1.2,ml,,,,0.38,ak,ak023neqo90,2023-01-14T15:49:41.497Z,"45 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-14T15:25:38.765Z,60.9546,-147.7335,5,1.6,ml,,,,0.82,ak,ak023nelsvo,2023-01-14T15:27:35.902Z,"55 km ENE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-14T15:22:14.390Z,19.4069995880127,-155.276168823242,5.75,1.82,ml,32,39,,0.340000004,hv,hv73303602,2023-01-14T15:27:44.110Z,"5 km SW of Volcano, Hawaii",earthquake,0.52,0.660000026,0.18,4,automatic,hv,hv
+2023-01-14T15:13:41.430Z,46.35316666666667,-122.30216666666666,15.81,0.49,ml,6,295,0.05521,0.1,uw,uw61893577,2023-01-14T18:09:10.150Z,"Washington",earthquake,1.7,0.75,0.15021824888035817,5,reviewed,uw,uw
 2023-01-14T15:00:53.046Z,36.0302,-116.5454,1.9,1.6,ml,11,314.98,0.473,0.3031,nn,nn00854838,2023-01-14T15:02:09.723Z,"25 km WNW of Shoshone, California",earthquake,,25.7,0.97,7,automatic,nn,nn
 2023-01-14T15:00:33.990Z,35.0088333,-116.968,6.89,2.34,ml,21,56,0.1353,0.16,ci,ci40402552,2023-01-14T15:11:34.190Z,"13km NNE of Barstow, CA",earthquake,0.32,1.14,0.168,25,automatic,ci,ci
 2023-01-14T14:56:22.810Z,17.87,-66.8463333333333,15.7,2.15,md,8,245,0.1091,0.07,pr,pr71392723,2023-01-14T15:13:53.810Z,"Puerto Rico region",earthquake,1.33,0.83,0.210492519588463,4,reviewed,pr,pr
@@ -166,6 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T18:49:52.705Z,35.01449966,-96.30502319,3.982325554,2.02,ml,14,161.344883,0.3101782203,0.1605751549,ok,ok2023axji,2023-01-13T18:52:26.684Z,"7 km NNE of Atwood, Oklahoma",earthquake,4.527232186,3.30874774,,12,automatic,ok,ok
 2023-01-13T18:47:07.166Z,63.1552,-147.629,7.1,1.6,ml,,,,0.83,ak,ak023lszeik,2023-01-13T18:49:29.375Z,"71 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-13T18:30:54.230Z,58.166,-155.358,2.03,0.29,ml,7,188,,0.07,av,av91746851,2023-01-14T01:01:50.590Z,"85 km NW of Karluk, Alaska",earthquake,0.32,0.42,0.147748875612295,7,reviewed,av,av
-2023-01-13T18:20:47.720Z,38.7971649,-122.7656631,1.58,1.22,md,16,65,0.005793,0.03,nc,nc73831631,2023-01-13T19:05:16.636Z,"2km NNW of The Geysers, CA",earthquake,0.22,0.4,0.22,16,automatic,nc,nc
-2023-01-13T18:16:14.340Z,18.054,-68.6671,81,3.75,md,20,247,0.5414,0.76,pr,pr2023013000,2023-01-13T19:37:33.449Z,"36 km S of Boca de Yuma, Dominican Republic",earthquake,4.44,4.76,0.16,15,reviewed,pr,pr
-2023-01-13T18:06:40.180Z,58.1881666666667,-155.292333333333,1.29,-0.56,ml,6,148,,0.05,av,av91746831,2023-01-14T00:51:36.850Z,"84 km NW of Karluk, Alaska",earthquake,0.3,0.75,0.359391265058094,6,reviewed,av,av
