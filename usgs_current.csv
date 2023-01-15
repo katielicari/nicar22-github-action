@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-15T19:42:52.610Z,33.4486667,-116.5716667,8.72,0.96,ml,26,95,0.05253,0.17,ci,ci40402896,2023-01-15T19:46:30.303Z,"15km SE of Anza, CA",earthquake,0.31,0.5,0.252,20,automatic,ci,ci
-2023-01-15T19:37:19.590Z,38.8271675,-122.8123322,1.27,0.79,md,13,127,0.00416,0.02,nc,nc73832471,2023-01-15T19:38:55.053Z,"7km NW of The Geysers, CA",earthquake,0.33,0.62,0.25,13,automatic,nc,nc
+2023-01-15T19:37:19.590Z,38.8271675,-122.8123322,1.27,0.79,md,13,127,0.00416,0.02,nc,nc73832471,2023-01-15T19:56:11.740Z,"7km NW of The Geysers, CA",earthquake,0.33,0.62,0.25,13,automatic,nc,nc
 2023-01-15T19:28:01.457Z,63.5423,-150.7836,11.1,1.4,ml,,,,0.79,ak,ak023p4jg29,2023-01-15T19:29:38.969Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-15T19:10:36.152Z,57.4735,-154.7028,20.7,2,ml,,,,0.54,ak,ak023p4fnun,2023-01-15T19:12:40.777Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-15T19:09:38.560Z,38.8353348,-122.7888336,1.96,1.47,md,24,122,0.003289,0.02,nc,nc73832461,2023-01-15T19:45:11.677Z,"6km WNW of Cobb, CA",earthquake,0.21,0.37,0.25,26,automatic,nc,nc
