@@ -163,6 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T02:40:03.590Z,33.5711667,-116.6468333,10.02,0.86,ml,25,63,0.01431,0.2,ci,ci40402632,2023-01-15T19:04:09.685Z,"3km NE of Anza, CA",earthquake,0.37,0.53,0.354,16,reviewed,ci,ci
 2023-01-15T02:39:07.850Z,46.0405,-122.11666666666666,8.51,2.4,ml,19,103,0.06872,0.18,uw,uw61893617,2023-01-15T09:57:47.679Z,"Washington",earthquake,0.33,0.44,0.12149921723331625,11,reviewed,uw,uw
 2023-01-15T02:37:57.668Z,16.1159,-87.062,10,4.5,mb,14,183,2.057,0.64,us,us7000j4gd,2023-01-15T12:15:57.750Z,"42 km NNW of El Porvenir, Honduras",earthquake,6.11,1.961,0.08,46,reviewed,us,us
+2023-01-15T02:30:49.470Z,38.8323333,-122.8153333,1.69,0.14,md,10,143,0.009825,0.01,nc,nc73832011,2023-01-15T21:18:38.333Z,"8km NW of The Geysers, CA",earthquake,0.34,0.39,0.2,3,reviewed,nc,nc
 2023-01-15T02:03:06.664Z,31.6895,-104.2974,5,2.6,ml,22,115,0.314,0.35,us,us7000j4ga,2023-01-15T02:10:04.040Z,"54 km S of Whites City, New Mexico",earthquake,1,1.961,0.097,56,reviewed,us,us
 2023-01-15T01:49:34.739Z,65.0035,-147.497,0,0.9,ml,,,,1.85,ak,ak023oty7rt,2023-01-15T01:55:30.852Z,"7 km NE of Fox, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2023-01-15T01:38:19.024Z,65.5066,-147.9905,8.2,1.6,ml,,,,0.46,ak,ak023otvtou,2023-01-15T01:40:41.201Z,"25 km E of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-14T22:14:34.260Z,34.0003333,-116.5666667,12.17,1.04,ml,21,100,0.06488,0.27,ci,ci40402600,2023-01-14T22:17:58.321Z,"5km SSE of Morongo Valley, CA",earthquake,0.45,0.99,0.183,26,automatic,ci,ci
 2023-01-14T22:02:52.797Z,63.567,-147.355,14.5,1.4,ml,,,,0.8,ak,ak023nimxq7,2023-01-14T22:04:29.539Z,"79 km ESE of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-14T21:37:48.970Z,38.8359985,-122.7901688,2.11,2.24,md,36,46,,0.05,nc,nc73831951,2023-01-14T21:59:17.106Z,"6km WNW of Cobb, CA",earthquake,0.17,0.28,0.21,39,automatic,nc,nc
-2023-01-14T21:27:56.738Z,60.0528,-151.5044,69.9,1.9,ml,,,,0.48,ak,ak023ni6vbt,2023-01-14T21:29:48.503Z,"9 km E of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
