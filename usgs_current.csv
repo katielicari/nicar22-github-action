@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-19T07:01:21.590Z,38.7923317,-122.7563324,0.7,1.05,md,15,84,0.008692,0.03,nc,nc73833876,2023-01-19T07:02:55.900Z,"2km N of The Geysers, CA",earthquake,0.24,0.45,0.27,15,automatic,nc,nc
+2023-01-19T06:52:45.620Z,32.917,-116.2428333,6.53,0.61,ml,15,136,0.06323,0.17,ci,ci40403856,2023-01-19T06:56:21.212Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.42,1.01,0.074,2,automatic,ci,ci
 2023-01-19T06:39:07.150Z,38.8330002,-122.8193359,1.74,0.25,md,7,97,0.01201,0.03,nc,nc73833871,2023-01-19T06:40:40.688Z,"8km NW of The Geysers, CA",earthquake,0.48,1.44,0.1,8,automatic,nc,nc
 2023-01-19T06:25:24.664Z,59.6649,-153.0475,99.8,1.6,ml,,,,0.96,ak,ak023vixlte,2023-01-19T06:28:57.127Z,"61 km ESE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-19T06:19:05.560Z,58.1161,-155.5663,23.6,0.9,ml,,,,0.62,ak,ak023viwa1o,2023-01-19T06:20:46.833Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
@@ -98,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T18:19:17.390Z,38.8283348,-122.854332,2.21,0.76,md,17,61,0.002136,0.03,nc,nc73833631,2023-01-18T18:46:12.918Z,"10km NW of The Geysers, CA",earthquake,0.25,0.47,0.15,17,automatic,nc,nc
 2023-01-18T18:19:06.940Z,38.8274994,-122.8533325,2.1,0.26,md,7,142,0.002766,0.01,nc,nc73833626,2023-01-18T18:36:11.863Z,"10km WNW of The Geysers, CA",earthquake,0.51,0.89,0.15,8,automatic,nc,nc
 2023-01-18T18:19:06.329Z,62.2092,-123.921,7.001,4.1,mb,47,57,3.163,1.1,us,us7000j5aj,2023-01-18T20:38:23.040Z,"Northwest Territories, Canada",earthquake,7.08,3.863,0.145,13,reviewed,us,us
-2023-01-18T18:15:37.184Z,2.7083,126.929,51.999,4.6,mb,36,134,1.973,0.47,us,us7000j5ak,2023-01-18T20:21:47.040Z,"Molucca Sea",earthquake,8.83,8.529,0.098,31,reviewed,us,us
+2023-01-18T18:15:37.184Z,2.7083,126.929,51.999,4.6,mb,36,134,1.973,0.47,us,us7000j5ak,2023-01-18T20:21:47.040Z,"161 km NW of Tobelo, Indonesia",earthquake,8.83,8.529,0.098,31,reviewed,us,us
 2023-01-18T18:05:15.092Z,59.7876,-151.842,69,1.6,ml,,,,0.31,ak,ak023u2f5it,2023-01-18T18:07:55.190Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-18T18:04:35.722Z,60.766,-147.311,13.5,2.1,ml,,,,0.76,ak,ak023u2ezec,2023-01-18T18:06:35.307Z,"36 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-18T18:03:50.266Z,62.1545,-149.4294,47.6,1.8,ml,,,,0.38,ak,ak023u2essy,2023-01-18T18:05:19.413Z,"21 km E of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -198,6 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T07:11:20.390Z,38.8336678,-122.7891693,1.9,1.76,md,31,52,,0.03,nc,nc73833486,2023-01-18T08:00:12.281Z,"6km WNW of Cobb, CA",earthquake,0.19,0.28,0.14,33,automatic,nc,nc
 2023-01-18T07:06:00.960Z,38.8349991,-122.8160019,1.31,0.21,md,8,61,0.01248,0.01,nc,nc73833481,2023-01-18T07:49:14.215Z,"8km W of Cobb, CA",earthquake,0.34,0.87,0.1,8,automatic,nc,nc
 2023-01-18T07:05:06.610Z,40.3081667,-121.8886667,4.69,1.93,md,24,76,0.06758,0.18,nc,nc73833476,2023-01-18T12:29:10.802Z,"12km S of Manton, CA",earthquake,0.28,1.03,0.147,24,reviewed,nc,nc
-2023-01-18T07:01:09.520Z,38.8354988,-122.814003,1.47,0.82,md,17,59,0.01247,0.02,nc,nc73833471,2023-01-18T07:38:15.144Z,"8km W of Cobb, CA",earthquake,0.23,0.49,0.17,17,automatic,nc,nc
-2023-01-18T07:00:34.116Z,2.7616,127.0111,35,4.8,mb,43,111,2.008,0.77,us,us7000j566,2023-01-18T07:29:18.040Z,"159 km NW of Tobelo, Indonesia",earthquake,6.53,1.815,0.086,42,reviewed,us,us
-2023-01-18T06:53:40.230Z,38.8081665,-122.7938309,1.87,0.75,md,16,52,0.001167,0.02,nc,nc73833466,2023-01-18T07:26:14.170Z,"5km NW of The Geysers, CA",earthquake,0.26,0.5,0.48,16,automatic,nc,nc
