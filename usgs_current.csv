@@ -184,6 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T03:23:05.858Z,65.5358,-144.8425,28,2,ml,,,,1,ak,ak023ys7j3t,2023-01-21T03:25:58.291Z,"4 km SSW of Central, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-01-21T03:16:48.310Z,38.8028336,-122.765831,0.69,1.08,md,15,85,0.01559,0.02,nc,nc73834911,2023-01-21T03:42:13.148Z,"3km NNW of The Geysers, CA",earthquake,0.23,0.59,0.21,14,automatic,nc,nc
 2023-01-21T02:52:20.370Z,37.3796654,-122.2256699,6.82,2.39,md,35,58,0.02616,0.08,nc,nc73834901,2023-01-21T03:55:22.454Z,"1km ESE of Portola Valley, CA",earthquake,0.19,0.48,0.13,44,automatic,nc,nc
+2023-01-21T02:50:36.279Z,3.2299,96.1937,47.098,4.5,mb,30,167,2.123,0.77,us,us7000j5zt,2023-01-21T22:45:07.040Z,"85 km NNW of Sinabang, Indonesia",earthquake,9.13,3.097,0.124,19,reviewed,us,us
 2023-01-21T02:17:04.749Z,60.4285,-151.064,41.5,2.3,ml,,,,0.21,ak,ak023yrkt4a,2023-01-21T03:11:44.040Z,"6 km S of Soldotna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-21T02:10:19.850Z,19.2059993743896,-155.476669311523,34.1599998474121,1.86000001,md,33,97,,0.150000006,hv,hv73308842,2023-01-21T02:15:27.310Z,"0 km NNE of Pāhala, Hawaii",earthquake,0.74,1.03999996,1.83000004,10,automatic,hv,hv
 2023-01-21T02:07:22.330Z,35.0116667,-118.5076667,2.38,1.35,ml,24,48,0.138,0.22,ci,ci40404536,2023-01-21T02:10:57.037Z,"14km SSW of Tehachapi, CA",earthquake,0.32,1.46,0.222,28,automatic,ci,ci
@@ -217,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T23:09:30.700Z,38.8231659,-122.7884979,0.71,1.27,md,20,38,0.01162,0.02,nc,nc73834806,2023-01-21T00:13:13.967Z,"6km W of Cobb, CA",earthquake,0.18,0.32,0.24,20,automatic,nc,nc
 2023-01-20T23:05:55.740Z,38.8240013,-122.7874985,0.55,0.67,md,7,89,0.01197,0.01,nc,nc73834796,2023-01-20T23:07:30.518Z,"6km W of Cobb, CA",earthquake,0.43,2.12,0.46,8,automatic,nc,nc
 2023-01-20T22:52:18.060Z,17.9696666666667,-66.9876666666667,7.57,1.79,md,3,184,0.05383,0.04,pr,pr71393398,2023-01-20T23:16:23.980Z,"6 km E of La Parguera, Puerto Rico",earthquake,1.66,0.74,0.0354753018105469,3,reviewed,pr,pr
-2023-01-20T22:47:25.714Z,-19.9412,-68.9363,121.466,4.5,mb,25,70,0.364,0.81,us,us7000j5xr,2023-01-20T23:53:14.811Z,"130 km ENE of Iquique, Chile",earthquake,6.27,8.749,0.145,14,reviewed,us,us
