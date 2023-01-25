@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-24T23:46:10.060Z,38.7718315,-122.7348328,1.28,1.28,md,14,103,0.01148,0.03,nc,nc73836831,2023-01-24T23:47:42.833Z,"2km ESE of The Geysers, CA",earthquake,0.21,0.32,0.18,11,automatic,nc,nc
 2023-01-24T23:36:43.050Z,36.0068333,-117.8753333,1.37,1.55,ml,15,65,0.05913,0.14,ci,ci40161007,2023-01-24T23:40:21.005Z,"8km ESE of Coso Junction, CA",earthquake,0.28,0.46,0.195,20,automatic,ci,ci
-2023-01-24T23:35:52.803Z,18.867,-65.2818,53.498,2.7,ml,13,251,0.598,0.53,us,us6000jj1n,2023-01-24T23:48:18.040Z,"62 km N of Culebra, Puerto Rico",earthquake,6.89,15.272,0.071,26,reviewed,us,us
+2023-01-24T23:35:54.690Z,18.8646666666667,-65.3465,11.06,3.18,md,16,246,0.5575,0.17,pr,pr71394323,2023-01-24T23:50:31.690Z,"62 km N of Culebra, Puerto Rico",earthquake,1.39,1.73,0.083584793788233,15,reviewed,pr,pr
 2023-01-24T23:13:20.960Z,38.791832,-122.7494965,10.04,0.78,md,7,171,0.01187,0.04,nc,nc73836816,2023-01-24T23:43:10.825Z,"2km NNE of The Geysers, CA",earthquake,2.86,7.05,0.04,4,automatic,nc,nc
 2023-01-24T23:10:16.160Z,35.6673333,-117.5443333,10.41,0.99,ml,11,149,0.1048,0.11,ci,ci40160999,2023-01-24T23:13:54.052Z,"13km ENE of Ridgecrest, CA",earthquake,0.35,0.75,0.223,9,automatic,ci,ci
 2023-01-24T23:09:14.970Z,38.831665,-122.8168335,1.87,0.67,md,10,67,0.009802,0.01,nc,nc73836811,2023-01-24T23:37:11.673Z,"8km NW of The Geysers, CA",earthquake,0.33,0.84,0.18,13,automatic,nc,nc
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T18:29:22.452Z,62.2431,-148.358,34.4,1.5,ml,,,,1.18,ak,ak02313zse8l,2023-01-24T18:31:38.557Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-24T18:27:43.650Z,36.9778328,-121.6238327,3.99,1.59,md,10,71,0.04032,0.08,nc,nc73836751,2023-01-24T22:15:11.156Z,"6km WSW of Gilroy, CA",earthquake,0.35,0.88,0.18,14,automatic,nc,nc
 2023-01-24T18:26:48.320Z,35.8723333,-117.7121667,10.24,1.17,ml,20,41,0.07671,0.11,ci,ci40405400,2023-01-24T18:51:05.996Z,"19km ESE of Little Lake, CA",earthquake,0.18,0.4,0.21,13,reviewed,ci,ci
-2023-01-24T18:20:03.730Z,40.4476667,-124.0195,23.54,2.69,md,31,34,0.08307,0.14,nc,nc73836746,2023-01-24T22:24:10.353Z,"9km SE of Rio Dell, CA",earthquake,0.32,0.49,0.097,42,reviewed,nc,nc
+2023-01-24T18:20:03.730Z,40.4476667,-124.0195,23.54,2.69,md,31,34,0.08307,0.14,nc,nc73836746,2023-01-24T23:54:12.899Z,"9km SE of Rio Dell, CA",earthquake,0.32,0.49,0.097,42,reviewed,nc,nc
 2023-01-24T18:06:43.400Z,33.3853333,-116.8788333,7.2,1.01,ml,43,36,0.09999,0.17,ci,ci40405384,2023-01-24T18:47:43.244Z,"4km NNW of Palomar Observatory, CA",earthquake,0.2,0.66,0.127,24,reviewed,ci,ci
 2023-01-24T17:58:19.250Z,33.5641667,-116.796,8.7,0.09,ml,13,183,0.0397,0.07,ci,ci40405376,2023-01-24T18:49:48.064Z,"11km W of Anza, CA",earthquake,0.26,0.42,0.188,7,reviewed,ci,ci
 2023-01-24T17:55:37.557Z,31.5696499,-104.1675836,5.745947266,2.2,ml,12,69,0.08419846371,0.2,tx,tx2023brkb,2023-01-24T19:20:20.827Z,"45 km NW of Toyah, Texas",earthquake,1.476997862,1.8002076069999997,0.2,10,reviewed,tx,tx
@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T00:24:32.710Z,38.7878342,-122.7661667,2.17,0.75,md,11,76,0.01373,0.02,nc,nc73836471,2023-01-24T01:21:11.903Z,"1km NW of The Geysers, CA",earthquake,0.29,0.6,0.04,12,automatic,nc,nc
 2023-01-24T00:21:30.528Z,60.2608,-151.0698,46.2,1.9,ml,,,,0.43,ak,ak02313p0w8s,2023-01-24T00:23:11.449Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-24T00:19:10.110Z,48.419333333333334,-123.56966666666666,-0.27,0.87,ml,9,118,0.1631,0.23,uw,uw61894522,2023-01-24T21:32:56.200Z,"4 km NNW of Metchosin, Canada",earthquake,0.84,2.15,0.18794414783369096,5,reviewed,uw,uw
-2023-01-24T00:00:03.610Z,48.50483333333333,-123.50533333333334,-0.2,0.86,ml,3,159,0.1493,0.01,uw,uw61894517,2023-01-24T00:12:47.970Z,"6 km N of Langford, Canada",explosion,0.4,31.61,0.06990584441762482,4,reviewed,uw,uw
