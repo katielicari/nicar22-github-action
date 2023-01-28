@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-28T15:42:13.840Z,38.8195,-122.7991638,3.19,1.23,md,26,32,0.009368,0.02,nc,nc73838836,2023-01-28T15:55:11.177Z,"6km NW of The Geysers, CA",earthquake,0.23,0.46,0.15,26,automatic,nc,nc
+2023-01-28T16:05:38.573Z,61.2563,-150.9108,0,1.6,ml,,,,0.97,ak,ak0231aklt29,2023-01-28T16:07:53.159Z,"15 km NE of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-28T15:47:55.183Z,-6.5211,129.8374,160.853,5.1,mb,34,51,2.052,0.93,us,us6000jk04,2023-01-28T16:01:46.040Z,"Banda Sea",earthquake,8.48,9.307,0.081,50,reviewed,us,us
+2023-01-28T15:42:13.840Z,38.8195,-122.7991638,3.19,1.23,md,26,32,0.009368,0.02,nc,nc73838836,2023-01-28T16:15:14.282Z,"6km NW of The Geysers, CA",earthquake,0.23,0.46,0.15,26,automatic,nc,nc
 2023-01-28T15:26:29.420Z,35.813,-117.6441667,7.82,1.42,ml,17,80,0.03802,0.13,ci,ci40163343,2023-01-28T15:30:38.039Z,"22km N of Ridgecrest, CA",earthquake,0.28,0.63,0.184,20,automatic,ci,ci
 2023-01-28T15:01:43.820Z,38.8445015,-122.8411636,2.28,0.62,md,9,178,0.007383,0.01,nc,nc73838831,2023-01-28T15:35:18.073Z,"10km NW of The Geysers, CA",earthquake,0.51,0.88,0.34,9,automatic,nc,nc
 2023-01-28T14:44:30.260Z,19.0628337860107,-155.421173095703,36.2599983215332,2.55,ml,41,198,,0.129999995,hv,hv73314572,2023-01-28T14:50:02.470Z,"16 km SSE of Pāhala, Hawaii",earthquake,0.6,1.13,0.33,5,automatic,hv,hv
@@ -105,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T02:06:56.160Z,38.8121681,-122.8401642,20.01,1.08,md,11,115,0.009194,0.12,nc,nc73838626,2023-01-28T02:29:14.312Z,"8km WNW of The Geysers, CA",earthquake,2.27,2.12,0.09,5,automatic,nc,nc
 2023-01-28T01:56:10.170Z,61.9454,-150.6959,45.8,1.6,ml,,,,0.59,ak,ak0231abz6bd,2023-01-28T01:58:11.010Z,"37 km E of Skwentna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-01-28T01:55:08.170Z,38.8371658,-122.8113327,1.89,0.91,md,12,78,0.01379,0.02,nc,nc73838616,2023-01-28T02:17:14.244Z,"8km WNW of Cobb, CA",earthquake,0.3,0.71,0.21,14,automatic,nc,nc
-2023-01-28T01:50:42.440Z,36.5429992675781,-89.6685028076172,13.4799995422363,1.37,md,11,125,0.09611,0.150000006,nm,nm60508406,2023-01-28T02:25:22.020Z,"5 km WNW of Marston, Missouri",earthquake,0.62,1.26999998,0.639999986,3,reviewed,nm,nm
+2023-01-28T01:50:42.710Z,36.5406666666667,-89.656,10.4,1.69,md,31,41,0.01493,0.09,nm,nm60508406,2023-01-28T16:07:36.940Z,"southeastern Missouri",earthquake,0.15,0.31,0.145415742134529,27,reviewed,nm,nm
 2023-01-28T01:50:28.083Z,61.3963,-147.6124,0,2,ml,,,,1.35,ak,ak0231abxxeg,2023-01-28T01:52:31.532Z,"45 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-28T01:47:11.983Z,64.3662,-149.2865,17.6,1.2,ml,,,,0.34,ak,ak0231abx90c,2023-01-28T01:53:37.874Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-28T01:30:17.741Z,37.9502,-118.0622,7.6,2.2,ml,14,93.56,0.154,0.0762,nn,nn00855421,2023-01-28T01:51:17.901Z,"31 km N of Dyer, Nevada",earthquake,,2.4,0.29,5,reviewed,nn,nn
@@ -215,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T16:33:28.276Z,-23.3301,-179.8864,528.172,4.5,mb,28,115,4.841,0.64,us,us6000jjs9,2023-01-27T17:14:45.040Z,"south of the Fiji Islands",earthquake,14.76,10.621,0.118,21,reviewed,us,us
 2023-01-27T16:29:40.568Z,63.0152,-151.5502,1,1.4,ml,,,,0.48,ak,ak02318x7lwo,2023-01-27T16:31:12.909Z,"59 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-27T16:27:56.370Z,19.1774997711182,-155.508163452148,36.0400009155273,2.02999997,md,39,102,,0.119999997,hv,hv73313992,2023-01-27T16:31:05.790Z,"4 km SW of Pāhala, Hawaii",earthquake,0.7,0.99000001,0.649999976,9,automatic,hv,hv
-2023-01-27T16:11:15.240Z,58.218,-155.201666666667,2.53,-0.37,ml,6,126,,0.05,av,av91752086,2023-01-27T23:26:50.480Z,"84 km NNW of Karluk, Alaska",earthquake,0.27,0.56,0.164075591709711,6,reviewed,av,av
-2023-01-27T16:09:40.270Z,19.2388324737549,-155.425338745117,36.2799987792969,2.44000006,md,43,123,,0.129999995,hv,hv73313972,2023-01-27T17:09:01.040Z,"Hawaii region, Hawaii",earthquake,0.53,0.649999976,0.610000014,22,automatic,hv,hv
-2023-01-27T16:00:52.677Z,31.73822328,-104.1125246,6.22154541,2.3,ml,26,40,0.03683789236,0.2,tx,tx2023bwsv,2023-01-27T19:54:17.246Z,"western Texas",earthquake,0.4538220118,0.5123475437000001,0.2,16,reviewed,tx,tx
