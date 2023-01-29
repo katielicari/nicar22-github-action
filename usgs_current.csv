@@ -206,8 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T13:02:38.064Z,63.1184,-149.0048,57.1,1.6,ml,,,,0.66,ak,ak0231aisv26,2023-01-28T13:04:38.674Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-28T12:04:27.780Z,33.2298333,-116.7018333,16.57,0.64,ml,11,173,0.2679,0.27,ci,ci40163143,2023-01-28T12:07:57.230Z,"6km ESE of Lake Henshaw, CA",earthquake,1.25,4.63,0.083,4,automatic,ci,ci
 2023-01-28T12:01:09.199Z,38.166,-117.836,5.4,1.6,ml,8,144.78,0.101,0.2131,nn,nn00855431,2023-01-28T12:02:41.843Z,"34 km SE of Mina, Nevada",earthquake,,1.2,0.34,3,automatic,nn,nn
-2023-01-28T11:58:29.480Z,-3.7951,-80.4995,59.274,4.5,mb,17,173,0.497,0.73,us,us6000jjzg,2023-01-28T12:31:09.040Z,"23 km NE of Cañaveral, Peru",earthquake,10.35,8.778,0.222,6,reviewed,us,us
-2023-01-28T11:55:35.595Z,59.0638,-151.3401,29,2,ml,,,,0.55,ak,ak0231ahxclz,2023-01-28T11:57:04.210Z,"42 km SE of Port Graham, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-28T11:55:25.098Z,61.2828,-150.1263,49.3,1.5,ml,,,,1.21,ak,ak0231ahxbst,2023-01-28T22:20:43.107Z,"11 km SW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-01-28T11:54:07.870Z,19.3570003509521,-155.123992919922,5.78000020980835,2.16,ml,44,106,,0.230000004,hv,hv73314512,2023-01-28T12:39:30.040Z,"12 km S of Fern Forest, Hawaii",earthquake,0.51,0.550000012,0.55,8,automatic,hv,hv
-2023-01-28T11:50:25.595Z,54.5277,-134.2098,12.2,2.9,ml,,,,0.37,ak,ak0231ahwafb,2023-01-28T16:38:59.997Z,"116 km SW of Hydaburg, Alaska",earthquake,,2.2,,,reviewed,ak,ak
