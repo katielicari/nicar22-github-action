@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-30T11:50:20.330Z,34.1365,-117.3393333,25.52,1.06,ml,18,144,0.1457,0.26,ci,ci40164111,2023-01-30T11:54:02.067Z,"2km SSE of Muscoy, CA",earthquake,0.95,0.76,0.281,18,automatic,ci,ci
+2023-01-30T11:45:10.280Z,34.124,-119.4286667,5.82,1.73,ml,19,212,0.2544,0.22,ci,ci40164103,2023-01-30T11:48:55.709Z,"13km NE of Santa Cruz Is. (E end), CA",earthquake,0.81,3.62,0.271,15,automatic,ci,ci
 2023-01-30T11:36:31.705Z,60,-152.9864,119.2,1.6,ml,,,,0.16,ak,ak0231dsvyoy,2023-01-30T11:37:54.106Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-30T11:20:41.960Z,38.8436661,-122.8256683,1.78,0.69,md,10,105,0.009192,0.01,nc,nc73839756,2023-01-30T11:37:15.468Z,"9km WNW of Cobb, CA",earthquake,0.38,0.88,0.53,11,automatic,nc,nc
 2023-01-30T11:04:02.640Z,35.7121667,-117.5271667,11.86,1.16,ml,11,172,0.1181,0.22,ci,ci40164095,2023-01-30T11:07:35.478Z,"13km WSW of Searles Valley, CA",earthquake,0.66,1.78,0.085,11,automatic,ci,ci
@@ -91,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T01:02:31.837Z,34.8324,14.3425,10,4.3,mb,31,141,5.284,0.76,us,us6000jk8a,2023-01-30T01:19:00.040Z,"central Mediterranean Sea",earthquake,11.05,1.935,0.104,26,reviewed,us,us
 2023-01-30T00:38:11.480Z,38.809166,-122.8264999,1.59,0.8,md,8,94,0.002113,0.02,nc,nc73839541,2023-01-30T02:45:13.108Z,"7km WNW of The Geysers, CA",earthquake,0.48,0.82,0.25,9,automatic,nc,nc
 2023-01-30T00:32:10.643Z,36.3801,139.8199,76.786,4.4,mb,22,92,1.313,0.67,us,us6000jk87,2023-01-30T04:31:13.040Z,"4 km SSE of Mibu, Japan",earthquake,6.96,9.229,0.219,6,reviewed,us,us
-2023-01-30T00:31:13.929Z,-21.2113,-68.8511,115.284,4.3,mwr,32,45,0.617,0.91,us,us6000jk86,2023-01-30T04:14:53.040Z,"138 km N of Calama, Chile",earthquake,6,4.494,,,reviewed,us,guc
+2023-01-30T00:31:13.929Z,-21.2113,-68.8511,115.284,4.3,mwr,32,45,0.617,0.91,us,us6000jk86,2023-01-30T04:14:53.040Z,"Tarapaca, Chile",earthquake,6,4.494,,,reviewed,us,guc
 2023-01-30T00:24:30.500Z,19.2663326263428,-155.43083190918,31.9899997711182,1.87,md,28,167,,0.119999997,hv,hv73315382,2023-01-30T00:27:34.600Z,"8 km NE of Pāhala, Hawaii",earthquake,0.73,0.870000005,0.550000012,8,automatic,hv,hv
 2023-01-30T00:09:29.470Z,33.8856667,-116.2493333,1.58,0.83,ml,12,140,0.1435,0.14,ci,ci40163895,2023-01-30T00:13:01.433Z,"15km ENE of Thousand Palms, CA",earthquake,0.41,0.72,0.093,11,automatic,ci,ci
 2023-01-30T00:02:35.370Z,17.9528333333333,-66.8463333333333,9.72,2.62,md,7,212,0.03835,0.12,pr,pr71394853,2023-01-30T00:50:21.430Z,"5 km ESE of Maria Antonia, Puerto Rico",earthquake,0.73,0.58,0.0555175473419771,5,reviewed,pr,pr
@@ -139,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-29T18:48:36.180Z,38.8383331,-122.8355026,1.44,0.7,md,13,91,0.0002558,0.03,nc,nc73839401,2023-01-29T20:38:09.876Z,"10km NW of The Geysers, CA",earthquake,0.26,0.43,0.29,13,automatic,nc,nc
 2023-01-29T18:48:00.670Z,35.653,-117.5393333,9.7,1.51,ml,19,141,0.09139,0.16,ci,ci40163839,2023-01-29T21:20:10.814Z,"13km ENE of Ridgecrest, CA",earthquake,0.32,0.84,0.143,19,reviewed,ci,ci
 2023-01-29T18:41:50.692Z,58.1574,-155.3822,1.2,1.3,ml,,,,0.16,ak,ak0231c9jrh9,2023-01-29T18:43:08.081Z,"85 km NW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
-2023-01-29T18:32:34.202Z,19.2684,-69.8934,10.972,4.3,mb,82,117,0.801,0.65,us,us6000jk6t,2023-01-30T03:42:47.835Z,"5 km S of El Factor, Dominican Republic",earthquake,5.44,5.506,0.072,55,reviewed,us,us
+2023-01-29T18:32:34.202Z,19.2684,-69.8934,10.972,4.3,mb,82,117,0.801,0.65,us,us6000jk6t,2023-01-30T11:52:40.976Z,"5 km S of El Factor, Dominican Republic",earthquake,5.44,5.506,0.072,55,reviewed,us,us
 2023-01-29T18:25:50.070Z,35.7271667,-117.615,8.96,2.51,ml,26,113,0.08952,0.16,ci,ci40163831,2023-01-29T18:36:08.520Z,"13km NNE of Ridgecrest, CA",earthquake,0.27,0.7,0.198,25,automatic,ci,ci
 2023-01-29T18:22:20.977Z,61.5122,-140.7707,3.772,3,ml,18,90,0.626,0.44,us,us6000jk6q,2023-01-29T22:25:07.294Z,"114 km E of McCarthy, Alaska",earthquake,2.48,7.808,0.039,86,reviewed,us,us
 2023-01-29T18:12:03.580Z,33.5473333,-116.4068333,5.21,0.8,ml,33,56,0.0286,0.18,ci,ci40163807,2023-01-29T18:15:43.144Z,"16km SW of La Quinta, CA",earthquake,0.27,0.68,0.162,21,automatic,ci,ci
