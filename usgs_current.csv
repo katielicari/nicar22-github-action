@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-31T10:00:45.480Z,59.8218,-152.7591,89.9,1.2,ml,,,,0.77,ak,ak0231ffm6vu,2023-01-31T10:02:57.603Z,"52 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-01-31T09:59:24.320Z,19.2275009155273,-155.401168823242,29.8199996948242,1.84000003,md,41,147,,0.140000001,hv,hv73316327,2023-01-31T10:02:40.710Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.64,0.839999974,0.129999995,12,automatic,hv,hv
 2023-01-31T09:47:18.726Z,61.0453,-146.5341,7.6,1.1,ml,,,,0.9,ak,ak0231ffaruo,2023-01-31T09:49:14.872Z,"13 km SW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-31T09:16:12.990Z,33.7398333,-116.2096667,7.1,0.99,ml,8,181,0.3356,0.35,ci,ci40164455,2023-01-31T09:19:54.636Z,"2km NNE of Indio, CA",earthquake,1.54,31.61,0.111,23,automatic,ci,ci
 2023-01-31T09:15:30.247Z,64.8142,-150.5344,10.9,1.2,ml,,,,0.36,ak,ak0231ff3xts,2023-01-31T09:17:33.701Z,"21 km SSE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T08:17:00.393Z,60.6023,-142.7618,13.1,0.9,ml,,,,0.18,ak,ak0231feivcn,2023-01-31T08:18:26.801Z,"93 km S of McCarthy, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-31T08:13:00.840Z,19.1700000762939,-155.499496459961,34.9700012207031,2.68000007,md,45,109,,0.119999997,hv,hv73316302,2023-01-31T08:23:54.040Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.48,0.730000019,0.720000029,27,automatic,hv,hv
 2023-01-31T08:11:38.290Z,38.7900009,-122.7450027,0.91,0.96,md,6,161,0.009352,0.02,nc,nc73840096,2023-01-31T08:31:12.420Z,"2km NE of The Geysers, CA",earthquake,0.47,0.79,0.22,6,automatic,nc,nc
-2023-01-31T08:02:50.660Z,19.2068333333333,-155.388333333333,31.45,3.25,ml,52,158,,0.14,hv,hv73316297,2023-01-31T08:23:01.454Z,"9 km E of Pāhala, Hawaii",earthquake,0.46,0.56,0.149751579751209,36,reviewed,hv,hv
+2023-01-31T08:02:50.660Z,19.2068333333333,-155.388333333333,31.45,3.25,ml,52,158,,0.14,hv,hv73316297,2023-01-31T10:04:36.283Z,"9 km E of Pāhala, Hawaii",earthquake,0.46,0.56,0.149751579751209,36,reviewed,hv,hv
 2023-01-31T07:58:44.895Z,65.1008,-149.9832,9.9,1.2,ml,,,,0.67,ak,ak0231fe6bjd,2023-01-31T08:00:24.695Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-31T07:57:31.504Z,-17.7487,-178.5411,562.65,4.4,mb,30,61,3.445,0.72,us,us6000jkhq,2023-01-31T08:16:44.040Z,"229 km E of Levuka, Fiji",earthquake,11.09,10.277,0.112,24,reviewed,us,us
 2023-01-31T07:42:03.261Z,60.1192,-151.1114,58.1,1.9,ml,,,,0.69,ak,ak0231fe2suv,2023-01-31T07:44:46.980Z,"20 km SE of Clam Gulch, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -208,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T10:11:31.019Z,61.4064,-150.7503,64.2,1.5,ml,,,,0.33,ak,ak0231ds564t,2023-01-30T10:14:27.519Z,"19 km SW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-30T10:08:38.054Z,59.6073,-153.1356,103.2,2.2,ml,,,,0.39,ak,ak0231ds4jj1,2023-01-30T10:10:24.308Z,"58 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-30T10:07:29.450Z,33.4673333,-116.8773333,15.08,0.51,ml,14,80,0.151,0.21,ci,ci40164063,2023-01-30T10:11:00.647Z,"3km NNW of Aguanga, CA",earthquake,0.56,1.33,0.111,11,automatic,ci,ci
-2023-01-30T09:59:53.855Z,31.62969046,-104.2885011,7.494091797,2.1,ml,37,60,0.04655547907,0.2,tx,tx2023cbtk,2023-01-30T20:11:21.511Z,"58 km NW of Toyah, Texas",earthquake,0.6250944704999999,0.8048106655,0.2,29,reviewed,tx,tx
