@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-03T14:13:28.720Z,33.9756667,-116.8476667,14.39,0.7,ml,15,101,0.06796,0.14,ci,ci40165807,2023-02-03T14:16:54.571Z,"6km NNE of Banning, CA",earthquake,0.38,0.73,0.117,15,automatic,ci,ci
+2023-02-03T14:08:55.237Z,62.969,-149.3418,0,1.9,ml,,,,0.73,ak,ak0231kgnp8z,2023-02-03T14:10:54.815Z,"51 km SSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-02-03T14:01:46.748Z,59.3815,-153.15,84.9,1.7,ml,,,,0.74,ak,ak0231kgm6kk,2023-02-03T14:10:28.909Z,"69 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-02-03T13:55:39.265Z,38.1667,-117.9333,10,1,ml,10,150.04,0.034,0.1407,nn,nn00855645,2023-02-03T13:58:17.930Z,"29 km SSE of Mina, Nevada",earthquake,,1,0.26,7,automatic,nn,nn
 2023-02-03T13:43:58.880Z,36.8260002,-121.6011658,6.51,1,md,5,134,0.03109,0,nc,nc73841421,2023-02-03T13:58:10.474Z,"6km WSW of San Juan Bautista, CA",earthquake,0.51,0.92,0.16,6,automatic,nc,nc
 2023-02-03T13:38:50.760Z,38.8199997,-122.7603302,1.96,0.28,md,8,123,0.01286,0.02,nc,nc73841416,2023-02-03T13:50:11.438Z,"3km W of Cobb, CA",earthquake,0.5,1,0.08,8,automatic,nc,nc
 2023-02-03T13:29:17.625Z,64.6781,-149.1479,21.1,0.8,ml,,,,0.33,ak,ak0231kg6os2,2023-02-03T13:31:25.000Z,"8 km N of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -8,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T13:10:17.408Z,61.7449,-149.6365,29.5,1.6,ml,,,,0.51,ak,ak0231kg2m5o,2023-02-03T13:12:09.224Z,"13 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-03T13:09:33.310Z,38.8363342,-122.7900009,1.83,0.72,md,7,79,0.002089,0.01,nc,nc73841406,2023-02-03T13:28:12.320Z,"6km WNW of Cobb, CA",earthquake,0.51,1.55,0.26,8,automatic,nc,nc
 2023-02-03T13:02:50.830Z,35.5903333,-117.5981667,9.2,1.43,ml,17,108,0.13,0.19,ci,ci40165791,2023-02-03T13:13:44.110Z,"8km ESE of Ridgecrest, CA",earthquake,0.38,1.13,0.183,20,automatic,ci,ci
-2023-02-03T12:51:14.980Z,39.0441666,-123.072998,13.3,1.53,md,7,141,0.08573,0.06,nc,nc73841401,2023-02-03T13:18:12.254Z,"13km SE of Talmage, CA",earthquake,0.53,1.18,0.03,3,automatic,nc,nc
+2023-02-03T12:51:14.980Z,39.0441666,-123.072998,13.3,1.53,md,7,141,0.08573,0.06,nc,nc73841401,2023-02-03T14:12:12.547Z,"13km SE of Talmage, CA",earthquake,0.53,1.18,0.03,3,automatic,nc,nc
 2023-02-03T12:48:55.939Z,61.4862,-140.7181,4.675,3.3,ml,37,60,0.626,0.83,us,us6000jl60,2023-02-03T12:58:53.040Z,"117 km E of McCarthy, Alaska",earthquake,3.28,4.164,0.033,118,reviewed,us,us
 2023-02-03T12:46:58.988Z,61.2925,-147.4505,0,1.4,ml,,,,1.9,ak,ak0231kfozje,2023-02-03T12:48:58.704Z,"58 km S of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-03T12:45:24.970Z,38.8170013,-122.8498306,1.16,0.71,md,6,138,0.02429,0.01,nc,nc73841396,2023-02-03T13:46:12.419Z,"9km WNW of The Geysers, CA",earthquake,0.67,1.06,0.4,7,automatic,nc,nc
@@ -210,6 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T15:02:09.240Z,37.3768333,-118.6881667,12.84,1.15,md,16,99,0.1023,0.05,nc,nc73841011,2023-02-03T01:53:22.127Z,"9km WSW of Round Valley, CA",earthquake,0.49,1.34,0.134,14,reviewed,nc,nc
 2023-02-02T14:53:25.937Z,39.2127,-119.7438,9,0.1,ml,4,146.26,0.11,0.1163,nn,nn00855606,2023-02-02T21:07:43.129Z,"5 km NNE of Carson City, Nevada",earthquake,,5.5,0,1,reviewed,nn,nn
 2023-02-02T14:48:25.888Z,61.0718,-152.2142,111,5,mww,,,,0.57,ak,ak0231itcv2l,2023-02-03T08:58:32.328Z,"58 km W of Tyonek, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-02-02T14:17:05.690Z,41.4985,-112.1951667,6.56,1.04,md,10,75,0.1011,0.11,uu,uu60529886,2023-02-02T14:43:25.260Z,"9 km SW of Corinne, Utah",earthquake,0.43,1.68,0.143,7,reviewed,uu,uu
-2023-02-02T14:12:57.120Z,18.8663333333333,-66.0688333333333,21.21,2.8,md,9,275,0.5544,0.14,pr,pr71395213,2023-02-02T14:33:05.750Z,"Puerto Rico region",earthquake,0.89,12.92,0.125249903298267,5,reviewed,pr,pr
-2023-02-02T14:03:14.270Z,38.8180008,-122.8046646,2.96,0.91,md,18,45,0.006846,0.01,nc,nc73841006,2023-02-02T16:10:13.681Z,"6km NW of The Geysers, CA",earthquake,0.24,0.52,0.25,20,automatic,nc,nc
