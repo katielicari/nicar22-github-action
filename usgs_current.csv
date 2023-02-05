@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-05T11:57:22.490Z,33.7591667,-115.9461667,0.49,1.09,ml,27,110,0.1024,0.24,ci,ci40411280,2023-02-05T12:01:07.649Z,"22km NE of Thermal, CA",earthquake,0.41,31.61,0.113,28,automatic,ci,ci
+2023-02-05T11:51:20.930Z,36.7125015,-121.3626633,3.6,1.09,md,6,147,0.01392,0.05,nc,nc73842226,2023-02-05T12:03:11.466Z,"9km SSW of Tres Pinos, CA",earthquake,0.63,0.69,0.15,6,automatic,nc,nc
 2023-02-05T11:33:12.250Z,33.1526667,-116.0903333,7.05,1.25,ml,31,53,0.06514,0.27,ci,ci40411272,2023-02-05T11:36:52.473Z,"4km ENE of Ocotillo Wells, CA",earthquake,0.45,0.95,0.196,27,automatic,ci,ci
 2023-02-05T11:31:27.090Z,38.8160019,-122.8183365,2.23,0.91,md,15,50,0.009806,0.02,nc,nc73842216,2023-02-05T11:48:14.380Z,"7km NW of The Geysers, CA",earthquake,0.31,0.63,0.19,17,automatic,nc,nc
 2023-02-05T11:14:27.310Z,35.6661667,-117.5361667,6.53,1.35,ml,12,153,0.1574,0.16,ci,ci40411264,2023-02-05T11:18:00.134Z,"14km ENE of Ridgecrest, CA",earthquake,0.63,1.6,0.155,14,automatic,ci,ci
@@ -184,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T12:18:24.680Z,33.1421667,-116.539,11.03,0.57,ml,17,108,0.07835,0.22,ci,ci40410840,2023-02-04T12:21:54.599Z,"9km NE of Julian, CA",earthquake,0.52,0.67,0.22,5,automatic,ci,ci
 2023-02-04T12:16:51.260Z,33.3745,-116.3725,9.36,0.73,ml,20,76,0.1124,0.2,ci,ci40410832,2023-02-04T12:20:34.451Z,"13km N of Borrego Springs, CA",earthquake,0.41,1.09,0.105,14,automatic,ci,ci
 2023-02-04T12:15:52.807Z,61.2108,-146.9711,11.3,1.6,ml,,,,0.41,ak,ak0231m31ocw,2023-02-04T12:17:53.091Z,"34 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-02-04T11:52:52.487Z,61.758,-149.669,29.2,1.5,ml,,,,0.46,ak,ak0231m2o680,2023-02-04T11:54:44.473Z,"15 km NNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
