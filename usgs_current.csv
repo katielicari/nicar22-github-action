@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-07T20:37:38.680Z,19.2584991455078,-155.378173828125,29.4799995422363,1.82000005,md,26,182,,0.109999999,hv,hv73320872,2023-02-07T20:40:45.650Z,"12 km ENE of Pāhala, Hawaii",earthquake,1.04,1.50999999,0.600000024,3,automatic,hv,hv
-2023-02-07T20:36:37.110Z,37.6248322,-118.8314972,3.39,2.75,ml,23,57,0.006456,0.03,nc,nc73843161,2023-02-07T20:43:23.268Z,"13km E of Mammoth Lakes, CA",earthquake,0.28,0.33,0.322,20,automatic,nc,nc
+2023-02-07T20:36:37.110Z,37.6248322,-118.8314972,3.39,2.75,ml,23,57,0.006456,0.03,nc,nc73843161,2023-02-07T20:57:22.964Z,"13km E of Mammoth Lakes, CA",earthquake,0.28,0.33,0.322,20,automatic,nc,nc
 2023-02-07T20:31:28.614Z,62.5548,-149.6679,8.9,1.5,ml,,,,0.63,ak,ak0231r6ik9p,2023-02-07T20:34:14.775Z,"25 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-07T20:29:17.240Z,38.7963333,-122.7633362,0.57,1.05,md,17,63,0.005137,0.03,nc,nc73843156,2023-02-07T20:43:10.778Z,"2km NNW of The Geysers, CA",earthquake,0.22,0.42,0.19,17,automatic,nc,nc
 2023-02-07T20:28:00.450Z,38.8128319,-122.8261642,1.9,0.94,md,15,69,0.004606,0.02,nc,nc73843151,2023-02-07T20:38:10.750Z,"7km WNW of The Geysers, CA",earthquake,0.23,0.51,0.35,19,automatic,nc,nc
@@ -25,9 +25,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T17:03:07.180Z,36.0448341,-120.6080017,5.63,1.73,md,26,63,0.02577,0.09,nc,nc73843081,2023-02-07T18:28:12.972Z,"23km NW of Parkfield, CA",earthquake,0.29,0.44,0.15,18,automatic,nc,nc
 2023-02-07T17:02:49.970Z,19.1979999542236,-155.421173095703,33.4000015258789,2.08999991,md,33,158,,0.100000001,hv,hv73320797,2023-02-07T17:05:59.820Z,"6 km E of Pāhala, Hawaii",earthquake,0.76,0.639999986,1.21000004,15,automatic,hv,hv
 2023-02-07T17:02:35.302Z,31.68340383,-104.4108639,5.977319336,2.4,ml,18,56,0.01318874168,0.1,tx,tx2023cqxi,2023-02-07T20:01:24.194Z,"54 km S of Whites City, New Mexico",earthquake,0.9164523545999999,0.6652878169,0.1,18,reviewed,tx,tx
-2023-02-07T16:57:27.210Z,38.7938347,-122.7603302,2.04,1.49,md,28,67,0.006798,0.05,nc,nc73843076,2023-02-07T18:18:13.924Z,"2km N of The Geysers, CA",earthquake,0.24,0.39,0.16,30,automatic,nc,nc
+2023-02-07T16:57:27.210Z,38.7938347,-122.7603302,2.04,1.49,md,28,67,0.006798,0.05,nc,nc73843076,2023-02-07T20:57:10.872Z,"2km N of The Geysers, CA",earthquake,0.24,0.39,0.16,30,automatic,nc,nc
 2023-02-07T16:51:31.659Z,31.68366016,-104.4068284,5.797363281,2.6,ml,16,65,0.01660173819,0.1,tx,tx2023cqxa,2023-02-07T18:49:57.040Z,"54 km S of Whites City, New Mexico",earthquake,0.931657151,0.8518305169,0.1,15,reviewed,tx,tx
-2023-02-07T16:50:45.640Z,38.7928352,-122.7618332,1.99,1.31,md,28,63,0.007953,0.05,nc,nc73843066,2023-02-07T20:04:12.140Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.38,0.21,28,automatic,nc,nc
+2023-02-07T16:50:45.640Z,38.7928352,-122.7618332,1.99,1.31,md,28,63,0.007953,0.05,nc,nc73843066,2023-02-07T20:51:13.835Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.38,0.21,28,automatic,nc,nc
 2023-02-07T16:50:11.930Z,47.789833333333334,-122.86133333333333,21.66,1.69,ml,15,79,0.04061,0.26,uw,uw61896597,2023-02-07T17:49:11.110Z,"3 km SSE of Quilcene, Washington",earthquake,0.72,0.95,0.19423301763582312,8,reviewed,uw,uw
 2023-02-07T16:46:50.840Z,38.7868347,-122.7698364,1.46,1.84,md,34,82,0.01549,0.05,nc,nc73843061,2023-02-07T20:23:14.652Z,"2km NW of The Geysers, CA",earthquake,0.2,0.34,0.17,34,automatic,nc,nc
 2023-02-07T16:44:32.245Z,9.6827,138.3679,10,5.2,mb,60,32,7.457,0.83,us,us6000jm9h,2023-02-07T17:33:37.852Z,"32 km NE of Colonia, Micronesia",earthquake,7.53,1.704,0.053,118,reviewed,us,us
@@ -227,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T21:10:17.011Z,61.0399,-152.3614,106.7,2.3,ml,,,,0.41,ak,ak0231pjg4g5,2023-02-06T21:13:03.069Z,"66 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-06T21:02:03.594Z,36.54,36.4583,4.372,4.4,mb,54,132,0.872,0.97,us,us6000jm2x,2023-02-06T21:16:28.040Z,"Turkey-Syria border region",earthquake,5.17,3.4,0.088,37,reviewed,us,us
 2023-02-06T21:00:06.240Z,36.1048333,-117.9026667,2.19,1.47,ml,20,79,0.04075,0.1,ci,ci40411624,2023-02-07T18:18:58.214Z,"8km NNE of Coso Junction, CA",earthquake,0.18,0.2,0.122,18,reviewed,ci,ci
-2023-02-06T20:53:24.303Z,38.2085,38.2826,10,5,mb,100,55,1.34,0.83,us,us6000jm2v,2023-02-07T16:45:30.040Z,"10 km SSE of Yeşilyurt, Turkey",earthquake,5.98,1.839,0.051,120,reviewed,us,us
-2023-02-06T20:48:53.670Z,37.5661667,-119.454,27.3,1.69,md,10,144,0.273,0.04,nc,nc73842746,2023-02-07T02:31:13.114Z,"22km SSE of Yosemite Valley, CA",earthquake,0.48,1.48,0.231,10,reviewed,nc,nc
