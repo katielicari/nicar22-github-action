@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T14:37:13.235Z,60.0666,-152.8027,103.6,2.6,ml,,,,0.3,ak,ak0231zcny7v,2023-02-12T14:40:12.412Z,"61 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-12T14:30:03.732Z,37.8673,36.6552,10,4.3,mb,21,76,0.822,1.04,us,us6000jng3,2023-02-12T16:46:41.045Z,"21 km SE of Göksun, Turkey",earthquake,5.23,1.957,0.133,16,reviewed,us,us
 2023-02-12T14:20:31.706Z,60.3062,-146.8569,8.1,2.1,ml,,,,0.43,ak,ak0231zckcgy,2023-02-12T14:22:18.393Z,"62 km S of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-02-12T13:57:56.812Z,62.5132,-148.8665,47.1,1.5,ml,,,,0.24,ak,ak0231zc6wap,2023-02-12T13:59:29.833Z,"64 km E of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
