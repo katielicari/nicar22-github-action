@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T04:09:18.270Z,38.786335,-122.734169,1.53,1.05,md,12,87,0.003682,0.02,nc,nc73848816,2023-02-20T06:24:12.609Z,"2km ENE of The Geysers, CA",earthquake,0.28,0.7,0.24,13,automatic,nc,nc
 2023-02-20T04:09:17.600Z,63.1808,-151.3395,0,2.3,ml,,,,0.85,ak,ak0232ceueeo,2023-02-20T04:11:30.802Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-20T04:05:03.974Z,-22.4556,-174.2759,10,5.1,mb,71,74,2.619,1.29,us,us6000jq88,2023-02-20T04:25:37.040Z,"142 km SSE of ‘Ohonua, Tonga",earthquake,9.35,1.871,0.054,110,reviewed,us,us
-2023-02-20T04:02:50.388Z,62.8689,-150.782,85.7,1.5,ml,,,,0.3,ak,ak0232cesyxa,2023-02-20T04:06:14.440Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
+2023-02-20T04:02:50.388Z,62.8689,-150.782,85.7,1.5,ml,,,,0.3,ak,ak0232cesyxa,2023-02-20T04:06:14.440Z,"41 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-20T03:45:38.572Z,38.6708,39.9482,7.526,4.3,mb,47,62,1.327,0.5,us,us6000jq85,2023-02-20T03:56:55.040Z,"3 km SE of Palu, Turkey",earthquake,3.47,1.56,0.095,31,reviewed,us,us
 2023-02-20T03:39:29.300Z,34.26,-116.4451667,8.04,1.74,ml,48,37,0.06061,0.19,ci,ci40416672,2023-02-20T03:50:13.740Z,"16km N of Yucca Valley, CA",earthquake,0.21,0.7,0.137,26,automatic,ci,ci
 2023-02-20T03:39:00.060Z,34.0528333,-118.165,3.44,0.83,ml,9,114,0.1931,0.23,ci,ci40416664,2023-02-20T03:42:50.443Z,"2km N of East Los Angeles, CA",earthquake,0.98,5.55,0.17,12,automatic,ci,ci
@@ -211,6 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T08:09:42.649Z,65.7917,-149.0713,0.1,1.5,ml,,,,0.9,ak,ak0232atou9k,2023-02-19T08:11:36.932Z,"23 km S of Stevens Village, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-19T08:05:31.530Z,19.2466659545898,-155.394165039062,31.2199993133545,2.24000001,md,28,148,,0.119999997,hv,hv73327317,2023-02-19T08:08:40.760Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.7,1.14999998,1.27999997,3,automatic,hv,hv
 2023-02-19T07:59:56.372Z,36.2067,-115.4756,1.6,1.1,ml,10,335.21,0.6,0.127,nn,nn00856233,2023-02-19T08:01:13.816Z,"Nevada",earthquake,,56.2,0.29,2,automatic,nn,nn
-2023-02-19T07:54:32.421Z,12.4349,-87.5405,69.968,4.8,mb,86,140,0.825,0.61,us,us6000jq2k,2023-02-19T14:45:13.943Z,"35 km SSW of Jiquilillo, Nicaragua",earthquake,5.96,7.54,0.028,399,reviewed,us,us
-2023-02-19T07:48:39.290Z,34.8411667,-118.9875,12.08,1,ml,15,82,0.0675,0.17,ci,ci40416256,2023-02-19T15:12:31.678Z,"4km WNW of Frazier Park, CA",earthquake,0.45,0.7,0.194,6,reviewed,ci,ci
-2023-02-19T07:47:05.350Z,61.5976,-149.7727,34.1,1.5,ml,,,,0.43,ak,ak0232atbgzr,2023-02-19T07:49:04.984Z,"4 km SSE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
