@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T15:12:48.480Z,33.4665,-116.5608333,9.02,0.94,ml,30,80,0.04457,0.14,ci,ci40417768,2023-02-22T16:12:50.880Z,"14km SE of Anza, CA",earthquake,0.21,0.43,0.158,8,reviewed,ci,ci
 2023-02-22T15:02:44.580Z,38.8231659,-122.8546677,2.59,0.78,md,7,191,0.01534,0.01,nc,nc73850116,2023-02-22T17:23:15.822Z,"10km WNW of The Geysers, CA",earthquake,1.33,1.74,0.21,7,automatic,nc,nc
 2023-02-22T14:55:53.410Z,38.9703333,-111.3023333,-3,1.41,ml,6,90,0.05176,0.02,uu,uu60531901,2023-02-22T15:40:28.000Z,"7 km NW of Emery, Utah",earthquake,0.48,0.62,0.333,3,reviewed,uu,uu
-2023-02-22T14:49:54.657Z,60.4821,-152.9341,109.5,1.9,ml,,,,0.57,ak,ak0232fw42y1,2023-02-22T14:52:11.134Z,"82 km ENE of Port Alsworth, Alaska",earthquake,,1.1,,,automatic,ak,ak
