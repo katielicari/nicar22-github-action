@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-25T17:07:52.006Z,64.853,-147.4827,26.6,0.2,ml,,,,0.51,ak,ak0232kw9eyo,2023-02-25T17:14:03.733Z,"6 km NNE of Badger, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-02-25T17:07:52.006Z,64.853,-147.4827,26.6,0.2,ml,,,,0.51,ak,ak0232kw9eyo,2023-02-25T17:14:03.733Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-25T17:05:01.081Z,63.0862,-151.4905,3.3,1.6,ml,,,,0.65,ak,ak0232kw8vlo,2023-02-25T17:06:45.638Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-25T16:37:00.500Z,40.9543343,-123.4316635,31.09,2.65,md,9,153,0.2415,0.08,nc,nc73851681,2023-02-25T16:46:15.813Z,"17km E of Willow Creek, CA",earthquake,0.82,1.98,0.13,7,automatic,nc,nc
 2023-02-25T16:25:15.081Z,-36.8717,-73.4591,26.58,4.8,mwr,36,80,0.249,0.85,us,us6000jrkg,2023-02-25T17:22:42.693Z,"33 km WNW of Coronel, Chile",earthquake,6.32,5.126,,,reviewed,us,guc
@@ -175,7 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T20:12:37.830Z,19.4081666666667,-155.271333333333,7.26,1.5,md,18,96,,0.12,hv,hv73330187,2023-02-25T02:36:27.950Z,"5 km SW of Volcano, Hawaii",earthquake,0.57,0.4,0.0348282504270048,5,reviewed,hv,hv
 2023-02-24T20:10:43.746Z,35.282,35.2391,10,4.2,mb,50,145,1.597,0.47,us,us6000jref,2023-02-24T22:59:46.040Z,"57 km WSW of Latakia, Syria",earthquake,6.45,1.957,0.14,15,reviewed,us,us
 2023-02-24T19:59:46.050Z,33.507,-116.747,2.45,0.36,ml,16,182,0.04489,0.21,ci,ci40418400,2023-02-24T20:12:37.587Z,"9km SW of Anza, CA",earthquake,0.52,0.47,0.026,6,reviewed,ci,ci
-2023-02-24T19:50:29.170Z,46.17633333333333,-119.8685,11.13,1.04,ml,11,116,0.1313,0.12,uw,uw61899602,2023-02-25T16:09:35.260Z,"8 km WSW of Prosser, Washington",earthquake,0.72,1.48,0.1585940504140393,10,reviewed,uw,uw
+2023-02-24T19:50:29.170Z,46.17633333333333,-119.8685,11.13,1.04,ml,11,116,0.1313,0.12,uw,uw61899602,2023-02-25T16:09:35.260Z,"Washington",earthquake,0.72,1.48,0.1585940504140393,10,reviewed,uw,uw
 2023-02-24T19:46:44.810Z,46.18333333333333,-119.8695,10.24,1.42,ml,16,89,0.1302,0.08,uw,uw61899597,2023-02-25T15:19:39.740Z,"7 km SSE of Grandview, Washington",earthquake,0.4,1.19,0.079634341410452,15,reviewed,uw,uw
 2023-02-24T19:46:12.941Z,57.2887,-154.1804,33,3.1,ml,,,,0.28,ak,ak0232ja57la,2023-02-24T22:24:05.040Z,"30 km SSW of Larsen Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-24T19:41:15.890Z,19.3926666666667,-155.2825,6.26,1.56,ml,16,67,,0.15,hv,hv73330167,2023-02-25T01:28:45.720Z,"Island of Hawaii, Hawaii",earthquake,0.49,0.55,0.221441866897105,5,reviewed,hv,hv
