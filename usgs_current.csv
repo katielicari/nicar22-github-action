@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-26T09:26:06.457Z,65.7815,-147.8909,0,1.6,ml,,,,0.75,ak,ak0232mf59vr,2023-02-26T09:34:42.754Z,"41 km NE of Livengood, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-26T09:14:47.883Z,19.1312,121.0896,37.773,4.9,mb,73,116,3.668,0.68,us,us6000jrp8,2023-02-26T09:31:34.040Z,"57 km N of Claveria, Philippines",earthquake,9.11,7.219,0.064,76,reviewed,us,us
 2023-02-26T08:57:38.618Z,59.4772,-151.4414,29.2,1.7,ml,,,,0.32,ak,ak0232meqjs5,2023-02-26T08:59:35.622Z,"11 km E of Seldovia Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-26T08:49:42.720Z,38.8199997,-122.8095016,3.38,0.63,md,11,87,0.00342,0.02,nc,nc73851911,2023-02-26T09:07:15.724Z,"7km NW of The Geysers, CA",earthquake,0.46,1.57,0.43,13,automatic,nc,nc
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T06:09:25.390Z,38.8089981,-122.8118362,1.12,0.77,md,10,75,0.01296,0.02,nc,nc73851861,2023-02-26T06:43:12.890Z,"6km NW of The Geysers, CA",earthquake,0.32,1.1,0.1,11,automatic,nc,nc
 2023-02-26T06:07:05.170Z,33.2258333,-116.0738333,8.75,1.33,ml,33,53,0.1054,0.22,ci,ci40418784,2023-02-26T06:10:40.901Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.32,1.27,0.126,27,automatic,ci,ci
 2023-02-26T05:52:43.397Z,1.7814,125.8377,8.842,4.8,mb,71,73,1.828,0.66,us,us6000jrnr,2023-02-26T07:30:41.819Z,"101 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,4.75,3.752,0.072,60,reviewed,us,us
-2023-02-26T05:48:59.189Z,37.7108,-97.2251,1.906,2.3,mb_lg,32,99,0.055,0.5,us,us6000jrnq,2023-02-26T09:31:47.857Z,"4 km NE of Eastborough, Kansas",earthquake,1.43,7.946,0.208,6,reviewed,us,us
+2023-02-26T05:48:59.189Z,37.7108,-97.2251,1.906,2.3,mb_lg,32,99,0.055,0.5,us,us6000jrnq,2023-02-26T09:40:45.924Z,"4 km NE of Eastborough, Kansas",earthquake,1.43,7.946,0.208,6,reviewed,us,us
 2023-02-26T05:45:43.270Z,35.6386667,-117.4553333,9.43,2.36,ml,26,73,0.1355,0.16,ci,ci40418776,2023-02-26T05:56:39.150Z,"15km SSW of Searles Valley, CA",earthquake,0.29,0.71,0.156,25,automatic,ci,ci
 2023-02-26T05:43:34.770Z,33.7026667,-116.714,16.84,0.92,ml,30,75,0.008479,0.21,ci,ci40418768,2023-02-26T05:47:02.276Z,"4km S of Idyllwild, CA",earthquake,0.39,0.57,0.135,19,automatic,ci,ci
 2023-02-26T05:38:52.674Z,58.2706,-154.8637,12.1,0.7,ml,,,,0.35,ak,ak0232mcu7gh,2023-02-26T05:41:37.711Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
