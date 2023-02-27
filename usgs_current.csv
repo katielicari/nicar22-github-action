@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-27T06:54:48.260Z,34.0988333,-116.6186667,5.31,1.15,ml,28,71,0.06489,0.21,ci,ci40419096,2023-02-27T06:58:21.255Z,"7km NNW of Morongo Valley, CA",earthquake,0.29,0.95,0.156,29,automatic,ci,ci
+2023-02-27T06:51:17.056Z,61.6543,-149.7575,45.9,1.4,ml,,,,0.37,ak,ak0232o11p3t,2023-02-27T06:52:39.137Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-02-27T06:40:59.666Z,-20.5315,-178.3629,548.13,5.6,mww,129,32,3.022,0.57,us,us6000jrvn,2023-02-27T06:59:45.040Z,"Fiji region",earthquake,10.54,6.263,0.075,17,reviewed,us,us
 2023-02-27T06:31:34.690Z,64.9425,-147.6199,8.4,1.4,ml,,,,0.14,ak,ak0232o0xg59,2023-02-27T06:32:39.985Z,"1 km S of Fox, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-02-27T06:30:33.515Z,64.9031,-147.7417,0.4,1.2,ml,,,,0.94,ak,ak0232o0x89i,2023-02-27T06:32:31.334Z,"2 km WSW of Farmers Loop, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-27T06:25:47.960Z,17.9356666666667,-66.9443333333333,10.16,2.38,md,5,219,0.07329,0.05,pr,pr71397578,2023-02-27T06:46:21.800Z,"Puerto Rico region",earthquake,1.92,0.76,0.0901579350311024,3,reviewed,pr,pr
@@ -76,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T19:31:42.610Z,38.8325005,-122.8160019,1.18,0.76,md,15,54,0.0102,0.04,nc,nc73852111,2023-02-26T20:10:11.732Z,"8km NW of The Geysers, CA",earthquake,0.25,0.55,0.27,15,automatic,nc,nc
 2023-02-26T19:29:33.890Z,38.8359985,-122.7910004,1.79,0.71,md,7,79,0.002461,0.01,nc,nc73852106,2023-02-26T19:58:12.667Z,"6km WNW of Cobb, CA",earthquake,0.52,2.08,0.22,8,automatic,nc,nc
 2023-02-26T19:29:07.780Z,38.7970009,-122.7543335,2.04,0.83,md,12,142,0.005546,0.02,nc,nc73852101,2023-02-26T19:46:12.602Z,"2km N of The Geysers, CA",earthquake,0.3,0.66,0.13,11,automatic,nc,nc
-2023-02-26T19:26:15.550Z,35.641,-117.4561667,6.92,2.81,ml,26,73,0.0546,0.12,ci,ci40418976,2023-02-26T22:25:44.149Z,"15km SSW of Searles Valley, CA",earthquake,0.23,0.52,0.17,25,automatic,ci,ci
+2023-02-26T19:26:15.550Z,35.641,-117.4561667,6.92,2.81,ml,26,73,0.0546,0.12,ci,ci40418976,2023-02-27T06:58:40.414Z,"15km SSW of Searles Valley, CA",earthquake,0.23,0.52,0.17,25,automatic,ci,ci
 2023-02-26T19:06:21.220Z,58.1895,-155.274,3.75,-0.08,ml,6,142,,0.09,av,av91775086,2023-02-27T05:54:01.690Z,"84 km NW of Karluk, Alaska",earthquake,0.29,1.18,0.172857621308809,6,reviewed,av,av
 2023-02-26T18:58:54.828Z,44.673,146.5159,134.299,4.5,mb,108,62,2.866,0.82,us,us6000jrs3,2023-02-26T19:38:26.040Z,"84 km NE of Otrada, Russia",earthquake,8.66,5.863,0.059,84,reviewed,us,us
 2023-02-26T18:58:03.380Z,38.8236656,-122.7649994,2.03,1.22,md,8,194,0.007804,0.01,nc,nc73852086,2023-02-26T21:35:14.239Z,"4km W of Cobb, CA",earthquake,0.51,1.37,0.11,10,automatic,nc,nc
