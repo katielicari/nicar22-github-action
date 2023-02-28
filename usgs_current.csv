@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-28T05:10:57.590Z,38.7986679,-122.795166,4.15,0.72,md,8,71,0.009287,0.01,nc,nc73852751,2023-02-28T05:31:11.680Z,"4km NW of The Geysers, CA",earthquake,0.57,2.7,0.04,8,automatic,nc,nc
+2023-02-28T05:10:57.590Z,38.7986679,-122.795166,4.15,0.72,md,8,71,0.009287,0.01,nc,nc73852751,2023-02-28T05:51:14.799Z,"4km NW of The Geysers, CA",earthquake,0.57,2.7,0.04,8,automatic,nc,nc
 2023-02-28T05:06:08.030Z,38.7994995,-122.8115005,3.61,0.76,md,13,73,0.01296,0.02,nc,nc73852746,2023-02-28T05:28:16.667Z,"5km WNW of The Geysers, CA",earthquake,0.36,1.04,0.32,13,automatic,nc,nc
 2023-02-28T05:02:31.470Z,33.4885,-116.4215,10.12,1.84,ml,63,38,0.03498,0.23,ci,ci40419432,2023-02-28T05:13:37.710Z,"22km SSW of La Quinta, CA",earthquake,0.23,0.4,0.139,25,automatic,ci,ci
 2023-02-28T04:31:11.200Z,38.8056679,-122.7809982,1.86,0.82,md,11,87,0.007584,0.02,nc,nc73852736,2023-02-28T05:16:14.733Z,"4km NW of The Geysers, CA",earthquake,0.29,0.59,0.18,15,automatic,nc,nc
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T03:37:58.210Z,38.8003349,-122.8113327,3.28,0.74,md,14,71,0.01362,0.02,nc,nc73852686,2023-02-28T04:29:21.415Z,"5km WNW of The Geysers, CA",earthquake,0.36,0.81,0.43,16,automatic,nc,nc
 2023-02-28T03:37:08.490Z,38.7981682,-122.8096695,3.33,1.37,md,22,74,0.0111,0.03,nc,nc73852676,2023-02-28T04:21:15.224Z,"5km WNW of The Geysers, CA",earthquake,0.28,0.56,0.5,21,automatic,nc,nc
 2023-02-28T03:36:34.180Z,38.7985001,-122.8123322,3.24,2.93,md,56,31,0.01247,0.06,nc,nc73852681,2023-02-28T04:21:16.224Z,"5km WNW of The Geysers, CA",earthquake,0.12,0.23,0.16,73,automatic,nc,nc
-2023-02-28T03:32:16.260Z,38.7983322,-122.8105011,3.26,1.57,md,30,70,0.01156,0.02,nc,nc73852666,2023-02-28T04:00:15.090Z,"5km WNW of The Geysers, CA",earthquake,0.23,0.42,0.16,31,automatic,nc,nc
+2023-02-28T03:32:16.260Z,38.7983322,-122.8105011,3.26,1.57,md,30,70,0.01156,0.02,nc,nc73852666,2023-02-28T05:59:11.837Z,"5km WNW of The Geysers, CA",earthquake,0.23,0.42,0.16,31,automatic,nc,nc
 2023-02-28T03:32:08.280Z,38.7991676,-122.8111649,3.29,0.75,md,16,74,0.01254,0.02,nc,nc73852661,2023-02-28T03:52:11.033Z,"5km WNW of The Geysers, CA",earthquake,0.32,0.89,0.33,18,automatic,nc,nc
 2023-02-28T03:23:35.530Z,35.52080917,-98.08591461,1.714435577,1.93,ml,12,76.02999878,0.1068097055,1.013085075,ok,ok2023ecfx,2023-02-28T03:25:29.979Z,"9 km SSE of Calumet, Oklahoma",earthquake,3.315642736,3.065555896,,8,automatic,ok,ok
 2023-02-28T03:19:54.040Z,19.1720008850098,-155.474670410156,32.0699996948242,2.00999999,md,26,204,,0.100000001,hv,hv73331662,2023-02-28T03:23:09.140Z,"3 km S of Pāhala, Hawaii",earthquake,0.92,1.03999996,1.99000001,6,automatic,hv,hv
