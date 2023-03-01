@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-01T19:44:19.460Z,38.7746658,-122.7296677,1.51,1.24,md,11,84,0.01018,0.03,nc,nc73854091,2023-03-01T19:45:57.322Z,"2km E of The Geysers, CA",earthquake,0.37,0.67,0.19,12,automatic,nc,nc
+2023-03-01T19:54:01.760Z,38.8266678,-122.8174973,3.05,0.66,md,7,76,0.01415,0.01,nc,nc73854096,2023-03-01T19:55:36.428Z,"8km NW of The Geysers, CA",earthquake,0.58,1.79,0.31,9,automatic,nc,nc
+2023-03-01T19:44:19.460Z,38.7746658,-122.7296677,1.51,1.24,md,11,84,0.01018,0.03,nc,nc73854091,2023-03-01T20:01:12.283Z,"2km E of The Geysers, CA",earthquake,0.37,0.67,0.19,12,automatic,nc,nc
 2023-03-01T19:31:46.580Z,38.8504982,-122.7795029,1.39,1.18,md,14,156,0.008249,0.02,nc,nc73854086,2023-03-01T19:48:16.205Z,"6km WNW of Cobb, CA",earthquake,0.34,0.3,0.43,14,automatic,nc,nc
 2023-03-01T19:29:50.732Z,44.5353,149.5047,35,5,mb,44,92,4.977,0.78,us,us7000jgmv,2023-03-01T19:49:42.040Z,"149 km ESE of Kuril’sk, Russia",earthquake,10.72,1.929,0.061,86,reviewed,us,us
 2023-03-01T19:28:09.750Z,14.121,146.8805,29.518,5.4,mb,85,65,2.024,1.18,us,us7000jgmu,2023-03-01T19:52:35.195Z,"165 km SE of San Jose Village, Northern Mariana Islands",earthquake,8.93,5.285,0.05,144,reviewed,us,us
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T12:24:55.036Z,60.2838,-142.9302,0,2.2,ml,,,,1,ak,ak0232rfjabj,2023-03-01T12:28:19.011Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-01T12:16:08.280Z,38.786499,-122.7588348,1.57,1.3,md,25,66,0.01412,0.03,nc,nc73853896,2023-03-01T14:50:14.387Z,"1km NNW of The Geysers, CA",earthquake,0.23,0.39,0.18,25,automatic,nc,nc
 2023-03-01T12:04:12.040Z,38.8261681,-122.8154984,2.35,0.81,md,8,135,0.005062,0.02,nc,nc73853886,2023-03-01T14:23:18.239Z,"8km NW of The Geysers, CA",earthquake,0.59,1.5,0.26,7,automatic,nc,nc
-2023-03-01T11:35:43.760Z,48.6185,-123.03966666666666,14.23,2.73,ml,20,126,0.01791,0.17,uw,uw61900332,2023-03-01T19:38:24.771Z,"7 km WNW of Orcas, Washington",earthquake,0.35,0.44,0.18001598316856549,20,reviewed,uw,uw
+2023-03-01T11:35:43.760Z,48.6185,-123.03966666666666,14.23,2.73,ml,20,126,0.01791,0.17,uw,uw61900332,2023-03-01T20:06:25.854Z,"7 km WNW of Orcas, Washington",earthquake,0.35,0.44,0.18001598316856549,20,reviewed,uw,uw
 2023-03-01T11:27:59.658Z,50.6422,-173.4286,17.8,3.1,ml,,,,0.52,ak,ak0232reynn3,2023-03-01T19:20:52.197Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,21,,,reviewed,ak,ak
 2023-03-01T11:23:23.090Z,38.8268318,-122.815834,1.36,0.46,md,10,70,0.005659,0.02,nc,nc73853876,2023-03-01T11:49:14.153Z,"8km NW of The Geysers, CA",earthquake,0.33,0.78,0.34,9,automatic,nc,nc
 2023-03-01T11:20:41.310Z,19.2591667175293,-155.408828735352,30.3999996185303,1.73000002,md,18,170,,0.119999997,hv,hv73332117,2023-03-01T11:23:48.210Z,"9 km NE of Pāhala, Hawaii",earthquake,0.94,1.37,0.74000001,3,automatic,hv,hv
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T10:52:36.392Z,41.3404,44.0587,7.11,4.3,mb,15,74,0.456,0.85,us,us7000jgj7,2023-03-01T11:36:03.040Z,"20 km NW of Metsavan, Armenia",earthquake,4.05,5.779,0.237,5,reviewed,us,us
 2023-03-01T10:50:39.420Z,38.8170013,-122.795166,0.65,0.93,md,7,106,0.009021,0.03,nc,nc73853861,2023-03-01T11:28:15.009Z,"6km NW of The Geysers, CA",earthquake,0.48,0.42,0.32,8,automatic,nc,nc
 2023-03-01T10:39:32.683Z,31.63969102,-104.1774567,6.080151367,2.6,ml,29,75,0.07573993338,0.2,tx,tx2023eepu,2023-03-01T18:36:38.024Z,"51 km NW of Toyah, Texas",earthquake,0.6065748042,0.8883209193,0.1,23,reviewed,tx,tx
-2023-03-01T10:36:42.250Z,34.1231667,-117.4705,7.38,1.35,ml,33,37,0.07792,0.23,ci,ci40419816,2023-03-01T10:40:17.487Z,"3km NNW of Fontana, CA",earthquake,0.32,0.8,0.107,28,automatic,ci,ci
+2023-03-01T10:36:42.210Z,34.1225,-117.466,7.29,1.32,ml,43,48,0.03216,0.16,ci,ci40419816,2023-03-01T20:00:30.613Z,"3km NNW of Fontana, CA",earthquake,0.19,0.35,0.114,32,reviewed,ci,ci
 2023-03-01T10:26:10.300Z,46.409666666666666,-122.25783333333334,20.13,0.42,ml,13,191,0.06542,0.15,uw,uw61900322,2023-03-01T19:49:07.450Z,"Washington",earthquake,1.28,1.03,0.11482871943032957,8,reviewed,uw,uw
 2023-03-01T10:12:17.094Z,31.67280535,-104.4150737,7.416967772999999,2.2,ml,12,66,0.02203818382,0.1,tx,tx2023eeow,2023-03-01T19:47:32.304Z,"55 km S of Whites City, New Mexico",earthquake,0.9158175325999999,1.10953441,0.1,14,reviewed,tx,tx
 2023-03-01T10:04:08.020Z,38.8268318,-122.8174973,1.3,1.1,md,19,41,0.006738,0.02,nc,nc73853856,2023-03-01T13:40:14.983Z,"8km NW of The Geysers, CA",earthquake,0.2,0.49,0.17,21,automatic,nc,nc
@@ -277,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T20:15:54.680Z,46.908166666666666,-121.95016666666666,5.24,0.37,ml,23,152,0.006464,0.1,uw,uw61900277,2023-03-01T01:27:07.870Z,"17 km NNE of Ashford, Washington",earthquake,0.24,0.54,0.11088105072886478,6,reviewed,uw,uw
 2023-02-28T20:11:58.015Z,8.3336,126.4593,88.951,4.6,mb,91,82,1.529,0.84,us,us7000jgbt,2023-03-01T16:10:51.040Z,"13 km ENE of Tidman, Philippines",earthquake,7.74,6.626,0.057,98,reviewed,us,us
 2023-02-28T20:10:34.225Z,-21.942,-68.515,141.223,4.1,mb,17,102,0.691,0.76,us,us7000jgbr,2023-03-01T15:55:46.040Z,"70 km NE of Calama, Chile",earthquake,6.6,7.304,0.368,2,reviewed,us,us
-2023-02-28T20:04:18.120Z,56.9038333333333,-158.066,-3.11,1.76,ml,5,250,,0.07,av,av91777291,2023-03-01T18:47:45.700Z,"34 km E of Port Heiden, Alaska",earthquake,0.64,1.03,0.590685181052045,6,reviewed,av,av
