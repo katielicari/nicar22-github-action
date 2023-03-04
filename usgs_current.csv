@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-04T04:42:30.740Z,38.8330002,-122.7935028,1.32,0.54,md,7,101,0.01611,0.01,nc,nc73855211,2023-03-04T04:44:07.759Z,"6km WNW of Cobb, CA",earthquake,0.5,1.77,0.29,9,automatic,nc,nc
 2023-03-04T04:32:54.370Z,33.4596667,-116.5521667,9.45,0.41,ml,13,118,0.05449,0.15,ci,ci40420696,2023-03-04T04:36:33.919Z,"16km SE of Anza, CA",earthquake,0.4,0.83,0.176,10,automatic,ci,ci
 2023-03-04T04:14:50.162Z,35.12321854,-97.57482147,3.097495317,1.85,ml,10,64.24451828,0.06636603922,0.6071874885,ok,ok2023ejpp,2023-03-04T04:16:37.511Z,"2 km N of Cole, Oklahoma",earthquake,3.390493334,2.899320844,,8,automatic,ok,ok
+2023-03-04T04:10:21.439Z,51.6368,178.7486,74.939,4,mb,36,166,0.338,0.51,us,us7000jh8s,2023-03-04T04:44:10.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.28,5.33,0.106,25,reviewed,us,us
 2023-03-04T03:57:50.440Z,19.1586666107178,-155.361999511719,29.1399993896484,2,md,40,179,,0.129999995,hv,hv73333072,2023-03-04T04:01:12.450Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.67,0.930000007,0.959999979,17,automatic,hv,hv
 2023-03-04T03:46:30.369Z,-15.5402,-174.7017,259.847,4.5,mb,22,109,3.525,0.69,us,us7000jh8j,2023-03-04T04:13:31.040Z,"107 km WNW of Hihifo, Tonga",earthquake,12.22,8.815,0.145,14,reviewed,us,us
 2023-03-04T03:38:04.250Z,37.3113327,-121.6801682,6.54,2.12,md,53,50,0.04259,0.07,nc,nc73855206,2023-03-04T03:46:16.881Z,"14km ENE of Seven Trees, CA",earthquake,0.13,0.29,0.19,48,automatic,nc,nc
