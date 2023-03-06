@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-06T21:52:23.166Z,60.1739,-152.8171,93.8,1.8,ml,,,,1.12,ak,ak0232zuquto,2023-03-06T21:55:10.840Z,"65 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-03-06T21:36:19.190Z,38.833168,-122.7931671,1.7,0.67,md,10,82,0.005679,0.01,nc,nc73856221,2023-03-06T21:54:10.833Z,"6km WNW of Cobb, CA",earthquake,0.4,0.67,0.25,12,automatic,nc,nc
+2023-03-06T21:36:19.190Z,38.833168,-122.7931671,1.7,0.67,md,10,82,0.005679,0.01,nc,nc73856221,2023-03-06T21:58:12.863Z,"6km WNW of Cobb, CA",earthquake,0.4,0.67,0.25,12,automatic,nc,nc
 2023-03-06T21:32:01.386Z,61.1972,-150.8943,50.3,1.8,ml,,,,0.78,ak,ak0232zumitm,2023-03-06T21:48:15.677Z,"11 km ENE of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-06T21:29:43.940Z,38.793335,-122.7486649,1.89,0.95,md,12,90,0.01374,0.02,nc,nc73856216,2023-03-06T21:47:15.788Z,"2km NNE of The Geysers, CA",earthquake,0.28,0.8,0.2,13,automatic,nc,nc
 2023-03-06T21:00:47.990Z,58.2104,-155.6231,51.1,0.8,ml,,,,0.2,ak,ak0232zufri7,2023-03-06T21:02:18.562Z,"80 km SE of King Salmon, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2023-03-06T20:59:59.964Z,-20.7817,-178.3,526.424,5.8,mww,92,40,2.919,1.21,us,us7000jhqt,2023-03-06T21:19:38.911Z,"Fiji region",earthquake,10.44,7.005,0.073,18,reviewed,us,us
+2023-03-06T20:59:59.964Z,-20.7817,-178.3,526.424,5.8,mww,92,40,2.919,1.21,us,us7000jhqt,2023-03-06T22:04:02.040Z,"Fiji region",earthquake,10.44,7.005,0.073,18,reviewed,us,us
 2023-03-06T20:55:54.819Z,61.7267,-150.4622,43.1,2.7,ml,,,,0.6,ak,ak0232zu63iu,2023-03-06T21:08:01.606Z,"20 km N of Susitna, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-03-06T20:36:15.170Z,32.5995,-116.99,2.74,1.27,ml,16,246,0.05114,0.16,ci,ci40421568,2023-03-06T20:39:56.341Z,"6km ESE of Chula Vista, CA",quarry blast,1.18,0.42,0.092,10,automatic,ci,ci
 2023-03-06T20:30:53.214Z,59.9628,-152.5769,90.8,1.7,ml,,,,0.71,ak,ak0232zu0rs9,2023-03-06T20:33:48.175Z,"46 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -176,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T22:22:11.190Z,33.5268333,-116.7245,4.81,0.55,ml,18,48,0.03992,0.14,ci,ci40421344,2023-03-05T22:25:49.024Z,"6km WSW of Anza, CA",earthquake,0.31,0.6,0.085,17,automatic,ci,ci
 2023-03-05T22:21:34.783Z,-55.7338,147.3432,10,5.8,mww,45,82,6.768,0.96,us,us7000jhir,2023-03-06T00:24:50.739Z,"west of Macquarie Island",earthquake,12.19,1.933,0.078,16,reviewed,us,us
 2023-03-05T22:16:04.830Z,33.7761667,-116.9411667,13.12,0.92,ml,16,105,0.08448,0.21,ci,ci40421336,2023-03-05T22:19:40.723Z,"2km ESE of San Jacinto, CA",earthquake,0.45,0.86,0.18,18,automatic,ci,ci
-2023-03-05T22:07:14.909Z,-28.1833,-71.7292,10,4,mwr,19,199,1.224,0.55,us,us7000jhil,2023-03-05T22:23:44.040Z,"104 km WNW of Vallenar, Chile",earthquake,6.12,1.989,0.073,18,reviewed,us,us
