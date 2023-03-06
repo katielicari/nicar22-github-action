@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T01:50:07.863Z,-9.4361,112.3186,40.948,4.8,mb,47,45,2.05,0.87,us,us7000jhjr,2023-03-06T02:08:36.040Z,"142 km S of Sumberpucung, Indonesia",earthquake,8.32,6.759,0.089,39,reviewed,us,us
 2023-03-06T01:48:42.310Z,38.8341675,-122.8186646,1.59,0.71,md,12,62,0.01386,0.02,nc,nc73855921,2023-03-06T02:41:15.947Z,"8km NW of The Geysers, CA",earthquake,0.25,0.62,0.33,12,automatic,nc,nc
 2023-03-06T01:46:21.360Z,38.8339996,-122.8188324,1.63,1.09,md,22,61,0.01261,0.02,nc,nc73855916,2023-03-06T02:30:12.881Z,"8km NW of The Geysers, CA",earthquake,0.2,0.38,0.2,23,automatic,nc,nc
-2023-03-06T01:43:19.410Z,38.8341675,-122.8184967,1.63,1.39,md,28,51,0.01261,0.01,nc,nc73855911,2023-03-06T04:36:11.640Z,"8km NW of The Geysers, CA",earthquake,0.17,0.34,0.16,28,automatic,nc,nc
+2023-03-06T01:43:19.410Z,38.8341675,-122.8184967,1.63,1.39,md,28,51,0.01261,0.01,nc,nc73855911,2023-03-06T05:23:15.056Z,"8km NW of The Geysers, CA",earthquake,0.17,0.34,0.16,28,automatic,nc,nc
 2023-03-06T01:43:08.980Z,38.8343315,-122.8184967,1.73,1.35,md,29,51,0.01275,0.02,nc,nc73855906,2023-03-06T04:58:11.777Z,"8km NW of The Geysers, CA",earthquake,0.17,0.32,0.14,18,automatic,nc,nc
 2023-03-06T01:41:03.680Z,19.1399993896484,-155.355834960938,31.8500003814697,1.87,md,31,224,,0.109999999,hv,hv73334222,2023-03-06T01:45:22.410Z,"14 km ESE of Pāhala, Hawaii",earthquake,1.07,1.20000005,0.579999983,9,automatic,hv,hv
 2023-03-06T01:29:36.270Z,38.6860008,-122.720665,4.92,1.28,md,5,231,0.1351,0.09,nc,nc73855901,2023-03-06T04:31:14.604Z,"10km SSW of Anderson Springs, CA",earthquake,2.39,9.67,0.38,2,automatic,nc,nc
@@ -190,5 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T05:43:07.119Z,58.1857,-155.2546,1.1,0.4,ml,,,,0.32,ak,ak0232xxmlyv,2023-03-05T05:44:42.696Z,"83 km NW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-03-05T05:42:47.110Z,38.8131676,-122.8248367,1.84,0.76,md,7,89,0.005471,0.01,nc,nc73855561,2023-03-05T07:28:11.839Z,"7km NW of The Geysers, CA",earthquake,0.65,1.06,0.25,8,automatic,nc,nc
 2023-03-05T05:32:26.095Z,60.9926,-150.738,44.5,1.6,ml,,,,0.09,ak,ak0232xxkak1,2023-03-05T05:33:52.722Z,"8 km NNW of Point Possession, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-03-05T05:23:40.460Z,19.1928329467773,-155.384506225586,31,2.00999999,md,36,164,,0.119999997,hv,hv73333627,2023-03-05T05:26:59.650Z,"Island of Hawaii, Hawaii",earthquake,0.72,0.800000012,1.61000001,10,automatic,hv,hv
-2023-03-05T05:10:11.780Z,33.4041667,-116.3963333,4.52,2.12,ml,69,30,0.1214,0.22,ci,ci40421056,2023-03-05T05:21:32.940Z,"17km N of Borrego Springs, CA",earthquake,0.2,0.94,0.174,24,automatic,ci,ci
