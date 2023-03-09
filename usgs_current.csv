@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-09T09:34:44.020Z,38.7956657,-122.9158325,4.65,0.83,md,11,219,0.04279,0.03,nc,nc73854575,2023-03-09T09:36:21.126Z,"9km E of Cloverdale, CA",earthquake,0.79,1.76,0.22,12,automatic,nc,nc
+2023-03-09T09:32:51.384Z,61.6866,-149.4667,34.9,1.2,ml,,,,0.27,ak,ak02334m3gwi,2023-03-09T09:34:20.904Z,"6 km NNW of Tanaina, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-03-09T09:31:41.720Z,38.8243332,-122.8001633,2.79,0.71,md,10,96,0.007798,0.01,nc,nc73854570,2023-03-09T09:33:16.228Z,"6km NW of The Geysers, CA",earthquake,0.4,1.08,0.33,10,automatic,nc,nc
+2023-03-09T09:28:44.156Z,63.0959,-149.4324,67.8,1.7,ml,,,,0.77,ak,ak02334m2lhb,2023-03-09T09:30:46.477Z,"40 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-09T09:05:20.760Z,33.0435,-116.4006667,3.7,0.89,ml,26,53,0.07198,0.18,ci,ci40182111,2023-03-09T09:08:55.675Z,"19km ESE of Julian, CA",earthquake,0.27,0.87,0.111,14,automatic,ci,ci
 2023-03-09T09:04:39.625Z,60.18,-142.1668,0,1.3,ml,,,,1.03,ak,ak02334lxfy2,2023-03-09T09:06:40.059Z,"145 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-09T09:00:55.150Z,33.6891667,-116.8023333,16.1,1.53,ml,59,23,0.07015,0.19,ci,ci40182103,2023-03-09T09:11:51.560Z,"10km SW of Idyllwild, CA",earthquake,0.19,0.37,0.199,26,automatic,ci,ci
@@ -11,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T08:11:30.250Z,19.2485008239746,-155.385665893555,32.3699989318848,2.24,ml,38,137,,0.129999995,hv,hv73335797,2023-03-09T09:03:02.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.58,0.800000012,0.57,3,automatic,hv,hv
 2023-03-09T07:54:07.800Z,33.649,-116.7681667,13.2,0.99,ml,40,62,0.05527,0.19,ci,ci40182079,2023-03-09T08:33:42.742Z,"11km SSW of Idyllwild, CA",earthquake,0.25,0.41,0.154,27,automatic,ci,ci
 2023-03-09T07:45:47.427Z,32.74749756,-100.6594179,7.654337565,2.8,ml,15,70,0.08405727831,0.2,tx,tx2023etac,2023-03-09T08:53:51.040Z,"15 km NE of Hermleigh, Texas",earthquake,0.6770603078,1.28674797,0.1,8,reviewed,tx,tx
-2023-03-09T07:44:02.190Z,38.8310013,-122.8188324,1.75,0.77,md,20,51,0.01022,0.02,nc,nc73854555,2023-03-09T09:26:13.406Z,"8km NW of The Geysers, CA",earthquake,0.21,0.44,0.45,18,automatic,nc,nc
+2023-03-09T07:44:02.190Z,38.8310013,-122.8188324,1.75,0.77,md,20,51,0.01022,0.02,nc,nc73854555,2023-03-09T09:31:11.440Z,"8km NW of The Geysers, CA",earthquake,0.21,0.44,0.45,18,automatic,nc,nc
 2023-03-09T07:43:06.540Z,33.7286667,-116.8315,15.98,0.73,ml,18,102,0.08742,0.11,ci,ci40182071,2023-03-09T07:46:45.060Z,"6km ESE of Valle Vista, CA",earthquake,0.33,0.45,0.208,13,automatic,ci,ci
 2023-03-09T07:42:37.180Z,33.4696667,-116.5503333,10.13,0.47,ml,17,72,0.05002,0.14,ci,ci40182063,2023-03-09T07:46:10.658Z,"15km SE of Anza, CA",earthquake,0.31,0.59,0.19,13,automatic,ci,ci
 2023-03-09T07:37:04.710Z,38.7888336,-122.7693329,1.58,0.79,md,14,82,0.01397,0.02,nc,nc73854550,2023-03-09T09:06:11.281Z,"2km NW of The Geysers, CA",earthquake,0.28,0.5,0.08,14,automatic,nc,nc
@@ -296,5 +300,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-08T09:49:19.274Z,63.5355,-147.5118,0,1.4,ml,,,,0.69,ak,ak02332ynp3r,2023-03-08T09:51:37.395Z,"72 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-08T09:43:37.240Z,19.2501659393311,-155.40266418457,31.8199996948242,2.19,ml,35,129,,0.150000006,hv,hv73335557,2023-03-08T09:49:09.510Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.66,0.920000017,0.1,3,automatic,hv,hv
 2023-03-08T09:42:56.780Z,47.7905,-122.8485,22.93,1.09,ml,22,70,0.04485,0.31,uw,uw61901012,2023-03-08T20:18:47.660Z,"4 km SSE of Quilcene, Washington",earthquake,0.57,0.89,0.12274274572962285,11,reviewed,uw,uw
-2023-03-08T09:33:06.070Z,44.74033333333333,-117.28283333333333,4.92,3.11,ml,14,73,0.1134,0.43,uw,uw61901007,2023-03-08T17:39:47.114Z,"9 km WSW of Richland, Oregon",earthquake,0.86,1.53,0.18942178632820905,9,reviewed,uw,uw
-2023-03-08T09:32:51.450Z,58.186,-155.315166666667,2.04,-0.55,ml,6,156,,0.05,av,av91789106,2023-03-09T00:22:21.840Z,"Alaska Peninsula",earthquake,0.29,0.38,0.207455720036301,6,reviewed,av,av
