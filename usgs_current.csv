@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-14T23:47:44.230Z,40.9291649,-123.7214966,23.27,2.69,md,11,148,0.05501,0.08,nc,nc73856980,2023-03-14T23:49:20.153Z,"8km W of Willow Creek, CA",earthquake,0.95,0.56,0.1,6,automatic,nc,nc
+2023-03-14T23:46:37.755Z,65.028,-147.0276,0,1.6,ml,,,,0.64,ak,ak0233d478tb,2023-03-14T23:48:58.551Z,"17 km N of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-14T23:05:45.683Z,61.5546,-146.2107,39.3,3,ml,,,,0.31,ak,ak0233d3yh2g,2023-03-14T23:06:55.868Z,"47 km N of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-14T22:57:52.647Z,62.0821,-150.4205,49.9,1.6,ml,,,,0.57,ak,ak0233d3o78g,2023-03-14T22:59:35.040Z,"27 km SSW of Trapper Creek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-14T22:54:21.750Z,17.9556666666667,-65.436,12.48,3.1,md,18,164,0.1793,0.24,pr,pr71399653,2023-03-14T23:28:11.040Z,"16 km SSE of Esperanza, Puerto Rico",earthquake,0.59,0.5,0.179546570870363,16,reviewed,pr,pr
@@ -111,10 +113,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T14:01:46.300Z,33.9936667,-117.1818333,15.38,0.87,ml,27,81,0.1225,0.19,ci,ci40184695,2023-03-14T21:04:44.282Z,"7km S of Redlands, CA",earthquake,0.31,0.75,0.206,16,reviewed,ci,ci
 2023-03-14T13:55:03.370Z,36.5255,-89.4943333333333,7.3,1.75,md,21,49,0.04069,0.08,nm,nm60514046,2023-03-14T19:50:53.940Z,"southeastern Missouri",earthquake,0.16,0.54,0.092935324869329,16,reviewed,nm,nm
 2023-03-14T13:43:53.260Z,51.857,-178.045666666667,-1.8,1.71,ml,5,152,,0.2,av,av91804991,2023-03-14T19:07:25.300Z,"97 km W of Adak, Alaska",earthquake,0.53,1.38,0.292209518073236,5,reviewed,av,av
+2023-03-14T13:32:05.930Z,51.8873333333333,-178.154,6.12,1.77,ml,4,266,,0.03,av,av91804976,2023-03-14T23:50:59.090Z,"104 km W of Adak, Alaska",earthquake,0.57,0.98,0.0562368576610983,4,reviewed,av,av
 2023-03-14T13:27:37.616Z,37.5192,-117.9756,0.9,2,ml,8,75.9,0.388,0.1261,nn,nn00856984,2023-03-14T19:48:29.182Z,"California-Nevada border region",earthquake,,6.6,0.98,6,reviewed,nn,nn
+2023-03-14T13:26:50.640Z,51.8593333333333,-178.0965,2.78,0.93,ml,4,214,,0.27,av,av91804966,2023-03-14T23:49:02.580Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,2.45,1.98,0.172661886662017,4,reviewed,av,av
 2023-03-14T13:25:08.850Z,37.5178337,-117.9769974,5.59,2.96,md,9,116,0.4489,0.21,nc,nc73856710,2023-03-14T18:30:05.618Z,"16km N of Deep Springs, CA",earthquake,0.75,13.77,0.19,7,automatic,nc,nc
 2023-03-14T13:24:12.920Z,51.8556666666667,-178.088166666667,3.24,1.64,ml,5,211,,0.15,av,av91804961,2023-03-14T19:09:07.790Z,"100 km W of Adak, Alaska",earthquake,0.62,0.47,0.210952082042793,5,reviewed,av,av
 2023-03-14T13:11:27.210Z,18.0361666666667,-66.981,13.44,2.02,md,4,187,0.08959,0.15,pr,pr71399583,2023-03-14T13:31:03.250Z,"4 km W of Liborio Negron Torres, Puerto Rico",earthquake,4.52,2.4,0.0864106246563652,3,reviewed,pr,pr
+2023-03-14T13:05:19.330Z,51.8828333333333,-177.947166666667,2.5,1.27,ml,5,184,,0.09,av,av91804936,2023-03-14T23:46:46.650Z,"90 km W of Adak, Alaska",earthquake,0.43,0.93,0.124221270126414,5,reviewed,av,av
 2023-03-14T12:58:24.984Z,59.801,-152.8731,104.7,1.6,ml,,,,0.5,ak,ak0233cxq0rm,2023-03-14T13:00:15.673Z,"58 km W of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-14T12:58:02.720Z,51.8871666666667,-177.938333333333,2.31,1.63,ml,5,200,,0.22,av,av91804931,2023-03-14T19:11:22.900Z,"89 km W of Adak, Alaska",earthquake,0.8,1.65,0.148013521109191,5,reviewed,av,av
 2023-03-14T12:48:12.510Z,38.8059998,-122.7829971,0.42,1.14,md,8,92,0.00747,0.02,nc,nc73856700,2023-03-14T13:47:16.311Z,"4km NW of The Geysers, CA",earthquake,0.44,0.77,0.19,8,automatic,nc,nc
@@ -135,6 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T11:31:06.580Z,38.8031654,-122.7891693,1.21,0.86,md,6,93,0.00678,0.06,nc,nc73856690,2023-03-14T11:48:14.518Z,"4km NW of The Geysers, CA",earthquake,0.55,0.94,0.25,9,automatic,nc,nc
 2023-03-14T11:30:02.480Z,58.1703333333333,-155.342833333333,1.33,-0.12,ml,6,179,,0.05,av,av91804826,2023-03-14T18:48:57.040Z,"85 km NW of Karluk, Alaska",earthquake,0.27,1.12,0.158689352928808,6,reviewed,av,av
 2023-03-14T11:27:53.910Z,33.5133333,-116.5523333,13.14,0.72,ml,31,71,0.04562,0.12,ci,ci40184639,2023-03-14T20:48:32.630Z,"12km ESE of Anza, CA",earthquake,0.19,0.34,0.091,19,reviewed,ci,ci
+2023-03-14T11:22:08.960Z,51.8733333333333,-177.911833333333,4.66,1.21,ml,4,194,,0.15,av,av91804821,2023-03-14T23:42:28.930Z,"88 km W of Adak, Alaska",earthquake,0.65,2.03,0.179882088861493,4,reviewed,av,av
 2023-03-14T11:21:32.220Z,34.0253333,-117.2228333,18.08,0.95,ml,28,100,0.08818,0.12,ci,ci40184631,2023-03-14T20:43:25.255Z,"4km SE of Loma Linda, CA",earthquake,0.23,0.36,0.14,17,reviewed,ci,ci
 2023-03-14T11:14:15.482Z,60.9515,-150.9041,14.7,2.7,ml,,,,0.51,ak,ak0233cwv4x8,2023-03-14T11:15:52.276Z,"12 km WNW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-14T11:11:15.980Z,51.8755,-177.897,4.12,1.24,ml,4,206,,0.05,av,av91804791,2023-03-14T23:40:11.300Z,"86 km W of Adak, Alaska",earthquake,0.53,1.09,0.123863630485104,5,reviewed,av,av
@@ -222,8 +228,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T07:28:08.210Z,51.8411666666667,-178.100666666667,4.12,3.32,ml,8,114,,0.23,av,av91804416,2023-03-14T13:40:25.150Z,"101 km W of Adak, Alaska",earthquake,0.57,0.85,0.397362767334701,8,reviewed,av,av
 2023-03-14T07:25:43.030Z,38.8240013,-122.8083344,1.1,0.82,md,14,70,0.001488,0.03,nc,nc73856565,2023-03-14T07:43:14.989Z,"7km NW of The Geysers, CA",earthquake,0.25,0.57,0.17,15,automatic,nc,nc
 2023-03-14T07:25:23.650Z,17.9275,-66.7028333333333,6.62,2.86,md,8,239,0.1249,0.1,pr,pr71399548,2023-03-14T07:40:44.710Z,"7 km S of Tallaboa, Puerto Rico",earthquake,0.69,0.35,0.0539961236499371,2,reviewed,pr,pr
+2023-03-14T07:24:42.208Z,37.3802,-117.1162,16.1,1.1,ml,12,133.99,0.393,0.1499,nn,nn00856934,2023-03-14T23:48:53.689Z,"37 km SSE of Goldfield, Nevada",earthquake,,1,1,11,reviewed,nn,nn
 2023-03-14T07:24:42.170Z,51.8838333333333,-177.8895,5.93,1.36,ml,4,221,,0.1,av,av91804401,2023-03-14T22:04:30.520Z,"86 km W of Adak, Alaska",earthquake,0.75,1.17,0.235772383249551,4,reviewed,av,av
-2023-03-14T07:24:41.809Z,37.3895,-117.1296,1.6,1.2,ml,12,141.96,0.407,0.3105,nn,nn00856934,2023-03-14T07:25:55.335Z,"36 km SSE of Goldfield, Nevada",earthquake,,21.2,0.89,8,automatic,nn,nn
 2023-03-14T07:17:11.686Z,37.7135,-117.5448,2.9,1.1,ml,10,136.11,0.386,0.2895,nn,nn00856933,2023-03-14T07:18:34.573Z,"9 km ESE of Silver Peak, Nevada",earthquake,,13.1,0.91,6,automatic,nn,nn
 2023-03-14T07:14:00.500Z,51.8658333333333,-177.903833333333,3.68,1.21,ml,5,189,,0.07,av,av91804381,2023-03-14T22:01:28.430Z,"87 km W of Adak, Alaska",earthquake,0.67,0.61,0.21340036625941,5,reviewed,av,av
 2023-03-14T07:13:45.082Z,37.5215,-117.9672,1.7,2.1,ml,9,84.95,0.386,0.1865,nn,nn00856930,2023-03-14T19:13:59.358Z,"18 km SSE of Dyer, Nevada",earthquake,,5,0.59,7,reviewed,nn,nn
@@ -276,7 +282,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T05:18:56.911Z,37.539,-117.9279,0.3,1.2,ml,5,234.09,0.38,0.2483,nn,nn00856916,2023-03-14T22:55:54.976Z,"18 km SE of Dyer, Nevada",earthquake,,6.3,0.86,5,reviewed,nn,nn
 2023-03-14T05:18:06.460Z,36.63,-120.6813333,9.63,1.96,md,48,103,0.1791,0.13,nc,nc73856505,2023-03-14T18:37:16.158Z,"24km N of New Idria, CA",earthquake,0.24,0.71,0.127,37,reviewed,nc,nc
 2023-03-14T05:18:01.916Z,65.0508,-150.2703,17.2,1,ml,,,,0.67,ak,ak0233ctbd3x,2023-03-14T05:20:47.866Z,"18 km ENE of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-14T05:12:08.920Z,37.5143333,-118.0038333,6.94,2.11,md,18,163,0.3006,0.16,nc,nc73856500,2023-03-14T21:09:33.160Z,"16km N of Deep Springs, CA",earthquake,0.68,3.88,0.296,18,reviewed,nc,nc
+2023-03-14T05:12:08.920Z,37.5143333,-118.0038333,6.94,2.11,md,18,163,0.3006,0.16,nc,nc73856500,2023-03-14T23:43:10.029Z,"16km N of Deep Springs, CA",earthquake,0.68,3.88,0.296,18,reviewed,nc,nc
 2023-03-14T05:11:46.440Z,44.6408333,-111.035,6.3,1.13,ml,13,52,0.05719,0.21,uu,uu60533886,2023-03-14T13:28:34.080Z,"Idaho-Montana border region",earthquake,0.56,1.11,0.142,2,reviewed,uu,uu
 2023-03-14T05:09:58.690Z,33.6383333,-116.7346667,16.68,0.37,ml,22,57,0.05085,0.09,ci,ci40184431,2023-03-14T19:26:06.358Z,"11km NNW of Anza, CA",earthquake,0.23,0.51,0.201,10,reviewed,ci,ci
 2023-03-14T05:09:09.923Z,37.5232,-117.9699,0,1.6,ml,8,140.81,0.388,0.1651,nn,nn00856910,2023-03-14T22:40:17.551Z,"18 km SSE of Dyer, Nevada",earthquake,,0,0.49,7,reviewed,nn,nn
@@ -320,6 +326,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T03:01:47.513Z,61.8066,-148.9842,34,1.7,ml,,,,0.87,ak,ak0233cs0y8v,2023-03-14T03:03:56.485Z,"11 km NNE of Buffalo Soapstone, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-03-14T03:00:44.950Z,51.9026666666667,-176.554333333333,3.75,1.74,ml,6,149,,0.23,av,av91804081,2023-03-14T17:17:04.340Z,"6 km ENE of Adak, Alaska",earthquake,0.8,0.99,0.219043913334542,6,reviewed,av,av
 2023-03-14T03:00:18.460Z,44.637,-111.0498333,8.21,0.83,ml,10,88,0.04793,0.14,uu,uu60533866,2023-03-14T13:34:23.800Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.43,0.83,0.137,2,reviewed,uu,uu
+2023-03-14T02:55:39.508Z,14.338,-93.2086,35,4.5,mb,55,186,2.192,0.53,us,us7000jjqm,2023-03-14T23:47:58.040Z,"94 km WSW of Puerto Madero, Mexico",earthquake,7.21,1.953,0.039,195,reviewed,us,us
 2023-03-14T02:54:33.787Z,63.4596,-149.0121,86.9,1.3,ml,,,,0.54,ak,ak0233crquj6,2023-03-14T02:56:50.362Z,"8 km NNW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-14T02:52:39.250Z,38.8325005,-122.8180008,1.45,1.54,md,30,49,0.011,0.02,nc,nc73856450,2023-03-14T06:51:14.690Z,"8km NW of The Geysers, CA",earthquake,0.14,0.3,0.14,31,automatic,nc,nc
 2023-03-14T02:51:11.020Z,38.8318329,-122.8168335,1.54,2.22,md,42,43,0.009943,0.05,nc,nc73856445,2023-03-14T06:23:19.528Z,"8km NW of The Geysers, CA",earthquake,0.15,0.24,0.13,44,automatic,nc,nc
@@ -372,8 +379,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T00:01:59.210Z,58.1803333333333,-155.295166666667,1.85,0.08,ml,7,158,,0.08,av,av91094083,2023-03-14T01:31:08.170Z,"84 km NW of Karluk, Alaska",earthquake,0.25,0.48,0.288658047957253,7,reviewed,av,av
 2023-03-14T00:01:09.362Z,60.2088,-141.2526,0.6,2.2,ml,,,,0.71,ak,ak0233cq8khk,2023-03-14T00:02:59.862Z,"112 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-13T23:59:50.800Z,37.1076667,-121.5058333,7.24,1.31,md,30,54,0.04761,0.1,nc,nc73856405,2023-03-14T19:31:14.667Z,"10km ENE of San Martin, CA",earthquake,0.2,0.52,0.128,25,reviewed,nc,nc
-2023-03-13T23:48:49.620Z,58.2208333333333,-155.08,4.22,-0.08,ml,6,121,,0.09,av,av91803886,2023-03-14T01:28:21.140Z,"Alaska Peninsula",earthquake,0.56,1.42,0.137452498705867,6,reviewed,av,av
-2023-03-13T23:48:43.370Z,51.8748333333333,-178.132333333333,6.13,1.69,ml,5,239,,0.2,av,av91094068,2023-03-14T00:35:47.310Z,"103 km W of Adak, Alaska",earthquake,1.06,1.24,0.22226660693695,5,reviewed,av,av
-2023-03-13T23:46:49.472Z,51.8772,-178.1175,8.691,3.4,ml,16,101,0.038,0.6,us,us7000jjp5,2023-03-14T00:37:20.040Z,"102 km W of Adak, Alaska",earthquake,1,2.053,0.085,18,reviewed,us,us
-2023-03-13T23:42:17.770Z,33.7121667,-117.3308333,-0.54,1.03,ml,19,69,0.05969,0.18,ci,ci40184351,2023-03-14T00:47:03.574Z,"5km N of Lake Elsinore, CA",quarry blast,0.43,31.61,0.158,22,reviewed,ci,ci
-2023-03-13T23:42:06.040Z,51.8605,-177.869,4.51,0.79,ml,4,205,,0.12,av,av91803866,2023-03-14T01:22:52.120Z,"85 km W of Adak, Alaska",earthquake,0.55,1.62,0.195731921061373,4,reviewed,av,av
