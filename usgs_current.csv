@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-14T10:59:39.350Z,33.4698333,-116.5526667,8.89,0.72,ml,27,82,0.04826,0.14,ci,ci40184623,2023-03-14T11:03:38.419Z,"15km SE of Anza, CA",earthquake,0.22,0.4,0.201,21,automatic,ci,ci
+2023-03-14T10:56:31.639Z,37.5676,-117.9131,4.8,1.6,ml,9,178.31,0.396,0.0995,nn,nn00856980,2023-03-14T10:57:57.006Z,"17 km SE of Dyer, Nevada",earthquake,,0.8,0.86,6,automatic,nn,nn
+2023-03-14T10:53:30.115Z,37.5525,-117.9311,7.6,1.3,ml,10,182.67,0.392,0.2766,nn,nn00856979,2023-03-14T10:55:07.227Z,"17 km SE of Dyer, Nevada",earthquake,,0.6,0.75,7,automatic,nn,nn
 2023-03-14T10:49:19.962Z,37.4063,-117.6348,0,1.6,ml,16,179.76,0.174,0.3705,nn,nn00856977,2023-03-14T10:50:47.747Z,"38 km S of Silver Peak, Nevada",earthquake,,30,1,10,automatic,nn,nn
 2023-03-14T10:45:45.290Z,37.5181656,-117.9766693,0.8,2.8,ml,20,116,0.3767,0.2,nc,nc73856680,2023-03-14T10:53:12.211Z,"16km N of Deep Springs, CA",earthquake,0.47,15.1,0.174,10,automatic,nc,nc
 2023-03-14T10:37:14.250Z,37.4214,-117.9036,3.5,1.8,ml,9,176.03,0.603,0.4127,nn,nn00856970,2023-03-14T10:38:46.805Z,"30 km SSE of Dyer, Nevada",earthquake,,2.1,0.1,5,automatic,nn,nn
@@ -388,6 +391,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T11:12:12.840Z,38.7908325,-122.7675018,5.56,1,md,4,173,0.02522,0.05,nc,nc73856155,2023-03-13T12:54:14.194Z,"2km NNW of The Geysers, CA",earthquake,3.5,8.15,,1,automatic,nc,nc
 2023-03-13T11:09:41.517Z,62.4727,-151.9407,104.6,1.7,ml,,,,0.72,ak,ak0233b9aruv,2023-03-13T11:12:01.606Z,"60 km W of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-13T11:09:35.580Z,38.8230019,-122.803833,2.86,0.7,md,10,72,0.004891,0.01,nc,nc73856150,2023-03-13T12:27:17.014Z,"6km NW of The Geysers, CA",earthquake,0.41,1.23,0.17,11,automatic,nc,nc
-2023-03-13T11:00:21.240Z,33.5001667,-116.5523333,11.72,0.78,ml,23,79,0.04202,0.15,ci,ci40184119,2023-03-13T13:23:04.420Z,"13km ESE of Anza, CA",earthquake,0.3,0.41,0.206,21,reviewed,ci,ci
-2023-03-13T10:58:50.200Z,18.2813,-64.0881,117,3.84,md,6,347,0.8713,0.22,pr,pr2023072002,2023-03-14T10:01:11.040Z,"74 km E of Cruz Bay, U.S. Virgin Islands",earthquake,7.14,1.51,0.16,3,reviewed,pr,pr
-2023-03-13T10:55:51.613Z,-7.2664,130.3319,83.938,4.6,mb,42,71,2.759,0.74,us,us7000jjib,2023-03-13T12:52:53.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,4.88,9.049,0.097,32,reviewed,us,us
