@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-17T10:40:40.770Z,38.7993317,-122.7565002,1.68,1.07,md,11,93,0.02346,0.01,nc,nc73858085,2023-03-17T10:42:17.353Z,"2km N of The Geysers, CA",earthquake,0.27,1.05,0.05,12,automatic,nc,nc
 2023-03-17T10:19:50.477Z,62.8647,-151.2152,114.2,1.4,ml,,,,0.17,ak,ak0233huww2v,2023-03-17T10:21:25.836Z,"47 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-17T09:55:21.270Z,61.7411,-149.5701,36.2,1.9,ml,,,,0.36,ak,ak0233huj3zz,2023-03-17T09:56:50.532Z,"13 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-03-17T09:48:23.410Z,38.8199997,-122.8434982,2.18,0.84,md,17,91,0.00731,0.01,nc,nc73858080,2023-03-17T10:13:14.422Z,"9km WNW of The Geysers, CA",earthquake,0.28,0.5,0.18,18,automatic,nc,nc
+2023-03-17T09:48:23.410Z,38.8199997,-122.8434982,2.18,0.84,md,17,91,0.00731,0.01,nc,nc73858080,2023-03-17T10:42:10.590Z,"9km WNW of The Geysers, CA",earthquake,0.28,0.5,0.18,18,automatic,nc,nc
 2023-03-17T09:24:19.210Z,18.9893333333333,-65.0575,17.67,3.36,md,12,268,0.6407,0.2,pr,pr71400628,2023-03-17T09:42:56.470Z,"72 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.23,4.37,0.0582085994491219,13,reviewed,pr,pr
 2023-03-17T09:24:07.331Z,62.9509,-150.0352,0,1.3,ml,,,,0.9,ak,ak0233hucfo9,2023-03-17T09:26:19.908Z,"56 km N of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-17T09:16:37.330Z,33.6713333,-116.7641667,16.87,0.91,ml,35,47,0.05759,0.17,ci,ci40185879,2023-03-17T09:20:19.478Z,"9km SSW of Idyllwild, CA",earthquake,0.29,0.49,0.21,26,automatic,ci,ci
@@ -234,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T11:17:28.568Z,61.4938,-151.9569,6.3,1.3,ml,,,,0.78,ak,ak0233g7yi2r,2023-03-16T19:00:10.670Z,"61 km NW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-16T10:55:07.953Z,40.7392,31.5128,10,4.8,mww,72,34,0.359,1.16,us,us7000jkeb,2023-03-17T08:59:30.040Z,"Western Turkey",earthquake,1.73,1.834,0.098,10,reviewed,us,us
 2023-03-16T10:47:05.125Z,64.572,-147.9448,16,1.2,ml,,,,0.74,ak,ak0233g7jg4w,2023-03-16T10:48:55.500Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-16T10:43:51.350Z,51.8546666666667,-178.089333333333,3.7,1.26,ml,5,211,,0.16,av,av91807681,2023-03-16T19:20:02.740Z,"100 km W of Adak, Alaska",earthquake,0.71,0.48,0.246176679658479,5,reviewed,av,av
-2023-03-16T10:42:33.096Z,39.4113,-119.854,9,0.4,ml,8,81.52,0.072,0.1188,nn,nn00857111,2023-03-16T23:37:47.993Z,"12 km SSE of Mogul, Nevada",earthquake,,2,0.44,5,reviewed,nn,nn
