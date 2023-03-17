@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-17T06:32:51.056Z,37.5483,-117.911,4.3,1.2,ml,10,180.31,0.379,0.2413,nn,nn00857123,2023-03-17T06:34:16.962Z,"California-Nevada border region",earthquake,,0.8,0.26,7,automatic,nn,nn
 2023-03-17T06:26:21.040Z,33.2973333,-116.8665,15.1,0.52,ml,25,69,0.109,0.24,ci,ci40185815,2023-03-17T06:30:03.703Z,"6km S of Palomar Observatory, CA",earthquake,0.38,0.91,0.106,9,automatic,ci,ci
-2023-03-17T06:22:16.390Z,31.8431664,-116.1988297,10.37,3.17,ml,33,179,0.2673,0.24,ci,ci40185807,2023-03-17T06:24:27.420Z,"38km ENE of Maneadero, B.C., MX",earthquake,0.46,2.8,0.315,24,automatic,ci,ci
+2023-03-17T06:22:16.390Z,31.8431664,-116.1988297,10.37,3.17,ml,33,179,0.2673,0.24,ci,ci40185807,2023-03-17T06:48:05.040Z,"38km ENE of Maneadero, B.C., MX",earthquake,0.46,2.8,0.315,24,automatic,ci,ci
 2023-03-17T06:00:31.810Z,17.9411666666667,-66.958,6.89,2.89,md,17,216,0.05621,0.12,pr,pr71400603,2023-03-17T06:12:52.720Z,"Puerto Rico region",earthquake,0.48,0.24,0.196854812348211,7,reviewed,pr,pr
 2023-03-17T05:59:07.430Z,33.2645,-116.4215,3.25,0.84,ml,21,134,0.005181,0.19,ci,ci40185799,2023-03-17T06:03:06.962Z,"4km WNW of Borrego Springs, CA",earthquake,0.44,0.66,0.205,19,automatic,ci,ci
 2023-03-17T05:49:09.081Z,59.6301,-153.5238,115.2,1.7,ml,,,,0.13,ak,ak0233hs42cc,2023-03-17T05:50:45.478Z,"37 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-17T05:11:27.280Z,38.7263336,-122.9161682,6.34,2.29,md,58,47,0.06901,0.07,nc,nc73858030,2023-03-17T05:30:14.691Z,"12km SE of Cloverdale, CA",earthquake,0.16,0.44,0.16,59,automatic,nc,nc
+2023-03-17T05:08:01.174Z,-17.384,-178.8742,556.162,4.4,mb,26,99,2.953,0.39,us,us7000jkr1,2023-03-17T06:39:43.040Z,"206 km ENE of Levuka, Fiji",earthquake,10.94,8.024,0.12,20,reviewed,us,us
 2023-03-17T05:01:16.440Z,38.8143349,-122.7850037,1.58,1.07,md,7,81,0.003541,0.02,nc,nc73858025,2023-03-17T05:30:13.691Z,"5km NNW of The Geysers, CA",earthquake,0.47,1.15,0.28,8,automatic,nc,nc
 2023-03-17T04:56:54.525Z,40.1887,-98.3529,10,2.9,mb_lg,16,57,1.228,0.6,us,us7000jkqw,2023-03-17T05:08:00.424Z,"8 km ENE of Cowles, Nebraska",earthquake,4.86,2.001,0.059,75,reviewed,us,us
 2023-03-17T04:54:37.444Z,63.2569,-150.5008,116.5,1.7,ml,,,,0.36,ak,ak0233hrjri8,2023-03-17T04:56:40.454Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -259,8 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T07:02:05.142Z,57.3456,-154.7812,26.8,3.2,ml,,,,0.2,ak,ak0233g5hi3m,2023-03-16T09:37:19.040Z,"Kodiak Island region, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-16T07:00:17.860Z,51.8648333333333,-178.085166666667,-1.79,1.14,ml,5,198,,0.23,av,av91807511,2023-03-16T19:30:01.080Z,"99 km W of Adak, Alaska",earthquake,1.17,2.5,0.28953812464,5,reviewed,av,av
 2023-03-16T06:52:25.970Z,38.7931671,-122.8221664,1.74,0.76,md,9,102,0.01005,0.02,nc,nc73857640,2023-03-16T09:06:15.431Z,"6km WNW of The Geysers, CA",earthquake,0.39,0.91,0.15,10,automatic,nc,nc
-2023-03-16T06:50:08.540Z,51.8748333333333,-177.987166666667,6.56,1.03,ml,4,143,,0.14,av,av91094613,2023-03-16T20:33:30.800Z,"93 km W of Adak, Alaska",earthquake,0.58,1.11,0.25255754944766,4,reviewed,av,av
-2023-03-16T06:49:59.180Z,51.8553333333333,-178.085333333333,2.71,0.58,ml,4,209,,0.15,av,av91094618,2023-03-16T20:35:58.850Z,"99 km W of Adak, Alaska",earthquake,0.68,1.19,0.247529099338488,4,reviewed,av,av
-2023-03-16T06:40:31.400Z,17.9535,-66.965,6.57,2.33,md,12,207,0.05678,0.08,pr,pr71400403,2023-03-16T06:52:56.100Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.58,0.22,0.149977873346484,3,reviewed,pr,pr
-2023-03-16T06:40:04.060Z,61.3391666666667,-152.245666666667,2.19,-0.32,ml,7,132,,0.08,av,av91807496,2023-03-16T18:54:39.050Z,"66 km WNW of Beluga, Alaska",earthquake,0.31,1.1,0.115573175446377,6,reviewed,av,av
-2023-03-16T06:38:18.970Z,61.3111,-146.8792,21.6,1.5,ml,,,,0.41,ak,ak0233g53tc9,2023-03-16T06:40:22.873Z,"34 km NW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
