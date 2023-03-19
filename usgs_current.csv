@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-19T03:48:23.335Z,39.0121,-119.6678,10.5,1.3,ml,10,122.33,0.093,0.1069,nn,nn00857209,2023-03-19T03:49:26.435Z,"Nevada",earthquake,,0.7,0.17,7,automatic,nn,nn
+2023-03-19T03:44:36.670Z,33.529,-116.7325,3.91,0.88,ml,32,33,0.03652,0.18,ci,ci40186767,2023-03-19T03:48:05.925Z,"6km WSW of Anza, CA",earthquake,0.21,0.48,0.124,24,automatic,ci,ci
 2023-03-19T03:30:55.330Z,35.6578333,-117.5773333,10.04,0.63,ml,10,136,0.1451,0.15,ci,ci40186759,2023-03-19T03:34:34.312Z,"10km ENE of Ridgecrest, CA",earthquake,0.56,1.11,0.057,6,automatic,ci,ci
-2023-03-19T03:18:45.510Z,38.8191681,-122.7911682,1.5,0.78,md,17,48,0.01009,0.02,nc,nc73859020,2023-03-19T03:35:12.009Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.43,0.21,17,automatic,nc,nc
+2023-03-19T03:18:45.510Z,38.8191681,-122.7911682,1.5,0.78,md,17,48,0.01009,0.02,nc,nc73859020,2023-03-19T03:45:16.063Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.43,0.21,17,automatic,nc,nc
 2023-03-19T03:09:03.449Z,-3.4672,146.5067,10,4.7,mb,25,71,5.69,0.78,us,us7000jl6k,2023-03-19T03:27:52.040Z,"179 km SSW of Lorengau, Papua New Guinea",earthquake,10.52,1.906,0.13,20,reviewed,us,us
 2023-03-19T03:01:04.710Z,33.5281667,-116.733,2.28,1.35,ml,13,71,0.03731,0.26,ci,ci40186751,2023-03-19T03:04:53.481Z,"6km WSW of Anza, CA",earthquake,0.75,0.58,0.015,4,automatic,ci,ci
 2023-03-19T02:58:21.008Z,63.5333,-148.129,26.4,1.7,ml,,,,1.02,ak,ak0233l1gevo,2023-03-19T03:00:16.694Z,"43 km ENE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -90,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T17:38:52.960Z,17.9475,-66.956,6.73,2.35,md,5,216,0.07802,0.06,pr,pr71400748,2023-03-18T17:45:55.550Z,"5 km WSW of Guánica, Puerto Rico",earthquake,1.08,0.47,0.0312327737813098,5,reviewed,pr,pr
 2023-03-18T17:32:45.280Z,40.4626656,-124.2669983,23.4,2.25,md,8,200,0.0553,0.06,nc,nc73858765,2023-03-18T19:20:12.137Z,"13km S of Ferndale, CA",earthquake,1.57,1.79,0.1,5,automatic,nc,nc
 2023-03-18T17:28:26.870Z,51.8553333333333,-178.096333333333,4.64,0.98,ml,5,216,,0.16,av,av91810966,2023-03-18T18:05:25.640Z,"100 km W of Adak, Alaska",earthquake,0.74,0.95,0.17284627242771,5,reviewed,av,av
-2023-03-18T17:19:33.160Z,33.2464981,-115.7923355,7.34,3.36,ml,109,35,0.129,0.22,ci,ci40186575,2023-03-19T00:33:40.611Z,"13km SSW of Bombay Beach, CA",earthquake,0.18,0.84,0.183,22,reviewed,ci,ci
+2023-03-18T17:19:33.160Z,33.2464981,-115.7923355,7.34,3.36,ml,109,35,0.129,0.22,ci,ci40186575,2023-03-19T03:50:44.530Z,"13km SSW of Bombay Beach, CA",earthquake,0.18,0.84,0.183,22,reviewed,ci,ci
 2023-03-18T17:12:52.583Z,-2.8367,-79.8436,65.842,6.8,mww,152,28,0.709,1.27,us,us7000jl3s,2023-03-19T02:51:45.403Z,"near the coast of Ecuador",earthquake,6.64,3.333,0.038,68,reviewed,us,us
 2023-03-18T17:12:17.470Z,38.7888336,-122.7639999,1.34,1.64,md,29,68,0.01224,0.03,nc,nc73858740,2023-03-18T18:24:12.757Z,"1km NNW of The Geysers, CA",earthquake,0.21,0.32,0.2,30,automatic,nc,nc
 2023-03-18T17:06:59.980Z,32.9876667,-115.9451667,6.25,1.69,ml,32,39,0.1026,0.28,ci,ci40186567,2023-03-18T17:18:05.610Z,"24km SE of Ocotillo Wells, CA",earthquake,0.37,2.15,0.225,27,automatic,ci,ci
@@ -213,7 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T04:15:05.950Z,38.8279991,-122.7791672,-0.68,0.26,md,6,107,0.007638,0.04,nc,nc73858430,2023-03-18T06:49:14.714Z,"5km W of Cobb, CA",earthquake,0.3,0.87,0.1,7,automatic,nc,nc
 2023-03-18T03:57:53.570Z,34.0998333,-116.3986667,8.52,0.93,ml,24,67,0.0313,0.27,ci,ci40186287,2023-03-18T04:01:30.492Z,"4km ESE of Yucca Valley, CA",earthquake,0.54,0.9,0.153,22,automatic,ci,ci
 2023-03-18T03:57:16.440Z,38.7991676,-122.7730026,1.32,0.74,md,13,75,0.01049,0.02,nc,nc73858425,2023-03-18T04:39:14.970Z,"3km NNW of The Geysers, CA",earthquake,0.3,0.45,0.09,14,automatic,nc,nc
-2023-03-18T03:44:10.637Z,-30.4146,-176.6294,10,5,mb,31,126,1.605,1.15,us,us7000jl0m,2023-03-18T04:02:47.040Z,"Kermadec Islands region",earthquake,12.63,1.896,0.088,45,reviewed,us,us
-2023-03-18T03:43:45.110Z,38.784668,-122.7258301,1.82,0.76,md,11,84,0.008634,0.01,nc,nc73858415,2023-03-18T05:41:12.434Z,"3km ENE of The Geysers, CA",earthquake,0.29,1.12,0.04,10,automatic,nc,nc
-2023-03-18T03:42:31.880Z,38.786335,-122.7253342,1.28,1.44,md,20,84,0.009425,0.05,nc,nc73858410,2023-03-18T05:51:15.388Z,"3km ENE of The Geysers, CA",earthquake,0.27,0.46,0.17,20,automatic,nc,nc
-2023-03-18T03:41:46.738Z,-10.2488,-73.6824,56.084,4.4,mb,19,111,2.683,0.43,us,us7000jl0l,2023-03-18T04:55:50.040Z,"120 km NE of Puerto Ocopa, Peru",earthquake,9.15,6.853,0.149,13,reviewed,us,us
