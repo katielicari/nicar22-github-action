@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-24T07:01:51.420Z,33.9731674,-117.0498352,15.77,0.95,ml,16,115,0.1529,0.1,ci,ci40188983,2023-03-24T07:04:13.947Z,"2km S of Calimesa, CA",earthquake,0.42,1.26,0.22,8,automatic,ci,ci
 2023-03-24T06:34:35.820Z,33.9733333,-117.9456667,13.04,1.49,ml,36,54,0.03331,0.17,ci,ci40188975,2023-03-24T06:38:20.358Z,"2km NNE of La Habra Heights, CA",earthquake,0.26,0.43,0.205,30,automatic,ci,ci
 2023-03-24T06:26:58.880Z,19.1965007781982,-155.458999633789,34.8800010681152,2.57,ml,40,111,,0.140000001,hv,hv73347872,2023-03-24T06:32:28.450Z,"2 km ESE of Pāhala, Hawaii",earthquake,0.62,0.75999999,2.27,16,automatic,hv,hv
 2023-03-24T06:20:55.580Z,38.7608337,-122.7300034,1.63,1.44,md,16,107,0.004091,0.03,nc,nc73861420,2023-03-24T06:37:16.789Z,"3km SE of The Geysers, CA",earthquake,0.31,0.37,0.28,15,automatic,nc,nc
@@ -277,6 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T07:17:16.748Z,39.0136,-119.6614,10.1,1.1,ml,5,128.97,0.09,0.0964,nn,nn00857406,2023-03-24T02:02:50.260Z,"6 km SE of Johnson Lane, Nevada",earthquake,,5.7,1.08,2,reviewed,nn,nn
 2023-03-23T07:13:45.530Z,58.2265,-155.182333333333,4.03,0.03,ml,8,132,,0.15,av,av91816651,2023-03-23T22:45:44.820Z,"Alaska Peninsula",earthquake,0.34,0.77,0.250992614510601,8,reviewed,av,av
 2023-03-23T07:10:47.699Z,60.8573,-146.4295,11.9,1.7,ml,,,,0.48,ak,ak0233rqaqkh,2023-03-23T07:12:39.147Z,"13 km E of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-23T07:01:02.430Z,32.8898333,-116.2385,5.6,1.23,ml,39,53,0.08455,0.2,ci,ci40188527,2023-03-23T16:49:14.971Z,"28km ENE of Pine Valley, CA",earthquake,0.21,1.09,0.085,14,reviewed,ci,ci
-2023-03-23T06:57:06.532Z,44.4544,-107.7213,10.378,2.8,ml,22,71,1.287,0.45,us,us7000jm4n,2023-03-23T07:09:47.040Z,"10 km SSE of Shell, Wyoming",earthquake,3.23,7.479,0.053,46,reviewed,us,us
-2023-03-23T06:56:44.930Z,19.2418327331543,-155.399993896484,28.5300006866455,1.83000004,md,30,135,,0.140000001,hv,hv73346932,2023-03-23T06:59:54.520Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.99000001,1.44000006,7,automatic,hv,hv
