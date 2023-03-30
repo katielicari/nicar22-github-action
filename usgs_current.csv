@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-30T22:07:22.100Z,34.1568336,-117.4698334,12.04,1.63,ml,56,26,0.05008,0.19,ci,ci39507890,2023-03-30T22:09:28.180Z,"7km N of Fontana, CA",earthquake,0.25,0.58,0.214,27,automatic,ci,ci
 2023-03-30T21:21:52.165Z,60.3438,-147.7405,14.1,1.9,ml,,,,0.52,ak,ak02343jglps,2023-03-30T21:24:33.957Z,"34 km NNE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-30T21:12:39.465Z,63.5904,-147.2871,0,1.4,ml,,,,0.26,ak,ak02343jenai,2023-03-30T21:14:26.045Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-30T20:50:19.920Z,18.0675,-66.9043333333333,9.52,1.94,md,4,195,0.09499,0.07,pr,pr71402108,2023-03-30T21:18:58.260Z,"3 km N of Lluveras, Puerto Rico",earthquake,2.4,4.38,0.0488171349054315,4,reviewed,pr,pr
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T18:43:06.879Z,61.544,-151.6674,86.8,1,ml,,,,0.29,ak,ak02343hsx5r,2023-03-30T18:45:07.745Z,"51 km SSW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-30T18:36:07.340Z,37.5241667,-118.6698333,9.6,1.4,md,21,98,0.08,0.04,nc,nc73864540,2023-03-30T21:16:10.650Z,"4km SSE of Toms Place, CA",earthquake,0.36,0.64,0.241,23,reviewed,nc,nc
 2023-03-30T18:26:34.582Z,-35.7925,-73.6952,23.335,4.4,mb,27,186,1.037,1.01,us,us6000k0xp,2023-03-30T20:04:58.040Z,"113 km NW of Tomé, Chile",earthquake,6.82,5.447,0.219,6,reviewed,us,us
-2023-03-30T18:25:06.740Z,38.7523333,-122.6946667,0.65,1.18,md,36,83,0.01593,0.05,nc,nc73864535,2023-03-30T20:46:11.326Z,"2km S of Anderson Springs, CA",earthquake,0.14,0.17,0.214,35,reviewed,nc,nc
+2023-03-30T18:25:06.740Z,38.7523333,-122.6946667,0.65,1.18,md,36,83,0.01593,0.05,nc,nc73864535,2023-03-30T22:04:14.823Z,"2km S of Anderson Springs, CA",earthquake,0.14,0.17,0.214,35,reviewed,nc,nc
 2023-03-30T18:23:21.216Z,39.6743,-119.6943,10.7,1.4,ml,10,103.96,0.039,0.1455,nn,nn00857684,2023-03-30T21:01:30.639Z,"3 km NNE of Spanish Springs, Nevada",earthquake,,1.8,1.02,4,reviewed,nn,nn
 2023-03-30T18:11:00.490Z,18.0065,-66.7433333333333,13.84,2.69,md,7,183,0.1331,0.1,pr,pr71402098,2023-03-30T18:30:46.280Z,"2 km ESE of Magas Arriba, Puerto Rico",earthquake,0.83,0.66,0.0817866525755104,4,reviewed,pr,pr
 2023-03-30T17:52:58.451Z,59.5391,-153.0626,96.5,1.8,ml,,,,0.26,ak,ak02343h9iz9,2023-03-30T17:54:48.599Z,"64 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -198,6 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T23:56:28.630Z,19.6418,-64.5938,12,3.65,md,12,306,1.5015,0.41,pr,pr2023088000,2023-03-30T00:35:52.790Z,"146 km N of Cruz Bay, U.S. Virgin Islands",earthquake,11.3,16.329,0.08,8,reviewed,pr,pr
 2023-03-29T23:56:24.150Z,44.5085,-110.3733333,2.37,0.22,md,6,107,0.05548,0.09,uu,uu60535866,2023-03-30T13:21:46.500Z,"58 km SSE of Mammoth, Wyoming",earthquake,0.35,7.34,0.082,4,reviewed,uu,uu
 2023-03-29T23:55:15.326Z,31.11809047,-103.6854579,5.617407227000001,2.5,ml,25,49,0.07977280805,0.2,tx,tx2023geue,2023-03-30T19:01:46.957Z,"15 km NNE of Balmorhea, Texas",earthquake,1.028068887,1.303917372,0.2,21,reviewed,tx,tx
+2023-03-29T23:55:13.300Z,58.2545,-155.088333333333,3.89,-0.08,ml,11,99,,0.07,av,av91824976,2023-03-30T22:05:52.220Z,"85 km NNW of Karluk, Alaska",earthquake,0.19,0.41,0.1768828071277,11,reviewed,av,av
 2023-03-29T23:42:29.320Z,46.19866666666667,-122.188,0.72,0.12,ml,10,75,0.002276,0.09,uw,uw61905812,2023-03-30T01:13:26.650Z,"37 km NNE of Amboy, Washington",earthquake,0.36,0.49,0.12744769172659504,8,reviewed,uw,uw
 2023-03-29T23:40:02.580Z,44.5176667,-110.3641667,2.44,0.66,md,8,77,0.05021,0.09,uu,uu60535861,2023-03-30T13:19:40.800Z,"Wyoming",earthquake,0.3,4.99,0.294,7,reviewed,uu,uu
 2023-03-29T23:37:51.270Z,58.1701666666667,-155.3555,3.48,0.78,ml,14,183,,0.15,av,av91824956,2023-03-30T02:08:46.050Z,"Alaska Peninsula",earthquake,0.44,0.59,0.364380271959764,14,reviewed,av,av
@@ -235,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T22:26:26.830Z,47.50566666666667,-122.71683333333333,-0.19,1.68,ml,8,289,0.06345,0.26,uw,uw61905787,2023-03-30T00:33:47.800Z,"2 km SSW of Gorst, Washington",explosion,2.3,31.61,0.19631676683299637,4,reviewed,uw,uw
 2023-03-29T22:17:47.370Z,38.8148333,-122.8073333,2.07,0.96,md,37,42,0.008813,0.04,nc,nc73864155,2023-03-30T02:18:15.829Z,"6km NW of The Geysers, CA",earthquake,0.12,0.22,0.204,29,reviewed,nc,nc
 2023-03-29T22:13:52.880Z,39.2233333,-111.0358333,13.28,1.35,md,4,166,0.1524,0.05,uu,uu60535796,2023-03-29T22:25:42.530Z,"1 km ESE of Orangeville, Utah",earthquake,0.51,2.06,0.148,4,reviewed,uu,uu
-2023-03-29T22:07:37.989Z,60.3198,-152.0732,90.3,1.2,ml,,,,0.16,ak,ak02341wfnpi,2023-03-29T22:09:18.499Z,"37 km NW of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-03-29T22:05:38.460Z,38.8318329,-122.7991638,1.41,0.7,md,13,74,0.009517,0.01,nc,nc73864150,2023-03-29T22:28:17.508Z,"7km W of Cobb, CA",earthquake,0.26,0.7,0.21,13,automatic,nc,nc
