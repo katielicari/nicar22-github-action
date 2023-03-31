@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T16:10:14.490Z,38.8291664,-122.8003311,2.01,0.75,md,10,89,0.02153,0.01,nc,nc73864975,2023-03-31T16:50:15.310Z,"7km W of Cobb, CA",earthquake,0.35,0.71,0.12,10,automatic,nc,nc
 2023-03-31T16:05:17.728Z,37.2541,24.0823,135.398,4.8,mb,50,55,1.724,0.84,us,us6000k168,2023-03-31T16:21:02.040Z,"39 km WNW of Sérifos, Greece",earthquake,4.85,7.537,0.049,128,reviewed,us,us
 2023-03-31T16:03:35.670Z,33.9706667,-116.4155,4.28,0.85,ml,24,67,0.03043,0.21,ci,ci39508130,2023-03-31T16:07:11.427Z,"8km E of Desert Hot Springs, CA",earthquake,0.36,0.59,0.167,17,automatic,ci,ci
+2023-03-31T15:53:38.040Z,37.5915,-118.8485,4.9,0.5,md,11,197,0.01547,0.03,nc,nc71130109,2023-03-31T17:00:11.367Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.62,0.94,0.226,11,reviewed,nc,nc
 2023-03-31T15:47:11.963Z,57.3052,-155.4844,68.4,2.1,ml,,,,0.35,ak,ak023453ku3g,2023-03-31T15:49:06.444Z,"68 km WSW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-31T15:29:40.372Z,41.1623,142.7722,49.484,4.9,mb,65,135,0.9,0.83,us,us6000k15z,2023-03-31T15:51:02.040Z,"127 km ENE of Misawa, Japan",earthquake,6.21,7.036,0.042,180,reviewed,us,us
 2023-03-31T15:26:28.439Z,63.2118,-150.3879,112.4,2.2,ml,,,,0.48,ak,ak023453gdao,2023-03-31T15:41:33.040Z,"74 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T17:18:55.798Z,43.269,-110.8975,5,3.3,ml,27,84,0.218,0.64,us,us6000k0x6,2023-03-31T16:40:28.775Z,"9 km W of Hoback, Wyoming",earthquake,1.57,1.633,0.048,56,reviewed,us,us
 2023-03-30T17:17:38.316Z,64.6071,-148.3501,14.7,0.6,ml,,,,1.13,ak,ak02343h1zd3,2023-03-30T17:20:04.837Z,"31 km SSW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-30T17:09:12.869Z,35.9175,-99.45933333,9.6,1.66,ml,24,155,0.1511703352,0.11,ok,ok2023ggcf,2023-03-31T13:08:35.756Z,"11 km WNW of Leedey, Oklahoma",earthquake,,2.1,0.26,17,reviewed,ok,ok
-2023-03-30T17:03:20.900Z,42.34316666666667,-123.36183333333334,-0.61,1.1,ml,7,115,0.161,0.31,uw,uw61905872,2023-03-31T00:58:07.730Z,"2 km SSE of New Hope, Oregon",explosion,1.42,31.61,0.08109916515580906,3,reviewed,uw,uw
