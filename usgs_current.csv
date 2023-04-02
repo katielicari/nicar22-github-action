@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-02T09:12:19.670Z,19.4063339233398,-155.26416015625,0.180000007152557,2.58999991,md,22,49,,0.140000001,hv,hv73354737,2023-04-02T09:15:19.560Z,"Hawaii region, Hawaii",earthquake,0.18,0.270000011,1.75,15,automatic,hv,hv
+2023-04-02T09:12:19.670Z,19.4063339233398,-155.26416015625,0.180000007152557,2.41,ml,22,49,,0.140000001,hv,hv73354737,2023-04-02T09:17:49.000Z,"Hawaii region, Hawaii",earthquake,0.18,0.270000011,0.27,7,automatic,hv,hv
 2023-04-02T08:48:58.790Z,38.8661652,-122.7971649,1.72,1.02,md,13,161,0.01129,0.03,nc,nc73865770,2023-04-02T08:50:32.496Z,"8km NW of Cobb, CA",earthquake,0.39,0.39,0.31,12,automatic,nc,nc
 2023-04-02T08:41:59.364Z,64.7783,-149.028,11.2,1,ml,,,,0.82,ak,ak02348agb75,2023-04-02T08:44:23.392Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-02T08:40:54.813Z,-7.7851,118.712,18.922,5.5,mww,86,27,1.389,0.85,us,us6000k1gl,2023-04-02T09:03:34.376Z,"Flores Sea",earthquake,3.47,4.131,0.071,19,reviewed,us,us
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T05:44:45.330Z,17.9521666666667,-66.8555,14.05,2.72,md,9,200,0.03209,0.15,pr,pr71402338,2023-04-02T05:56:09.230Z,"Puerto Rico",earthquake,0.74,0.48,0.141532148321241,4,reviewed,pr,pr
 2023-04-02T05:38:18.768Z,61.1835,-151.4586,62.6,1.5,ml,,,,0.74,ak,ak023488na44,2023-04-02T05:40:32.459Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-02T05:35:10.438Z,64.3154,-147.451,10.8,2,ml,,,,0.38,ak,ak023488mmbn,2023-04-02T05:37:08.385Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-02T05:31:07.470Z,37.5805,-119.0805,1.46,0.29,md,9,273,0.05169,0.06,nc,nc73865700,2023-04-02T08:59:10.457Z,"11km SW of Mammoth Lakes, CA",earthquake,0.85,2.12,0.239,9,reviewed,nc,nc
+2023-04-02T05:31:07.470Z,37.5805,-119.0805,1.46,0.29,md,9,273,0.05169,0.06,nc,nc73865700,2023-04-02T09:24:15.750Z,"11km SW of Mammoth Lakes, CA",earthquake,0.85,2.12,0.239,9,reviewed,nc,nc
 2023-04-02T05:24:55.510Z,38.7804985,-122.7588348,0.12,1.38,md,8,82,0.0175,0.01,nc,nc73865695,2023-04-02T07:47:18.050Z,"0km NNW of The Geysers, CA",earthquake,0.27,1.06,0.48,8,automatic,nc,nc
 2023-04-02T04:52:17.400Z,33.6533333,-116.7296667,14.31,1.2,ml,41,31,0.05911,0.18,ci,ci39508938,2023-04-02T05:03:26.360Z,"10km S of Idyllwild, CA",earthquake,0.24,0.38,0.145,26,automatic,ci,ci
 2023-04-02T04:51:52.940Z,33.6006667,-116.6703333,5.23,0.4,ml,15,75,0.04746,0.37,ci,ci39508930,2023-04-02T04:55:28.055Z,"5km N of Anza, CA",earthquake,0.81,1.76,0.045,3,automatic,ci,ci
@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T09:41:50.890Z,37.7763333,-122.2263333,6.9,1.02,md,31,61,0.01943,0.06,nc,nc73865430,2023-04-02T04:29:14.847Z,"2km NE of Alameda, CA",earthquake,0.19,0.24,0.314,20,reviewed,nc,nc
 2023-04-01T09:41:12.330Z,38.2794,138.7922,17.732,5,mb,111,62,1.793,0.64,us,us6000k1bu,2023-04-01T10:06:42.040Z,"38 km NE of Ryōtsu-minato, Japan",earthquake,6.2,3.456,0.029,374,reviewed,us,us
 2023-04-01T09:32:56.433Z,-16.6773,-69.7533,180.804,4.5,mb,37,104,0.944,0.87,us,us6000k1bt,2023-04-01T09:55:04.040Z,"8 km NNW of Mazo Cruz, Peru",earthquake,7.45,6.444,0.156,13,reviewed,us,us
-2023-04-01T09:18:40.370Z,38.8296661,-122.7981644,1.9,0.84,md,8,85,0.02135,0.01,nc,nc73865415,2023-04-01T09:37:14.983Z,"7km W of Cobb, CA",earthquake,0.35,1.02,0.31,10,automatic,nc,nc
