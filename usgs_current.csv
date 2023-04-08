@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T09:07:36.806Z,34.654,70.6313,51.614,4.4,mb,35,135,1.315,0.47,us,us6000k2un,2023-04-08T09:37:50.040Z,"30 km NNE of Jalālābād, Afghanistan",earthquake,7.59,10.21,0.076,53,reviewed,us,us
 2023-04-08T09:01:42.591Z,58.2544,-155.137,2,1.1,ml,,,,0.53,ak,ak0234i817ub,2023-04-08T09:03:47.410Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-08T08:59:40.360Z,63.5799,-150.0765,133.7,1.7,ml,,,,0.37,ak,ak0234i7s7lu,2023-04-08T09:02:17.196Z,"59 km WNW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-04-08T08:57:52.740Z,39.2174988,-122.8638306,6.2,1.85,md,8,155,0.09524,0.03,nc,nc73869165,2023-04-08T11:06:11.163Z,"7km NE of Upper Lake, CA",earthquake,0.65,1.1,0.08,5,automatic,nc,nc
+2023-04-08T08:57:52.740Z,39.2174988,-122.8638306,6.2,1.85,md,8,155,0.09524,0.03,nc,nc73869165,2023-04-08T11:59:20.463Z,"7km NE of Upper Lake, CA",earthquake,0.65,1.1,0.08,5,automatic,nc,nc
 2023-04-08T08:46:09.700Z,35.6673333,-117.5313333,6.9,2.42,ml,26,49,0.08766,0.19,ci,ci40438144,2023-04-08T08:57:10.150Z,"14km ENE of Ridgecrest, CA",earthquake,0.32,0.99,0.129,25,automatic,ci,ci
 2023-04-08T08:41:18.170Z,19.408332824707,-155.274673461914,8.46000003814697,2,ml,21,78,,0.140000001,hv,hv73359082,2023-04-08T08:46:50.570Z,"5 km SW of Volcano, Hawaii",earthquake,0.44,0.370000005,0.61,4,automatic,hv,hv
 2023-04-08T08:31:22.530Z,38.7420006,-122.7061691,-0.74,1.33,md,7,144,0.02442,0.04,nc,nc73869155,2023-04-08T11:18:14.233Z,"4km SSW of Anderson Springs, CA",earthquake,0.61,1.69,0.36,7,automatic,nc,nc
@@ -258,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T12:20:28.734Z,63.0503,-149.9959,4.6,1.4,ml,,,,0.41,ak,ak0234gme7pm,2023-04-07T12:22:59.118Z,"64 km SW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-07T12:17:05.322Z,41.9022,82.0174,10,5,mb,74,57,2.35,0.64,us,us6000k2n0,2023-04-07T12:34:49.040Z,"78 km WNW of Kuqa, China",earthquake,6.54,1.724,0.048,140,reviewed,us,us
 2023-04-07T12:03:53.840Z,38.802166,-122.817337,3.47,1.03,md,10,75,0.01142,0.02,nc,nc73868565,2023-04-07T12:38:14.127Z,"6km WNW of The Geysers, CA",earthquake,0.49,1.51,0.15,12,automatic,nc,nc
-2023-04-07T12:01:49.250Z,38.8306656,-122.8188324,1.76,1.15,md,21,68,0.009975,0.01,nc,nc73868560,2023-04-07T14:33:15.749Z,"8km NW of The Geysers, CA",earthquake,0.19,0.45,0.2,23,automatic,nc,nc
