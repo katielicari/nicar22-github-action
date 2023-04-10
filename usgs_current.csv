@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-10T11:16:12.200Z,34.2420006,-118.7091675,10.9,1.53,ml,17,176,0.0299,0.18,ci,ci40439192,2023-04-10T11:18:20.648Z,"4km SE of Simi Valley, CA",earthquake,0.66,0.89,0.269,7,automatic,ci,ci
+2023-04-10T11:26:38.565Z,61.5813,-147.8031,26.8,1.9,ml,,,,0.77,ak,ak0234lkg4mo,2023-04-10T11:29:05.583Z,"26 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-10T11:21:38.610Z,34.251,-118.7026667,10.47,1.41,ml,33,83,0.02558,0.25,ci,ci40439200,2023-04-10T11:25:11.128Z,"4km ESE of Simi Valley, CA",earthquake,0.41,0.58,0.126,28,automatic,ci,ci
+2023-04-10T11:16:12.370Z,34.253,-118.6961667,10.18,1.24,ml,25,62,0.02129,0.26,ci,ci40439192,2023-04-10T11:19:46.947Z,"4km ESE of Simi Valley, CA",earthquake,0.43,0.68,0.159,28,automatic,ci,ci
 2023-04-10T11:13:41.909Z,61.8645,-149.2671,19.6,1.3,ml,,,,0.42,ak,ak0234lkdcku,2023-04-10T11:15:49.884Z,"13 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-10T11:00:21.440Z,34.1071667,-117.3148333,15.68,1.23,ml,41,52,0.08077,0.19,ci,ci40439184,2023-04-10T11:11:18.590Z,"3km SW of San Bernardino, CA",earthquake,0.27,0.61,0.254,30,automatic,ci,ci
 2023-04-10T10:49:37.043Z,-15.8779,-173.792,142.695,4.5,mb,38,76,2.763,1.35,us,us6000k39c,2023-04-10T11:12:39.040Z,"8 km N of Hihifo, Tonga",earthquake,8,7.618,0.083,42,reviewed,us,us
