@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-11T19:42:17.790Z,38.8423347,-122.7931671,8.61,0.33,md,7,150,0.004497,0.06,nc,nc73870840,2023-04-11T19:43:52.318Z,"6km WNW of Cobb, CA",earthquake,1.85,7.51,0.22,8,automatic,nc,nc
+2023-04-11T19:42:17.790Z,38.8423347,-122.7931671,8.61,0.33,md,7,150,0.004497,0.06,nc,nc73870840,2023-04-11T20:00:14.415Z,"6km WNW of Cobb, CA",earthquake,1.85,7.51,0.22,8,automatic,nc,nc
 2023-04-11T19:29:31.380Z,53.8676666666667,-166.805333333333,5.94,-0.33,ml,6,138,,0.1,av,av91844616,2023-04-11T19:48:37.350Z,"17 km W of Dutch Harbor, Alaska",earthquake,0.42,0.87,0.260482819469914,6,reviewed,av,av
 2023-04-11T19:14:21.720Z,38.8183327,-122.7870026,0.9,1,md,6,87,0.007073,0,nc,nc73870825,2023-04-11T19:32:13.244Z,"5km NNW of The Geysers, CA",earthquake,0.86,3.08,0.22,8,automatic,nc,nc
 2023-04-11T19:07:17.327Z,61.9654,-148.9457,4.2,1.5,ml,,,,0.62,ak,ak0234ncmtpw,2023-04-11T19:09:05.034Z,"22 km NNW of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -262,7 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T20:15:47.810Z,51.856,-178.05,-1.8,1.3,ml,5,160,,0.14,av,av91843291,2023-04-10T21:59:38.670Z,"97 km W of Adak, Alaska",earthquake,0.39,1.06,0.199338449262843,5,reviewed,av,av
 2023-04-10T20:12:02.240Z,51.8583333333333,-178.059666666667,-1.8,1.37,ml,4,174,,0.12,av,av91843286,2023-04-10T21:56:05.740Z,"98 km W of Adak, Alaska",earthquake,0.41,1.24,0.250514875867086,4,reviewed,av,av
 2023-04-10T20:10:29.061Z,51.8581,-178.0582,3.191,2.9,ml,12,104,0.027,0.82,us,us6000k3cz,2023-04-11T13:39:55.040Z,"98 km W of Adak, Alaska",earthquake,1.18,3.31,0.115,10,reviewed,us,us
-2023-04-10T20:01:47.170Z,62.1842,-149.3804,18.3,1.4,ml,,,,0.36,ak,ak0234lpnou5,2023-04-10T20:03:29.793Z,"24 km E of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-10T19:58:37.250Z,53.8775,-166.593666666667,5.71,0.84,ml,18,113,,0.12,av,av91843266,2023-04-10T21:48:37.340Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.34,0.54,0.237066306105595,18,reviewed,av,av
-2023-04-10T19:57:13.990Z,51.8613333333333,-178.049333333333,-1.8,1.6,ml,5,154,,0.12,av,av91843261,2023-04-10T21:44:08.250Z,"97 km W of Adak, Alaska",earthquake,0.45,0.97,0.373777170406916,5,reviewed,av,av
-2023-04-10T19:53:37.485Z,64.9313,-148.9314,13.2,1.1,ml,,,,0.45,ak,ak0234lpddpd,2023-04-10T19:57:12.228Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
