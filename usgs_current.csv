@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-11T03:25:53.060Z,38.8349991,-122.7896652,1.5,0.32,md,8,85,0.003446,0.01,nc,nc73870485,2023-04-11T03:27:29.590Z,"6km WNW of Cobb, CA",earthquake,0.5,1.24,0.21,9,automatic,nc,nc
-2023-04-11T03:17:41.550Z,38.7856674,-122.7401657,11.31,0.67,md,7,177,0.003622,0.04,nc,nc73870480,2023-04-11T03:29:12.325Z,"2km ENE of The Geysers, CA",earthquake,2.22,0.82,0.14,7,automatic,nc,nc
+2023-04-11T03:37:41.070Z,38.8233337,-122.7965012,1.27,0.34,md,7,107,0.0106,0.01,nc,nc73870500,2023-04-11T03:39:14.809Z,"6km NW of The Geysers, CA",earthquake,0.59,1.21,0.18,7,automatic,nc,nc
+2023-04-11T03:25:53.060Z,38.8349991,-122.7896652,1.5,0.32,md,8,85,0.003446,0.01,nc,nc73870485,2023-04-11T03:40:11.389Z,"6km WNW of Cobb, CA",earthquake,0.5,1.24,0.21,9,automatic,nc,nc
+2023-04-11T03:17:41.550Z,38.7856674,-122.7401657,11.31,0.67,md,7,177,0.003622,0.04,nc,nc73870480,2023-04-11T03:42:16.400Z,"2km ENE of The Geysers, CA",earthquake,2.22,0.82,0.14,7,automatic,nc,nc
 2023-04-11T03:04:49.530Z,17.9681666666667,-66.9323333333333,11.34,3.21,md,16,181,0.05098,0.15,pr,pr71403908,2023-04-11T03:30:33.910Z,"2 km W of Guánica, Puerto Rico",earthquake,0.47,0.34,0.196182276079466,7,reviewed,pr,pr
 2023-04-11T03:01:51.240Z,17.9711666666667,-66.959,14.73,2.27,md,6,183,0.076,0.06,pr,pr71403898,2023-04-11T03:21:41.170Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.58,0.73,0.120544085337882,5,reviewed,pr,pr
 2023-04-11T02:50:28.270Z,38.8364983,-122.7925034,1.63,0.54,md,9,77,0.002546,0.01,nc,nc73870470,2023-04-11T03:18:14.253Z,"6km WNW of Cobb, CA",earthquake,0.45,1.31,0.37,9,automatic,nc,nc
-2023-04-11T02:49:37.090Z,38.7833328,-122.7183304,1.93,0.66,md,5,196,0.01438,0.01,nc,nc73870465,2023-04-11T03:06:16.195Z,"2km WNW of Anderson Springs, CA",earthquake,1.7,1.79,0.25,6,automatic,nc,nc
+2023-04-11T02:49:37.090Z,38.7833328,-122.7183304,1.93,0.66,md,5,196,0.01438,0.01,nc,nc73870465,2023-04-11T03:40:11.520Z,"2km WNW of Anderson Springs, CA",earthquake,1.7,1.79,0.25,6,automatic,nc,nc
 2023-04-11T02:26:28.480Z,33.2331667,-117.132,25.34,0.82,ml,13,105,0.2094,0.3,ci,ci40439512,2023-04-11T02:30:03.366Z,"9km W of Valley Center, CA",earthquake,1.12,1.98,0.269,9,automatic,ci,ci
 2023-04-11T02:13:24.980Z,38.8151665,-122.819664,2.67,0.78,md,19,51,0.009737,0.02,nc,nc73870460,2023-04-11T02:41:20.057Z,"7km NW of The Geysers, CA",earthquake,0.25,0.61,0.14,19,automatic,nc,nc
 2023-04-11T02:12:03.900Z,36.3294983,-120.8974991,5.23,0.81,md,7,115,0.04666,0.01,nc,nc73870455,2023-04-11T03:15:12.235Z,"22km WSW of New Idria, CA",earthquake,0.38,0.62,0.21,2,automatic,nc,nc
@@ -183,7 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T15:13:53.230Z,53.8661666666667,-166.797333333333,7.58,-0.33,ml,7,130,,0.15,av,av91842786,2023-04-11T01:11:58.670Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.46,0.8,0.18869111620978,7,reviewed,av,av
 2023-04-10T15:08:54.280Z,38.8308334,-122.8161697,1.66,0.49,md,11,94,0.008823,0.01,nc,nc73870260,2023-04-10T17:19:12.680Z,"8km NW of The Geysers, CA",earthquake,0.41,0.72,0.3,12,automatic,nc,nc
 2023-04-10T15:08:38.549Z,61.1257,-151.3577,63.5,2.8,ml,,,,0.29,ak,ak0234lmq05q,2023-04-10T15:10:16.902Z,"13 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-04-10T15:07:42.390Z,19.1386661529541,-155.392669677734,31.7199993133545,2.61999989,md,32,217,,0.109999999,hv,hv73360712,2023-04-10T15:10:52.450Z,"11 km SE of Pāhala, Hawaii",earthquake,0.83,1.12,2.61999989,4,automatic,hv,hv
+2023-04-10T15:07:42.380Z,19.1303333333333,-155.3995,31.04,1.8,md,41,182,,0.13,hv,hv73360712,2023-04-11T03:36:24.910Z,"11 km SE of Pāhala, Hawaii",earthquake,0.49,0.74,0.152945703186945,20,reviewed,hv,hv
 2023-04-10T15:05:38.300Z,53.8623333333333,-166.791,7.43,-0.17,ml,7,122,,0.19,av,av91842771,2023-04-11T01:15:15.740Z,"16 km W of Dutch Harbor, Alaska",earthquake,0.54,0.98,0.235858002795037,7,reviewed,av,av
 2023-04-10T15:01:46.397Z,59.9283,-152.5772,86.9,1.5,ml,,,,0.35,ak,ak0234lmoiwc,2023-04-10T15:04:01.839Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-10T14:54:59.890Z,53.8643333333333,-166.794833333333,7.53,0.03,ml,7,127,,0.16,av,av91842751,2023-04-11T01:26:20.520Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.5,0.87,0.282088515563996,7,reviewed,av,av
@@ -315,5 +316,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T04:08:03.610Z,18.0031666666667,-66.9633333333333,14.91,1.87,md,4,166,0.08398,0.08,pr,pr71403613,2023-04-10T05:27:58.210Z,"4 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,2.7,1.59,0.069417816976229,4,reviewed,pr,pr
 2023-04-10T03:55:23.970Z,34.0043333,-117.2108333,8.86,1.32,ml,68,27,0.06502,0.15,ci,ci40439104,2023-04-10T19:46:06.100Z,"6km SSW of Redlands, CA",earthquake,0.13,0.35,0.197,38,reviewed,ci,ci
 2023-04-10T03:52:01.229Z,62.328,-148.4282,42.2,1.7,ml,,,,0.26,ak,ak0234lfu5iy,2023-04-10T03:53:30.170Z,"59 km N of Chickaloon, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-04-10T03:38:57.929Z,35.63633333,-97.98483333,3,1.58,ml,92,33,0.1412722776,0.26,ok,ok2023gzea,2023-04-10T13:24:00.178Z,"9 km S of Okarche, Oklahoma",earthquake,,0.7,0.19,51,reviewed,ok,ok
-2023-04-10T03:38:09.690Z,38.8183327,-122.8273315,1.78,0.79,md,9,119,0.00768,0.02,nc,nc73870115,2023-04-10T05:50:16.415Z,"8km NW of The Geysers, CA",earthquake,0.31,0.73,0.09,11,automatic,nc,nc
