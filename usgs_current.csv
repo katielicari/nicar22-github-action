@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-14T13:05:18.530Z,37.0401649,-121.4953308,4.36,1.15,md,6,123,0.01711,0.09,nc,nc73873565,2023-04-14T13:22:12.565Z,"8km ENE of Gilroy, CA",earthquake,1.02,1.33,0.13,6,automatic,nc,nc
+2023-04-14T13:05:18.530Z,37.0401649,-121.4953308,4.36,1.15,md,6,123,0.01711,0.09,nc,nc73873565,2023-04-14T13:37:10.661Z,"8km ENE of Gilroy, CA",earthquake,1.02,1.33,0.13,6,automatic,nc,nc
 2023-04-14T12:58:19.256Z,58.1977,-155.3066,1.1,1.2,ml,,,,0.38,ak,ak0234s7drmt,2023-04-14T12:59:31.013Z,"86 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-14T12:07:16.470Z,19.219165802002,-155.385665893555,31.2099990844727,2.19,ml,37,170,,0.109999999,hv,hv73363617,2023-04-14T12:12:46.840Z,"9 km E of Pāhala, Hawaii",earthquake,0.66,0.75,4.53,4,automatic,hv,hv
 2023-04-14T11:53:51.690Z,37.3123322,-122.1015015,6.68,0.83,md,8,116,0.02262,0.08,nc,nc73873555,2023-04-14T12:29:14.232Z,"4km S of Loyola, CA",earthquake,0.68,0.49,0.09,4,automatic,nc,nc
@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T13:55:05.741Z,61.7056,-150.8579,57.1,1.1,ml,,,,0.54,ak,ak0234qkf6l4,2023-04-13T13:58:09.824Z,"25 km NW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-13T13:53:00.553Z,58.2537,-155.1755,2.7,0.9,ml,,,,0.29,ak,ak0234qkeqpz,2023-04-13T21:25:39.330Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-13T13:52:22.610Z,33.6808333,-116.7336667,13.67,0.12,ml,11,115,0.03435,0.07,ci,ci40440424,2023-04-13T17:57:18.165Z,"7km SSW of Idyllwild, CA",earthquake,0.28,0.48,0.105,4,reviewed,ci,ci
-2023-04-13T13:37:19.610Z,53.9296666666667,-166.5875,7.38,0.29,ml,6,204,,0.06,av,av91846731,2023-04-13T21:12:44.790Z,"5 km NW of Dutch Harbor, Alaska",earthquake,0.32,0.61,0.189025497889617,6,reviewed,av,av
