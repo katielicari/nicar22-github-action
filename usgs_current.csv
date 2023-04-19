@@ -220,7 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T15:09:13.039Z,57.5521,-152.851,0,2.5,ml,,,,0.92,ak,ak0234yv0xuv,2023-04-18T16:05:57.040Z,"18 km SW of Womens Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-18T15:08:33.460Z,51.8053333333333,-177.154666666667,12.17,0.91,ml,5,208,,0.07,av,av91853826,2023-04-19T04:06:51.240Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,2.1,0.84,0.272596202871066,4,reviewed,av,av
 2023-04-18T15:04:52.830Z,35.5641667,-120.7491667,5.65,1.52,md,40,47,0.02345,0.06,nc,nc73875105,2023-04-19T01:06:13.551Z,"4km WNW of Templeton, CA",earthquake,0.16,0.29,0.19,33,reviewed,nc,nc
-2023-04-18T15:02:00.150Z,39.1518333,-123.5438333,0.66,0.94,md,8,127,0.06194,0.07,nc,nc71130269,2023-04-18T23:09:16.857Z,"20km ESE of Navarro Head, CA",earthquake,0.31,0.85,0.29,8,reviewed,nc,nc
-2023-04-18T15:00:28.670Z,38.8391685,-122.8221664,1.51,0.85,md,19,83,0.01042,0.04,nc,nc73875100,2023-04-18T15:39:17.005Z,"9km WNW of Cobb, CA",earthquake,0.23,0.39,0.24,18,automatic,nc,nc
-2023-04-18T14:54:05.520Z,38.8136673,-122.8071671,1.4,1.07,md,22,43,0.009975,0.02,nc,nc73875095,2023-04-18T15:28:13.939Z,"6km NW of The Geysers, CA",earthquake,0.19,0.45,0.17,22,automatic,nc,nc
-2023-04-18T14:52:45.690Z,38.8476677,-122.8171692,1.18,1.07,md,14,99,0.008487,0.02,nc,nc73875090,2023-04-18T16:19:16.254Z,"9km WNW of Cobb, CA",earthquake,0.28,0.46,0.17,15,automatic,nc,nc
