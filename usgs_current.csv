@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-01T08:43:20.660Z,34.1676674,-117.2503357,4.65,1.11,ml,29,59,0.04546,0.17,ci,ci40216511,2023-05-01T08:45:40.319Z,"6km NE of San Bernardino, CA",earthquake,0.32,0.63,0.259,9,automatic,ci,ci
+2023-05-01T08:43:20.700Z,34.1635,-117.2508333,2.81,1.04,ml,24,60,0.04272,0.21,ci,ci40216511,2023-05-01T08:46:54.329Z,"5km NE of San Bernardino, CA",earthquake,0.29,0.52,0.152,27,automatic,ci,ci
 2023-05-01T08:30:37.920Z,19.2569999694824,-155.425827026367,32.6500015258789,2.23,ml,40,115,,0.189999998,hv,hv73385482,2023-05-01T08:36:08.050Z,"8 km NE of Pāhala, Hawaii",earthquake,0.67,0.709999979,2.93,9,automatic,hv,hv
 2023-05-01T07:59:37.624Z,25.9356,128.5466,10,5.4,mww,89,62,0.93,0.43,us,us7000jxba,2023-05-01T08:45:23.137Z,"80 km ESE of Katsuren-haebaru, Japan",earthquake,4.98,1.775,0.086,13,reviewed,us,us
 2023-05-01T07:54:05.629Z,-9.4288,148.6374,10,4.9,mb,47,117,1.458,0.64,us,us7000jxb8,2023-05-01T08:40:09.040Z,"eastern New Guinea region, Papua New Guinea",earthquake,8.1,1.892,0.065,74,reviewed,us,us
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T09:21:29.850Z,32.6858333,-115.5218333,8.24,1.57,ml,16,70,0.08461,0.28,ci,ci40215895,2023-04-30T09:24:54.155Z,"2km WNW of Calexico, CA",earthquake,0.63,2.06,0.216,18,automatic,ci,ci
 2023-04-30T09:08:26.090Z,58.112,-155.697,4.44,0.58,ml,4,331,,0.08,av,av91869026,2023-05-01T00:57:23.190Z,"85 km SE of King Salmon, Alaska",earthquake,1.15,31.61,0.122553874728885,5,reviewed,av,av
 2023-04-30T09:04:21.880Z,33.2016667,-115.5928333,1.37,2.3,ml,40,88,0.03079,0.26,ci,ci40215879,2023-04-30T09:15:23.160Z,"8km WSW of Niland, CA",earthquake,0.32,0.53,0.121,26,automatic,ci,ci
-2023-04-30T08:58:58.940Z,33.191,-115.6003333,2.01,1.29,ml,15,90,0.01862,0.17,ci,ci40215871,2023-04-30T09:02:37.626Z,"9km SW of Niland, CA",earthquake,0.31,0.34,0.23,22,automatic,ci,ci
