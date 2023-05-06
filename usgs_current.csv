@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-06T14:50:33.423Z,61.5167,-149.8663,34.2,1.5,ml,,,,0.19,ak,ak0235smcl2m,2023-05-06T14:51:48.070Z,"4 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-06T14:46:00.811Z,64.3529,-149.4071,3.6,1,ml,,,,0.52,ak,ak0235smbnox,2023-05-06T14:48:05.987Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-06T14:42:35.760Z,32.6818333,-115.5286667,3.39,2.26,ml,19,72,0.1139,0.27,ci,ci40219855,2023-05-06T14:46:18.796Z,"3km W of Calexico, CA",earthquake,0.61,1.08,0.168,28,automatic,ci,ci
+2023-05-06T14:42:35.760Z,32.6818333,-115.5286667,3.39,2.26,ml,19,72,0.1139,0.27,ci,ci40219855,2023-05-06T14:55:24.324Z,"3km W of Calexico, CA",earthquake,0.61,1.08,0.168,28,automatic,ci,ci
 2023-05-06T14:41:30.850Z,32.7041667,-115.5388333,7.08,2.55,ml,30,61,0.09218,0.29,ci,ci40219847,2023-05-06T14:52:08.250Z,"3km SSW of Heber, CA",earthquake,0.53,1.36,0.217,26,automatic,ci,ci
 2023-05-06T14:37:37.596Z,61.0437,-146.6283,51.6,1.4,ml,,,,0.84,ak,ak0235sm9t33,2023-05-06T14:40:08.003Z,"17 km WSW of Valdez, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-06T14:33:06.140Z,19.8023338317871,-156.035003662109,8.85000038146973,2.04999995,md,26,254,,0.289999992,hv,hv73390872,2023-05-06T14:49:28.657Z,"9 km NW of Kalaoa, Hawaii",earthquake,1.42,0.939999998,1.46000004,6,automatic,hv,hv
@@ -232,7 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T15:15:32.800Z,38.8191681,-122.7600021,1.7,1.41,md,25,122,0.01369,0.02,nc,nc73884211,2023-05-05T17:52:15.461Z,"3km W of Cobb, CA",earthquake,0.24,0.34,0.18,24,automatic,nc,nc
 2023-05-05T15:11:28.390Z,58.1678333333333,-155.3895,0.62,-0.56,ml,6,194,,0.08,av,av91875141,2023-05-06T02:40:27.740Z,"86 km NW of Karluk, Alaska",earthquake,0.46,1.86,0.200338384527536,6,reviewed,av,av
 2023-05-05T15:09:30.636Z,36.9101,-104.8297,3.038,3.5,ml,16,83,0.111,0.39,us,us6000k9tj,2023-05-05T20:44:31.769Z,"New Mexico",earthquake,2.62,3.275,0.045,76,reviewed,us,us
-2023-05-05T14:58:23.525Z,58.9463,-152.9598,93.1,1.9,ml,,,,1.1,ak,ak0235qyuxjk,2023-05-05T15:00:37.608Z,"74 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-05T14:57:21.137Z,52.0341,175.2808,39.192,4,mb,24,211,1.004,0.51,us,us6000k9tg,2023-05-05T17:37:45.643Z,"168 km ESE of Attu Station, Alaska",earthquake,9.66,19.04,0.08,42,reviewed,us,us
-2023-05-05T14:56:16.320Z,58.2916666666667,-154.963166666667,2.9,0.04,ml,7,157,,0.1,av,av91875101,2023-05-06T02:25:12.930Z,"Alaska Peninsula",earthquake,0.36,1.03,0.188216307672848,7,reviewed,av,av
-2023-05-05T14:54:29.282Z,60.3603,-152.0854,81.8,1.4,ml,,,,0.46,ak,ak0235qyu34g,2023-05-05T14:56:32.657Z,"40 km WNW of Clam Gulch, Alaska",earthquake,,0.6,,,automatic,ak,ak
