@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-23T05:47:00.640Z,37.3011,-117.5746,2,1.7,ml,20,102.77,0.089,0.229,nn,nn00860141,2023-05-23T05:49:34.484Z,"50 km S of Silver Peak, Nevada",earthquake,,9.3,0.81,14,automatic,nn,nn
+2023-05-23T05:57:48.707Z,61.7721,-151.8568,98.1,1,ml,,,,0.33,ak,ak0236kl647q,2023-05-23T06:00:09.595Z,"34 km SW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-05-23T05:51:39.810Z,35.9832077,-98.195755,2.744851828,1.93,ml,40,38.75228977,0.1160674617,0.4870740386,ok,ok2023jzxa,2023-05-23T05:56:12.296Z,"Oklahoma",earthquake,1.965591501,1.787361816,0.35,13,automatic,ok,ok
+2023-05-23T05:47:00.640Z,37.3011,-117.5746,2,1.7,ml,20,102.77,0.089,0.229,nn,nn00860141,2023-05-23T05:59:54.937Z,"50 km S of Silver Peak, Nevada",earthquake,,9.3,0.81,14,automatic,nn,nn
 2023-05-23T05:41:46.610Z,19.3321666717529,-155.1943359375,-0.720000028610229,2.03,ml,45,110,,0.25,hv,hv73416852,2023-05-23T05:47:18.740Z,"12 km SSE of Volcano, Hawaii",earthquake,0.35,0.180000007,0.25,17,automatic,hv,hv
-2023-05-23T05:41:00.320Z,38.8404999,-122.8113327,0.22,0.63,md,15,70,0.01652,0.04,nc,nc73891561,2023-05-23T05:42:33.551Z,"8km WNW of Cobb, CA",earthquake,0.21,0.88,0.2,14,automatic,nc,nc
+2023-05-23T05:41:00.320Z,38.8404999,-122.8113327,0.22,0.63,md,15,70,0.01652,0.04,nc,nc73891561,2023-05-23T05:56:10.280Z,"8km WNW of Cobb, CA",earthquake,0.21,0.88,0.2,14,automatic,nc,nc
 2023-05-23T05:39:12.820Z,18.004,-66.8111666666667,16.77,2.35,md,8,169,0.07091,0.09,pr,pr71410588,2023-05-23T05:46:07.640Z,"1 km NE of Indios, Puerto Rico",earthquake,0.42,0.52,0.104335976212352,6,reviewed,pr,pr
-2023-05-23T05:36:18.950Z,38.7808342,-122.7655029,0.82,1.03,md,15,79,0.0101,0.03,nc,nc73891556,2023-05-23T05:50:17.385Z,"1km WNW of The Geysers, CA",earthquake,0.24,0.48,0.23,16,automatic,nc,nc
+2023-05-23T05:36:18.950Z,38.7808342,-122.7655029,0.82,1.03,md,15,79,0.0101,0.03,nc,nc73891556,2023-05-23T05:53:15.257Z,"1km WNW of The Geysers, CA",earthquake,0.24,0.48,0.23,16,automatic,nc,nc
 2023-05-23T05:35:55.964Z,61.3938,-146.8088,29.2,1.8,ml,,,,0.43,ak,ak0236kl1f0s,2023-05-23T05:37:36.644Z,"38 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-23T05:33:46.487Z,62.3946,-148.6484,18.8,2,ml,,,,0.92,ak,ak0236kl0yuw,2023-05-23T05:36:14.305Z,"67 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-23T05:33:10.880Z,63.1709,-149.4112,80.2,1.5,ml,,,,0.46,ak,ak0236kl0w40,2023-05-23T05:34:59.876Z,"33 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -302,4 +304,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T06:23:15.360Z,19.1386661529541,-155.367340087891,26.9400005340576,2,md,36,191,,0.129999995,hv,hv73415182,2023-05-22T06:26:32.730Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.84,1.30999994,1.49000001,7,automatic,hv,hv
 2023-05-22T06:22:02.990Z,35.169,-97.86533333,7.33,1.45,ml,56,63,0.04049205408,0.34,ok,ok2023jycn,2023-05-22T13:48:28.100Z,"1 km NE of Amber, Oklahoma",earthquake,,0.6,0.28,24,reviewed,ok,ok
 2023-05-22T06:06:16.500Z,35.5693333,-118.406,4.41,1.08,ml,18,97,0.1085,0.14,ci,ci40231007,2023-05-22T13:21:31.910Z,"8km ESE of Bodfish, CA",earthquake,0.24,0.76,0.108,11,reviewed,ci,ci
-2023-05-22T05:56:11.040Z,32.9218333,-116.2393333,12.15,0.62,ml,15,88,0.063,0.12,ci,ci40230999,2023-05-22T18:42:52.249Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.21,0.64,0.172,7,reviewed,ci,ci
