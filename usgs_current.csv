@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-26T00:03:58.700Z,33.077,-116.5985,13.48,1.76,ml,49,37,0.1192,0.22,ci,ci40233791,2023-05-26T00:07:43.581Z,"0km ESE of Julian, CA",earthquake,0.28,0.77,0.144,26,automatic,ci,ci
+2023-05-26T00:00:19.140Z,33.5805,-116.7365,12.32,0.71,ml,24,63,0.01508,0.15,ci,ci40233783,2023-05-26T00:03:53.565Z,"6km WNW of Anza, CA",earthquake,0.26,0.48,0.197,19,automatic,ci,ci
+2023-05-25T23:44:18.671Z,55.387,-159.3748,40.5,3.4,ml,,,,0.58,ak,ak0236o6vrjt,2023-05-25T23:59:15.166Z,"57 km S of Ivanof Bay, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2023-05-25T23:38:03.180Z,33.4893333,-116.4208333,5.6,1.51,ml,55,35,0.03422,0.21,ci,ci40233767,2023-05-25T23:50:06.260Z,"22km SSW of La Quinta, CA",earthquake,0.2,0.63,0.179,27,automatic,ci,ci
 2023-05-25T23:29:12.022Z,63.8055,-153.1537,0,1.9,ml,,,,1.23,ak,ak0236o6sj7m,2023-05-25T23:31:45.146Z,"42 km WSW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-25T23:14:49.082Z,61.5189,-149.91,32.8,1.4,ml,,,,0.75,ak,ak0236o6pebw,2023-05-25T23:16:47.355Z,"2 km E of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -47,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T19:06:59.340Z,19.212833404541,-155.391159057617,35.4199981689453,2.02999997,md,40,170,,0.109999999,hv,hv73421382,2023-05-25T19:10:23.670Z,"9 km E of Pāhala, Hawaii",earthquake,0.61,0.769999981,1.00999999,15,automatic,hv,hv
 2023-05-25T19:03:06.550Z,33.243,-116.1003333,9.23,1.17,ml,35,55,0.1028,0.17,ci,ci40233599,2023-05-25T21:11:02.575Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.19,0.61,0.081,22,reviewed,ci,ci
 2023-05-25T19:02:44.810Z,44.2252,38.9507,10,4.2,mb,65,28,2.705,0.64,us,us7000k42a,2023-05-25T20:25:59.040Z,"5 km ENE of Ol’ginka, Russia",earthquake,4.38,1.942,0.141,16,reviewed,us,us
-2023-05-25T19:00:34.530Z,38.78,-122.7565,1.45,0.41,md,4,224,0.01175,0.01,nc,nc73889830,2023-05-25T23:52:11.234Z,"0km N of The Geysers, CA",earthquake,0.88,1.47,0.078,4,reviewed,nc,nc
+2023-05-25T19:00:34.530Z,38.78,-122.7565,1.45,0.41,md,4,224,0.01175,0.01,nc,nc73889830,2023-05-25T23:58:12.265Z,"0km N of The Geysers, CA",earthquake,0.88,1.47,0.078,4,reviewed,nc,nc
 2023-05-25T18:55:50.706Z,62.0501,-149.7163,30.2,1.6,ml,,,,0.59,ak,ak0236o3z0t8,2023-05-25T18:58:28.540Z,"14 km SSE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-25T18:52:59.750Z,19.1515007019043,-155.492172241211,30.1499996185303,1.97000003,md,38,143,,0.170000002,hv,hv73421372,2023-05-25T18:56:16.690Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.85,1.01999998,0.360000014,9,automatic,hv,hv
 2023-05-25T18:44:19.562Z,62.4706,-149.422,32.5,1.3,ml,,,,0.62,ak,ak0236o3wliu,2023-05-25T18:47:04.651Z,"35 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -242,9 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T00:35:12.654Z,10.959,-62.5429,107.623,4.6,mb,43,84,1.456,0.94,us,us7000k3mi,2023-05-25T02:26:58.011Z,"offshore Sucre, Venezuela",earthquake,10.55,9.547,0.084,43,reviewed,us,us
 2023-05-25T00:17:46.490Z,58.2186666666667,-155.105166666667,2.48,0.12,ml,8,127,,0.13,av,av91771337,2023-05-25T15:09:15.720Z,"Alaska Peninsula",earthquake,0.28,0.78,0.16779290644522,8,reviewed,av,av
 2023-05-25T00:15:31.618Z,42.0674,142.5773,69.328,4.5,mb,53,116,0.435,0.61,us,us7000k3mh,2023-05-25T00:29:28.040Z,"19 km WSW of Urakawa, Japan",earthquake,6.95,8.673,0.084,41,reviewed,us,us
-2023-05-25T00:09:00.530Z,37.2083333,-112.833,13.57,1.92,ml,14,90,0.1916,0.15,uu,uu60540846,2023-05-25T13:13:38.650Z,"14 km E of Springdale, Utah",earthquake,0.38,0.64,0.113,5,reviewed,uu,uu
-2023-05-25T00:06:37.155Z,64.9892,-147.3646,2,1.4,ml,,,,0.53,ak,ak0236nsyorb,2023-05-25T00:09:26.873Z,"12 km ENE of Fox, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-05-25T00:04:03.400Z,19.21266746521,-155.375,32.1699981689453,2.22,ml,45,165,,0.129999995,hv,hv73419927,2023-05-25T00:09:34.390Z,"10 km E of Pāhala, Hawaii",earthquake,0.63,0.699999988,1.11,5,automatic,hv,hv
-2023-05-25T00:03:08.278Z,-24.2724,-67.3421,207.111,4.3,mb,24,93,1.522,0.64,us,us7000k3m7,2023-05-25T02:27:14.040Z,"104 km W of San Antonio de los Cobres, Argentina",earthquake,10.97,15.429,0.218,6,reviewed,us,us
-2023-05-24T23:59:43.540Z,60.0288333333333,-153.081,-2.27,-0.16,ml,5,102,,0.16,av,av91771332,2023-05-25T03:34:32.700Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.51,4.47,0.334232207447246,5,reviewed,av,av
-2023-05-24T23:59:32.830Z,19.1796666666667,-155.495333333333,30.77,3.05,ml,63,83,,0.11,hv,hv73419922,2023-05-25T01:21:54.144Z,"3 km SW of Pāhala, Hawaii",earthquake,0.41,0.5,0.212629417148521,41,reviewed,hv,hv
