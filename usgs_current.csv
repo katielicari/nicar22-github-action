@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-27T03:47:20.930Z,33.3856667,-116.9066667,11.53,1.36,ml,45,30,0.1048,0.2,ci,ci40234743,2023-05-27T03:50:53.804Z,"5km NW of Palomar Observatory, CA",earthquake,0.23,0.95,0.119,26,automatic,ci,ci
+2023-05-27T03:41:44.320Z,33.5101667,-116.4861667,13.87,0.74,ml,25,91,0.05221,0.21,ci,ci40234735,2023-05-27T03:45:14.507Z,"18km ESE of Anza, CA",earthquake,0.35,0.63,0.191,14,automatic,ci,ci
 2023-05-27T03:37:17.658Z,59.7116,-153.1804,107.4,1.3,ml,,,,0.32,ak,ak0236r60a9h,2023-05-27T03:40:33.181Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-27T03:13:45.087Z,62.834,-148.4803,53.5,1.8,ml,,,,0.58,ak,ak0236r5v770,2023-05-27T03:15:34.051Z,"66 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-27T02:53:54.390Z,33.5945,-116.8216667,13.22,1.08,ml,41,43,0.04158,0.21,ci,ci40234727,2023-05-27T02:57:35.700Z,"14km WNW of Anza, CA",earthquake,0.27,0.48,0.156,26,automatic,ci,ci
@@ -28,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T00:11:00.980Z,-18.4833,-175.1814,223.908,6,mww,132,24,1.133,0.59,us,us7000k4dc,2023-05-27T02:17:13.918Z,"127 km W of Neiafu, Tonga",earthquake,7.59,3.221,0.049,40,reviewed,us,us
 2023-05-27T00:06:48.000Z,33.5441667,-116.4221667,10.07,-0.04,ml,7,173,0.07304,0.1,ci,ci40234647,2023-05-27T00:25:42.781Z,"17km SW of La Quinta, CA",earthquake,0.7,1.33,0.083,3,reviewed,ci,ci
 2023-05-26T23:55:23.420Z,38.7838326,-122.7444992,0.92,1.25,md,12,131,0.02055,0.03,nc,nc73890385,2023-05-27T01:30:15.591Z,"1km NE of The Geysers, CA",earthquake,0.3,0.62,0.08,12,automatic,nc,nc
-2023-05-26T23:41:30.910Z,37.5463333,-118.9858333,1.69,0.52,md,11,262,0.07185,0.03,nc,nc73890380,2023-05-27T03:40:42.327Z,"10km S of Mammoth Lakes, CA",earthquake,1,1.98,0.158,12,reviewed,nc,nc
+2023-05-26T23:41:30.910Z,37.5463333,-118.9858333,1.69,0.52,md,11,262,0.07185,0.03,nc,nc73890380,2023-05-27T03:47:11.355Z,"10km S of Mammoth Lakes, CA",earthquake,1,1.98,0.158,12,reviewed,nc,nc
 2023-05-26T23:31:37.710Z,38.7878342,-122.74617,1.92,1.04,md,8,126,0.01659,0.01,nc,nc73890375,2023-05-26T23:48:15.981Z,"2km NE of The Geysers, CA",earthquake,0.45,0.91,0.24,9,automatic,nc,nc
 2023-05-26T23:26:44.179Z,62.4511,-149.818,14,1.5,ml,,,,0.33,ak,ak0236pubb1d,2023-05-26T23:28:41.937Z,"14 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-26T23:26:30.290Z,36.7608337,-121.1708298,8.57,2.16,md,27,75,0.09003,0.13,nc,nc73890370,2023-05-27T00:47:19.345Z,"14km ESE of Tres Pinos, CA",earthquake,0.4,0.76,0.13,23,automatic,nc,nc
