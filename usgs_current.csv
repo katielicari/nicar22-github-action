@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-20T02:58:20.351Z,58.107,-152.1996,0.1,2.4,ml,,,,0.6,ak,ak0237uufor7,2023-06-20T03:00:22.931Z,"Kodiak Island region, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2023-06-20T02:49:13.330Z,33.4625,-116.5825,8.88,0.92,ml,39,75,0.03609,0.19,ci,ci40489488,2023-06-20T02:52:40.395Z,"13km SE of Anza, CA",earthquake,0.23,0.56,0.168,26,automatic,ci,ci
+2023-06-20T02:30:30.627Z,-23.524,-67.7856,141.824,4.3,mb,19,99,0.674,0.68,us,us7000k9sb,2023-06-20T02:49:48.040Z,"80 km SSE of San Pedro de Atacama, Chile",earthquake,8.36,5.173,0.202,7,reviewed,us,us
 2023-06-20T02:15:35.060Z,33.8395,-117.17,11.79,1.44,ml,50,46,0.03675,0.25,ci,ci40489464,2023-06-20T02:19:11.139Z,"5km NNW of Nuevo, CA",earthquake,0.3,0.7,0.215,29,automatic,ci,ci
 2023-06-20T02:04:19.792Z,61.6921,-151.7409,82.5,1.6,ml,,,,0.63,ak,ak0237uu441n,2023-06-20T02:06:26.752Z,"37 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-20T01:51:39.550Z,33.265,-116.4315,4.85,1.98,ml,60,25,0.01243,0.18,ci,ci40489440,2023-06-20T02:02:11.580Z,"5km W of Borrego Springs, CA",earthquake,0.2,0.79,0.192,25,automatic,ci,ci
@@ -31,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T22:10:39.221Z,31.5317,-103.9908,5,2.8,ml,33,58,0.192,0.42,us,us7000k9q3,2023-06-19T22:19:58.040Z,"30 km NW of Toyah, Texas",earthquake,1.72,1.936,0.066,48,reviewed,us,us
 2023-06-19T22:08:11.910Z,45.8178333333333,-113.7705,7.8,1.92,ml,27,79,0.5738,0.17,mb,mb90019018,2023-06-19T22:38:34.050Z,"16 km E of Sula, Montana",earthquake,0.63,1.11,0.170781611986059,9,reviewed,mb,mb
 2023-06-19T21:51:02.180Z,38.6295,-119.6115,-1.41,2.54,md,17,112,0.08395,0.09,nc,nc73903026,2023-06-20T02:19:11.799Z,"17km NW of Walker, CA",earthquake,0.25,0.86,0.252,33,reviewed,nc,nc
+2023-06-19T21:42:52.490Z,46.976333333333336,-122.28816666666667,4.43,1.45,ml,11,129,0.05493,0.3,uw,uw61934576,2023-06-20T02:47:04.430Z,"Washington",earthquake,0.82,3.61,0.055251976405753855,7,reviewed,uw,uw
 2023-06-19T21:24:11.346Z,64.8335,-149.0772,13.8,1.6,ml,,,,0.62,ak,ak0237ti09pq,2023-06-19T21:26:12.952Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-19T21:22:14.720Z,32.7076667,-116.6436667,17.06,1,ml,25,52,0.03654,0.21,ci,ci40489288,2023-06-19T21:25:50.685Z,"16km N of Tecate, B.C., MX",earthquake,0.37,0.64,0.133,12,automatic,ci,ci
 2023-06-19T21:16:29.134Z,2.0805,128.2998,90.831,5.2,mb,89,78,1.6,0.76,us,us7000k9pt,2023-06-19T21:31:41.040Z,"50 km NE of Tobelo, Indonesia",earthquake,6.81,6.879,0.073,62,reviewed,us,us
@@ -150,11 +154,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T09:13:46.214Z,63.2819,-150.4655,107.8,1.4,ml,,,,0.41,ak,ak0237tass9y,2023-06-19T09:16:54.922Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-06-19T08:55:11.300Z,23.1208,-108.4155,10,5.2,mww,111,145,1.513,0.66,us,us7000k9ja,2023-06-20T02:23:44.986Z,"Gulf of California",earthquake,6.17,1.813,0.078,16,reviewed,us,us
 2023-06-19T08:47:04.780Z,40.5791667,-124.1456667,18.97,1.72,md,25,50,0.08651,0.17,nc,nc73902831,2023-06-19T19:59:15.441Z,"2km SSE of Fortuna, CA",earthquake,0.35,0.56,0.235,18,reviewed,nc,nc
+2023-06-19T08:37:36.260Z,58.2568333333333,-155.0625,4.15,0.08,ml,12,112,,0.23,av,av91930341,2023-06-20T02:53:30.050Z,"84 km NNW of Karluk, Alaska",earthquake,0.34,0.73,0.230881066139795,12,reviewed,av,av
 2023-06-19T08:36:47.141Z,61.048,-149.4543,34,1.5,ml,,,,0.94,ak,ak0237taca7e,2023-06-19T08:40:12.231Z,"17 km NE of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-19T08:34:51.220Z,37.939,-118.622,12.18,2.23,md,34,73,0.2423,0.21,nc,nc73902821,2023-06-20T01:02:10.322Z,"42km SSW of Qualeys Camp, NV",earthquake,0.48,1.41,0.198,28,reviewed,nc,nc
 2023-06-19T08:33:04.389Z,63.9592,-148.8206,111.8,1.8,ml,,,,0.3,ak,ak0237tabjra,2023-06-19T08:35:14.090Z,"13 km NNE of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-19T08:18:30.908Z,58.1972,-155.2438,0,1.4,ml,,,,0.41,ak,ak0237ta8e2a,2023-06-19T19:03:13.690Z,"84 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-19T08:15:29.580Z,58.2578333333333,-155.080166666667,4.14,0.42,ml,12,104,,0.18,av,av91930326,2023-06-20T02:42:24.130Z,"85 km NNW of Karluk, Alaska",earthquake,0.36,0.57,0.170672994969311,7,reviewed,av,av
+2023-06-19T08:16:06.110Z,58.1811666666667,-155.279666666667,2.88,-0.07,ml,5,232,,0.03,av,av91108058,2023-06-20T02:48:26.280Z,"83 km NW of Karluk, Alaska",earthquake,0.75,2.07,0.371992835601176,5,reviewed,av,av
+2023-06-19T08:15:29.580Z,58.258,-155.078833333333,4.11,0.27,ml,12,105,,0.18,av,av91930326,2023-06-20T02:44:05.080Z,"85 km NNW of Karluk, Alaska",earthquake,0.35,0.56,0.244111421785078,13,reviewed,av,av
 2023-06-19T08:03:17.885Z,-0.1732,125.1426,57.333,4.7,mb,50,78,2.414,0.51,us,us7000k9j3,2023-06-19T16:37:35.040Z,"104 km SE of Modisi, Indonesia",earthquake,8.22,8.081,0.078,49,reviewed,us,us
 2023-06-19T08:01:59.280Z,46.2195,-119.59533333333333,7.15,0.44,ml,6,250,0.0639,0.04,uw,uw61934396,2023-06-19T15:45:00.970Z,"9 km WSW of Benton City, Washington",earthquake,1.28,0.39,0.11847224528767208,4,reviewed,uw,uw
 2023-06-19T08:01:35.970Z,58.278,-154.937166666667,1.64,0,ml,11,146,,0.2,av,av91930316,2023-06-20T02:25:45.450Z,"83 km NNW of Karluk, Alaska",earthquake,0.4,0.78,0.236270650805491,11,reviewed,av,av
@@ -220,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T03:31:41.848Z,65.0617,-147.0242,0,0.9,ml,,,,1.45,ak,ak0237t7c16s,2023-06-19T03:34:35.598Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-19T03:21:04.774Z,-44.3071,-81.7815,10,4.5,mb,35,156,7.069,0.58,us,us7000k9hw,2023-06-19T03:39:01.040Z,"West Chile Rise",earthquake,7.7,1.937,0.111,24,reviewed,us,us
 2023-06-19T03:07:56.003Z,63.476,-146.0967,11.3,0.8,ml,,,,0.16,ak,ak0237t76x3k,2023-06-19T03:09:11.992Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
-2023-06-19T02:56:04.744Z,61.5086,-149.9762,32.7,1.2,ml,,,,0.12,ak,ak0237t6vvmi,2023-06-19T02:57:27.086Z,"1 km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-19T02:42:46.240Z,38.7799988,-122.7543335,1.26,0.88,md,9,96,0.01286,0.02,nc,nc73902736,2023-06-19T04:23:19.733Z,"0km NNE of The Geysers, CA",earthquake,0.39,0.58,0.13,11,automatic,nc,nc
