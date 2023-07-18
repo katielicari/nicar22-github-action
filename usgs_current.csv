@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-18T06:40:54.120Z,33.4106667,-116.8196667,13.34,0.89,ml,34,47,0.06732,0.19,ci,ci39615298,2023-07-18T06:44:33.217Z,"6km SE of Aguanga, CA",earthquake,0.24,0.67,0.199,23,automatic,ci,ci
 2023-07-18T06:25:41.370Z,33.955,-116.7983333,9.86,0.7,ml,18,107,0.08033,0.19,ci,ci39615274,2023-07-18T06:29:15.606Z,"4km NNW of Cabazon, CA",earthquake,0.53,1.01,0.123,13,automatic,ci,ci
 2023-07-18T06:25:23.948Z,64.024,-149.8172,9.3,1.7,ml,,,,0.43,ak,ak023957o2ne,2023-07-18T06:27:36.153Z,"34 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-18T06:20:47.620Z,19.1291675567627,-155.400497436523,30.8500003814697,1.82000005,md,34,182,,0.100000001,hv,hv73486237,2023-07-18T06:23:52.750Z,"11 km SE of Pāhala, Hawaii",earthquake,0.64,0.920000017,,5,automatic,hv,hv
@@ -25,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-18T02:05:42.220Z,33.977,-116.6703333,17.15,1.09,ml,30,69,0.06412,0.15,ci,ci39615186,2023-07-18T02:09:14.356Z,"11km SW of Morongo Valley, CA",earthquake,0.27,0.58,0.156,27,automatic,ci,ci
 2023-07-18T01:28:31.746Z,19.1063,120.3233,10,4.1,mb,14,286,3.76,1.53,us,us7000kgi1,2023-07-18T02:07:42.040Z,"75 km NNW of Davila, Philippines",earthquake,7.13,2.018,0.262,4,reviewed,us,us
 2023-07-18T01:26:17.381Z,60.3703,-151.8564,89.3,2.1,ml,,,,0.35,ak,ak023954p3w7,2023-07-18T01:27:56.543Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-18T01:21:41.230Z,35.8476667,-121.4613333,4.4,1.5,md,24,192,0.1037,0.07,nc,nc73914146,2023-07-18T06:25:11.474Z,"21 km SSE of Lopez Point, CA",earthquake,0.26,0.37,0.271,22,reviewed,nc,nc
+2023-07-18T01:21:41.230Z,35.8476667,-121.4613333,4.4,1.5,md,24,192,0.1037,0.07,nc,nc73914146,2023-07-18T06:39:16.567Z,"21 km SSE of Lopez Point, CA",earthquake,0.26,0.37,0.271,22,reviewed,nc,nc
 2023-07-18T01:13:30.400Z,33.5095,-116.4541667,6.39,1.06,ml,37,64,0.02753,0.19,ci,ci39615170,2023-07-18T01:17:01.805Z,"21km ESE of Anza, CA",earthquake,0.27,0.44,0.24,27,automatic,ci,ci
 2023-07-18T01:03:16.880Z,19.2323341369629,-155.408004760742,33.8899993896484,2.00999999,md,33,147,,0.100000001,hv,hv73485822,2023-07-18T01:06:31.500Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.69,0.850000024,1.60000002,14,automatic,hv,hv
 2023-07-18T00:34:43.310Z,36.5595016,-121.1880035,4.62,2.31,md,42,70,,0.28,nc,nc73914141,2023-07-18T01:35:11.553Z,"5 km NW of Pinnacles, CA",earthquake,0.43,1.26,0.12,28,automatic,nc,nc
@@ -136,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T10:48:10.714Z,61.7774,-150.3892,16,1.1,ml,,,,0.39,ak,ak02393mnd0x,2023-07-17T10:51:25.284Z,"18 km W of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-17T10:44:43.490Z,38.8093338,-122.8233337,2.22,1.05,md,13,73,0.00459,0.03,nc,nc73913936,2023-07-17T13:10:12.731Z,"7 km WNW of The Geysers, CA",earthquake,0.28,0.46,0.09,14,automatic,nc,nc
 2023-07-17T10:41:52.750Z,35.2423333,-120.909,8.24,0.95,md,29,191,0.0261,0.09,nc,nc73913931,2023-07-17T19:18:26.083Z,"11 km SW of Baywood-Los Osos, CA",earthquake,0.32,0.24,0.185,13,reviewed,nc,nc
-2023-07-17T10:40:53.054Z,61.4415,-149.4788,37.2,3.4,ml,,,,0.73,ak,ak02393mlqi5,2023-07-17T23:14:05.306Z,"10 km SE of Knik-Fairview, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-07-17T10:40:53.054Z,61.4415,-149.4788,37.2,3.4,ml,,,,0.73,ak,ak02393mlqi5,2023-07-18T06:47:01.903Z,"10 km SE of Knik-Fairview, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-07-17T10:34:30.960Z,38.8165016,-122.8206635,2.17,1.32,md,18,55,0.01012,0.02,nc,nc73913926,2023-07-17T12:43:12.582Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.37,0.09,16,automatic,nc,nc
 2023-07-17T10:15:50.750Z,44.681,-110.0565,12.87,0.65,md,6,87,0.09238,0.02,uu,uu60545542,2023-07-17T14:32:20.910Z,"36 km S of Silver Gate, Montana",earthquake,0.46,0.98,0.268,4,reviewed,uu,uu
 2023-07-17T10:15:11.719Z,61.0286,-148.4101,8.2,1.1,ml,,,,0.59,ak,ak02393mgagz,2023-07-17T10:16:31.698Z,"32 km NNE of Whittier, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -173,5 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T06:56:39.115Z,38.4535,-119.3965,3.1,1.1,ml,8,125.03,0.061,0.1081,nn,nn00862880,2023-07-17T20:35:32.698Z,"9 km SE of Walker, California",earthquake,,2.7,0.12,3,reviewed,nn,nn
 2023-07-17T06:56:22.120Z,19.2631664276123,-155.369506835938,30.5900001525879,2.18,ml,47,155,,0.129999995,hv,hv73484747,2023-07-17T07:01:54.220Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.46,0.639999986,2.32,16,automatic,hv,hv
 2023-07-17T06:54:34.592Z,38.5333,-118.1516,7.7,0.9,ml,6,138.23,0.395,0.0694,nn,nn00862879,2023-07-17T20:32:23.461Z,"16 km NNW of Mina, Nevada",earthquake,,1.5,0.47,5,reviewed,nn,nn
-2023-07-17T06:46:34.078Z,59.8266,-151.8657,64.1,1.1,ml,,,,0.45,ak,ak02393k98z3,2023-07-17T06:48:18.133Z,"5 km NNW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-07-17T06:43:45.520Z,36.4675,-98.7605,7.32,1.97,ml,83,71,0.03689276038,0.2,ok,ok2023nwlk,2023-07-17T11:57:29.568Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.2,0.19,35,reviewed,ok,ok
