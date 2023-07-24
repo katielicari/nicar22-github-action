@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-24T07:31:02.990Z,32.3349991,-115.3133316,10.85,3.06,ml,38,38,0.08455,0.37,ci,ci39620202,2023-07-24T07:33:23.424Z,"12 km W of Delta, B.C., MX",earthquake,0.37,0.85,0.308,22,automatic,ci,ci
-2023-07-24T07:28:25.580Z,38.8398323,-122.815834,4.17,0.7,md,7,73,0.0154,0.01,nc,nc73916081,2023-07-24T07:30:03.270Z,"8 km WNW of Cobb, CA",earthquake,1.73,7.49,0.07,8,automatic,nc,nc
+2023-07-24T07:45:56.710Z,35.994,-117.4288333,-0.21,0.97,ml,13,156,0.1566,0.2,ci,ci39620210,2023-07-24T07:49:31.832Z,"25km N of Searles Valley, CA",earthquake,0.63,31.61,0.151,4,automatic,ci,ci
+2023-07-24T07:42:52.799Z,62.0835,-147.6118,33.5,2.2,ml,,,,0.47,ak,ak0239f5lam7,2023-07-24T07:44:23.526Z,"28 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-24T07:31:02.990Z,32.3349991,-115.3133316,10.85,3.06,ml,38,38,0.08455,0.37,ci,ci39620202,2023-07-24T07:42:00.810Z,"12 km W of Delta, B.C., MX",earthquake,0.37,0.85,0.308,22,automatic,ci,ci
+2023-07-24T07:28:25.580Z,38.8398323,-122.815834,4.17,0.7,md,7,73,0.0154,0.01,nc,nc73916081,2023-07-24T07:49:15.038Z,"8 km WNW of Cobb, CA",earthquake,1.73,7.49,0.07,8,automatic,nc,nc
 2023-07-24T07:27:16.950Z,59.9398,-141.1285,0,2.2,ml,,,,1.27,ak,ak0239f5i03z,2023-07-24T07:29:57.061Z,"Southeastern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-24T07:26:11.258Z,60.0639,-149.3679,31.6,1.7,ml,,,,0.69,ak,ak0239f5hryd,2023-07-24T07:27:58.529Z,"4 km ESE of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-24T07:19:44.338Z,63.0319,-151.5375,0,1.1,ml,,,,1.12,ak,ak0239f5gcht,2023-07-24T07:22:10.361Z,"57 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -190,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T08:15:50.180Z,34.0328333,-116.777,13.46,0.64,ml,19,110,0.02567,0.22,ci,ci39619778,2023-07-23T08:19:21.277Z,"13km N of Cabazon, CA",earthquake,0.4,0.78,0.127,14,automatic,ci,ci
 2023-07-23T08:09:58.229Z,-24.2672,-66.9238,178.431,4.4,mb,54,55,1.743,0.68,us,us7000khrv,2023-07-23T09:22:15.040Z,"61 km W of San Antonio de los Cobres, Argentina",earthquake,7.55,7.914,0.07,59,reviewed,us,us
 2023-07-23T08:02:45.850Z,35.757,-117.588,12.33,0.76,ml,10,168,0.1471,0.2,ci,ci39619770,2023-07-23T08:06:21.271Z,"17km W of Searles Valley, CA",earthquake,0.86,1.53,0.044,4,automatic,ci,ci
-2023-07-23T07:57:56.900Z,38.836834,-122.8078308,2.16,1.36,md,19,51,0.01984,0.02,nc,nc73915731,2023-07-23T09:22:16.847Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.43,0.15,19,automatic,nc,nc
-2023-07-23T07:56:45.137Z,38.5513,-118.1096,6.6,2,ml,16,94.7,0.366,0.5368,nn,nn00863149,2023-07-23T07:59:39.703Z,"Nevada",earthquake,,0.7,0.18,12,automatic,nn,nn
