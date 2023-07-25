@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T16:29:19.749Z,58.1849,-155.301,5.8,0.5,ml,,,,0.9,ak,ak0239gyeoq1,2023-07-25T16:32:16.575Z,"85 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-25T16:18:53.240Z,38.8301659,-122.8160019,1.77,0.95,md,20,57,0.008195,0.01,nc,nc73916561,2023-07-25T18:03:13.453Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.39,0.23,20,automatic,nc,nc
 2023-07-25T16:16:42.172Z,61.6508,-147.8341,31.5,1.4,ml,,,,0.36,ak,ak0239gyby49,2023-07-25T16:17:57.745Z,"19 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-25T16:15:17.516Z,57.9515,-156.1967,129.8,0.7,ml,,,,0.13,ak,ak0239gybohz,2023-07-25T16:16:54.961Z,"75 km ESE of Egegik, Alaska",earthquake,,6.1,,,automatic,ak,ak
+2023-07-25T16:15:17.516Z,57.9515,-156.1967,129.8,0.7,ml,,,,0.13,ak,ak0239gybohz,2023-07-25T16:16:54.961Z,"Alaska Peninsula",earthquake,,6.1,,,automatic,ak,ak
 2023-07-25T15:50:49.283Z,61.3153,-152.4309,0,1.2,ml,,,,1.15,ak,ak0239gxxteo,2023-07-25T15:52:41.122Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-25T15:50:06.140Z,19.1988334655762,-155.466171264648,30.1599998474121,2.29,ml,38,100,,0.100000001,hv,hv73496987,2023-07-25T15:55:37.270Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.51,0.670000017,0.23,7,automatic,hv,hv
 2023-07-25T15:46:27.940Z,19.1961669921875,-155.493499755859,30.7999992370605,1.76999998,md,35,81,,0.0900000036,hv,hv73496972,2023-07-25T15:49:32.690Z,"Island of Hawaii, Hawaii",earthquake,0.5,0.800000012,0.49000001,11,automatic,hv,hv
@@ -171,7 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T22:00:58.368Z,64.9143,-151.0411,9.1,0.6,ml,,,,0.7,ak,ak0239fe9t1b,2023-07-24T22:03:13.263Z,"21 km WSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-24T21:48:15.620Z,19.2779998779297,-155.387161254883,30.5300006866455,1.84,ml,27,164,,0.119999997,hv,hv73496022,2023-07-24T21:53:48.800Z,"12 km NE of Pāhala, Hawaii",earthquake,0.63,1.11000001,0.3,4,automatic,hv,hv
 2023-07-24T21:18:09.410Z,34.496,-116.5126667,6.63,1.81,ml,30,57,0.1536,0.14,ci,ci39621082,2023-07-25T13:28:37.980Z,"40km NE of Big Bear City, CA",earthquake,0.24,0.85,0.134,28,reviewed,ci,ci
-2023-07-24T21:15:33.040Z,33.17,-115.9351667,7.38,1.26,ml,29,73,0.03588,0.24,ci,ci39621066,2023-07-24T21:19:17.580Z,"14km S of Salton City, CA",earthquake,0.42,0.86,0.157,24,automatic,ci,ci
+2023-07-24T21:15:33.040Z,33.17,-115.9351667,7.38,1.26,ml,29,73,0.03588,0.24,ci,ci39621066,2023-07-25T18:30:24.412Z,"14km S of Salton City, CA",earthquake,0.42,0.86,0.157,24,automatic,ci,ci
 2023-07-24T20:51:38.869Z,36.2259,-115.3702,7.4,1.1,ml,4,78.35,0.063,0.1441,nn,nn00863203,2023-07-24T22:08:11.654Z,"12 km NNW of Summerlin South, Nevada",earthquake,,7.7,0.18,2,reviewed,nn,nn
 2023-07-24T20:40:00.892Z,57.202,-157.7562,169,2.1,ml,,,,0.98,ak,ak0239fdbe1l,2023-07-24T20:43:16.950Z,"40 km SSW of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-24T20:38:39.060Z,33.895,-116.6895,14.2,2.62,ml,78,20,0.08086,0.18,ci,ci39621018,2023-07-25T13:17:48.305Z,"9km ESE of Cabazon, CA",earthquake,0.15,0.35,0.228,26,automatic,ci,ci
@@ -199,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T18:44:38.607Z,57.0839,-156.1813,13.8,1.8,ml,,,,0.26,ak,ak0239fc5glw,2023-07-24T18:46:13.544Z,"87 km ESE of Ugashik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-24T18:44:07.858Z,54.6614,-161.0613,46.896,3.7,mb,38,184,0.674,0.79,us,us7000ki11,2023-07-24T21:00:57.040Z,"83 km SSW of Sand Point, Alaska",earthquake,5.12,10.179,0.16,10,reviewed,us,us
 2023-07-24T18:42:07.890Z,37.5001667,-118.8273333,2.06,1.7,md,20,174,0.08971,0.02,nc,nc73916226,2023-07-24T23:50:13.847Z,"15 km WSW of Toms Place, CA",earthquake,0.35,0.86,0.13,17,reviewed,nc,nc
-2023-07-24T18:40:59.510Z,19.1536674499512,-155.498672485352,35.7400016784668,2.03999996,md,32,130,,0.109999999,hv,hv73495652,2023-07-24T18:44:06.330Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.58,0.980000019,0.419999987,5,automatic,hv,hv
-2023-07-24T18:38:38.301Z,57.1791,-156.4504,28.8,2.4,ml,,,,0.62,ak,ak0239fc46ae,2023-07-24T18:39:54.388Z,"68 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-07-24T18:37:12.120Z,19.2646675109863,-155.388671875,28.0499992370605,2.01,ml,37,128,,0.150000006,hv,hv73495647,2023-07-24T18:42:44.140Z,"11 km NE of Pāhala, Hawaii",earthquake,0.57,0.879999995,3.16,8,automatic,hv,hv
