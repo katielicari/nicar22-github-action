@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-03T09:19:27.890Z,38.7903328,-122.7606659,0.87,0.79,md,6,188,0.0103,0.02,nc,nc73919711,2023-08-03T09:21:03.720Z,"2 km NNW of The Geysers, CA",earthquake,0.49,1.07,0.03,7,automatic,nc,nc
+2023-08-03T09:46:57.030Z,33.1178333,-116.4906667,10.94,1.83,ml,52,46,0.09695,0.17,ci,ci39628514,2023-08-03T09:57:26.810Z,"11 km ENE of Julian, CA",earthquake,0.2,0.45,0.175,26,automatic,ci,ci
+2023-08-03T09:46:17.045Z,58.3373,-154.6004,50,1.2,ml,,,,1,ak,ak0239vq6evc,2023-08-03T09:48:04.439Z,"86 km N of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2023-08-03T09:45:14.653Z,61.4953,-149.6974,32.5,1.7,ml,,,,0.58,ak,ak0239vq66yx,2023-08-03T09:47:25.065Z,"4 km NNE of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-08-03T09:43:04.783Z,63.3471,-145.5295,0,1,ml,,,,0.32,ak,ak0239vq5qry,2023-08-03T09:45:41.182Z,"28 km N of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-03T09:19:27.890Z,38.7903328,-122.7606659,0.87,0.79,md,6,188,0.0103,0.02,nc,nc73919711,2023-08-03T09:41:17.259Z,"2 km NNW of The Geysers, CA",earthquake,0.49,1.07,0.03,7,automatic,nc,nc
 2023-08-03T09:08:20.890Z,64.9514,-148.9501,15.5,0.8,ml,,,,0.88,ak,ak0239vpy9yh,2023-08-03T09:09:50.869Z,"29 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-03T09:07:15.137Z,-31.6187,-71.875,12.854,4.5,mb,33,144,0.855,1.07,us,us6000kxh9,2023-08-03T09:32:10.040Z,"66 km W of Illapel, Chile",earthquake,3.42,3.606,0.27,4,reviewed,us,us
 2023-08-03T08:50:00.730Z,38.7788315,-122.7128296,1.73,1.07,md,14,172,0.01501,0.04,nc,nc73919701,2023-08-03T09:19:14.141Z,"2 km WNW of Anderson Springs, CA",earthquake,0.57,0.77,0.2,13,automatic,nc,nc
@@ -136,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T16:40:48.340Z,36.2313333,-120.7968333,7.22,0.87,md,19,141,0.01581,0.09,nc,nc73919431,2023-08-02T20:49:11.713Z,"23 km ENE of San Lucas, CA",earthquake,0.46,0.29,0.245,12,reviewed,nc,nc
 2023-08-02T16:40:39.210Z,46.9056666666667,-112.596666666667,10.79,0.72,ml,9,111,0.04575,0.08,mb,mb90023318,2023-08-02T17:39:20.990Z,"8 km SE of Lincoln, Montana",earthquake,0.34,0.48,0.123845898969488,5,reviewed,mb,mb
 2023-08-02T16:32:12.450Z,48.80833333333333,-121.82966666666667,23.44,1.4000000000000001,ml,4,185,0.1103,0.01,uw,uw61937357,2023-08-03T04:09:11.710Z,"12 km SE of Glacier, Washington",earthquake,0.93,2.01,0.12453423399210273,4,reviewed,uw,uw
-2023-08-02T16:29:28.340Z,19.859,-155.842833333333,13.8,1.58,md,31,132,,0.19,hv,hv73507292,2023-08-02T20:23:47.430Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.54,0.148529398694597,13,reviewed,hv,hv
+2023-08-02T16:29:28.340Z,19.859,-155.842833333333,13.8,1.58,md,31,132,,0.19,hv,hv73507292,2023-08-02T20:23:47.430Z,"10 km SSW of Waikoloa, Hawaii",earthquake,0.56,0.54,0.148529398694597,13,reviewed,hv,hv
 2023-08-02T16:24:09.264Z,58.8741,-153.9339,16.2,2,ml,,,,0.25,ak,ak0239u6od9a,2023-08-02T16:25:31.043Z,"79 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-02T16:20:28.501Z,61.6695,-151.5669,85.4,1.3,ml,,,,0.68,ak,ak0239u6njvm,2023-08-02T16:22:38.940Z,"36 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-02T16:18:57.702Z,61.0068,-148.483,0,1.3,ml,,,,1.1,ak,ak0239u6n6p6,2023-08-02T16:20:55.123Z,"28 km NNE of Whittier, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -234,7 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T10:15:32.930Z,37.5378333,-118.8356667,-1.33,0.77,md,19,156,0.05236,0.05,nc,nc73919376,2023-08-02T20:26:12.589Z,"14 km W of Toms Place, CA",earthquake,0.45,0.33,0.147,14,reviewed,nc,nc
 2023-08-02T10:13:46.430Z,38.8219986,-122.8013306,3.13,0.59,md,13,78,0.006971,0.02,nc,nc73919366,2023-08-02T10:51:14.311Z,"6 km NW of The Geysers, CA",earthquake,0.33,1.01,0.37,14,automatic,nc,nc
 2023-08-02T10:11:47.840Z,37.4671667,-118.8446667,5.55,0.64,md,22,139,0.1233,0.04,nc,nc73919371,2023-08-02T20:26:12.734Z,"18 km SW of Toms Place, CA",earthquake,0.83,1.69,0.156,18,reviewed,nc,nc
-2023-08-02T09:58:06.303Z,36.5717,70.2018,214.241,4,mb,31,94,2.236,0.25,us,us6000kx9v,2023-08-02T12:05:37.040Z,"30 km E of Farkhār, Afghanistan",earthquake,5.51,9.398,0.15,12,reviewed,us,us
-2023-08-02T09:57:22.652Z,56.1749,-161.6121,210.519,3.4,ml,85,112,0.7,0.68,us,us6000kx9u,2023-08-02T12:01:44.040Z,"31 km NW of Nelson Lagoon, Alaska",earthquake,9.82,12.687,0.065,31,reviewed,us,us
-2023-08-02T09:43:49.490Z,33.1221667,-116.4873333,13.75,0.62,ml,25,116,0.1012,0.18,ci,ci39627538,2023-08-02T15:37:09.123Z,"12 km ENE of Julian, CA",earthquake,0.37,0.64,0.177,5,reviewed,ci,ci
-2023-08-02T09:37:58.337Z,61.3915,-151.8906,87.4,1.1,ml,,,,0.54,ak,ak0239u2l849,2023-08-02T09:39:59.888Z,"51 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
