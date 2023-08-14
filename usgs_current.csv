@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-14T10:26:33.010Z,38.8191681,-122.8043365,1.49,0.77,md,11,65,0.006156,0.03,nc,nc73923991,2023-08-14T10:28:08.930Z,"6 km NW of The Geysers, CA",earthquake,0.31,0.87,0.15,13,automatic,nc,nc
+2023-08-14T10:04:55.250Z,38.8095016,-122.8183365,3.15,0.75,md,11,90,0.008494,0.01,nc,nc73923976,2023-08-14T10:21:13.737Z,"6 km WNW of The Geysers, CA",earthquake,0.37,0.95,0.06,13,automatic,nc,nc
 2023-08-14T09:45:58.782Z,61.3112,-147.1601,18.3,1.4,ml,,,,0.63,ak,ak023adx33t2,2023-08-14T09:47:58.046Z,"48 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-14T09:44:33.113Z,58.1772,-155.3985,0,1.2,ml,,,,0.83,ak,ak023adx2u3z,2023-08-14T09:45:40.799Z,"87 km NW of Karluk, Alaska",earthquake,,14.5,,,automatic,ak,ak
 2023-08-14T09:37:44.198Z,61.294,-152.5096,4.4,1.3,ml,,,,0.83,ak,ak023adx1cyb,2023-08-14T09:38:58.674Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -6,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T09:00:25.719Z,64.5088,-147.7585,7.6,0.9,ml,,,,0.27,ak,ak023adwte17,2023-08-14T09:02:09.377Z,"33 km SW of North Pole, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-14T08:46:31.710Z,33.6848333,-116.7326667,17.06,0.51,ml,19,70,0.03394,0.13,ci,ci40536320,2023-08-14T08:50:29.059Z,"6 km SSW of Idyllwild, CA",earthquake,0.28,0.54,0.12,12,automatic,ci,ci
 2023-08-14T08:45:51.050Z,33.0725,-116.9633333,15.71,0.68,ml,14,99,0.07559,0.22,ci,ci40536312,2023-08-14T08:49:34.269Z,"2 km SSW of San Pasqual, CA",earthquake,0.64,0.87,0.197,6,automatic,ci,ci
-2023-08-14T08:45:32.140Z,38.8359985,-122.8093338,1.71,1.13,md,21,49,0.0126,0.02,nc,nc73923956,2023-08-14T09:19:10.380Z,"8 km WNW of Cobb, CA",earthquake,0.18,0.39,0.17,24,automatic,nc,nc
+2023-08-14T08:45:32.140Z,38.8359985,-122.8093338,1.71,1.13,md,21,49,0.0126,0.02,nc,nc73923956,2023-08-14T10:28:11.775Z,"8 km WNW of Cobb, CA",earthquake,0.18,0.39,0.17,24,automatic,nc,nc
 2023-08-14T08:15:25.080Z,38.8136673,-122.8166656,2.75,1.28,md,27,51,0.01089,0.02,nc,nc73923946,2023-08-14T09:33:13.467Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.39,0.16,28,automatic,nc,nc
 2023-08-14T08:08:08.950Z,38.7965012,-122.7581635,4.79,0.36,md,9,88,0.004292,0.02,nc,nc73923941,2023-08-14T09:06:13.304Z,"2 km N of The Geysers, CA",earthquake,0.56,2.18,0.14,9,automatic,nc,nc
 2023-08-14T07:50:05.820Z,19.3905,-155.280166666667,1.32,0.3,md,16,69,,0.1,hv,hv73524702,2023-08-14T08:14:22.100Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.21,0.161514917268541,3,reviewed,hv,hv
@@ -207,8 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T10:48:04.348Z,51.5858,176.5077,35,3.2,ml,18,212,1.297,0.44,us,us6000kzr6,2023-08-14T05:19:02.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.85,2.014,0.074,24,reviewed,us,us
 2023-08-13T10:34:57.970Z,58.1815,-155.298333333333,2.22,1.22,ml,12,59,,0.08,av,av91999716,2023-08-13T13:06:07.430Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.5,0.336552194064496,13,reviewed,av,av
 2023-08-13T10:30:42.937Z,35.51791763,-98.02841949,1.797125697,1.78,ml,13,69.38877201,0.09341225028,0.7656996188,ok,ok2023pubm,2023-08-13T10:33:54.447Z,"6 km WSW of El Reno, Oklahoma",earthquake,4.101106332,3.128135798,0.43,11,automatic,ok,ok
-2023-08-13T10:14:21.450Z,58.1918333333333,-155.3085,1.41,0.38,ml,6,148,,0.04,av,av91999711,2023-08-13T13:01:07.530Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.63,0.272186523109453,6,reviewed,av,av
-2023-08-13T10:13:24.020Z,58.186,-155.276333333333,2.73,0.32,ml,7,146,,0.11,av,av91999706,2023-08-13T12:58:55.480Z,"84 km NW of Karluk, Alaska",earthquake,0.45,0.68,0.416974802800937,7,reviewed,av,av
-2023-08-13T10:10:18.252Z,12.4508,48.1289,10,4.6,mb,61,92,5.249,0.67,us,us6000kzp2,2023-08-13T10:28:25.040Z,"Gulf of Aden",earthquake,10.84,1.865,0.069,62,reviewed,us,us
-2023-08-13T10:09:50.610Z,58.1668333333333,-155.3625,-0.72,-0.07,ml,5,131,,0.04,av,av91999701,2023-08-13T12:56:29.620Z,"85 km NW of Karluk, Alaska",earthquake,0.27,7.58,0.115294261182393,5,reviewed,av,av
-2023-08-13T09:58:47.121Z,58.201,-155.2435,0,1.2,ml,,,,0.42,ak,ak023ac9miq0,2023-08-13T13:29:24.780Z,"84 km NW of Karluk, Alaska",earthquake,,25.3,,,automatic,ak,ak
