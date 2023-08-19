@@ -247,10 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T05:07:54.544Z,60.8383,-152.5148,124.5,1.7,ml,,,,0.21,ak,ak023akgmltq,2023-08-18T05:09:54.602Z,"68 km WNW of Nikiski, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-08-18T05:04:44.911Z,61.8561,-148.9698,37.1,3.1,ml,,,,0.5,ak,ak023akglxui,2023-08-19T01:18:22.473Z,"Southern Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-08-18T05:01:46.740Z,19.3758335113525,-155.287170410156,2.00999999046326,1.98,ml,18,93,,0.119999997,hv,hv73532197,2023-08-18T05:07:17.820Z,"9 km SW of Volcano, Hawaii",earthquake,0.25,0.300000012,0.19,5,automatic,hv,hv
-2023-08-18T04:58:45.050Z,62.0211,-147.9235,31.4,1.2,ml,,,,0.69,ak,ak023akgc309,2023-08-18T05:00:24.968Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-18T04:57:07.830Z,33.9863333,-116.8331667,12.83,0.91,ml,35,46,0.05306,0.13,ci,ci39643426,2023-08-18T18:28:15.457Z,"8 km NNE of Banning, CA",earthquake,0.19,0.51,0.117,24,reviewed,ci,ci
-2023-08-18T04:43:29.814Z,60.0145,-152.9236,98.1,1.7,ml,,,,0.9,ak,ak023akg8u34,2023-08-18T04:46:24.639Z,"66 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-18T04:37:05.050Z,36.1456667,-118.1871667,4.42,1.98,ml,21,134,0.2705,0.12,ci,ci39643418,2023-08-18T18:21:41.524Z,"22 km SW of Olancha, CA",earthquake,0.23,2.11,0.179,16,reviewed,ci,ci
-2023-08-18T04:36:07.020Z,36.1425,-118.1845,4.71,1.08,ml,16,134,0.268,0.12,ci,ci39643410,2023-08-18T18:18:11.692Z,"22 km SW of Olancha, CA",earthquake,0.29,2.4,0.084,7,reviewed,ci,ci
-2023-08-18T04:33:49.774Z,0.2443,121.9512,190.517,4.9,mb,60,62,1.452,1.09,us,us7000kp5v,2023-08-18T04:51:06.040Z,"127 km WSW of Gorontalo, Indonesia",earthquake,7.11,6.374,0.084,44,reviewed,us,us
-2023-08-18T04:32:50.480Z,17.9288333333333,-66.8758333333333,9.43,2.24,md,12,219,0.04608,0.19,pr,pr71421718,2023-08-18T04:42:53.430Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,0.78,0.58,0.103664512196656,5,reviewed,pr,pr
