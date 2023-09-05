@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T05:25:25.350Z,19.3898334503174,-155.278167724609,1.38999998569489,1.79,ml,23,55,,0.170000002,hv,hv73562977,2023-09-05T05:30:55.430Z,"7 km SW of Volcano, Hawaii",earthquake,0.28,0.200000003,0.26,9,automatic,hv,hv
 2023-09-05T05:25:20.828Z,61.5644,-150.0101,33,1.4,ml,,,,0.52,ak,ak023be8en02,2023-09-05T05:27:44.208Z,"5 km NNW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-05T05:25:10.450Z,19.40016746521,-155.246170043945,1.97000002861023,1.79,ml,9,71,,0.0900000036,hv,hv73562972,2023-09-05T05:30:46.740Z,"4 km SSW of Volcano, Hawaii",earthquake,0.32,0.540000021,0.36,9,automatic,hv,hv
-2023-09-05T05:23:55.620Z,38.8371658,-122.8126678,1.29,0.68,md,4,180,0.0139,0,nc,nc73933256,2023-09-05T05:25:30.147Z,"8 km WNW of Cobb, CA",earthquake,0.89,4.1,0.24,6,automatic,nc,nc
+2023-09-05T05:23:55.620Z,38.8371658,-122.8126678,1.29,0.68,md,4,180,0.0139,0,nc,nc73933256,2023-09-05T05:40:12.561Z,"8 km WNW of Cobb, CA",earthquake,0.89,4.1,0.24,6,automatic,nc,nc
 2023-09-05T05:18:51.644Z,57.8978,-153.8186,38.7,1.7,ml,,,,0.47,ak,ak023be8d7d8,2023-09-05T05:20:49.336Z,"40 km NNE of Larsen Bay, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-09-05T05:06:17.815Z,62.1748,-148.4685,28.4,2.4,ml,,,,0.53,ak,ak023be8ak5x,2023-09-05T05:08:05.780Z,"42 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-05T05:00:11.233Z,61.7463,-150.8308,52,2.5,ml,,,,0.28,ak,ak023be899cz,2023-09-05T05:24:45.040Z,"28 km NW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T04:38:06.210Z,19.3986663818359,-155.270660400391,1.72000002861023,2.03,ml,27,41,,0.150000006,hv,hv73562892,2023-09-05T04:43:40.900Z,"6 km SW of Volcano, Hawaii",earthquake,0.23,0.270000011,0.31,10,automatic,hv,hv
 2023-09-05T04:38:05.920Z,19.4090003967285,-155.376327514648,2.23000001907349,2.35,ml,8,109,,0.25,hv,hv73562897,2023-09-05T04:43:44.890Z,"15 km WSW of Volcano, Hawaii",earthquake,0.98,4.96000004,0.27,6,automatic,hv,hv
 2023-09-05T04:30:29.242Z,-4.7762,131.0123,46.864,4.6,mb,25,59,2.219,0.68,us,us7000ktbp,2023-09-05T05:09:22.040Z,"214 km WNW of Tual, Indonesia",earthquake,6.88,8.742,0.132,17,reviewed,us,us
-2023-09-05T04:27:15.970Z,35.749,140.2135,57.907,4.9,mb,64,134,1.805,1.28,us,us7000ktbl,2023-09-05T05:27:46.659Z,"near the east coast of Honshu, Japan",earthquake,7.11,6.116,0.054,108,reviewed,us,us
+2023-09-05T04:27:15.970Z,35.749,140.2135,57.907,4.9,mb,64,134,1.805,1.28,us,us7000ktbl,2023-09-05T05:56:19.623Z,"near the east coast of Honshu, Japan",earthquake,7.11,6.116,0.054,108,reviewed,us,us
 2023-09-05T04:17:01.577Z,60.5716,-151.6372,80.3,1.5,ml,,,,0.46,ak,ak023be7rg6l,2023-09-05T04:18:55.019Z,"18 km WSW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-05T04:12:27.993Z,5.6549,126.5326,78.008,4.7,mb,46,86,1.695,0.53,us,us7000ktbj,2023-09-05T04:58:59.040Z,"87 km SSE of Pondaguitan, Philippines",earthquake,6.92,6.845,0.081,48,reviewed,us,us
 2023-09-05T04:11:33.411Z,-29.8331,-179.2076,319.581,4.9,mb,63,80,1.258,0.76,us,us7000ktbg,2023-09-05T04:52:36.040Z,"Kermadec Islands region",earthquake,10.51,5.057,0.038,217,reviewed,us,us
@@ -216,9 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T06:09:50.610Z,19.6371,-65.5166,12,3.75,md,14,259,1.3983,0.44,pr,pr2023247002,2023-09-04T06:48:36.587Z,"138 km NNE of Suárez, Puerto Rico",earthquake,3.36,5.22,0.11,14,reviewed,pr,pr
 2023-09-04T06:07:00.080Z,18.0115,-66.7323333333333,14.97,2.4,md,10,181,0.124,0.12,pr,pr71423593,2023-09-04T06:19:16.630Z,"2 km NW of Tallaboa, Puerto Rico",earthquake,0.42,0.89,0.0845493883948394,6,reviewed,pr,pr
 2023-09-04T06:01:07.009Z,63.1361,-147.6525,8.6,1.2,ml,,,,1.06,ak,ak023bclbjpd,2023-09-04T06:03:39.137Z,"71 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-04T05:54:22.460Z,33.4901667,-116.5851667,9.1,0.59,ml,23,59,0.01493,0.15,ci,ci39658066,2023-09-04T05:58:01.573Z,"11 km SE of Anza, CA",earthquake,0.29,0.49,0.209,12,automatic,ci,ci
-2023-09-04T05:54:06.370Z,33.4898333,-116.5828333,9.15,0.64,ml,24,60,0.0169,0.11,ci,ci39658058,2023-09-04T05:57:43.008Z,"11 km SE of Anza, CA",earthquake,0.18,0.29,0.156,16,automatic,ci,ci
-2023-09-04T05:50:35.180Z,34.4306667,-119.1623333,0.68,1.48,ml,18,119,0.02145,0.33,ci,ci39658050,2023-09-04T05:54:11.144Z,"8 km ESE of Ojai, CA",earthquake,0.45,0.77,0.183,26,automatic,ci,ci
-2023-09-04T05:47:37.480Z,34.4964981,-119.0026703,5.31,1.89,ml,53,37,0.07301,0.27,ci,ci39658042,2023-09-04T05:58:12.800Z,"13 km NW of Fillmore, CA",earthquake,0.29,0.88,0.177,31,automatic,ci,ci
-2023-09-04T05:40:23.470Z,33.8143333,-118.2565,8,1.32,ml,25,82,0.0537,0.33,ci,ci39658026,2023-09-05T03:17:28.233Z,"3 km SE of Carson, CA",earthquake,0.63,1.27,0.141,27,automatic,ci,ci
-2023-09-04T05:35:49.370Z,38.8380013,-122.8078308,1.84,0.75,md,10,70,0.01366,0.03,nc,nc73932841,2023-09-04T05:37:26.774Z,"8 km WNW of Cobb, CA",earthquake,0.38,1.21,0.32,11,automatic,nc,nc
