@@ -206,7 +206,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T10:38:35.853Z,60.6103,-151.2044,60.7,3.7,ml,,,,0.77,ak,ak023bebgmhd,2023-09-05T17:46:03.497Z,"6 km E of Salamatof, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-09-05T10:34:10.870Z,46.85333333333333,-121.7575,1.18,0.45,ml,18,73,0.02443,0.08,uw,uw61957321,2023-09-05T17:07:22.660Z,"23 km ENE of Ashford, Washington",earthquake,0.19,0.36,0.3468645010138516,8,reviewed,uw,uw
 2023-09-05T10:27:29.060Z,33.6721667,-116.7058333,14.99,0.5,ml,14,100,0.03951,0.09,ci,ci39658562,2023-09-05T13:17:19.335Z,"8 km S of Idyllwild, CA",earthquake,0.31,0.57,0.107,8,reviewed,ci,ci
-2023-09-05T10:21:41.860Z,40.124,-123.0593333,42.78,2.5,md,53,27,0.09294,0.15,nc,nc73933326,2023-09-05T21:46:16.063Z,"40 km NNE of Covelo, CA",earthquake,0.34,0.56,0.23,55,reviewed,nc,nc
+2023-09-05T10:21:41.860Z,40.124,-123.0593333,42.78,2.5,md,53,27,0.09294,0.15,nc,nc73933326,2023-09-06T09:00:39.040Z,"40 km NNE of Covelo, CA",earthquake,0.34,0.56,0.23,55,reviewed,nc,nc
 2023-09-05T10:15:10.630Z,47.8825,-121.83416666666666,64.68,1.06,ml,18,59,0.0409,0.16,uw,uw61957316,2023-09-05T17:14:25.350Z,"2 km W of North Sultan, Washington",earthquake,0.86,0.57,0.0888773454399987,6,reviewed,uw,uw
 2023-09-05T10:14:17.368Z,60.3632,-142.0311,9.6,1.2,ml,,,,0.27,ak,ak023bebbfvs,2023-09-05T10:15:55.428Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-09-05T10:06:28.560Z,34.1481667,-117.425,6.64,0.69,ml,25,76,0.04437,0.13,ci,ci39658554,2023-09-06T00:48:01.489Z,"6 km NNE of Fontana, CA",earthquake,0.23,0.51,0.12,14,reviewed,ci,ci
@@ -217,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T09:30:40.210Z,19.1343326568604,-155.363006591797,28.6100006103516,2.0999999,md,47,186,,0.140000001,hv,hv73563327,2023-09-05T09:36:10.410Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.7,0.910000026,0.519999981,21,automatic,hv,hv
 2023-09-05T09:25:21.110Z,17.9888333333333,-66.9321666666667,15.42,2.17,md,7,155,0.05219,0.06,pr,pr71423808,2023-09-05T10:07:41.260Z,"1 km W of Fuig, Puerto Rico",earthquake,0.79,0.56,0.0964109543977427,5,reviewed,pr,pr
 2023-09-05T09:24:28.710Z,61.5923,-146.3893,25.6,1.2,ml,,,,0.8,ak,ak023beas6bb,2023-09-05T09:26:45.059Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-05T08:54:18.027Z,64.3346,-147.3856,0,2.5,ml,,,,0.39,ak,ak023beaczev,2023-09-05T08:56:20.375Z,"31 km SW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-05T08:52:52.470Z,38.8359985,-122.836998,1.63,0.72,md,11,104,0.002843,0.01,nc,nc73933311,2023-09-05T09:12:12.812Z,"10 km NW of The Geysers, CA",earthquake,0.35,0.53,0.3,12,automatic,nc,nc
-2023-09-05T08:50:35.090Z,33.2956667,-116.2231667,11.29,1.2,ml,58,63,0.1059,0.18,ci,ci39658530,2023-09-06T00:38:40.646Z,"15 km ENE of Borrego Springs, CA",earthquake,0.18,0.4,0.134,29,reviewed,ci,ci
