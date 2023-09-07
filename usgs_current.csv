@@ -1,8 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-07T08:40:02.490Z,38.8349991,-122.7809982,1.77,2.28,md,57,46,0.008054,0.05,nc,nc73934081,2023-09-07T08:41:42.396Z,"5 km WNW of Cobb, CA",earthquake,0.14,0.2,0.16,58,automatic,nc,nc
+2023-09-07T08:26:50.360Z,36.0223351,-120.5824966,1.34,0.62,md,8,122,0.03937,0.06,nc,nc73934076,2023-09-07T08:28:25.801Z,"19 km NW of Parkfield, CA",earthquake,0.41,2.05,0.03,3,automatic,nc,nc
+2023-09-07T08:20:35.640Z,38.8025017,-122.8146667,13.27,0.66,md,8,122,0.013,0.07,nc,nc73934071,2023-09-07T08:38:11.047Z,"6 km WNW of The Geysers, CA",earthquake,2.54,1.75,0.19,4,automatic,nc,nc
+2023-09-07T08:14:59.358Z,61.8918,-147.4989,34.5,1.7,ml,,,,0.56,ak,ak023bhl7azw,2023-09-07T08:16:39.348Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-09-07T08:13:33.836Z,61.3019,-146.7193,15.5,1.2,ml,,,,0.37,ak,ak023bhl737r,2023-09-07T08:15:03.679Z,"27 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-07T07:45:35.360Z,33.8961667,-117.992,9.69,1.28,ml,35,67,0.04543,0.27,ci,ci39660178,2023-09-07T07:49:05.089Z,"3 km SE of La Mirada, CA",earthquake,0.4,0.92,0.201,31,automatic,ci,ci
 2023-09-07T07:43:04.398Z,63.2099,-150.521,120.8,1,ml,,,,0.21,ak,ak023bhks0tj,2023-09-07T07:45:09.199Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-09-07T07:41:25.900Z,32.7423333,-116.0221667,9.5,1.08,ml,11,114,0.005732,0.26,ci,ci39660170,2023-09-07T07:45:00.784Z,"3 km WNW of Ocotillo, CA",earthquake,0.63,1.51,0.372,9,automatic,ci,ci
-2023-09-07T07:38:05.440Z,19.3686676025391,-155.291839599609,2.02999997138977,1.91,ml,28,107,,0.239999995,hv,hv73567337,2023-09-07T07:43:35.960Z,"10 km SW of Volcano, Hawaii",earthquake,0.33,0.519999981,0.36,8,automatic,hv,hv
+2023-09-07T07:38:05.250Z,19.3663333333333,-155.295,1.98,2.03,ml,28,106,,0.11,hv,hv73567337,2023-09-07T08:14:31.780Z,"10 km SW of Volcano, Hawaii",earthquake,0.22,0.29,0.182826492430633,10,reviewed,hv,hv
 2023-09-07T07:37:29.280Z,38.8289986,-122.8036652,1.46,0.27,md,8,78,0.007508,0.02,nc,nc73934061,2023-09-07T07:54:11.780Z,"7 km W of Cobb, CA",earthquake,0.38,1.12,0.16,7,automatic,nc,nc
 2023-09-07T07:37:26.440Z,19.3619995117188,-155.304168701172,-0.189999997615814,1.89,ml,13,92,,0.239999995,hv,hv73567332,2023-09-07T07:42:57.300Z,"11 km SW of Volcano, Hawaii",earthquake,0.36,0.370000005,0.29,9,automatic,hv,hv
 2023-09-07T07:24:35.400Z,38.8383331,-122.8048325,0.85,0.21,md,9,106,0.01132,0.05,nc,nc73934056,2023-09-07T07:42:11.703Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.99,0.07,10,automatic,nc,nc
@@ -209,9 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T09:11:25.134Z,62.893,-151.1637,32.1,1.1,ml,,,,1.12,ak,ak023bfy8q81,2023-09-06T09:12:54.312Z,"48 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-06T09:07:05.960Z,38.808,-122.8051667,1.37,0.39,md,10,74,0.007707,0.07,nc,nc73933641,2023-09-06T11:00:14.688Z,"5 km NW of The Geysers, CA",earthquake,0.24,0.36,0.373,10,reviewed,nc,nc
 2023-09-06T08:42:10.630Z,35.68,-117.4736667,4.14,1.06,ml,16,155,0.0433,0.19,ci,ci39659330,2023-09-06T22:55:51.962Z,"12 km SSW of Searles Valley, CA",earthquake,0.55,0.99,0.164,7,reviewed,ci,ci
-2023-09-06T08:40:23.650Z,46.9208333333333,-112.794833333333,12.38,1,ml,19,62,0.1012,0.08,mb,mb90026453,2023-09-06T21:40:58.890Z,"9 km WSW of Lincoln, Montana",earthquake,0.25,0.77,0.234324832459378,7,reviewed,mb,mb
-2023-09-06T08:35:41.459Z,64.7186,-147.9087,15.8,0.6,ml,,,,0.47,ak,ak023bfxsh29,2023-09-06T08:37:45.545Z,"11 km SSW of South Van Horn, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-06T08:33:05.230Z,37.5028333,-118.8733333,4.06,1.35,md,22,205,0.09387,0.05,nc,nc73933636,2023-09-06T11:10:13.758Z,"18 km SSE of Mammoth Lakes, CA",earthquake,0.56,1.21,0.148,19,reviewed,nc,nc
-2023-09-06T08:31:09.972Z,31.20782749,-103.7720835,5.848779297,2.4,ml,16,67,0.07736419736,0.3,tx,tx2023rltq,2023-09-06T14:32:36.828Z,"12 km S of Toyah, Texas",earthquake,1.365329023,2.296717441,0.1,9,reviewed,tx,tx
-2023-09-06T08:30:28.697Z,39.668,-119.4453,8.3,0,ml,3,214.25,0.063,0.0535,nn,nn00865487,2023-09-07T02:03:58.306Z,"14 km WNW of Wadsworth, Nevada",earthquake,,8.1,0.26,3,reviewed,nn,nn
-2023-09-06T08:14:42.540Z,19.658,-65.5101,35,3.82,md,9,294,1.415,0.21,pr,pr2023249003,2023-09-06T08:34:16.216Z,"140 km NNE of Suárez, Puerto Rico",earthquake,1.66,15.8,0.08,5,reviewed,pr,pr
