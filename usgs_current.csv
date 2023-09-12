@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-12T08:12:18.530Z,33.4895,-116.4983333,8.47,0.61,ml,19,93,0.08695,0.15,ci,ci39663266,2023-09-12T08:15:50.110Z,"18 km ESE of Anza, CA",earthquake,0.24,0.8,0.184,15,automatic,ci,ci
+2023-09-12T08:10:58.464Z,39.5659,-118.1042,5,2.3,ml,12,144.95,0.237,0.076,nn,nn00865715,2023-09-12T08:13:37.543Z,"55 km ENE of Fallon Station, Nevada",earthquake,,0.8,0.19,8,automatic,nn,nn
+2023-09-12T08:04:48.880Z,34.4415,-117.9135,11.26,0.97,ml,18,60,0.03542,0.16,ci,ci39663258,2023-09-12T08:08:22.047Z,"7 km S of Pearblossom, CA",earthquake,0.3,0.56,0.257,8,automatic,ci,ci
+2023-09-12T08:04:22.692Z,61.4313,-150.7631,53.1,1.4,ml,,,,0.25,ak,ak023bputvdp,2023-09-12T08:05:54.784Z,"18 km SW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-12T07:54:27.260Z,38.8138351,-122.7856674,1.27,1.01,md,14,53,0.003935,0.02,nc,nc73935976,2023-09-12T07:56:01.896Z,"5 km NNW of The Geysers, CA",earthquake,0.27,0.43,0.23,18,automatic,nc,nc
+2023-09-12T07:50:39.840Z,18.0258333333333,-66.7605,12.58,2.3,md,9,176,0.03009,0.13,pr,pr71424628,2023-09-12T07:59:03.580Z,"1 km NE of Magas Arriba, Puerto Rico",earthquake,0.48,0.71,0.135077623610081,4,reviewed,pr,pr
 2023-09-12T07:45:47.220Z,61.6273,-147.7423,28,1.1,ml,,,,1.03,ak,ak023bpuh9zh,2023-09-12T07:47:45.510Z,"20 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-12T07:34:08.242Z,63.2614,-152.0359,0.8,1.5,ml,,,,0.61,ak,ak023bpueu54,2023-09-12T07:36:06.714Z,"34 km SSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-12T07:17:02.600Z,19.3621673583984,-155.153335571289,1.05999994277954,1.75999999,md,35,98,,0.280000001,hv,hv73576097,2023-09-12T07:20:19.400Z,"11 km S of Fern Forest, Hawaii",earthquake,0.73,0.479999989,0.430000007,13,automatic,hv,hv
@@ -192,12 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T08:54:46.480Z,19.1856670379639,-155.476165771484,30.7999992370605,2.11999989,md,36,83,,0.129999995,hv,hv73575552,2023-09-11T08:58:07.160Z,"Island of Hawaii, Hawaii",earthquake,0.52,0.790000021,1.72000003,14,automatic,hv,hv
 2023-09-11T08:41:41.390Z,44.7681667,-111.1058333,11.21,-0.16,md,8,84,0.02801,0.11,uu,uu60549877,2023-09-11T15:49:33.990Z,"Idaho-Montana border region",earthquake,0.56,1.56,0.123,5,reviewed,uu,uu
 2023-09-11T08:31:45.100Z,55.4949,-159.1609,94.8,1.9,ml,,,,1.04,ak,ak023bo7gcy6,2023-09-11T08:33:21.930Z,"46 km S of Perryville, Alaska",earthquake,,2.9,,,automatic,ak,ak
-2023-09-11T08:23:40.450Z,-5.0958,144.6532,79.804,4.5,mb,29,68,4.702,0.51,us,us7000kuz8,2023-09-11T13:40:14.040Z,"96 km NNE of Mount Hagen, Papua New Guinea",earthquake,7.14,8.744,0.118,24,reviewed,us,us
-2023-09-11T08:14:03.680Z,19.1498336791992,-155.37483215332,29.8299999237061,2.42,ml,49,191,,0.119999997,hv,hv73575537,2023-09-11T15:25:30.040Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.53,0.629999995,3.15,14,automatic,hv,hv
-2023-09-11T08:11:23.750Z,33.7723333,-116.1471667,6.87,0.76,ml,26,103,0.06655,0.15,ci,ci39662522,2023-09-11T18:14:29.670Z,"9 km NE of Indio, CA",earthquake,0.22,0.63,0.108,19,reviewed,ci,ci
-2023-09-11T08:10:01.770Z,33.7181667,-116.8285,16.08,0.68,ml,15,159,0.0853,0.13,ci,ci39662514,2023-09-11T13:19:01.651Z,"7 km ESE of Valle Vista, CA",earthquake,0.41,0.43,0.222,10,reviewed,ci,ci
-2023-09-11T08:08:23.830Z,53.371,-167.568,19.38,0.48,ml,4,346,,0.14,av,av91115563,2023-09-12T00:13:07.700Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,4.2,3.01,0.221848160939283,4,reviewed,av,av
-2023-09-11T08:07:13.250Z,58.1683333333333,-155.345166666667,1.44,0.68,ml,10,74,,0.04,av,av92039491,2023-09-12T00:05:41.620Z,"85 km NW of Karluk, Alaska",earthquake,0.17,0.59,0.293102732295585,4,reviewed,av,av
-2023-09-11T08:02:46.290Z,33.716,-116.8266667,17.2,0.28,ml,9,164,0.08598,0.1,ci,ci37528997,2023-09-11T18:08:15.618Z,"7 km ESE of Valle Vista, CA",earthquake,0.41,0.6,0.116,6,reviewed,ci,ci
-2023-09-11T08:02:20.430Z,33.7156667,-116.824,17.81,0.75,ml,14,96,0.08772,0.08,ci,ci39662506,2023-09-11T18:03:39.526Z,"7 km ESE of Valle Vista, CA",earthquake,0.3,0.35,0.159,12,reviewed,ci,ci
-2023-09-11T08:01:53.628Z,43.5632,45.1464,10,4.3,mb,40,53,1.248,0.64,us,us7000kuz6,2023-09-11T17:09:41.040Z,"8 km NE of Goragorskiy, Russia",earthquake,2.74,1.916,0.111,23,reviewed,us,us
