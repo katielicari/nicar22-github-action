@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-16T16:58:01.060Z,33.8333333,-117.2315,22.25,0.84,ml,12,118,0.1601,0.27,ci,ci39667098,2023-09-16T17:01:39.014Z,"6 km N of Perris, CA",earthquake,1.32,2.98,0.167,10,automatic,ci,ci
+2023-09-16T16:49:57.620Z,34.0325,-116.7348333,11.9,2.75,ml,83,24,0.06064,0.19,ci,ci39667082,2023-09-16T17:00:51.170Z,"14 km NNE of Cabazon, CA",earthquake,0.17,0.48,0.21,25,automatic,ci,ci
 2023-09-16T16:10:52.860Z,64.4027,-149.9615,0,1.5,ml,,,,1.21,ak,ak023bwls2ti,2023-09-16T16:12:45.191Z,"37 km W of Anderson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-16T16:10:42.280Z,19.1515007019043,-155.473007202148,32.3499984741211,2.27999997,md,43,161,,0.119999997,hv,hv73578817,2023-09-16T16:16:13.860Z,"5 km S of Pāhala, Hawaii",earthquake,0.59,0.74000001,0.779999971,27,automatic,hv,hv
 2023-09-16T15:56:48.450Z,55.5644,160.0484,188.729,4.4,mb,33,131,2.675,0.75,us,us7000kw7f,2023-09-16T16:10:43.040Z,"Kamchatka Peninsula, Russia",earthquake,12.39,10.956,0.092,34,reviewed,us,us
@@ -207,7 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T17:15:09.384Z,37.1337,71.7163,132.66,4.3,mb,38,61,2.341,0.62,us,us7000kw0d,2023-09-16T12:27:50.460Z,"42 km SSE of Khorugh, Tajikistan",earthquake,6.21,8.565,0.096,31,reviewed,us,us
 2023-09-15T17:11:43.668Z,63.2468,-150.4333,9.2,1.1,ml,,,,0.18,ak,ak023buyucxq,2023-09-15T17:13:30.197Z,"72 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-15T17:04:30.659Z,-15.5327,-174.4281,182.624,4.9,mb,82,54,3.126,1.02,us,us7000kw0c,2023-09-15T18:07:59.040Z,"Tonga",earthquake,7.57,5.719,0.061,86,reviewed,us,us
-2023-09-15T16:49:33.230Z,33.7801667,-116.034,5.99,1.24,ml,39,95,0.13,0.15,ci,ci39666058,2023-09-15T17:55:42.030Z,"17 km NE of Coachella, CA",earthquake,0.2,0.73,0.171,23,reviewed,ci,ci
-2023-09-15T16:46:41.680Z,35.7085,-117.5481667,2.66,0.8,ml,16,80,0.1102,0.22,ci,ci39666050,2023-09-15T17:58:02.745Z,"15 km WSW of Searles Valley, CA",earthquake,0.41,0.7,0.134,5,reviewed,ci,ci
-2023-09-15T16:45:31.190Z,35.9228333,-120.4716667,4.07,0.74,md,24,93,0.02024,0.06,nc,nc73937091,2023-09-15T19:18:57.363Z,"4 km NW of Parkfield, CA",earthquake,0.23,0.37,0.225,10,reviewed,nc,nc
-2023-09-15T16:44:52.690Z,19.553,-64.6635,51,3.75,md,8,317,1.2358,0.3,pr,pr2023258002,2023-09-15T17:53:24.040Z,"135 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.24,18.56,0.05,5,reviewed,pr,pr
