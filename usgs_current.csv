@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-17T10:25:21.790Z,33.8075,-117.7406667,7.63,0.9,ml,19,81,0.0456,0.2,ci,ci39667402,2023-09-17T10:28:55.026Z,"7 km E of Villa Park, CA",earthquake,0.39,0.95,0.175,13,automatic,ci,ci
 2023-09-17T09:59:18.000Z,50.332,-128.649,12,4.3,Mb,45,176.39998588800114,4.064877,1.42,at,at00s14jqu,2023-09-17T10:05:24.905Z,"Vancouver Island, Canada region",earthquake,0,0,,20,reviewed,at,at
+2023-09-17T09:59:00.062Z,50.9258,-130.0809,10,4.4,mb,64,157,1.269,0.74,us,us7000kwak,2023-09-17T10:23:49.040Z,"Vancouver Island, Canada region",earthquake,6.5,1.934,0.038,203,reviewed,us,us
 2023-09-17T09:40:54.180Z,36.9603348,-121.6018295,7.3,1.64,md,30,61,0.01662,0.17,nc,nc73937806,2023-09-17T10:14:13.147Z,"6 km SSW of Gilroy, CA",earthquake,0.35,0.64,0.22,26,automatic,nc,nc
 2023-09-17T08:58:20.460Z,38.8393326,-122.8356705,1.29,0.27,md,8,113,0.0007562,0.01,nc,nc73937801,2023-09-17T08:59:56.680Z,"10 km NW of The Geysers, CA",earthquake,0.37,0.85,0.16,8,automatic,nc,nc
 2023-09-17T08:34:41.880Z,38.8146667,-122.8144989,2.93,1.08,md,21,48,0.009376,0.02,nc,nc73937786,2023-09-17T08:36:15.943Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.46,0.17,20,automatic,nc,nc
@@ -138,7 +140,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T11:19:59.970Z,19.1773338317871,-155.496002197266,31.8799991607666,1.97,ml,44,86,,0.109999999,hv,hv73578747,2023-09-16T11:25:31.120Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.5,0.790000021,3.94,5,automatic,hv,hv
 2023-09-16T11:09:16.526Z,64.9447,-147.2932,0,1.7,ml,,,,0.89,ak,ak023bwism9w,2023-09-16T11:11:04.780Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-16T10:38:04.510Z,19.0631666666667,-66.495,21.82,3.26,md,20,271,0.5839,0.18,pr,pr71425003,2023-09-16T12:43:22.700Z,"66 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.73,13.56,0.0840697976494271,8,reviewed,pr,pr
-2023-09-16T10:30:22.660Z,38.8373337,-122.7963333,2.05,1.53,md,23,58,0.004799,0.03,nc,nc73937431,2023-09-16T11:08:13.918Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.37,0.15,27,automatic,nc,nc
-2023-09-16T10:29:48.840Z,33.5025,-116.7871667,6.47,0.35,ml,14,89,0.01775,0.12,ci,ci39666818,2023-09-16T10:33:25.664Z,"10 km NE of Aguanga, CA",earthquake,0.32,0.49,0.159,10,automatic,ci,ci
-2023-09-16T10:18:04.430Z,32.8275,-115.6026667,13.72,1.22,ml,15,54,0.06392,0.24,ci,ci39666810,2023-09-16T10:21:36.594Z,"4 km SW of Imperial, CA",earthquake,0.58,1.01,0.208,10,automatic,ci,ci
-2023-09-16T10:17:28.300Z,32.8273333,-115.606,11.82,1.35,ml,15,88,0.06314,0.23,ci,ci39666802,2023-09-16T10:21:00.440Z,"4 km WSW of Imperial, CA",earthquake,0.57,0.81,0.184,15,automatic,ci,ci
