@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-13T03:44:32.333Z,-51.8028,139.4955,4.864,6,mww,44,94,10.353,0.8,us,us6000lf9x,2023-10-13T04:06:12.058Z,"western Indian-Antarctic Ridge",earthquake,11.1,3.368,0.08,15,reviewed,us,us
 2023-10-13T03:28:30.920Z,20.13450050354,-156.09700012207,15.7700004577637,2.86,ml,46,307,,0.310000002,hv,hv73607242,2023-10-13T03:38:22.040Z,"29 km WSW of Hāwī, Hawaii",earthquake,1.8,28.2399998,3.74,16,automatic,hv,hv
 2023-10-13T03:28:13.914Z,62.1223,-147.2819,18.3,2.4,ml,,,,0.9,ak,ak023d51nl64,2023-10-13T03:29:58.661Z,"21 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-13T03:27:51.825Z,32.3004,-101.0594,5,2.8,mb_lg,31,48,0.389,0.8,us,us6000lf9q,2023-10-13T03:35:07.040Z,"7 km SW of Westbrook, Texas",earthquake,1.52,2.002,0.066,61,reviewed,us,us
+2023-10-13T03:24:23.700Z,18.9655,-66.2648333333333,26.4,3.18,md,19,262,0.5467,0.18,pr,pr71428373,2023-10-13T03:47:48.170Z,"55 km N of Brenas, Puerto Rico",earthquake,0.69,5.48,0.0868388005012415,7,reviewed,pr,pr
 2023-10-13T02:51:27.720Z,32.6893349,-115.7235031,9.43,1.42,ml,22,73,0.03997,0.25,ci,ci40581920,2023-10-13T02:53:33.412Z,"18 km NW of Progreso, B.C., MX",earthquake,0.53,1.02,0.234,4,automatic,ci,ci
 2023-10-13T02:48:57.572Z,58.1518,-155.4129,0.1,0.3,ml,,,,0.59,ak,ak023d516j99,2023-10-13T02:50:53.597Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
-2023-10-13T02:47:01.984Z,39.6629,-119.6344,7.9,2.3,ml,10,160.36,0.219,0.3604,nn,nn00867229,2023-10-13T03:08:08.541Z,"Nevada",earthquake,,0.9,0.47,4,automatic,nn,nn
+2023-10-13T02:47:02.775Z,39.6262,-119.64,9.4,2.3,ml,24,73.09,0.134,0.2141,nn,nn00867229,2023-10-13T03:47:13.113Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1.6,0.26,8,reviewed,nn,nn
 2023-10-13T02:47:00.780Z,34.0113335,-117.0066681,17.43,1.37,ml,34,40,0.1009,0.17,ci,ci40581912,2023-10-13T02:49:29.580Z,"4 km SE of Yucaipa, CA",earthquake,0.3,0.69,0.302,14,automatic,ci,ci
 2023-10-13T02:46:48.376Z,39.6165,-119.6488,4,1.9,ml,11,71.57,0.224,0.1346,nn,nn00867228,2023-10-13T02:49:37.996Z,"6 km SE of Spanish Springs, Nevada",earthquake,,9.6,0.47,8,automatic,nn,nn
 2023-10-13T02:36:03.370Z,38.8308334,-122.8181686,1.78,1.09,md,17,68,0.009754,0.02,nc,nc73946590,2023-10-13T02:56:14.002Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.35,0.17,21,automatic,nc,nc
@@ -17,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T00:31:14.840Z,38.8180008,-122.7611694,1.85,0.77,md,9,118,0.0142,0.01,nc,nc73946575,2023-10-13T01:27:14.373Z,"3 km W of Cobb, CA",earthquake,0.35,0.86,0.21,12,automatic,nc,nc
 2023-10-13T00:27:46.480Z,19.1798324584961,-155.496826171875,34.689998626709,1.86000001,md,30,159,,0.109999999,hv,hv73607177,2023-10-13T00:30:54.600Z,"3 km SW of Pāhala, Hawaii",earthquake,0.81,1.14999998,0.930000007,8,automatic,hv,hv
 2023-10-13T00:25:26.377Z,38.5236,-119.5018,3.5,1.6,ml,8,169.46,0.064,0.1809,nn,nn00867227,2023-10-13T00:28:26.657Z,"2 km WNW of Walker, California",earthquake,,0.8,0,1,automatic,nn,nn
-2023-10-13T00:24:16.603Z,13.7842,120.9418,10,5.2,mb,88,84,8.081,0.91,us,us6000lf92,2023-10-13T03:22:09.368Z,"3 km N of Mabini, Philippines",earthquake,8.77,1.867,0.047,150,reviewed,us,us
+2023-10-13T00:24:16.603Z,13.7842,120.9418,10,5.2,mb,88,84,8.081,0.91,us,us6000lf92,2023-10-13T04:04:28.552Z,"3 km N of Mabini, Philippines",earthquake,8.77,1.867,0.047,150,reviewed,us,us
 2023-10-13T00:15:22.677Z,59.6296,-152.0921,54.8,2.2,ml,,,,0.49,ak,ak023d4zsiq3,2023-10-13T00:17:12.220Z,"21 km SW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-13T00:07:16.220Z,38.7919998,-122.7803345,3.24,1.08,md,27,79,0.006042,0.02,nc,nc73946565,2023-10-13T00:56:12.167Z,"3 km NW of The Geysers, CA",earthquake,0.25,0.48,0.19,25,automatic,nc,nc
 2023-10-13T00:03:14.885Z,36.0508,68.715,10,4.9,mb,112,53,1.53,0.77,us,us6000lf8s,2023-10-13T00:18:38.040Z,"8 km S of Baghlān, Afghanistan",earthquake,3.84,1.833,0.05,126,reviewed,us,us
@@ -204,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T04:10:50.300Z,38.815834,-122.8323364,1.51,0.42,md,7,134,0.007381,0.03,nc,nc73946325,2023-10-12T04:34:15.153Z,"8 km WNW of The Geysers, CA",earthquake,0.51,1.17,0.31,8,automatic,nc,nc
 2023-10-12T04:08:57.170Z,37.1307,-116.9464,7.5,-0.2,ml,4,240.82,0.166,0.118,nn,nn00867177,2023-10-12T17:17:50.340Z,"29 km NW of Beatty, Nevada",earthquake,,5.1,0,1,reviewed,nn,nn
 2023-10-12T04:07:38.440Z,38.7901649,-122.7591629,1.58,1.63,md,24,69,0.01045,0.04,nc,nc73946320,2023-10-12T06:49:15.057Z,"2 km N of The Geysers, CA",earthquake,0.22,0.34,0.13,26,automatic,nc,nc
-2023-10-12T03:57:24.770Z,44.2101666666667,-115.099333333333,7.91,2.11,ml,10,73,0.2095,0.22,mb,mb90029623,2023-10-12T16:05:33.100Z,"12 km W of Stanley, Idaho",earthquake,0.44,1.6,0.318071024389648,14,reviewed,mb,mb
-2023-10-12T03:43:22.360Z,36.5668333333333,-89.598,6.82,2.15,md,51,33,0.01268,0.18,nm,nm60555106,2023-10-12T14:06:44.270Z,"southeastern Missouri",earthquake,0.16,0.41,0.132315721503977,37,reviewed,nm,nm
