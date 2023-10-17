@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-17T11:25:11.870Z,33.828,-117.0255,14.8,0.77,ml,20,67,0.1212,0.18,ci,ci40583320,2023-10-17T11:28:43.796Z,"8 km NW of San Jacinto, CA",earthquake,0.39,0.81,0.155,11,automatic,ci,ci
 2023-10-17T10:55:26.220Z,19.3665008544922,-155.290496826172,2.41000008583069,1.83000004,md,16,109,,0.189999998,hv,hv73611627,2023-10-17T10:58:35.670Z,"10 km SW of Volcano, Hawaii",earthquake,0.35,0.370000005,0.730000019,12,automatic,hv,hv
 2023-10-17T10:44:15.600Z,19.3876667022705,-155.287506103516,1.38999998569489,1.96000004,md,17,133,,0.200000003,hv,hv73611612,2023-10-17T10:47:11.590Z,"8 km SW of Volcano, Hawaii",earthquake,0.35,0.319999993,1.05999994,12,automatic,hv,hv
 2023-10-17T10:40:28.287Z,37.1779,-117.2414,0.8,1.4,ml,29,104.09,0.207,0.2885,nn,nn00867468,2023-10-17T10:43:12.482Z,"California-Nevada border region",earthquake,,24.7,0.86,19,automatic,nn,nn
 2023-10-17T10:35:40.283Z,61.3485,-150.8383,19.5,1.3,ml,,,,0.37,ak,ak023dbs0kfg,2023-10-17T10:37:27.148Z,"26 km NNE of Beluga, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-10-17T10:31:46.190Z,38.8223343,-122.80233,-0.8,1.34,md,23,50,0.006141,0.04,nc,nc73948190,2023-10-17T10:45:10.823Z,"6 km NW of The Geysers, CA",earthquake,0.14,0.46,0.16,23,automatic,nc,nc
+2023-10-17T10:31:46.190Z,38.8223343,-122.80233,-0.8,1.34,md,23,50,0.006141,0.04,nc,nc73948190,2023-10-17T11:12:11.979Z,"6 km NW of The Geysers, CA",earthquake,0.14,0.46,0.16,23,automatic,nc,nc
 2023-10-17T10:25:53.673Z,63.0404,-150.7423,117.7,1.9,ml,,,,0.29,ak,ak023dbrygav,2023-10-17T10:28:03.635Z,"60 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-17T10:24:11.450Z,38.8026657,-122.8028336,3.35,0.5,md,6,203,0.007915,0.02,nc,nc73948185,2023-10-17T10:49:14.851Z,"5 km NW of The Geysers, CA",earthquake,1.19,1.51,0.23,8,automatic,nc,nc
 2023-10-17T10:16:07.369Z,60.6069,-152.1413,84,1.7,ml,,,,0.23,ak,ak023dbrwfa8,2023-10-17T10:17:25.282Z,"45 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -41,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T06:12:20.706Z,31.606,-103.969,8.8952,2.1,ml(texnet),22,58,0,0.1,tx,tx2023uims,2023-10-17T09:55:43.970Z,"36 km NNW of Toyah, Texas",earthquake,0.4386158558,0.4509295647,0.2,17,reviewed,tx,tx
 2023-10-17T06:11:52.517Z,59.4291,-153.2485,91.6,1.7,ml,,,,0.09,ak,ak023dbphprn,2023-10-17T06:13:51.277Z,"62 km SE of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-10-17T06:03:06.770Z,18.7811666666667,-67.0751666666667,14.07,2.83,md,16,250,0.4713,0.17,pr,pr71428908,2023-10-17T06:15:37.930Z,"31 km N of Isabela, Puerto Rico",earthquake,0.61,0.85,0.0937205076949881,10,reviewed,pr,pr
-2023-10-17T06:01:14.870Z,36.8984985,-121.6266632,5.4,1.84,md,28,81,0.03115,0.09,nc,nc73948145,2023-10-17T07:55:10.852Z,"2 km NE of Aromas, CA",earthquake,0.25,0.43,0.18,27,automatic,nc,nc
+2023-10-17T06:01:14.910Z,36.8951667,-121.6231667,5.34,1.77,md,56,72,0.0272,0.14,nc,nc73948145,2023-10-17T11:32:11.114Z,"2 km ENE of Aromas, CA",earthquake,0.21,0.38,0.185,50,reviewed,nc,nc
 2023-10-17T05:10:03.319Z,27.7363,56.1369,10,5.5,mww,109,38,2.78,0.74,us,us6000lg2t,2023-10-17T10:48:02.372Z,"62 km NNW of Bandar Abbas, Iran",earthquake,7.64,1.83,0.073,18,reviewed,us,us
 2023-10-17T05:07:10.930Z,18.511,-66.2081666666667,91.48,3.33,md,20,193,0.1757,0.16,pr,pr71428893,2023-10-17T05:28:21.150Z,"Puerto Rico region",earthquake,1.26,0.69,0.146366748096562,12,reviewed,pr,pr
 2023-10-17T04:59:23.094Z,27.7417,56.1616,10,5.1,mww,115,34,2.785,0.8,us,us6000lg2q,2023-10-17T09:03:28.437Z,"62 km N of Bandar Abbas, Iran",earthquake,8.35,1.795,0.08,15,reviewed,us,us
@@ -174,14 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T11:56:40.930Z,38.8106651,-122.7935028,3.09,0.74,md,14,64,0.003038,0.01,nc,nc73947905,2023-10-16T12:20:14.231Z,"5 km NW of The Geysers, CA",earthquake,0.34,0.84,0.06,15,automatic,nc,nc
 2023-10-16T11:47:36.050Z,33.8655,-116.7646667,16.17,1.57,ml,54,40,0.04188,0.17,ci,ci40583032,2023-10-16T17:44:33.690Z,"6 km SSE of Cabazon, CA",earthquake,0.16,0.38,0.112,22,reviewed,ci,ci
 2023-10-16T11:39:44.540Z,17.9586666666667,-66.9535,13.25,2.43,md,4,202,0.07252,0.07,pr,pr71428823,2023-10-16T12:09:07.950Z,"5 km WSW of Guánica, Puerto Rico",earthquake,2.34,0.48,0.0278094331400065,3,reviewed,pr,pr
-2023-10-16T11:35:33.780Z,33.8643333,-116.766,16.04,1.2,ml,50,40,0.04027,0.16,ci,ci40583016,2023-10-16T17:03:35.610Z,"6 km SSE of Cabazon, CA",earthquake,0.17,0.39,0.217,23,reviewed,ci,ci
-2023-10-16T11:35:31.726Z,52.4445,-176.8502,187.371,6.4,mww,54,44,0.572,1.17,us,us6000lfvn,2023-10-17T08:07:31.833Z,"65 km NNW of Adak, Alaska",earthquake,7.87,7.08,0.039,62,reviewed,us,us
-2023-10-16T11:32:25.051Z,36.5309,-115.8075,10.8,0.8,ml,11,280.65,0.181,0.1005,nn,nn00867422,2023-10-16T15:22:38.113Z,"12 km WSW of Indian Springs, Nevada",earthquake,,4.5,0.98,4,reviewed,nn,nn
-2023-10-16T11:31:08.060Z,33.8641667,-116.768,15.16,1.79,ml,56,39,0.03908,0.2,ci,ci40583008,2023-10-16T13:30:12.120Z,"6 km SSE of Cabazon, CA",earthquake,0.2,0.48,0.219,26,reviewed,ci,ci
-2023-10-16T11:30:33.540Z,38.786499,-122.7480011,3.03,1.04,md,13,82,0.009396,0.03,nc,nc73947855,2023-10-16T11:47:18.806Z,"1 km NE of The Geysers, CA",earthquake,0.36,0.81,0.19,13,automatic,nc,nc
-2023-10-16T11:27:25.522Z,62.2537,-151.0114,73.6,1.8,ml,,,,0.33,ak,ak023da50wo8,2023-10-16T11:29:29.565Z,"29 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-16T11:21:48.670Z,17.9218333333333,-66.9601666666667,11.49,2.44,md,10,231,0.09297,0.08,pr,pr71428793,2023-10-16T11:42:21.810Z,"Puerto Rico region",earthquake,0.52,0.43,0.0718922898404513,7,reviewed,pr,pr
-2023-10-16T11:17:29.720Z,38.7891667,-122.7198333,2.65,0.62,md,26,79,0.004022,0.03,nc,nc73947850,2023-10-16T19:33:12.640Z,"3 km WNW of Anderson Springs, CA",earthquake,0.2,0.42,0.262,19,reviewed,nc,nc
-2023-10-16T11:11:16.343Z,37.6302,-118.4233,16.6,1.3,ml,6,144.04,0.327,0.1474,nn,nn00867458,2023-10-16T23:54:48.830Z,"21 km SSE of Benton, California",earthquake,,6.9,0.16,4,reviewed,nn,nn
-2023-10-16T11:03:49.960Z,19.5143,-65.6698,33,3.59,md,10,312,1.2743,0.44,pr,pr2023289000,2023-10-16T11:39:16.101Z,"121 km N of Suárez, Puerto Rico",earthquake,2.88,27.15,0.07,8,reviewed,pr,pr
-2023-10-16T11:03:18.322Z,39.0143,-117.047,2.4,1.6,ml,8,226.57,0.553,0.1933,nn,nn00867421,2023-10-16T15:19:26.878Z,"21 km S of Kingston, Nevada",earthquake,,2.1,0.12,4,reviewed,nn,nn
