@@ -170,6 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T09:30:51.120Z,35.6725,-117.4671667,8.86,2.19,ml,32,67,0.03614,0.17,ci,ci40584872,2023-10-22T17:49:16.174Z,"12 km SSW of Searles Valley, CA",earthquake,0.22,0.54,0.133,43,reviewed,ci,ci
 2023-10-22T09:26:09.546Z,36.8088,-115.9669,3.6,0.1,ml,8,267.61,0.082,0.0486,nn,nn00867749,2023-10-22T15:22:39.453Z,"37 km NW of Indian Springs, Nevada",earthquake,,7.1,0.54,4,reviewed,nn,nn
 2023-10-22T09:22:51.080Z,46.193666666666665,-122.1915,3.96,-0.01,ml,9,105,0.02092,0.15,uw,uw61958617,2023-10-22T23:55:47.520Z,"Washington",earthquake,0.39,1.24,0.0989603664658526,5,reviewed,uw,uw
-2023-10-22T09:04:27.430Z,33.5826667,-116.7481667,12.69,0.64,ml,22,51,0.01946,0.11,ci,ci40584864,2023-10-22T17:04:13.280Z,"8 km WNW of Anza, CA",earthquake,0.22,0.42,0.117,13,reviewed,ci,ci
-2023-10-22T09:02:34.573Z,62.2349,-150.6386,51.5,1.9,ml,,,,0.6,ak,ak023dk0ws81,2023-10-22T09:04:52.473Z,"23 km WSW of Trapper Creek, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-10-22T08:57:39.873Z,2.2859,128.1759,117.066,4.2,mb,27,128,1.708,0.59,us,us6000lha5,2023-10-22T09:39:19.040Z,"64 km NNE of Tobelo, Indonesia",earthquake,6.44,9.219,0.121,19,reviewed,us,us
