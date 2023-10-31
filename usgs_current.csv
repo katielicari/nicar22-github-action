@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-31T11:35:11.980Z,37.4536667,-118.7843323,2.75,1.84,md,21,157,0.1407,0.04,nc,nc73954110,2023-10-31T11:36:47.510Z,"15 km SW of Toms Place, CA",earthquake,0.46,1.65,0.14,20,automatic,nc,nc
+2023-10-31T11:34:36.790Z,36.8358345,-121.3061676,7.93,1.61,md,13,136,0.0618,0.06,nc,nc73954105,2023-10-31T11:36:12.491Z,"5 km NNE of Tres Pinos, CA",earthquake,0.45,1.08,0.25,9,automatic,nc,nc
+2023-10-31T11:10:56.036Z,-17.538,-179.0119,547.578,6.4,mww,87,27,2.806,0.76,us,us7000l7qy,2023-10-31T11:33:36.153Z,"186 km ENE of Levuka, Fiji",earthquake,8,7.003,0.055,32,reviewed,us,us
 2023-10-31T10:57:34.730Z,19.1544990539551,-155.374160766602,30.8700008392334,1.80999994,md,39,189,,0.100000001,hv,hv73634077,2023-10-31T11:00:47.860Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.61,0.860000014,1.80999994,4,automatic,hv,hv
 2023-10-31T10:32:36.685Z,57.8114,-154.7134,250,1.5,ml,,,,0.93,ak,ak023dyxirx0,2023-10-31T10:35:42.453Z,"31 km NNW of Karluk, Alaska",earthquake,,6.1,,,automatic,ak,ak
-2023-10-31T10:16:56.020Z,39.4316673,-123.2884979,2.12,1.86,md,16,83,0.05315,0.04,nc,nc73954090,2023-10-31T10:38:12.052Z,"6 km ENE of Willits, CA",earthquake,0.24,1.05,0.11,12,automatic,nc,nc
+2023-10-31T10:16:56.020Z,39.4316673,-123.2884979,2.12,1.86,md,16,83,0.05315,0.04,nc,nc73954090,2023-10-31T11:23:11.315Z,"6 km ENE of Willits, CA",earthquake,0.24,1.05,0.11,12,automatic,nc,nc
 2023-10-31T09:59:46.290Z,38.7900009,-122.760498,1.64,1.32,md,21,65,0.01063,0.03,nc,nc73954080,2023-10-31T10:31:09.998Z,"2 km NNW of The Geysers, CA",earthquake,0.23,0.35,0.08,22,automatic,nc,nc
 2023-10-31T09:58:36.592Z,58.213,-155.5503,18.5,0.7,ml,,,,0.69,ak,ak023dyx2wx7,2023-10-31T10:00:03.111Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-10-31T09:56:20.986Z,60.3914,-151.6089,62,2,ml,,,,0.4,ak,ak023dyx2gau,2023-10-31T09:57:36.989Z,"16 km W of Cohoe, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -196,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T11:47:27.640Z,34.683,-116.2901667,2.59,1.23,ml,8,102,0.1144,0.09,ci,ci40591272,2023-10-30T15:18:59.416Z,"13 km WSW of Ludlow, CA",earthquake,0.25,0.47,0.158,6,reviewed,ci,ci
 2023-10-30T11:44:01.695Z,6.8281,-73.0415,151.191,4.5,mb,55,133,0.931,0.71,us,us7000l7iu,2023-10-30T11:57:49.040Z,"northern Colombia",earthquake,3.36,7.266,0.077,49,reviewed,us,us
 2023-10-30T11:43:16.050Z,38.8375015,-122.809166,1.79,0.69,md,6,115,0.01473,0.01,nc,nc73953665,2023-10-30T12:36:11.302Z,"8 km WNW of Cobb, CA",earthquake,0.54,1.89,0.08,7,automatic,nc,nc
-2023-10-30T11:34:02.890Z,19.2333335876465,-155.386672973633,31.6299991607666,1.84000003,md,36,163,,0.119999997,hv,hv73632592,2023-10-30T11:37:14.320Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.63,0.829999983,0.349999994,5,automatic,hv,hv
-2023-10-30T11:34:02.890Z,19.236,-155.393333333333,32.65,1.74,md,28,167,,0.12,hv,hv73632597,2023-10-30T23:26:48.990Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.64,0.365268820990909,13,reviewed,hv,hv
-2023-10-30T11:13:51.357Z,11.2615,124.6246,11.825,4.6,mb,50,126,4.27,0.75,us,us7000l7jf,2023-10-30T14:09:31.324Z,"3 km SSW of Capoocan, Philippines",earthquake,10.36,4.585,0.087,39,reviewed,us,us
