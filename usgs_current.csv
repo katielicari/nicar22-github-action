@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-04T22:00:02.870Z,32.6913333,-116.0003333,10.76,0.76,ml,9,75,0.0583,0.22,ci,ci39707970,2023-11-04T22:03:43.637Z,"5 km S of Ocotillo, CA",earthquake,1.03,1.49,0.293,5,automatic,ci,ci
+2023-11-04T21:51:40.096Z,60.7585,-150.6338,33.4,1.4,ml,,,,0.38,ak,ak023e5qc0ex,2023-11-04T21:53:51.128Z,"18 km S of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-04T21:50:54.672Z,61.6583,-150.9237,68.5,1.3,ml,,,,0.56,ak,ak023e5qbttn,2023-11-04T21:52:28.834Z,"25 km WNW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-11-04T21:48:32.400Z,33.548,-116.7076667,4.15,0.6,ml,10,122,0.03022,0.1,ci,ci39707954,2023-11-04T21:52:06.819Z,"3 km WSW of Anza, CA",earthquake,0.53,0.43,0.323,9,automatic,ci,ci
 2023-11-04T21:36:05.530Z,38.8294983,-122.8215027,3.13,0.58,md,8,87,0.01081,0.01,nc,nc73956120,2023-11-04T21:52:14.368Z,"8 km NW of The Geysers, CA",earthquake,1.08,2.6,0.35,9,automatic,nc,nc
@@ -17,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T19:56:34.281Z,38.8958,-118.8326,1.1,2.3,ml,16,59.9,0.545,0.2101,nn,nn00868445,2023-11-04T19:58:55.123Z,"6 km SSW of Schurz, Nevada",earthquake,,7,0.27,10,automatic,nn,nn
 2023-11-04T19:55:33.875Z,37.5842,73.9941,10,4.5,mwr,49,105,2.557,0.56,us,us7000l8wg,2023-11-04T21:20:23.040Z,"65 km S of Murghob, Tajikistan",earthquake,7.15,1.892,0.052,36,reviewed,us,us
 2023-11-04T19:41:59.863Z,31.572,-104.016,4.8992,1.7,ml(texnet),13,62,0,0.3,tx,tx2023vqkl,2023-11-04T19:51:53.056Z,"western Texas",earthquake,0,1.434398456,0.2,10,automatic,tx,tx
-2023-11-04T19:38:54.160Z,36.84,-115.8897,12,0.4,ml,18,214.05,0.125,0.3017,nn,nn00868444,2023-11-04T19:41:07.017Z,"35 km NNW of Indian Springs, Nevada",earthquake,,1.1,0.4,11,automatic,nn,nn
+2023-11-04T19:38:55.188Z,36.8528,-115.9319,7.3,0.4,ml,30,193.64,0.034,0.1354,nn,nn00868444,2023-11-04T22:06:43.518Z,"39 km NW of Indian Springs, Nevada",earthquake,,0.8,0.33,18,reviewed,nn,nn
 2023-11-04T19:36:00.730Z,38.8218346,-122.8255005,0.61,1.08,md,14,85,0.01215,0.03,nc,nc73956080,2023-11-04T20:11:17.765Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.54,0.12,16,automatic,nc,nc
 2023-11-04T19:22:38.389Z,58.7482,-153.6339,6.9,1.3,ml,,,,0.84,ak,ak023e5oyxtu,2023-11-04T19:39:57.635Z,"87 km NNW of Aleneva, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-11-04T19:13:17.280Z,34.0493333,-117.1676667,6.2,0.95,ml,24,63,0.04792,0.24,ci,ci39707818,2023-11-04T19:16:52.022Z,"2 km ESE of Redlands, CA",earthquake,0.4,0.94,0.18,23,automatic,ci,ci
@@ -187,7 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T22:27:30.110Z,37.4928322,-118.6435013,8.65,1.43,md,11,138,0.1534,0.03,nc,nc73955705,2023-11-04T01:33:11.257Z,"8 km SSE of Toms Place, CA",earthquake,0.97,3.56,0.16,7,automatic,nc,nc
 2023-11-03T22:26:11.710Z,38.6856667,-122.4981667,6.82,1.24,md,36,67,0.09408,0.08,nc,nc73955700,2023-11-04T03:46:10.950Z,"13 km SE of Middletown, CA",earthquake,0.14,0.6,0.149,31,reviewed,nc,nc
 2023-11-03T22:22:45.920Z,38.6878333,-122.4958333,7.04,1.04,md,27,110,0.09392,0.07,nc,nc73955695,2023-11-04T00:07:12.735Z,"13 km SE of Middletown, CA",earthquake,0.16,0.81,0.17,28,reviewed,nc,nc
-2023-11-03T22:02:11.245Z,58.7047,-153.617,17.6,2.1,ml,,,,0.25,ak,ak023e433j7o,2023-11-04T04:12:24.770Z,"Kodiak Island region, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-03T22:01:32.140Z,19.2894992828369,-155.380661010742,1.95000004768372,1.88,md,22,126,,0.180000007,hv,hv73638587,2023-11-03T22:04:35.600Z,"Hawaii region, Hawaii",earthquake,0.41,0.629999995,1.36000001,10,automatic,hv,hv
-2023-11-03T22:00:17.100Z,56.9671666666667,-136.114666666667,21.3,0.76,ml,4,347,,0.13,av,av91120673,2023-11-04T04:19:53.820Z,"48 km WSW of Sitka, Alaska",earthquake,4.97,1.91,0.348684266816097,4,reviewed,av,av
-2023-11-03T21:54:31.411Z,60.9532,-150.7064,34.4,1.9,ml,,,,0.21,ak,ak023e42taed,2023-11-03T21:55:59.825Z,"3 km NNW of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
