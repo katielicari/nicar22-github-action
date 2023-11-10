@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T20:23:00.240Z,33.3376667,-116.3886667,9.94,0.74,ml,26,123,0.02106,0.1,ci,ci39711298,2023-11-10T20:38:46.726Z,"9 km N of Borrego Springs, CA",earthquake,0.65,0.58,0.119,11,automatic,ci,ci
 2023-11-10T19:54:21.780Z,59.7416,-152.6358,77.3,2.1,ml,,,,0.28,ak,ak023efmdtwi,2023-11-10T19:56:51.269Z,"45 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-10T19:45:17.137Z,63.9742,-22.4244,10,4.8,mb,114,91,0.911,0.86,us,us7000la7g,2023-11-10T20:35:32.040Z,"2 km WSW of Vogar, Iceland",earthquake,6.63,1.908,0.056,104,reviewed,us,us
-2023-11-10T19:44:25.970Z,19.377,-155.283166666667,1.61,1.64,md,22,91,,0.08,hv,hv73643227,2023-11-10T20:25:48.320Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.19,0.195580657004353,3,reviewed,hv,hv
+2023-11-10T19:44:25.980Z,19.377,-155.282833333333,1.57,1.85,ml,26,91,,0.09,hv,hv73643227,2023-11-10T20:39:18.170Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.18,0.185162474899708,9,reviewed,hv,hv
 2023-11-10T19:42:56.520Z,38.7869987,-122.7711639,1.28,0.8,md,15,102,0.01447,0.03,nc,nc73961086,2023-11-10T20:05:11.561Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.39,0.16,16,automatic,nc,nc
 2023-11-10T19:41:27.920Z,36.5796661,-121.1361694,9.19,1.16,md,8,142,0.07777,0.1,nc,nc73961081,2023-11-10T20:02:11.546Z,"5 km N of Pinnacles, CA",earthquake,0.98,2.56,0.32,5,automatic,nc,nc
 2023-11-10T19:39:34.100Z,36.5699997,-121.1504974,9.63,1.87,md,15,194,0.02815,0.05,nc,nc73961076,2023-11-10T19:55:10.508Z,"4 km N of Pinnacles, CA",earthquake,0.58,1.19,0.16,18,automatic,nc,nc
@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T19:11:17.216Z,62.593,-147.3291,249.9,2.1,ml,,,,1.49,ak,ak023efm4lsn,2023-11-10T19:14:18.606Z,"53 km NW of Lake Louise, Alaska",earthquake,,8.4,,,automatic,ak,ak
 2023-11-10T19:08:30.820Z,38.8438339,-122.8176651,2.07,0.23,md,9,88,0.01169,0.01,nc,nc73961061,2023-11-10T19:18:10.289Z,"8 km WNW of Cobb, CA",earthquake,0.39,1.17,0.13,9,automatic,nc,nc
 2023-11-10T19:04:43.670Z,38.8251648,-122.8526688,2.28,1.66,md,32,59,0.004054,0.03,nc,nc73961056,2023-11-10T19:14:10.263Z,"10 km WNW of The Geysers, CA",earthquake,0.18,0.32,0.12,34,automatic,nc,nc
-2023-11-10T19:02:35.420Z,33.3161667,-116.4165,4.3,1.52,ml,72,16,0.04265,0.19,ci,ci39711274,2023-11-10T20:00:37.712Z,"8 km NNW of Borrego Springs, CA",earthquake,0.13,0.4,0.137,27,automatic,ci,ci
+2023-11-10T19:02:35.370Z,33.3158333,-116.414,5.24,1.46,ml,61,29,0.04071,0.19,ci,ci39711274,2023-11-10T20:47:41.160Z,"8 km NNW of Borrego Springs, CA",earthquake,0.15,0.48,0.128,28,reviewed,ci,ci
 2023-11-10T18:53:03.661Z,39.3132,-120.0051,5.6,1.4,ml,8,103.9,0.032,0.132,nn,nn00868756,2023-11-10T18:58:19.750Z,"7 km NNW of Incline Village, Nevada",earthquake,,0.8,0.37,5,automatic,nn,nn
 2023-11-10T18:52:07.895Z,63.9804,-22.4566,10,4.6,mb,80,62,0.914,0.69,us,us7000la6r,2023-11-10T20:07:10.040Z,"3 km W of Vogar, Iceland",earthquake,6.67,1.907,0.066,71,reviewed,us,us
 2023-11-10T18:46:44.192Z,63.8739,-22.5185,10,4.7,mb,64,92,1.019,0.86,us,us7000la6q,2023-11-10T20:06:43.040Z,"Iceland region",earthquake,7.82,1.801,0.075,57,reviewed,us,us
@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T21:20:47.450Z,57.9446666666667,-155.526833333333,14.16,0.33,ml,6,290,,0.12,av,av92112821,2023-11-10T18:55:32.840Z,"76 km WNW of Karluk, Alaska",earthquake,1.05,0.95,0.315707355153269,6,reviewed,av,av
 2023-11-09T21:16:27.380Z,38.795166,-122.7678299,3.26,0.59,md,8,108,0.008364,0.01,nc,nc73960611,2023-11-09T21:29:11.792Z,"2 km NNW of The Geysers, CA",earthquake,0.98,2.21,0.16,7,automatic,nc,nc
 2023-11-09T21:16:03.690Z,33.492,-116.505,9.07,0.39,ml,15,133,0.06884,0.13,ci,ci39710930,2023-11-09T21:49:16.371Z,"17 km ESE of Anza, CA",earthquake,0.3,0.56,0.097,8,reviewed,ci,ci
-2023-11-09T20:53:46.445Z,-5.4497,145.9148,64.221,5.4,mww,106,25,5.961,0.8,us,us7000l9xx,2023-11-09T22:57:07.176Z,"28 km SSE of Madang, Papua New Guinea",earthquake,8.13,6.31,0.062,25,reviewed,us,us
-2023-11-09T20:41:49.529Z,31.634,-103.984,4.8148,1.6,ml(texnet),13,87,0,0.2,tx,tx2023vzpy,2023-11-09T21:25:43.975Z,"37 km WSW of Mentone, Texas",earthquake,0,1.525168272,0.2,10,automatic,tx,tx
