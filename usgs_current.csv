@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-11T13:36:12.030Z,38.7873344,-122.746666,0.97,1.47,md,18,83,0.008781,0.03,nc,nc73961581,2023-11-11T13:37:47.710Z,"1 km NE of The Geysers, CA",earthquake,0.22,0.63,0.16,20,automatic,nc,nc
+2023-11-11T14:01:54.700Z,32.9258333,-116.3003333,10.58,0.88,ml,31,43,0.0288,0.14,ci,ci39711634,2023-11-11T14:08:07.740Z,"24 km ENE of Pine Valley, CA",earthquake,0.17,0.31,0.219,7,automatic,ci,ci
+2023-11-11T13:56:34.980Z,38.7944984,-122.7490005,2.63,0.71,md,12,92,0.01037,0.02,nc,nc73961586,2023-11-11T14:07:10.677Z,"2 km NNE of The Geysers, CA",earthquake,0.35,0.82,0.12,11,automatic,nc,nc
+2023-11-11T13:36:12.030Z,38.7873344,-122.746666,0.97,1.47,md,18,83,0.008781,0.03,nc,nc73961581,2023-11-11T13:48:51.807Z,"1 km NE of The Geysers, CA",earthquake,0.22,0.63,0.16,20,automatic,nc,nc
 2023-11-11T13:26:52.520Z,34.0531667,-117.535,9.35,0.87,ml,35,61,0.06967,0.12,ci,ci39711626,2023-11-11T13:33:35.123Z,"6 km NW of Glen Avon, CA",earthquake,0.19,0.32,0.241,13,automatic,ci,ci
 2023-11-11T13:19:15.470Z,38.8330002,-122.8184967,2,0.23,md,10,66,0.01163,0.02,nc,nc73961571,2023-11-11T13:31:10.450Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.99,0.12,10,automatic,nc,nc
 2023-11-11T13:18:17.243Z,-17.9437,-178.1799,591.825,4.5,mb,42,100,24.936,0.87,us,us7000lace,2023-11-11T13:40:34.040Z,"Fiji region",earthquake,11.43,7.288,0.099,33,reviewed,us,us
@@ -7,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T12:53:46.130Z,33.9895,-116.4638333,8.3,1.83,ml,74,36,0.06683,0.13,ci,ci39711610,2023-11-11T13:04:42.520Z,"5 km NE of Desert Hot Springs, CA",earthquake,0.09,0.31,0.142,26,automatic,ci,ci
 2023-11-11T12:46:47.244Z,32.308,-101.83,5.649,2.7,ml(texnet),22,43,0,0.1,tx,tx2023wcrj,2023-11-11T13:10:30.509Z,"western Texas",earthquake,0.3984335469,0.5929752836,0.1,12,reviewed,tx,tx
 2023-11-11T12:45:26.550Z,38.8325005,-122.8150024,1.89,1.27,md,24,52,0.009874,0.02,nc,nc73961556,2023-11-11T12:56:11.025Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.35,0.19,24,automatic,nc,nc
-2023-11-11T12:35:30.216Z,-17.8935,168.1051,23.903,5.5,mww,78,100,4.473,0.5,us,us7000lac6,2023-11-11T13:22:20.490Z,"28 km SW of Port-Vila, Vanuatu",earthquake,10.71,4.353,0.048,41,reviewed,us,us
+2023-11-11T12:35:30.216Z,-17.8935,168.1051,23.903,5.5,mww,78,100,4.473,0.5,us,us7000lac6,2023-11-11T14:12:38.837Z,"28 km SW of Port-Vila, Vanuatu",earthquake,10.71,4.353,0.048,41,reviewed,us,us
 2023-11-11T12:28:58.760Z,40.6221657,-124.367836,20.38,1.8,md,7,320,0.1483,0.01,nc,nc73961561,2023-11-11T13:01:10.054Z,"10 km WNW of Ferndale, CA",earthquake,3.91,1.27,,1,automatic,nc,nc
 2023-11-11T12:27:27.024Z,31.639,-104.015,5.3378,1.6,ml(texnet),18,42,0,0.3,tx,tx2023wcqq,2023-11-11T13:02:25.508Z,"western Texas",earthquake,0,2.089106863,0.1,14,automatic,tx,tx
 2023-11-11T12:25:12.540Z,35.9686667,-117.683,2.44,1.51,ml,31,56,0.103,0.14,ci,ci39711602,2023-11-11T12:35:32.240Z,"20 km E of Little Lake, CA",earthquake,0.19,0.31,0.175,16,automatic,ci,ci
@@ -23,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T11:12:56.230Z,33.9438333,-116.986,15.62,0.99,ml,53,29,0.1363,0.14,ci,ci39711578,2023-11-11T11:19:22.456Z,"2 km NNW of Beaumont, CA",earthquake,0.13,0.44,0.158,28,automatic,ci,ci
 2023-11-11T11:00:41.860Z,32.4833333,-115.519,8.56,1.67,ml,29,62,0.07575,0.25,ci,ci39711570,2023-11-11T11:07:59.427Z,"12 km SSE of Progreso, B.C., MX",earthquake,0.31,0.79,0.243,17,automatic,ci,ci
 2023-11-11T10:49:43.222Z,25.3777,125.8593,4.957,4.6,mb,27,83,1.779,0.62,us,us7000labz,2023-11-11T11:32:54.040Z,"84 km NE of Hirara, Japan",earthquake,4.99,6.348,0.114,23,reviewed,us,us
-2023-11-11T10:45:55.980Z,38.8438339,-122.8148346,1.64,1.37,md,25,45,0.01269,0.03,nc,nc73961531,2023-11-11T10:59:11.403Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.38,0.15,27,automatic,nc,nc
+2023-11-11T10:45:55.980Z,38.8438339,-122.8148346,1.64,1.37,md,25,45,0.01269,0.03,nc,nc73961531,2023-11-11T13:46:10.540Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.38,0.15,27,automatic,nc,nc
 2023-11-11T10:37:47.490Z,17.9535,-67.0848333333333,6.6,3.02,md,27,231,0.04178,0.17,pr,pr71431248,2023-11-11T11:03:24.400Z,"4 km WSW of La Parguera, Puerto Rico",earthquake,0.42,0.21,0.161942587788018,8,reviewed,pr,pr
 2023-11-11T10:27:11.540Z,33.8733333,-118.2626667,14.95,1.33,ml,43,43,0.005863,0.22,ci,ci39711562,2023-11-11T10:34:46.102Z,"5 km ESE of Gardena, CA",earthquake,0.3,0.37,0.309,34,automatic,ci,ci
 2023-11-11T10:25:35.580Z,38.8221664,-122.7993317,2.44,1.34,md,29,30,0.00848,0.04,nc,nc73961516,2023-11-11T13:20:11.386Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.41,0.12,29,automatic,nc,nc
@@ -140,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T00:53:04.840Z,61.9709,-149.8131,33.9,1.9,ml,,,,0.57,ak,ak023egylovg,2023-11-11T00:56:08.990Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-11T00:51:42.630Z,38.8306656,-122.8176651,1.79,0.71,md,10,129,0.009374,0.01,nc,nc73961176,2023-11-11T02:04:10.498Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.69,0.25,10,automatic,nc,nc
 2023-11-11T00:22:38.410Z,33.2653333,-116.4366667,4.39,1.49,ml,65,37,0.0845,0.17,ci,ci39711434,2023-11-11T00:33:50.310Z,"6 km W of Borrego Springs, CA",earthquake,0.14,0.49,0.172,26,automatic,ci,ci
-2023-11-11T00:18:42.258Z,39.0471,-97.6158,5,4,mwr,33,37,0.785,0.4,us,us7000la9a,2023-11-11T13:28:09.423Z,"2 km NW of Bennington, Kansas",earthquake,1.9,1.994,0.032,93,reviewed,us,us
+2023-11-11T00:18:42.258Z,39.0471,-97.6158,5,4,mwr,33,37,0.785,0.4,us,us7000la9a,2023-11-11T14:12:21.141Z,"2 km NW of Bennington, Kansas",earthquake,1.9,1.994,0.032,93,reviewed,us,us
 2023-11-11T00:17:39.270Z,59.6102,-151.8835,49.3,2.1,ml,,,,0.47,ak,ak023egye1rb,2023-11-11T00:19:57.929Z,"18 km S of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-11T00:16:36.040Z,46.193333333333335,-122.195,0.56,0.45,ml,8,108,0.007061,0.14,uw,uw61971646,2023-11-11T05:30:31.810Z,"37 km NNE of Amboy, Washington",earthquake,0.82,0.74,0.4973317441950629,4,reviewed,uw,uw
 2023-11-11T00:13:28.230Z,33.7501667,-116.0786667,4.9,1.09,ml,39,48,0.1201,0.13,ci,ci39711426,2023-11-11T01:32:51.394Z,"12 km NE of Coachella, CA",earthquake,0.14,0.44,0.127,20,reviewed,ci,ci
@@ -281,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T14:36:34.240Z,58.7038333333333,-153.751,3.29,0.24,ml,8,334,,0.25,av,av91121268,2023-11-11T00:18:46.790Z,"Kodiak Island region, Alaska",earthquake,3.88,2.96,0.268332827409254,5,reviewed,av,av
 2023-11-10T14:32:19.843Z,30.885,-103.484,2.481,2.2,ml(texnet),21,89,0.1,0.2,tx,tx2023wazh,2023-11-10T21:49:25.321Z,"27 km ESE of Balmorhea, Texas",earthquake,1.102821927,1.098854694,0.1,10,reviewed,tx,tx
 2023-11-10T14:25:35.104Z,60.1864,-153.288,150.4,2.1,ml,,,,0.41,ak,ak023efj8h52,2023-11-10T14:27:30.313Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-11-10T14:17:16.020Z,36.5586667,-120.6895,6.56,1.85,md,32,155,0.1385,0.09,nc,nc73960936,2023-11-10T22:51:10.543Z,"16 km N of New Idria, CA",earthquake,0.3,0.5,0.179,28,reviewed,nc,nc
-2023-11-10T14:00:46.610Z,34.3446667,-116.87,0.7,2.29,ml,81,27,0.09228,0.15,ci,ci39711194,2023-11-10T18:10:01.961Z,"10 km NNW of Big Bear City, CA",earthquake,0.1,0.25,0.126,22,reviewed,ci,ci
