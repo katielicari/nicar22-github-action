@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-23T19:02:04.954Z,61.7112,-149.5713,35.7,1.6,ml,,,,0.43,ak,ak023f1425sf,2023-11-23T19:03:22.081Z,"9 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-11-23T18:47:11.710Z,17.76,-68.8138,74,3.94,md,16,219,0.8691,0.54,pr,pr2023327002,2023-11-23T19:07:17.777Z,"Dominican Republic region",earthquake,6.93,9.95,0.12,15,reviewed,pr,pr
 2023-11-23T18:21:08.980Z,35.663,-117.5313333,4.77,1.53,ml,30,57,0.08766,0.12,ci,ci39717106,2023-11-23T18:27:21.381Z,"14 km ENE of Ridgecrest, CA",earthquake,0.16,0.34,0.177,17,automatic,ci,ci
-2023-11-23T18:19:37.640Z,38.8153343,-122.8144989,2.85,1.06,md,20,48,0.00876,0.03,nc,nc73966431,2023-11-23T18:29:12.057Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.57,0.23,21,automatic,nc,nc
+2023-11-23T18:19:37.640Z,38.8153343,-122.8144989,2.85,1.06,md,20,48,0.00876,0.03,nc,nc73966431,2023-11-23T19:08:13.077Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.57,0.23,21,automatic,nc,nc
 2023-11-23T17:55:15.968Z,59.3027,-151.8342,0,2.1,ml,,,,0.77,ak,ak023f136oj2,2023-11-23T17:57:49.603Z,"5 km S of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-23T17:46:22.450Z,34.1088333,-116.6601667,8.86,1.33,ml,59,48,0.07087,0.13,ci,ci39717098,2023-11-23T17:57:23.860Z,"10 km NW of Morongo Valley, CA",earthquake,0.13,0.36,0.176,29,automatic,ci,ci
 2023-11-23T17:45:29.617Z,61.9625,-147.3672,38.7,1.6,ml,,,,0.67,ak,ak023f134k9t,2023-11-23T17:47:23.512Z,"10 km WNW of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -167,6 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T19:56:29.710Z,34.9871667,-118.192,-0.93,1.14,ml,22,52,0.1122,0.22,ci,ci39716706,2023-11-22T21:16:57.133Z,"7 km SSW of Mojave, CA",quarry blast,0.44,31.61,0.076,14,reviewed,ci,ci
 2023-11-22T19:49:47.370Z,38.7804985,-122.7181702,1.93,1.05,md,11,157,0.01476,0.03,nc,nc73966026,2023-11-22T19:59:11.033Z,"2 km WNW of Anderson Springs, CA",earthquake,0.38,0.74,0.14,11,automatic,nc,nc
 2023-11-22T19:34:26.380Z,27.7096,85.118,10,3.8,mb,19,177,0.169,1.02,us,us6000lq54,2023-11-23T16:39:39.386Z,"Nepal",earthquake,8.1,1.836,0.146,12,reviewed,us,us
-2023-11-22T19:17:14.290Z,46.3091666666667,-111.632166666667,-2,1.29,ml,5,112,0.3345,0.08,mb,mb90033833,2023-11-23T14:39:50.540Z,"Western Montana",quarry blast,0.5,31.61,0.216052836230212,8,reviewed,mb,mb
-2023-11-22T19:17:02.770Z,47.072,-113.196333333333,0.74,0.9,ml,10,228,0.1623,0.06,mb,mb90033848,2023-11-23T15:51:17.770Z,"7 km NW of Ovando, Montana",earthquake,1.31,0.91,0.0962786349193131,3,reviewed,mb,mb
-2023-11-22T19:17:00.251Z,63.0291,-151.1196,132.6,2.8,ml,,,,0.4,ak,ak023ezgm0nl,2023-11-22T19:19:12.930Z,"62 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
