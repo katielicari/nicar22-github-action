@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-28T11:22:11.140Z,38.8138351,-122.8123322,2.38,0.76,md,12,78,0.009708,0.02,nc,nc73968981,2023-11-28T11:23:47.701Z,"6 km NW of The Geysers, CA",earthquake,0.39,0.64,0.15,12,automatic,nc,nc
+2023-11-28T11:03:03.122Z,2.1866,129.0781,10.167,5.2,mb,80,79,2.214,0.54,us,us7000leau,2023-11-28T11:20:27.040Z,"129 km ENE of Tobelo, Indonesia",earthquake,7.08,4.202,0.073,62,reviewed,us,us
 2023-11-28T10:36:40.091Z,60.4922,-144.2785,0,1.2,ml,,,,0.42,ak,ak023f98ld8z,2023-11-28T10:39:38.669Z,"81 km E of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-28T10:35:35.647Z,60.5907,-144.0429,0.3,1.8,ml,,,,0.91,ak,ak023f98l4w3,2023-11-28T10:42:34.579Z,"Southern Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-11-28T10:34:43.396Z,62.6979,-151.6529,1.1,2.2,ml,,,,0.61,ak,ak023f98kxoz,2023-11-28T10:37:09.682Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -44,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T05:54:09.950Z,17.9503333333333,-66.9308333333333,16.97,2.33,md,15,204,0.03032,0.18,pr,pr71432463,2023-11-28T06:06:14.780Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.71,0.45,0.140161625819447,7,reviewed,pr,pr
 2023-11-28T05:38:19.715Z,-32.1527,-71.4936,47.72,4.6,mwr,54,68,0.877,0.59,us,us7000le97,2023-11-28T10:26:03.289Z,"offshore Valparaiso, Chile",earthquake,4.64,3.435,0.038,65,reviewed,us,us
 2023-11-28T05:13:08.970Z,38.784668,-122.7783356,3.8,0.71,md,11,137,0.01133,0.02,nc,nc73968891,2023-11-28T07:45:14.296Z,"2 km WNW of The Geysers, CA",earthquake,0.78,1.39,0.27,12,automatic,nc,nc
-2023-11-28T05:08:02.362Z,-11.9647,-77.6065,36.439,4.3,mb,31,158,0.749,0.41,us,us7000le96,2023-11-28T07:15:04.577Z,"54 km W of Callao, Peru",earthquake,8.66,10.618,0.129,17,reviewed,us,us
+2023-11-28T05:08:02.362Z,-11.9647,-77.6065,36.439,4.3,mb,31,158,0.749,0.41,us,us7000le96,2023-11-28T11:13:08.910Z,"54 km W of Callao, Peru",earthquake,8.66,10.618,0.129,17,reviewed,us,us
 2023-11-28T04:56:50.111Z,61.0335,-150.0347,42.8,1.6,ml,,,,0.53,ak,ak023f9552c3,2023-11-28T04:58:27.227Z,"21 km SSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-28T04:56:05.680Z,35.6066667,-117.4185,9.22,0.78,ml,21,53,0.04091,0.13,ci,ci39718698,2023-11-28T05:02:02.881Z,"18 km SSW of Trona, CA",earthquake,0.21,0.37,0.085,5,automatic,ci,ci
 2023-11-28T04:44:38.810Z,38.8325005,-122.8198318,1.8,0.36,md,8,67,0.01186,0.01,nc,nc73968886,2023-11-28T07:14:12.134Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.27,0.23,10,automatic,nc,nc
@@ -89,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T23:55:49.460Z,31.686,-104.428,7.2436,1.6,ml(texnet),10,64,0,0.2,tx,tx2023xgtj,2023-11-28T00:38:51.696Z,"western Texas",earthquake,0,3.158381734,0.3,8,automatic,tx,tx
 2023-11-27T23:49:48.560Z,38.8383331,-122.8356705,1.58,0.24,md,12,76,0.000293,0.02,nc,nc73968791,2023-11-28T00:06:14.473Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.59,0.14,12,automatic,nc,nc
 2023-11-27T23:28:57.348Z,63.2923,-151.3094,0,1.4,ml,,,,0.61,ak,ak023f7sqyux,2023-11-27T23:31:04.586Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-27T23:11:57.570Z,19.2898333333333,-155.384166666667,2.58,2.27,ml,40,101,,0.14,hv,hv73665127,2023-11-28T00:19:29.130Z,"13 km NE of Pāhala, Hawaii",earthquake,0.24,0.54,0.139563466686914,11,reviewed,hv,hv
+2023-11-27T23:11:57.570Z,19.2898333333333,-155.384166666667,2.58,2.27,ml,40,101,,0.14,hv,hv73665127,2023-11-28T00:19:29.130Z,"Hawaii region, Hawaii",earthquake,0.24,0.54,0.139563466686914,11,reviewed,hv,hv
 2023-11-27T23:10:50.600Z,18.6561666666667,-156.309333333333,42.28,2.32,md,38,313,,0.25,hv,hv73665122,2023-11-28T00:54:09.040Z,"73 km SW of Hawaiian Ocean View, Hawaii",earthquake,1.17,2.41,0.0873302186595326,18,reviewed,hv,hv
 2023-11-27T22:55:23.788Z,-59.3972,-25.8722,47.808,4.9,mb,38,92,18.793,0.6,us,us7000le7g,2023-11-27T23:11:01.040Z,"South Sandwich Islands region",earthquake,13.24,7.998,0.082,47,reviewed,us,us
 2023-11-27T22:54:12.963Z,60.2432,-143.3104,1.1,1.7,ml,,,,1.12,ak,ak023f7sb0fk,2023-11-27T22:56:39.142Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
