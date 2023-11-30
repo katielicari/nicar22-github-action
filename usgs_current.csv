@@ -1,6 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-30T12:05:51.050Z,34.0004997,-118.3694992,9.83,1.64,ml,30,38,0.007014,0.26,ci,ci39720210,2023-11-30T12:11:12.664Z,"0 km SSE of Baldwin Hills, CA",earthquake,0.43,0.67,0.345,26,automatic,ci,ci
+2023-11-30T12:02:50.310Z,38.8303337,-122.8515015,1.62,0.49,md,11,96,0.005036,0.01,nc,nc73969896,2023-11-30T12:12:10.620Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.73,0.18,11,automatic,nc,nc
+2023-11-30T11:54:30.617Z,61.7651,-151.0906,69.1,2.2,ml,,,,0.58,ak,ak023fckdbmd,2023-11-30T11:56:32.085Z,"29 km SSE of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-11-30T11:52:35.660Z,35.12010574,-97.55781555,0.2102742344,2.74,ml,67,32.85810089,0.05548564717,0.7371187673,ok,ok2023xlia,2023-11-30T12:10:17.306Z,"Oklahoma",earthquake,1.343076544,1.047541284,0.26,42,automatic,ok,ok
+2023-11-30T11:46:41.544Z,19.7417,-65.8012,13.008,3.6,ml,28,203,1.45,1.04,us,us7000lerr,2023-11-30T12:04:38.040Z,"144 km NNE of San Juan, Puerto Rico",earthquake,7.68,7.484,0.056,42,reviewed,us,us
+2023-11-30T11:43:40.443Z,31.054,-103.758,2.7892,1.6,ml(texnet),13,66,0.1,0.8,tx,tx2023xlhs,2023-11-30T12:01:56.249Z,"7 km N of Balmorhea, Texas",earthquake,0,1.4386065,0.2,10,automatic,tx,tx
 2023-11-30T11:38:25.047Z,62.2743,-151.6825,0,1.8,ml,,,,0.75,ak,ak023fck9vqg,2023-11-30T11:40:06.365Z,"34 km NNW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-30T11:37:53.970Z,33.6295,-116.9006667,16.04,0.73,ml,35,40,0.04411,0.15,ci,ci39720202,2023-11-30T11:43:52.956Z,"13 km S of Valle Vista, CA",earthquake,0.22,0.37,0.123,9,automatic,ci,ci
+2023-11-30T11:25:40.081Z,40.3064,105.9088,10,4.7,mb,65,61,4.68,0.54,us,us7000lerp,2023-11-30T11:57:48.040Z,"103 km NW of Wuhai, China",earthquake,9.29,1.899,0.076,52,reviewed,us,us
+2023-11-30T11:23:02.420Z,31.515,-104.001,5.0995,1.6,ml(texnet),14,68,0,0.2,tx,tx2023xlhb,2023-11-30T11:59:48.206Z,"western Texas",earthquake,0,2.641297655,0.1,12,automatic,tx,tx
 2023-11-30T11:11:31.790Z,34.0341667,-118.3466667,3.38,1.11,ml,19,56,0.03841,0.18,ci,ci39720194,2023-11-30T11:17:53.426Z,"4 km NE of Baldwin Hills, CA",earthquake,0.37,0.54,0.384,13,automatic,ci,ci
 2023-11-30T10:31:30.852Z,31.615,-103.985,4.9412,2,ml(texnet),16,49,0,0.3,tx,tx2023xlfj,2023-11-30T10:55:36.822Z,"37 km WSW of Mentone, Texas",earthquake,0,1.145356698,0.2,12,automatic,tx,tx
 2023-11-30T10:25:50.930Z,34.1391667,-116.965,2.28,0.86,ml,41,56,0.05152,0.14,ci,ci39720186,2023-11-30T10:32:03.446Z,"13 km SSW of Big Bear Lake, CA",earthquake,0.15,0.23,0.13,17,automatic,ci,ci
@@ -94,6 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T21:45:05.850Z,38.810833,-122.8021698,0.29,1.49,md,8,113,0.00608,0.02,nc,nc73969641,2023-11-30T02:13:14.590Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.76,0.16,9,automatic,nc,nc
 2023-11-29T21:43:51.083Z,36.8595,-116.2428,3.8,0.4,ml,22,63.72,0.043,0.136,nn,nn00869467,2023-11-29T22:10:06.853Z,"46 km E of Beatty, Nevada",earthquake,,1.5,0.22,8,reviewed,nn,nn
 2023-11-29T21:34:09.908Z,62.3527,-149.8079,7.4,1.7,ml,,,,0.78,ak,ak023fb2nz9a,2023-11-29T21:36:50.673Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-11-29T21:26:13.530Z,28.926,-98.137,0.0245,2.4,ml(texnet),17,80,0.1,0.2,tx,tx2023xkfl,2023-11-30T12:05:09.267Z,"13 km WSW of Falls City, Texas",earthquake,1.196257562,2.086939294,0,14,reviewed,tx,tx
 2023-11-29T21:07:36.060Z,38.8353348,-122.8066635,4.4,0.22,md,10,89,0.01222,0.03,nc,nc73969616,2023-11-29T21:41:16.981Z,"7 km WNW of Cobb, CA",earthquake,0.56,0.74,0.1,8,automatic,nc,nc
 2023-11-29T21:05:08.580Z,44.6166666666667,-112.567333333333,6.85,1.36,ml,9,101,0.05475,0.06,mb,mb90034278,2023-11-29T23:34:17.300Z,"2 km SE of Lima, Montana",earthquake,0.35,0.59,0.12282375271405,14,reviewed,mb,mb
 2023-11-29T20:57:37.539Z,61.3224,-146.7113,25,2.4,ml,,,,0.44,ak,ak023fb27j95,2023-11-29T20:59:04.754Z,"28 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -156,5 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T12:21:12.252Z,59.6551,-136.0375,0,2.3,ml,,,,1.01,ak,ak023fax8anf,2023-11-29T12:23:54.384Z,"14 km NNE of Mosquito Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-29T12:19:20.950Z,32.9305,-116.2396667,10.06,0.81,ml,35,43,0.05872,0.21,ci,ci39719522,2023-11-29T18:37:25.936Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.27,0.52,0.235,6,reviewed,ci,ci
 2023-11-29T12:16:28.610Z,58.3071666666667,-154.867666666667,23.63,0.3,ml,7,217,,0.21,av,av91122863,2023-11-30T03:06:16.480Z,"85 km NNW of Karluk, Alaska",earthquake,0.89,0.99,0.373634407008173,7,reviewed,av,av
-2023-11-29T12:10:40.129Z,60.1926,-152.7661,108.9,1.7,ml,,,,0.48,ak,ak023fax5zyk,2023-11-29T12:13:04.756Z,"63 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-11-29T12:06:44.410Z,35.8793333,-117.6831667,5.25,0.92,ml,22,99,0.09693,0.14,ci,ci39719514,2023-11-29T14:44:55.145Z,"21 km ESE of Little Lake, CA",earthquake,0.23,0.76,0.113,8,reviewed,ci,ci
