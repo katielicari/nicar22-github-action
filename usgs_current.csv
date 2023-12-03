@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-03T06:27:16.670Z,38.8274994,-122.80233,1.97,0.78,md,14,71,0.007307,0.02,nc,nc73971056,2023-12-03T06:28:51.707Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.76,0.15,16,automatic,nc,nc
+2023-12-03T06:01:44.670Z,32.7356667,-115.881,4.91,1.58,ml,41,41,0.09454,0.24,ci,ci39721970,2023-12-03T06:14:32.276Z,"10 km E of Ocotillo, CA",earthquake,0.23,0.64,0.148,26,automatic,ci,ci
+2023-12-03T06:00:29.950Z,64.3835,-145.7586,41.1,1.5,ml,,,,1.22,ak,ak023fhfomcz,2023-12-03T06:02:42.426Z,"26 km N of Big Delta, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-12-03T05:50:24.781Z,8.1602,126.6164,76.327,4.9,mb,71,109,1.494,0.53,us,us7000lfrp,2023-12-03T06:30:35.891Z,"Mindanao, Philippines",earthquake,8.24,5.687,0.046,146,reviewed,us,us
+2023-12-03T05:47:06.596Z,64.6359,-149.3483,17.9,1.1,ml,,,,0.19,ak,ak023fhfd7lv,2023-12-03T06:00:09.618Z,"11 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-12-03T05:43:42.956Z,8.6521,126.6735,60.283,5.5,mb,105,44,1.91,0.78,us,us7000lfrl,2023-12-03T06:08:23.072Z,"Mindanao, Philippines",earthquake,7.89,5.706,0.039,230,reviewed,us,us
 2023-12-03T05:43:03.376Z,63.2725,-151.0792,5.7,1.4,ml,,,,0.68,ak,ak023fhfccht,2023-12-03T05:45:20.549Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-03T05:41:01.900Z,19.3910007476807,-155.251998901367,0.759999990463257,2.64,ml,35,42,,0.319999993,hv,hv73671482,2023-12-03T05:46:33.210Z,"6 km SSW of Volcano, Hawaii",earthquake,0.28,0.209999993,0.31,18,automatic,hv,hv
 2023-12-03T05:27:55.738Z,8.6586,127.0039,54.013,5,mb,62,114,2.118,0.5,us,us7000lfri,2023-12-03T05:45:39.040Z,"Philippine Islands region",earthquake,8.22,7.03,0.072,62,reviewed,us,us
@@ -286,4 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T06:54:44.514Z,39.9163,-120.8356,6.8,1.8,ml,11,263.57,0.317,0.1686,nn,nn00869549,2023-12-03T03:39:00.652Z,"4 km WNW of Spring Garden, California",earthquake,,1.9,0.3,6,reviewed,nn,nn
 2023-12-02T06:50:02.085Z,39.5501,-119.8026,4.6,1.4,ml,24,76.99,0.014,0.1597,nn,nn00869547,2023-12-03T03:39:06.743Z,"Nevada",earthquake,,0.7,0.3,6,reviewed,nn,nn
 2023-12-02T06:43:49.440Z,61.6296,-141.1329,10,1.6,ml,,,,0.37,ak,ak023ffsej5s,2023-12-02T06:45:52.320Z,"97 km ENE of McCarthy, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-12-02T06:05:13.992Z,62.7954,-149.582,55.4,1.6,ml,,,,0.58,ak,ak023ffs6b42,2023-12-02T06:07:19.113Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
