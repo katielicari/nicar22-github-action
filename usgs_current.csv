@@ -1,9 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-04T05:07:14.740Z,34.0041656,-116.3281631,10.38,1.06,ml,21,98,0.08278,0.17,ci,ci39722402,2023-12-04T05:09:31.083Z,"15 km S of Joshua Tree, CA",earthquake,0.32,0.77,0.131,5,automatic,ci,ci
-2023-12-04T05:06:40.940Z,37.0791664,-118.5374985,3.36,1.57,md,10,130,0.2471,0.15,nc,nc73971551,2023-12-04T05:08:13.719Z,"24 km WSW of Big Pine, CA",earthquake,1.73,14.7,0.41,2,automatic,nc,nc
+2023-12-04T05:23:47.710Z,33.4825,-116.4951667,12.45,0.83,ml,58,29,0.07094,0.17,ci,ci39722418,2023-12-04T05:30:02.805Z,"18 km ESE of Anza, CA",earthquake,0.18,0.32,0.14,20,automatic,ci,ci
+2023-12-04T05:15:09.440Z,38.8421669,-122.8785019,2.43,0.89,md,8,144,0.008014,0.02,nc,nc73971561,2023-12-04T05:23:11.732Z,"13 km ENE of Cloverdale, CA",earthquake,0.53,0.68,0.29,9,automatic,nc,nc
+2023-12-04T05:12:42.310Z,33.484,-116.5568333,7.49,0.68,ml,41,70,0.03939,0.15,ci,ci39722410,2023-12-04T05:18:55.968Z,"13 km SE of Anza, CA",earthquake,0.17,0.34,0.163,17,automatic,ci,ci
+2023-12-04T05:08:35.387Z,8.8312,126.6907,25.203,5.7,mww,104,45,2.068,0.74,us,us7000lg1q,2023-12-04T05:30:41.234Z,"42 km E of Aras-asan, Philippines",earthquake,9.02,4.566,0.062,25,reviewed,us,us
+2023-12-04T05:07:14.870Z,34,-116.3218333,8.1,0.75,ml,33,44,0.08932,0.14,ci,ci39722402,2023-12-04T05:13:20.756Z,"15 km S of Joshua Tree, CA",earthquake,0.17,0.47,0.187,12,automatic,ci,ci
+2023-12-04T05:06:40.940Z,37.0791664,-118.5374985,3.36,1.57,md,10,130,0.2471,0.15,nc,nc73971551,2023-12-04T05:25:14.558Z,"24 km WSW of Big Pine, CA",earthquake,1.73,14.7,0.41,2,automatic,nc,nc
 2023-12-04T05:05:53.420Z,58.1913,-155.0823,46.9,0.7,ml,,,,0.77,ak,ak023fj2nnn2,2023-12-04T05:07:26.506Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
-2023-12-04T05:05:06.310Z,37.0661659,-118.5274963,11.7,2.11,md,28,61,0.2382,0.05,nc,nc73971546,2023-12-04T05:09:17.473Z,"24 km WSW of Big Pine, CA",earthquake,0.62,2.07,0.25,14,automatic,nc,nc
-2023-12-04T04:43:49.204Z,8.378,126.915,55.774,5.1,mb,68,74,1.855,0.93,us,us7000lg1k,2023-12-04T04:59:58.040Z,"Mindanao, Philippines",earthquake,8.95,5.407,0.045,159,reviewed,us,us
+2023-12-04T05:05:06.310Z,37.0661659,-118.5274963,11.7,2.11,md,28,61,0.2382,0.05,nc,nc73971546,2023-12-04T05:11:10.485Z,"24 km WSW of Big Pine, CA",earthquake,0.62,2.07,0.25,14,automatic,nc,nc
+2023-12-04T04:59:01.337Z,8.8795,126.6735,43.712,5.4,mww,63,108,2.1,0.94,us,us7000lg1m,2023-12-04T05:21:07.158Z,"Mindanao, Philippines",earthquake,9.01,6.472,0.098,10,reviewed,us,us
+2023-12-04T04:43:49.204Z,8.378,126.915,55.774,5.1,mb,68,74,1.855,0.93,us,us7000lg1k,2023-12-04T05:19:52.954Z,"Mindanao, Philippines",earthquake,8.95,5.407,0.045,159,reviewed,us,us
 2023-12-04T04:32:15.730Z,37.045166,-121.4878311,4.67,2.41,md,50,67,0.01993,0.11,nc,nc73971541,2023-12-04T04:52:14.379Z,"8 km ENE of Gilroy, CA",earthquake,0.21,0.47,0.11,52,automatic,nc,nc
 2023-12-04T04:27:54.910Z,33.1596667,-115.9788333,7.29,1.06,ml,51,59,0.01382,0.18,ci,ci39722394,2023-12-04T04:34:18.046Z,"14 km E of Ocotillo Wells, CA",earthquake,0.15,0.33,0.161,19,automatic,ci,ci
 2023-12-04T04:26:25.961Z,62.1572,-147.5202,29.9,1.8,ml,,,,0.74,ak,ak023fj26nyc,2023-12-04T04:28:15.449Z,"30 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -128,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T17:30:48.110Z,38.8279991,-122.8099976,1.36,1.89,md,37,41,0.004598,0.03,nc,nc73971241,2023-12-03T19:01:13.676Z,"7 km NW of The Geysers, CA",earthquake,0.15,0.23,0.13,38,automatic,nc,nc
 2023-12-03T17:26:57.320Z,32.7428333,-115.868,2.18,1.22,ml,20,49,0.1055,0.15,ci,ci39722122,2023-12-03T17:33:08.307Z,"12 km E of Ocotillo, CA",earthquake,0.18,0.36,0.201,11,automatic,ci,ci
 2023-12-03T17:25:32.020Z,61.4393,-147.9474,17.4,1.4,ml,,,,0.32,ak,ak023fhmdr2q,2023-12-03T17:27:14.197Z,"43 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-12-03T17:14:34.293Z,56.1217,-157.5673,27.3,2.5,ml,,,,0.17,ak,ak023fhmbedh,2023-12-03T17:17:01.628Z,"55 km ESE of Chignik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-12-03T17:14:34.293Z,56.1217,-157.5673,27.3,2.5,ml,,,,0.17,ak,ak023fhmbedh,2023-12-03T17:17:01.628Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-12-03T17:09:15.453Z,8.478,126.839,65.744,4.5,mb,64,101,1.875,0.85,us,us7000lfx5,2023-12-03T19:21:58.040Z,"Mindanao, Philippines",earthquake,10.05,7.31,0.075,53,reviewed,us,us
 2023-12-03T17:07:42.430Z,33.6963333,-115.9536667,2.75,1.12,ml,39,61,0.05106,0.17,ci,ci39722114,2023-12-03T17:14:03.347Z,"18 km NE of Mecca, CA",earthquake,0.17,0.27,0.156,24,automatic,ci,ci
 2023-12-03T17:03:55.007Z,13.1879,-90.5543,55.383,4.3,mb,66,132,1.035,1.04,us,us7000lfx4,2023-12-03T18:06:57.840Z,"84 km SSE of Iztapa, Guatemala",earthquake,9.72,7.304,0.077,48,reviewed,us,us
@@ -261,6 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T05:41:01.900Z,19.3910007476807,-155.251998901367,0.759999990463257,2.64,ml,35,42,,0.319999993,hv,hv73671482,2023-12-03T05:46:33.210Z,"6 km SSW of Volcano, Hawaii",earthquake,0.28,0.209999993,0.31,18,automatic,hv,hv
 2023-12-03T05:38:11.611Z,8.5118,126.8067,54.092,4.7,mb,50,118,1.88,0.53,us,us7000lfrk,2023-12-03T06:47:36.040Z,"Mindanao, Philippines",earthquake,10.22,6.874,0.081,47,reviewed,us,us
 2023-12-03T05:34:11.710Z,37.6121667,-122.3766667,12.13,1.04,md,25,43,0.04561,0.05,nc,nc73971041,2023-12-03T22:50:13.032Z,"2 km NNE of Millbrae, CA",earthquake,0.26,0.36,0.194,17,reviewed,nc,nc
-2023-12-03T05:27:55.738Z,8.6586,127.0039,54.013,5,mb,62,114,2.118,0.5,us,us7000lfri,2023-12-03T05:45:39.040Z,"79 km ESE of Marihatag, Philippines",earthquake,8.22,7.03,0.072,62,reviewed,us,us
-2023-12-03T05:27:52.080Z,32.7401667,-115.8763333,3.58,1.22,ml,31,47,0.1002,0.24,ci,ci39721962,2023-12-03T05:34:01.646Z,"11 km E of Ocotillo, CA",earthquake,0.24,0.59,0.228,14,automatic,ci,ci
-2023-12-03T05:19:49.440Z,19.1783332824707,-155.61149597168,10.5,2.31,ml,42,68,,0.25999999,hv,hv73671457,2023-12-03T05:25:20.820Z,"11 km N of Wai‘ōhinu, Hawaii",earthquake,0.51,0.569999993,3.7,16,automatic,hv,hv
