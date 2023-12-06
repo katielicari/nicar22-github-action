@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-06T09:26:14.370Z,35.651001,-121.0618362,4.22,1.16,md,8,114,0.08103,0.03,nc,nc73972446,2023-12-06T09:27:47.996Z,"10 km N of Cambria, CA",earthquake,0.4,1.18,0.05,5,automatic,nc,nc
 2023-12-06T08:57:35.722Z,62.0432,-149.7962,34.4,2.2,ml,,,,0.29,ak,ak023fmftrb8,2023-12-06T08:59:08.287Z,"13 km SSE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-06T08:54:59.115Z,64.7426,-149.2184,7.7,1.6,ml,,,,0.4,ak,ak023fmft5yv,2023-12-06T08:56:20.826Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-06T08:37:56.510Z,32.7818333,-115.831,7.58,1,ml,30,64,0.1103,0.24,ci,ci40616840,2023-12-06T08:44:00.797Z,"16 km ENE of Ocotillo, CA",earthquake,0.29,0.86,0.105,9,automatic,ci,ci
@@ -40,8 +41,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T03:07:56.427Z,58.5437,-154.4871,0,3.7,ml,,,,0.54,ak,ak023fmcjwt3,2023-12-06T03:15:45.497Z,"101 km S of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-06T03:01:16.773Z,31.666,-104.206,4.6768,1.5,ml,19,63,0.1,0.3,tx,tx2023xvpn,2023-12-06T03:45:47.650Z,"western Texas",earthquake,0,1.173683551,0.1,15,automatic,tx,tx
 2023-12-06T02:53:19.132Z,31.673,-104.204,4.9104,1.7,ml,19,66,0.1,0.4,tx,tx2023xvpi,2023-12-06T03:08:52.511Z,"western Texas",earthquake,0,1.177574134,0.1,15,automatic,tx,tx
-2023-12-06T02:48:01.270Z,35.9598333,-117.9208333,8.13,2.25,ml,34,43,0.0538,0.12,ci,ci40616728,2023-12-06T02:58:44.300Z,"3 km NNW of Little Lake, CA",earthquake,0.13,0.33,0.211,25,automatic,ci,ci
-2023-12-06T02:32:58.460Z,37.4406667,-118.993,18.77,1.73,md,26,141,0.1711,0.05,nc,nc73972376,2023-12-06T07:16:13.388Z,"22 km S of Mammoth Lakes, CA",earthquake,0.43,1.32,0.221,23,reviewed,nc,nc
+2023-12-06T02:48:01.270Z,35.9598333,-117.9208333,8.13,2.25,ml,34,43,0.0538,0.12,ci,ci40616728,2023-12-06T09:16:09.587Z,"3 km NNW of Little Lake, CA",earthquake,0.13,0.33,0.211,25,automatic,ci,ci
+2023-12-06T02:32:58.460Z,37.4406667,-118.993,18.77,1.73,md,26,141,0.1711,0.05,nc,nc73972376,2023-12-06T09:24:13.097Z,"22 km S of Mammoth Lakes, CA",earthquake,0.43,1.32,0.221,23,reviewed,nc,nc
 2023-12-06T02:22:01.960Z,33.394,-116.446,12.16,1.08,ml,56,30,0.09411,0.18,ci,ci40616720,2023-12-06T02:28:17.478Z,"17 km NNW of Borrego Springs, CA",earthquake,0.18,0.44,0.153,28,automatic,ci,ci
 2023-12-06T02:16:41.570Z,38.8255005,-122.8054962,2.52,0.78,md,18,53,0.004148,0.01,nc,nc73972366,2023-12-06T02:44:12.801Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.53,0.16,17,automatic,nc,nc
 2023-12-06T02:15:33.780Z,38.8083344,-122.8191681,2.61,0.8,md,18,62,0.007839,0.02,nc,nc73972361,2023-12-06T02:32:12.739Z,"6 km WNW of The Geysers, CA",earthquake,0.25,0.65,0.25,19,automatic,nc,nc
@@ -218,9 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T09:56:11.923Z,59.6979,-152.8526,89.7,2.6,ml,,,,0.71,ak,ak023fksvkvc,2023-12-05T09:58:30.267Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-05T09:52:38.665Z,9.1558,126.7482,56.752,4.9,mb,82,115,2.374,0.59,us,us7000lgdp,2023-12-05T10:12:55.040Z,"Mindanao, Philippines",earthquake,9.62,7.022,0.066,72,reviewed,us,us
 2023-12-05T09:42:54.918Z,9.1263,126.7094,45.905,5.4,mww,94,88,2.33,0.72,us,us7000lgdg,2023-12-05T21:49:25.040Z,"50 km ENE of Bacolod, Philippines",earthquake,8.85,6.251,0.078,16,reviewed,us,us
-2023-12-05T09:29:17.500Z,38.8123322,-122.819664,2.65,0.75,md,11,94,0.008199,0.01,nc,nc73972061,2023-12-05T11:59:15.519Z,"7 km NW of The Geysers, CA",earthquake,0.43,0.99,0.28,12,automatic,nc,nc
-2023-12-05T09:23:14.600Z,37.8806667,-122.0595,9.25,0.47,md,11,170,0.05723,0.08,nc,nc73972056,2023-12-05T12:28:11.669Z,"3 km S of Walnut Creek, CA",earthquake,0.46,0.71,0.134,8,reviewed,nc,nc
-2023-12-05T09:17:40.730Z,19.3665008544922,-155.240005493164,0.959999978542328,1.94,ml,19,143,,0.239999995,hv,hv73673592,2023-12-05T09:23:11.830Z,"8 km S of Volcano, Hawaii",earthquake,0.46,0.25999999,0.22,7,automatic,hv,hv
-2023-12-05T09:12:46.834Z,31.659,-104.363,6.1316,2.4,ml,15,58,0.1,0.2,tx,tx2023xugh,2023-12-05T12:09:17.985Z,"western Texas",earthquake,1.021126725,1.098599795,0.1,17,reviewed,tx,tx
-2023-12-05T09:10:08.408Z,9.0546,126.6656,54.69,5.6,mww,100,81,2.246,0.77,us,us7000lgd6,2023-12-05T21:31:33.040Z,"Mindanao, Philippines",earthquake,7.95,6.005,0.068,21,reviewed,us,us
-2023-12-05T09:08:44.520Z,35.769,-117.5985,4.5,1.48,ml,31,65,0.1303,0.14,ci,ci40616248,2023-12-05T21:19:15.411Z,"18 km W of Searles Valley, CA",earthquake,0.18,0.43,0.176,15,reviewed,ci,ci
