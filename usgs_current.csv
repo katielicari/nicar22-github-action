@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-18T14:17:37.070Z,17.8995,-66.2926666666667,12.04,2.15,md,6,227,0.1401,0.1,pr,pr71440413,2024-02-18T14:29:49.960Z,"8 km S of Salinas, Puerto Rico",earthquake,0.61,0.88,0.0882312954538338,6,reviewed,pr,pr
+2024-02-18T13:53:01.574Z,31.641,-104.192,4.0458,1.7,ml,18,64,0.1,0.4,tx,tx2024dktr,2024-02-18T14:28:39.225Z,"52 km NW of Toyah, Texas",earthquake,0,1.30195322022436,0.2,13,automatic,tx,tx
 2024-02-18T13:49:59.020Z,37.6230011,-119.4358368,2.51,1.74,md,13,203,0.2992,0.27,nc,nc74004361,2024-02-18T14:06:14.286Z,"18 km SE of Yosemite Valley, CA",earthquake,1.48,20.18,0.16,7,automatic,nc,nc
 2024-02-18T13:47:38.950Z,17.9158333333333,-66.2906666666667,12.5,2.42,md,16,188,0.1245,0.21,pr,pr71440398,2024-02-18T14:05:18.740Z,"6 km S of Salinas, Puerto Rico",earthquake,0.56,0.44,0.133354002410821,9,reviewed,pr,pr
 2024-02-18T13:25:35.271Z,31.932,-103.376,11.8758,1.8,ml,8,221,0,0.4,tx,tx2024dksq,2024-02-18T13:37:38.255Z,"26 km SW of Jal, New Mexico",earthquake,0,3.64735517437861,0.3,7,automatic,tx,tx
@@ -23,9 +25,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-18T11:39:23.666Z,31.583,-104.539,3.7427,1.7,ml,8,158,0.1,0.1,tx,tx2024dkpf,2024-02-18T12:17:08.781Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.25605689831264,0.1,6,automatic,tx,tx
 2024-02-18T11:37:49.456Z,60.9363,-151.4635,33,2.3,ml,,,,0.66,ak,ak0242983t5t,2024-02-18T12:55:49.040Z,"22 km SW of Tyonek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-02-18T11:36:18.050Z,17.9048333333333,-66.2946666666667,12.95,2.37,md,14,195,0.136,0.21,pr,pr71440383,2024-02-18T11:56:56.050Z,"8 km S of Salinas, Puerto Rico",earthquake,0.72,0.61,0.137108266409948,7,reviewed,pr,pr
+2024-02-18T11:36:00.000Z,35.2508333333333,-82.656,0.39,1.81,md,7,102,0.182,0.21,se,se60501633,2024-02-18T14:15:13.280Z,"7 km ENE of Brevard, North Carolina",earthquake,1.3,8.67,0.110916488186555,7,reviewed,se,se
 2024-02-18T11:31:06.670Z,19.3581657409668,-155.098999023438,4.8600001335144,2.29,ml,49,125,0.02586,0.270000011,hv,hv74115491,2024-02-18T11:33:55.370Z,"12 km SSE of Fern Forest, Hawaii",earthquake,0.49,0.519999981,0.4,8,automatic,hv,hv
 2024-02-18T11:21:20.827Z,31.741,-104.108,5.4591,1.9,ml,20,69,0,0.4,tx,tx2024dkoq,2024-02-18T11:47:05.583Z,"48 km W of Mentone, Texas",earthquake,0,2.06338897966934,0.2,15,automatic,tx,tx
-2024-02-18T11:20:32.104Z,36.5909,66.8155,10,5,mb,101,84,3.567,0.66,us,us7000m003,2024-02-18T11:34:44.040Z,"19 km SSW of Balkh, Afghanistan",earthquake,5.43,1.812,0.059,90,reviewed,us,us
+2024-02-18T11:20:32.104Z,36.5909,66.8155,10,5,mb,101,84,3.567,0.66,us,us7000m003,2024-02-18T14:17:38.504Z,"19 km SSW of Balkh, Afghanistan",earthquake,5.43,1.812,0.059,90,reviewed,us,us
 2024-02-18T11:17:29.800Z,38.815834,-122.8119965,1.44,0.76,md,8,78,0.007698,0.02,nc,nc74004311,2024-02-18T12:41:15.831Z,"6 km NW of The Geysers, CA",earthquake,0.38,1.01,0.04,10,automatic,nc,nc
 2024-02-18T11:17:09.440Z,19.1911659240723,-155.507171630859,36.4700012207031,2.3599999,md,44,73,0.05549,0.119999997,hv,hv74115481,2024-02-18T11:18:57.600Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.46,0.629999995,0.200000003,9,automatic,hv,hv
 2024-02-18T11:04:46.400Z,38.8343315,-122.8126678,1.92,1.66,md,34,41,0.01111,0.02,nc,nc74004301,2024-02-18T12:12:12.653Z,"8 km W of Cobb, CA",earthquake,0.17,0.29,0.15,34,automatic,nc,nc
@@ -137,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-17T21:36:18.140Z,19.1783333333333,-155.495333333333,33.56,2.78,ml,51,84,0.03881,0.1,hv,hv74115011,2024-02-18T04:57:51.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.48,0.51,0.197622667687569,11,reviewed,hv,hv
 2024-02-17T21:31:47.460Z,37.2538333,-122.0703333,5.98,1.17,md,12,168,0.03411,0.06,nc,nc74004046,2024-02-18T08:11:11.316Z,"4 km WSW of Saratoga, CA",earthquake,0.36,0.34,0.23,14,reviewed,nc,nc
 2024-02-17T21:28:52.048Z,36.8087,-115.7966,7.9,0.6,ml,14,250.09,0.118,0.1773,nn,nn00873633,2024-02-17T21:30:59.126Z,"28 km NNW of Indian Springs, Nevada",earthquake,,1.7,0.26,8,automatic,nn,nn
-2024-02-17T21:28:07.313Z,28.9713,-97.9345,5,2.6,mb_lg,15,93,0.16,0.29,us,us7000lzwk,2024-02-18T05:35:33.285Z,"8 km E of Falls City, Texas",earthquake,1.52,1.557,0.142,13,reviewed,us,us
+2024-02-17T21:28:07.313Z,28.9713,-97.9345,5,2.6,mb_lg,15,93,0.16,0.29,us,us7000lzwk,2024-02-18T14:28:46.770Z,"8 km E of Falls City, Texas",earthquake,1.52,1.557,0.142,13,reviewed,us,us
 2024-02-17T21:13:56.535Z,31.601,-104.301,4.9679,1.6,ml,18,76,0.1,0.4,tx,tx2024djmr,2024-02-17T21:43:51.305Z,"57 km WNW of Toyah, Texas",earthquake,0,1.3869608922889303,0.2,13,automatic,tx,tx
 2024-02-17T20:53:06.352Z,61.4962,-149.9277,33,1.8,ml,,,,0.53,ak,ak02427q0p8r,2024-02-17T20:55:53.848Z,"3 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-17T20:36:44.700Z,36.5553322,-121.2978363,1.05,1.04,md,6,136,0.09198,0.04,nc,nc74004036,2024-02-17T22:12:10.994Z,"14 km W of Pinnacles, CA",earthquake,0.76,4.77,0.36,3,automatic,nc,nc
@@ -189,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-17T14:48:12.595Z,58.074,-153.771,73.6,2.6,ml,,,,0.34,ak,ak02427mf1ij,2024-02-17T17:35:26.040Z,"50 km W of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-02-17T14:37:05.317Z,62.4347,-149.2694,13.1,1.8,ml,,,,0.41,ak,ak02427mco2r,2024-02-17T14:39:31.644Z,"42 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-17T14:33:56.100Z,36.0886667,-117.8968333,5.79,1.08,ml,23,71,0.04459,0.15,ci,ci40672032,2024-02-17T14:39:47.760Z,"7 km NE of Coso Junction, CA",earthquake,0.21,0.49,0.165,14,automatic,ci,ci
-2024-02-17T14:29:23.930Z,19.2691669464111,-155.384170532227,31.2299995422363,2.32999992,md,26,128,0.06391,0.140000001,hv,hv74114681,2024-02-17T14:31:15.460Z,"12 km NE of Pāhala, Hawaii",earthquake,0.55,0.839999974,0.289999992,3,automatic,hv,hv
-2024-02-17T14:22:53.800Z,36.0323333,-117.7818333,1.45,0.78,ml,21,85,0.0152,0.14,ci,ci40672024,2024-02-17T14:28:50.075Z,"15 km E of Coso Junction, CA",earthquake,0.19,0.16,0.132,7,automatic,ci,ci
