@@ -141,5 +141,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-19T09:21:37.803Z,57.2655,-154.0734,27.1,1.8,ml,,,,0.12,ak,ak0242aucurl,2024-02-19T18:57:02.778Z,"31 km S of Larsen Bay, Alaska",earthquake,,173.6,,,reviewed,ak,ak
 2024-02-19T08:51:16.228Z,-6.5102,-76.2294,106.456,5.1,mww,97,116,4.824,0.89,us,us7000m053,2024-02-19T17:03:05.533Z,"12 km WNW of Chazuta, Peru",earthquake,8.72,6.525,0.075,17,reviewed,us,us
 2024-02-19T08:47:40.941Z,-4.784,153.2469,59.912,5.1,mb,91,43,1.23,0.56,us,us7000m051,2024-02-19T09:07:45.040Z,"118 km ESE of Kokopo, Papua New Guinea",earthquake,9.26,5.988,0.053,115,reviewed,us,us
-2024-02-19T08:28:02.130Z,39.3419991,-123.2531662,3.01,1.59,md,8,98,0.1021,0.05,nc,nc74004731,2024-02-19T10:46:12.559Z,"10 km NNW of Redwood Valley, CA",earthquake,0.42,6.76,0.1,8,automatic,nc,nc
-2024-02-19T08:27:40.320Z,35.8793333,-117.6921667,5.47,1.53,ml,28,62,0.07637,0.14,ci,ci40672808,2024-02-20T01:26:30.590Z,"20 km ESE of Little Lake, CA",earthquake,0.17,0.57,0.192,17,reviewed,ci,ci
