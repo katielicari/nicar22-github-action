@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-07T07:27:48.580Z,33.0465,-116.0236667,7.6,2,ml,81,25,0.1324,0.22,ci,ci40682800,2024-03-07T07:34:59.862Z,"15 km SE of Ocotillo Wells, CA",earthquake,0.14,0.62,0.151,26,automatic,ci,ci
+2024-03-07T07:24:40.190Z,33.0458333,-116.0136667,8.89,0.9,ml,31,100,0.1308,0.21,ci,ci40682792,2024-03-07T07:32:10.846Z,"15 km SE of Ocotillo Wells, CA",earthquake,0.25,0.97,0.163,14,automatic,ci,ci
+2024-03-07T07:23:47.010Z,33.6993333,-116.7093333,-1.21,0.17,ml,10,220,0.04242,0.36,ci,ci40682784,2024-03-07T07:29:56.836Z,"5 km S of Idyllwild, CA",earthquake,1.36,30.18,0.045,2,automatic,ci,ci
+2024-03-07T07:11:46.710Z,32.779,-115.8428333,3.09,1.39,ml,41,40,0.1199,0.27,ci,ci40682776,2024-03-07T07:17:54.483Z,"15 km ENE of Ocotillo, CA",earthquake,0.23,0.67,0.124,29,automatic,ci,ci
+2024-03-07T07:10:43.620Z,19.3819999694824,-155.27766418457,0.930000007152557,1.70000005,md,13,156,0.005912,0.109999999,hv,hv74130686,2024-03-07T07:13:23.620Z,"8 km SW of Volcano, Hawaii",earthquake,0.25,0.189999998,0.400000006,12,automatic,hv,hv
+2024-03-07T07:07:02.038Z,63.0272,-150.5504,95,2.2,ml,,,,0.42,ak,ak02432x7shn,2024-03-07T07:09:56.081Z,"60 km N of Petersville, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-03-07T06:50:40.132Z,61.2129,-151.4735,57.3,2.2,ml,,,,0.64,ak,ak02432wvnm5,2024-03-07T06:54:06.166Z,"22 km WNW of Beluga, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-03-07T06:44:20.210Z,38.8600006,-122.8014984,1.78,0.56,md,9,153,0.006159,0.03,nc,nc74013041,2024-03-07T06:45:56.367Z,"8 km WNW of Cobb, CA",earthquake,0.44,0.92,0.15,8,automatic,nc,nc
 2024-03-07T06:41:46.052Z,37.2861,137.1816,9.322,4.3,mb,28,83,1.103,0.75,us,us7000m3u6,2024-03-07T07:05:38.040Z,"25 km ENE of Anamizu, Japan",earthquake,2.92,4.899,0.137,15,reviewed,us,us
@@ -39,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T02:07:19.950Z,38.8406677,-122.8366699,1.71,1.23,md,23,86,0.002272,0.01,nc,nc74012946,2024-03-07T02:08:56.230Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.42,0.11,25,automatic,nc,nc
 2024-03-07T01:59:30.820Z,38.8476677,-122.8143311,1.28,0.81,md,10,74,0.009916,0.02,nc,nc74012941,2024-03-07T02:01:06.071Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.92,0.47,11,automatic,nc,nc
 2024-03-07T01:57:59.794Z,61.3394,-149.8466,30.9,2,ml,,,,0.62,ak,ak02432ty14b,2024-03-07T02:33:39.529Z,"7 km ESE of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-07T01:48:35.350Z,47.490833333333335,-121.9185,9.87,3,ml,63,33,0.03125,0.18,uw,uw61988126,2024-03-07T06:58:30.890Z,"6 km ENE of Mirrormont, Washington",earthquake,0.22,0.47,0.17753163107170833,38,reviewed,uw,uw
+2024-03-07T01:48:35.350Z,47.490833333333335,-121.9185,9.87,3,ml,63,33,0.03125,0.18,uw,uw61988126,2024-03-07T07:18:24.820Z,"6 km ENE of Mirrormont, Washington",earthquake,0.22,0.47,0.17753163107170833,38,reviewed,uw,uw
 2024-03-07T01:35:47.945Z,60.1593,-152.5953,98.2,1.5,ml,,,,0.29,ak,ak02432ttaga,2024-03-07T01:37:45.557Z,"52 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-07T01:34:05.600Z,38.8351669,-122.8209991,0.84,0.27,md,7,132,0.01453,0.01,nc,nc74012926,2024-03-07T01:35:40.676Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.29,0.17,8,automatic,nc,nc
 2024-03-07T01:20:23.930Z,60.8324,-147.6877,15.1,1.6,ml,,,,0.88,ak,ak02432tq0vo,2024-03-07T01:23:17.208Z,"54 km E of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -250,9 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T08:06:19.390Z,32.8246667,-115.5933333,14.39,1.25,ml,31,61,0.06361,0.25,ci,ci40681992,2024-03-06T08:12:14.977Z,"3 km SW of Imperial, CA",earthquake,0.34,0.55,0.219,22,automatic,ci,ci
 2024-03-06T08:05:38.130Z,44.7655,-110.852666666667,7.09,0.15,md,7,108,0.02288,0.06,uu,uu80061761,2024-03-06T16:21:02.260Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.8,1.6,0.150634806315956,5,reviewed,uu,uu
 2024-03-06T08:04:14.690Z,47.43816666666667,-121.84483333333333,19.88,1.08,ml,33,83,0.0314,0.14,uw,uw61987811,2024-03-06T19:32:36.140Z,"5 km W of Wilderness Rim, Washington",earthquake,0.62,0.32,0.18283351319830182,20,reviewed,uw,uw
-2024-03-06T07:32:29.044Z,36.6913,-116.4088,10.5,0.1,ml,9,257.08,0.039,0.1144,nn,nn00874280,2024-03-06T20:14:18.369Z,"39 km SE of Beatty, Nevada",earthquake,,1.7,0,1,reviewed,nn,nn
-2024-03-06T07:28:09.010Z,53.881,-166.9075,3.51,-0.07,ml,6,170,,0.13,av,av92224071,2024-03-06T23:23:44.650Z,"24 km W of Dutch Harbor, Alaska",earthquake,0.42,1.42,0.168857259214257,6,reviewed,av,av
-2024-03-06T07:27:53.020Z,38.8238335,-122.8533325,2.01,0.76,md,11,150,0.004624,0.01,nc,nc74012441,2024-03-06T07:29:25.615Z,"10 km WNW of The Geysers, CA",earthquake,0.49,0.76,0.31,14,automatic,nc,nc
-2024-03-06T07:24:45.940Z,19.1416666666667,-155.381833333333,30.03,2.09,md,53,182,0.07711,0.13,hv,hv74129796,2024-03-06T19:15:20.060Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.45,0.57,0.171261556072779,22,reviewed,hv,hv
-2024-03-06T07:18:28.340Z,38.8129997,-122.8231659,2.33,1.04,md,19,56,0.006252,0.05,nc,nc74012436,2024-03-06T07:20:00.495Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.59,0.25,19,automatic,nc,nc
-2024-03-06T07:14:33.059Z,39.4113,-119.6884,5.4,0.6,ml,6,130.05,0.063,0.1657,nn,nn00874279,2024-03-06T20:08:00.138Z,"11 km NNW of Virginia City, Nevada",earthquake,,3.9,0.04,3,reviewed,nn,nn
