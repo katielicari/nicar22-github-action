@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-22T08:19:36.082Z,60.6296,-147.5412,18,1.6,ml,,,,0.39,ak,ak0243rqy2q0,2024-03-22T08:21:45.610Z,"53 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-03-22T08:11:45.530Z,33.0563333,-115.909,1.28,1.05,ml,39,41,0.09406,0.22,ci,ci40521807,2024-03-22T08:17:47.381Z,"23 km ESE of Ocotillo Wells, CA",earthquake,0.21,0.45,0.207,19,automatic,ci,ci
+2024-03-22T08:06:15.235Z,61.1054,-151.1673,0,1.5,ml,,,,0.69,ak,ak0243rqv8sz,2024-03-22T08:09:05.866Z,"4 km NNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-03-22T08:06:09.958Z,66.0539,-148.1054,16.6,1.2,ml,,,,0.51,ak,ak0243rqv8eb,2024-03-22T08:09:03.351Z,"45 km E of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-03-22T08:03:58.850Z,38.8035011,-122.7656631,0.75,1.41,md,8,126,0.005465,0.06,nc,nc74021966,2024-03-22T08:05:30.016Z,"3 km NNW of The Geysers, CA",earthquake,0.61,1.09,0.09,2,automatic,nc,nc
+2024-03-22T07:41:58.700Z,37.8636667,-122.0523333,7.16,0.65,md,13,85,0.04749,0.1,nc,nc74021956,2024-03-22T08:23:13.987Z,"2 km NW of Alamo, CA",earthquake,0.35,0.57,0.194,9,reviewed,nc,nc
 2024-03-22T07:41:29.690Z,33.339,-116.3361667,11.59,0.8,ml,51,35,0.02867,0.18,ci,ci40521799,2024-03-22T07:47:20.242Z,"10 km NNE of Borrego Springs, CA",earthquake,0.17,0.28,0.101,14,automatic,ci,ci
 2024-03-22T07:39:41.050Z,38.8240013,-122.8051682,1.39,0.79,md,13,57,0.00388,0.01,nc,nc74021951,2024-03-22T07:41:16.531Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.66,0.12,15,automatic,nc,nc
 2024-03-22T07:39:31.320Z,33.9683333,-116.748,17.29,1.16,ml,50,41,0.06216,0.18,ci,ci40521791,2024-03-22T07:50:41.430Z,"7 km NNE of Cabazon, CA",earthquake,0.18,0.41,0.121,26,automatic,ci,ci
@@ -27,9 +33,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-22T05:44:15.150Z,19.3036670684814,-155.382171630859,3.10999989509583,1.94,ml,33,146,0.02975,0.150000006,hv,hv74145062,2024-03-22T05:46:52.760Z,"15 km NE of Pāhala, Hawaii",earthquake,0.39,0.629999995,0.25,4,automatic,hv,hv
 2024-03-22T05:36:30.892Z,53.4763,-163.7324,30.474,4.6,mb,79,167,1.395,0.66,us,us6000mkf7,2024-03-22T06:12:00.040Z,"153 km ESE of Akutan, Alaska",earthquake,6.49,5.867,0.065,70,reviewed,us,us
 2024-03-22T05:31:26.930Z,19.2954998016357,-155.383163452148,2.69000005722046,1.71000004,md,24,152,0.03777,0.140000001,hv,hv74145052,2024-03-22T05:32:48.730Z,"14 km NE of Pāhala, Hawaii",earthquake,0.4,0.670000017,0.419999987,11,automatic,hv,hv
-2024-03-22T05:31:12.420Z,-5.8955,112.3698,10,5,mb,52,63,2.233,0.79,us,us6000mkf6,2024-03-22T06:01:45.130Z,"108 km N of Paciran, Indonesia",earthquake,4.9,1.872,0.082,47,reviewed,us,us
+2024-03-22T05:31:12.420Z,-5.8955,112.3698,10,5,mb,52,63,2.233,0.79,us,us6000mkf6,2024-03-22T08:30:45.229Z,"108 km N of Paciran, Indonesia",earthquake,4.9,1.872,0.082,47,reviewed,us,us
 2024-03-22T05:21:41.478Z,-5.5007,151.6582,36.007,4.9,mb,28,65,9.102,0.65,us,us6000mkf3,2024-03-22T05:44:20.040Z,"144 km SSW of Kokopo, Papua New Guinea",earthquake,13.17,7.671,0.099,32,reviewed,us,us
-2024-03-22T05:20:40.714Z,39.688,19.3473,10,4.8,mb,77,42,0.778,0.78,us,us6000mkf2,2024-03-22T06:52:57.501Z,"30 km W of Agios Georgis, Greece",earthquake,4.79,1.835,0.056,99,reviewed,us,us
+2024-03-22T05:20:40.714Z,39.688,19.3473,10,4.8,mb,77,42,0.778,0.78,us,us6000mkf2,2024-03-22T08:31:41.754Z,"30 km W of Agios Georgis, Greece",earthquake,4.79,1.835,0.056,99,reviewed,us,us
 2024-03-22T05:14:54.831Z,62.1438,-151.3074,78,1.8,ml,,,,0.48,ak,ak0243rp4qrv,2024-03-22T05:17:09.711Z,"17 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-22T05:14:36.940Z,38.8231659,-122.7998352,2.7,0.29,md,8,131,0.008001,0,nc,nc74021916,2024-03-22T05:16:09.994Z,"6 km NW of The Geysers, CA",earthquake,0.6,1.47,0.08,8,automatic,nc,nc
 2024-03-22T05:14:18.550Z,19.3015003204346,-155.383331298828,3.09999990463257,1.99,ml,35,111,0.0318,0.219999999,hv,hv74145022,2024-03-22T05:16:55.650Z,"14 km NE of Pāhala, Hawaii",earthquake,0.39,0.910000026,0.24,6,automatic,hv,hv
@@ -274,9 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T08:47:08.140Z,46.22233333333333,-122.2995,-1.11,0.29,ml,13,234,0.04691,0.76,uw,uw61991216,2024-03-21T20:44:39.970Z,"36 km NNE of Amboy, Washington",other event,6.78,31.61,0.17238974596156886,6,reviewed,uw,uw
 2024-03-21T08:46:26.460Z,38.8253326,-122.8079987,2.84,0.77,md,15,68,0.002524,0.02,nc,nc74021211,2024-03-21T08:48:02.372Z,"7 km NW of The Geysers, CA",earthquake,0.34,1.09,0.24,17,automatic,nc,nc
 2024-03-21T08:45:52.370Z,36.1558333,-120.281,8.22,0.62,md,15,149,0.09467,0.1,nc,nc74021216,2024-03-21T11:17:38.015Z,"7 km ENE of Coalinga, CA",earthquake,0.35,0.6,0.094,7,reviewed,nc,nc
-2024-03-21T08:08:13.820Z,38.841835,-122.7561646,5.43,0.28,md,9,155,0.01562,0.06,nc,nc74021206,2024-03-21T08:09:47.919Z,"4 km NW of Cobb, CA",earthquake,1.05,1.71,0.15,8,automatic,nc,nc
-2024-03-21T08:05:53.550Z,44.6731666666667,-110.440833333333,3.01,0.51,md,14,206,0.06411,0.19,uu,uu80063096,2024-03-21T13:38:37.310Z,"39 km SSE of Mammoth, Wyoming",earthquake,0.69,0.99,0.353158557605614,7,reviewed,uu,uu
-2024-03-21T08:05:52.690Z,38.8149986,-122.8271637,9.38,0.76,md,7,99,0.006321,0.03,nc,nc74021201,2024-03-21T08:07:27.869Z,"7 km NW of The Geysers, CA",earthquake,1.88,8.01,0.14,9,automatic,nc,nc
-2024-03-21T08:04:44.850Z,38.8293343,-122.81633,1.87,0.77,md,22,46,0.007684,0.02,nc,nc74021196,2024-03-21T08:06:17.965Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.39,0.17,22,automatic,nc,nc
-2024-03-21T08:03:20.710Z,53.883,-166.591333333333,2.86,-0.42,ml,4,200,,0.04,av,av91137278,2024-03-21T21:28:56.950Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.8,0.95,0.307402034375925,4,reviewed,av,av
-2024-03-21T08:00:51.980Z,53.9896666666667,-166.5905,9.77,0.54,ml,6,319,,0.12,av,av91137273,2024-03-21T21:24:10.470Z,"11 km NNW of Dutch Harbor, Alaska",earthquake,1.07,0.42,0.132872053427243,6,reviewed,av,av
